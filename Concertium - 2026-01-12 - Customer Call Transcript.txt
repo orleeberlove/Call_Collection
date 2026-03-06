@@ -1,0 +1,89 @@
+Account: Concertium
+Call Date: 2026-01-12
+Duration: 00:13:46
+Participants: Robin Barrow, Nicholas Miljus, Jason Basye, Jordan Ross
+
+======================================================================
+
+Robin Barrow: Hi, Jason. How are you?
+Jason Basye: I am good. How are you?
+Robin Barrow: I'm doing well. Thank you.
+Jason Basye: I didn't know.
+Jason Basye: If Ted was joining too or
+Robin Barrow: No.
+Jason Basye: Sorry, minutes late.
+Robin Barrow: You're good. I don't even think. Ted was invited, to be honest. This is the 90 day check in for training solutions.
+Jason Basye: Okay. Yeah. Let me see if I can also get if Marvin's available real quick because okay. Just because he's the one managing PreVeil. Sure. I'm helping out with some of the documentation around it. So it'd be helpful to have of
+Jason Basye: Smart.
+Jason Basye: So
+Jason Basye: So
+Jason Basye: Let him do it. I mean, from what I heard, the only thing that we're adding to that I think is I think we're gonna be adding the secure email gateway, okay. Because I added another license just for how they're gonna be receiving information from their subcontractors. I did have a question on that, though. Sure. I had another client who we're now helping out with who primarily is running everything in GCC. High they were using PreVeil for their subcontractors and then the auditor during a pre assessment. And then I think Jamie mentioned you guys were aware of it were saying that the email gateway at least for that use case, was not compliant. And he said that you guys were aware of it and you guys were resolving that issue. What was that? What was the problem with the subcontractors in the gateway? Do you happen to know?
+Robin Barrow: If I had an understanding is most likely because we hosted through a third party who is working on one, I think they got fed ramp officially and they were working on their cms level 2 compliance.
+Jason Basye: Where you were hosting was, yes. Okay. But if but so you're not there yet, but you guys are working towards or they're working towards it?
+Robin Barrow: So I think they I'm gonna double check. I believe they already got their fed ramp certification and they're and they may have already finished their cms level 2 assessments. So I guess it depends how long ago did you talk to Jamie about this?
+Jason Basye: I pinged him right before really the Christmas, break, I believe. Okay. And then I'm talking with him immediately after this call.
+Robin Barrow: So. Oh, you are. Okay. So he would have a better update than I have. I believe it that was the reason, but I could be completely wrong. I thought it was around our third party hosting, which is a company called security centric. They were working on their certification and also their fed ramp, equivalency as well.
+Jason Basye: Yeah. Okay. Trying to wait for
+Jason Basye: Marvin too. So he had said all of the current assessment limitations with the expectation that these will be resolved by end of Q1 20 26.
+Robin Barrow: Okay. Uh
+Jason Basye: Yeah, he didn't give me.
+Jason Basye: An answer. I just because we were working with this client who I wasn't aware. Initially, they were even using PreVeil at the time because we came in way after the fact.
+Robin Barrow: They're
+Jason Basye: They already did their pre assessment and their MP bomb their portion and they and then one of the questions was they were using this as kind of like an easy fix for some of their subs to use. And then I guess the auditor told them wherever they were using that there were some compliance limitations to it for their specific use case. So I was
+Jason Basye: So I wasn't sure on that. I did like though I was talking to OTT earlier today and they have another prime or sub someone that they share cy between back and forth and they didn't have to have like an email. They were able to kind of directly access I guess almost like a shared drive.
+Robin Barrow: Yeah, through express most likely.
+Jason Basye: So that is something if multiple people are using PreVeil, you can use something through express where it's a shared drive. You can share information that what you're saying.
+Robin Barrow: Yes. Yep. So you can if it's if they're outside of the organization, you can use drive or even if it's within your is it?
+Jason Basye: Similar to like the share SharePoint, where if I hit share whatever inside organization outside it's I'm just sharing that access to that specific file or folder or whatever I send over directly to them, so they don't have access to my maybe the whole
+Robin Barrow: Site oh, yeah. No, it would just be that specific file.
+Jason Basye: Or folder, whatever I shared.
+Robin Barrow: It would be that specific folder, correct? Yeah. Yeah.
+Jason Basye: Yeah. So similar to SharePoint on how you share. Okay.
+Robin Barrow: Similar. It's just the only limitation I would say is. It's a little
+Robin Barrow: You the permission space is a little more manual than SharePoint.
+Robin Barrow: Do you have to select individually read only depending on the individual read only? Edit, read and edit access? It depends. Okay. I can show you real quick. Um
+Robin Barrow: This is my demo environment, so it's very empty, but if you were to share you click the individual type in their name, I do my PreVeil account because
+Robin Barrow: I spell my own name today. I don't know.
+Robin Barrow: It's been one of those days. Okay. This folder is already shared. This is what it would look like if it was outside of the organization. So it's going to prompt that this person does not have a PreVeil account will receive an invite. So you have to still do like, okay, is it edit edit and share read, read only. So you have to do it one by one?
+Jason Basye: Okay. Very cool. All right.
+Robin Barrow: Yeah.
+Jason Basye: So they happen to have another PreVeil. If you're sending it to someone who's leveraging PreVeil, you can do it.
+Robin Barrow: Yes. And they can use, but they can either have the free version or the full version depending.
+Jason Basye: Oh, okay. So even if hasn't
+Robin Barrow: Go ahead. Sorry.
+Jason Basye: No, I will let you finish because you so that you're about to answer my question.
+Robin Barrow: The PreVeil express is a free version. That's what we have. That's what majority of our customers that don't have email gateway use for third party communication. So they the reason why they won't use they'll use email gateway instead is if the third party they're communicating with will not install the express version or download, I should say the express version.
+Robin Barrow: It's not even a download. It's just an account creation or
+Jason Basye: Maybe let's say you're getting it from a government entity or something of that and you want a secure way to send
+Robin Barrow: Right. Yeah. If that government entities like, I'm not gonna send you they're gonna send it to your commercial account. That's
+Jason Basye: Another way to and their dot mill or from whatever it is. And they want a secure way to send it, this would be your path. Yeah, it's encrypted at the end. Yes. And then I had a question to maybe you'll be able to answer it. I know from a encryption standpoint, pips 1 40 dash 2 is kind of becoming out of date and going to be somewhat. I don't want to say we're tired. But it's everything's being moved to 1 40 dash 3. Is that on your roadmap to have it? Because I think by end of September is when they're gonna start trying to put that in historical list from uh
+Jason Basye: So I didn't know if that's something you guys.
+Robin Barrow: Already
+Jason Basye: Migrating or upgrading.
+Robin Barrow: I'm sure we are because I took a bit, but that would be an excellent question for Jamie because he said to answer
+Jason Basye: Yes. Okay. Yeah. Let me see if Marvin has responded because I wanna be respectful of your time to. I believe we're doing. Okay. Okay. You know. He hasn't told me anything. I don't think the client is using it a ton yet. Okay. But she had a ton of year and she is using it a little bit because she's the one that told me about express earlier today. She goes oh, well, this is really cool. And then she asked me about the email gateway. Okay. And then I I made sure our account the account manager is working on it. I don't do the sales portion. So I said can you get this quote over to them? So because I already received it from Zach or you whoever for the email gateway because I think you gave me the license and then she hasn't seen yet the price for it. So my CSM is supposed to be sending it over today. So we can see if that can be added. And then I think you guys made a note that this involves some type of basic project.
+Jason Basye: If someone does email gateway or am I mis remembering that
+Robin Barrow: It involves a certification. And then also our team will assist with set up. So it does take a couple of weeks to set up.
+Jason Basye: Yeah. It says this usually takes a couple of weeks depending on how quickly you can your customer can obtain an AC certificate for the mail server and complete some other action items. This project would be managed by my teammate Chris or manager. Phil. Yeah, and they would schedule an initial 30 minute kick off call to discuss the infrastructure, how the email gateway works and those action items on their end. Okay. And then I had the F for it in the summary. So okay. Yeah, that's being sent over to the client. Um
+Jason Basye: Later this afternoon. Okay. I think they're gonna be adding that. My understanding and then I'm waiting on a couple others to to hopefully sign with PreVeil. So trying to push it more with some of our clients today when I talked to a client yesterday who I think it's probably gonna be a good fit for their about 60 users, 65 users. Um
+Jason Basye: That I think it might be a pretty good fit for based on my understanding their use cases. So so I have a couple more I think that should go through I'm working with Jamie to understand like maybe us doing a webinar together and doing some other.
+Robin Barrow: Stuff.
+Robin Barrow: I love that. And then and you're obviously working with Zach on the new business side. So like, new customers that have come through great.
+Jason Basye: Quotes for that. And then I know once they come in you are the um
+Robin Barrow: The CSM, the
+Jason Basye: CSM who will be assigned to it will let me know who they are, right? Because I'm assuming you have a pretty decent team now, right?
+Robin Barrow: We do yeah. It would be, but majority of the clients that you sign on would come to me for now.
+Jason Basye: Okay. Perfect. Yeah, great. Well, Marvin hasn't been able to respond. I if I have issues, I'll make sure that he's reaching out to you as well. If we're struggling to understand some more for hitting any access issues or things that would fall in your purview versus ours. Yes. Then I
+Jason Basye: Will have him reach out. And then if there's any updates or anything that you think we should be aware of that's coming out for PreVeil that, you want me to keep top of mind, just let me know.
+Robin Barrow: I will the big that's coming through is cloud drive is gonna be available and then further down the line, some sort of cloud.
+Jason Basye: Drive be available.
+Robin Barrow: Cloud drive is we're hoping the end of this month. Fingers crossed.
+Robin Barrow: We'll
+Jason Basye: Spin you guys compete even a little bit more with Microsoft, right?
+Robin Barrow: Correct. Yeah. There'll be more collaboration available.
+Robin Barrow: Perfect.
+Jason Basye: You guys will release pricing and everything once you guys have a release. So we'll know what that looks like.
+Robin Barrow: It's going to be a feature enhancement. So it won't be an additional cost from what I'm understanding right now, but don't mark my orders because everything changes. But right now, we're saying yeah, it's just a upgrade. But cool. Yeah. Perfect. Um
+Robin Barrow: Have a good chat with Jamie. If anything else comes out, I'll let you know. And we also will probably spam you with content when we do have any new releases anyway. So you're good. That sounds good.
+Jason Basye: I appreciate it.
+Robin Barrow: Awesome. Thanks Jason. Have a great day. Thank you too.

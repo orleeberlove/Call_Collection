@@ -1,0 +1,98 @@
+Account: Bastille
+Call Date: 2025-12-18
+Duration: 00:16:43
+Participants: Andrew Meggs, Thomas Cocca
+
+======================================================================
+
+Ross: Hi, Andrew.
+Andrew Meggs: Hello, Ross? Hello, Tom.
+Tom Cocca: Hey, how's it going?
+Andrew Meggs: Good, good. Just busy right before the holidays. Trying to get all these meetings in before everybody's off. So I appreciate you all hopping on the call with me. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like an informal check in call. There's not really like a presentation or anything like that. I do have a couple of check in points. I normally go over on these, but before I get into it how are things with PreVeil or just in general?
+Tom Cocca: Yeah. To be honest, we haven't really used it yet because we're still working to
+Tom Cocca: I guess implement controls to become cms level 2 certified and we're not at the point where that we've actually really used PreVeil yet. Um
+Tom Cocca: But with that implementation, some questions did come up that we were hoping you might be able to help us with.
+Andrew Meggs: Depending on the nature of them, I might be able to or it might be for the support team or compliance team, but I'll give it the old college. Try
+Tom Cocca: Okay. I mean are you familiar with like the I guess my company that went through the cms level 2 audit? That I think PreVeil setup and basically implemented these controls and then had a full audit to prove that the controls would pass certification?
+Andrew Meggs: Yeah. Yeah. We made made up a fake company and ran it through compliance. Yeah.
+Tom Cocca: Yeah. There's a few things that for example, on the awareness and training SOP. It states that there's like, PreVeil admin training and different training links. But they're just like fake links to the acme.com company website. Is there actually like PreVeil admin training videos or like is there somewhere that we would have access to those that we can basically reference?
+Andrew Meggs: Uh
+Andrew Meggs: Yes. And no. We have a knowledge base that has a bunch of articles on on how to be an admin usage and adding users and etc. And we do have um
+Andrew Meggs: End user training videos, like how to actually use PreVeil the email and drive. And we do have like if you ever wanted a live training, we can provide that. Our support team does admin training, but in terms of specifically a video on admin training. No.
+Andrew Meggs: Okay. Yeah.
+Tom Cocca: And then I'm assuming this might be a question?
+Andrew Meggs: Or I couldn't share all that in a follow up email, all those resources.
+Tom Cocca: Okay. And I assume this might be a question for the support team, but the other like, training videos that are in the links or links that are in the training tracker and stuff. Do you know is there a place that we can access those like actual videos or like how
+Tom Cocca: Do most companies kind of go through the training and stay compliant with like, that training portion of the controls?
+Andrew Meggs: This will be a question for the compliance team. If it's specifically PreVeil training, that would be with all the materials I just sent you. If you're talking about specific if you're talking about like, UI handling training that I think there's some government videos that are in the accelerator that there's links to as well under additional compliance resources. I believe there's some government issued trainings that you can include in that.
+Tom Cocca: Okay. Yeah. I guess maybe a lot of it seems to be it's like Microsoft administrator training inside threat training. Microsoft, obviously, I figured I would be something on their website, but um
+Tom Cocca: Response team training, like stuff like that.
+Andrew Meggs: Yeah. If you go to the course additional compliance resources is. If you go back to the homepage and then go to additional compliance resources. There are awareness and training videos insider threat. I that sort of thing.
+Tom Cocca: Okay. And is that on the PreVeil portal or is that
+Ross: Do you like training?
+Andrew Meggs: Yeah. Might have the accelerator open in front of you.
+Andrew Meggs: Yeah. If you go to that additional compliance resources
+Ross: Additional compliance resources.
+Andrew Meggs: Just kind of near the middle of the screen.
+Andrew Meggs: The course that has additional sorry.
+Tom Cocca: Yeah.
+Andrew Meggs: If you scroll down a little bit
+Andrew Meggs: There is a awareness and training videos there.
+Tom Cocca: Okay.
+Andrew Meggs: I mean, along with a bunch of other stuff, but specifically for the awareness and training videos, that's where they are. And then actually while you're on that page, if you can scroll all the way up you can schedule some time with the compliance team to kind of go over where you're at. And kind of go over your situation and they'd be able to give you a more intelligent answer than me about where specifically rather how some of the stuff should be phrased in in your paperwork. Okay. Got the people who wrote the documentation. So
+Tom Cocca: Yeah. Okay. And then, I think the last question I have is one of the controls is basically that PreVeil admins.
+Tom Cocca: Their admin login and their actual login that if they were to access UI is different or separate. Do you know like I guess do would that require individual licenses for each of those cases, no? Or
+Andrew Meggs: We have a lot of clients that specifically for that control. Just create basically a dummy account for their either their admin or if they're handling UI. And then that wouldn't count against your licensing. Okay. As long yeah. I mean as long as that's basically I'm in charge of the it's a very elegant process. You just tell me, hey, I'm making this dummy account and it won't count against your licensing. You know what I mean? So okay.
+Tom Cocca: So they can do the admin work on that and then separately at their license for actual UI.
+Andrew Meggs: Yeah.
+Tom Cocca: Okay. Good to know.
+Andrew Meggs: The licenses are more of a per person basis than a per account basis, if that makes sense.
+Tom Cocca: Okay. Yeah, that does
+Tom Cocca: Let me just check. I think.
+Tom Cocca: Yeah. I'm assuming I'll probably have to ask some more pointed questions to the compliance team about some of the other questions. But I think that was basically and helpful. So thank you.
+Andrew Meggs: Yeah, yeah. For sure. Yeah, my guess next steps would be I would recommend scheduling some time with them in terms of using PreVeil. I know you said you haven't used it much, but in the limited capacity that you have, have there been any issues or problems or anything like that?
+Tom Cocca: No, not so far.
+Andrew Meggs: And this is once again, these are just kind of check in points and normally checking on. Probably hasn't come up yet. But have you communicated much externally or had anyone sign up for PreVeil express?
+Tom Cocca: No. So actually when we were trying to figure out some stuff, I think IE mailed.
+Tom Cocca: The CFO or our CEO from PreVeil to find out how it would come through on his end. So for someone to receive an email from my PreVeil, do they have to have an account or like, how do you
+Andrew Meggs: Okay. This is actually kind of a bad example. You wouldn't be able to email anyone internally because we've implemented domain lock on your account so that people can't sign up for a PreVeil express account with the at Bastille email domain. This prevents people from accidentally sending for an account and having a leakage and stuff like that. So if anyone investor needs a PreVeil account, they would need to be specifically invited by the administrator. Now, if you were to email someone's gmail account or outside your organization they would get an invitation to join PreVeil and then they would sign up for PreVeil express account. And then they would need to be able to log in to that account in order to communicate with you via PreVeil.
+Tom Cocca: Okay. And yeah. I guess that would be the other question is like if a government agency was sending us, I how would they get it to our PreVeil e mail or like, onto the PreVeil network?
+Andrew Meggs: Yeah. I kind of depends. If they are able to or allowed to sign up for PreVeil. Express, they would just sign up for PreVeil express and just send it via PreVeil. We have a little one pager that has boilerplate language with of like, Bastille is now using PreVeil. This is what PreVeil is here's where you go to sign up. You could share with someone beforehand so they have like a heads up. Would that be useful?
+Tom Cocca: I mean, maybe in the future, I was just more curious. I would assume I kind of assume that it would be like we're on PreVeil. Here's how you have to send it to us type of deal. Yeah.
+Andrew Meggs: So basically, you would want to communicate with them beforehand and say, hey we use PreVeil to secure and transfer or
+Andrew Meggs: Store and transfer secure information if you're ever going to send me UI or anything secure, please use PreVeil to do so. Okay.
+Tom Cocca: And I guess they'd obviously be able to sign up for the PreVeil express. If we sent an email to their email, they would get an invite to PreVeil express and be able to send it.
+Andrew Meggs: That way. Yeah. I mean, best practice is to give them a heads up beforehand. So they like, sign up before you even send an email. Because sometimes the invitation email gets like lost in spam or whatever, right? but yeah, they would get an invitation to sign up for PreVeil. And then they'd sign up for PreVeil express and they'd be able to communicate with you that way.
+Tom Cocca: Okay. That makes sense.
+Andrew Meggs: But yeah. I mean
+Andrew Meggs: Once again, this is in the event that they're not, they either unable or unwilling to sign up for PreVeil express. We do have some clients that when they specifically working with the military will like, send them something like via do safe and then they would then take it from dot safe and upload it to PreVeil. Or we also have a what we call an email gateway, which would allow you to email people without them having to sign up for PreVeil express. But that's probably not going to be relevant to you and I'm just mentioning other since we're out since we're on the topic just mentioning out things, but yes, 99% of the time the process is they would sign up for PreVeil express and then they that's how you would use to communicate with them.
+Tom Cocca: Okay. Makes sense. Um
+Andrew Meggs: And yeah, I will share that one page with you just so you have that on hand and maybe down the road, it'll come come in, useful, sure. I guess to that, kind of to your previous point about about compliance and filling out your paperwork. Do you have a timeline of when you think you'll be ready for an assessment or anything like that?
+Tom Cocca: I think in maybe towards the end of Q1 of 20 26. I went through like, a lot of the controls and stuff and it just down to the final questions, like I said of um
+Tom Cocca: Trying to figure out how do I reference these training videos? things like that? Um
+Tom Cocca: So I'm assuming maybe February or march of the new year, we already have a contract with a auditor. Okay. I don't know how that scheduling or anything works out.
+Andrew Meggs: Yeah. I was gonna ask if you had already contracted with an auditor yet. Because we normally we recommend that you contract with someone who's already familiar with PreVeil that it precludes a lot of questions being asked. Because the way obviously we're a compliance solution. We just have like 57 person pass an assessment. But the way we do things is our methods are slightly different than than other companies. So yeah.
+Tom Cocca: And Ross, I don't know if who we're using is who PreVeil suggested at the start or how we found that.
+Tom Cocca: You're muted.
+Tom Cocca: You're muted. Ross.
+Andrew Meggs: He's working on his minding, actually.
+Tom Cocca: Ross, you're muted, good.
+Ross: How about now? There we go. Yeah. No, you're good. Okay.
+Tom Cocca: You didn't hear any of it and I guess you couldn't hear us saying you're muted. So
+Ross: No, I could hear it all and I actually thought I unmute, but apparently yeah, I actually think it was the other way around whereby the auditor recommended PreVeil. So, okay. I'm blanking on the name.
+Andrew Meggs: But it's fine. Just just making sure you got very familiar with.
+Ross: PreVeil, for sure. Okay. I don't remember which way it went, but and why can't I remember the name of the auditor right now? Do you remember and align? Yeah.
+Andrew Meggs: Okay. Good. Good, good. Um
+Andrew Meggs: This is too early for this, but I'm just letting you know because they'll ask for it at the time. Once you are ready for an audit, they'll ask for a body of evidence. And for that. Just reach out to me and I'll be able to provide that to you. It doesn't need an NDA signed first. But whenever you get closer to your audit date, they'll specifically ask for it. But yeah. Just reach out to me and get that to you.
+Tom Cocca: Okay. Sounds good.
+Andrew Meggs: And then yeah. Only other check in point just a product updates. Our next big product. Update is planned for well. It was planned for December, but now end of January we're gonna be coming out with a cloud drive is our next big product push. We've basically been rebuilding our drive from the ground up. So it's gonna be, which is why it's taking so long to for it to be released. But it's gonna be like 10 times faster, upload downloads, feed syncing and stuff like that. So you I'm sure we'll put out some marketing materials for it once it actually comes out. But that's our next big product push. And then yeah, that's kind of it in terms of my normal check in points. Any other discussion points or anything else you wanted to talk about?
+Tom Cocca: I don't think from me anything from you, Ross.
+Ross: No.
+Andrew Meggs: Okay. And yeah, the other, I guess one other thing it looks like it's just you and the system right now. Tom, I don't anticipate this changing, but do you ever foresee needing any more than 3 users in the future?
+Tom Cocca: No. I think I
+Tom Cocca: Think I'll probably be dropping out of PreVeil and we'll be setting up to new people on it. Okay. I may be way down the road, but right now, I don't see more than 3 licenses.
+Andrew Meggs: Okay. Yeah. Sounds good. And I will send all this training material over with the one pager and yeah, if you want to schedule some time with the compliance team to get a smarter answer, then what I can give feel free and then yeah, that's it on my end. So unless there's anything else you wanted to talk about it, I can let you get back to it.
+Tom Cocca: I don't think so. Thank you. Appreciate the time and
+Andrew Meggs: Thank you and have a great rest of your day.
+Ross: Likewise, happy holidays.
+Andrew Meggs: Interview. Yeah, thanks, say holidays. Bye. Bye.

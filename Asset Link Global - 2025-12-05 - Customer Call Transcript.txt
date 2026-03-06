@@ -1,0 +1,164 @@
+Account: Asset Link Global
+Call Date: 2025-12-05
+Duration: 00:29:25
+Participants: Andrew Meggs, David Goldstein
+
+======================================================================
+
+Jeremiah ALG: So
+Jeremiah ALG: Hey, what's up Jeremy? Sorry, can you get my permissions? Just the first time I downloaded zoom in a while?
+Jeremiah ALG: No worries.
+Andrew Meggs: So
+Andrew Meggs: Hi David.
+Andrew Meggs: Hello. Can you hear me?
+Andrew Meggs: Yes. Hi.
+David Goldstein: Oh, excellent. Hi, how are you?
+Andrew Meggs: I'm doing well. How are you? Good?
+David Goldstein: Nice to meet you.
+Andrew Meggs: Nice to meet you as well. Is Vince going to be joining us?
+David Goldstein: I'm not sure. So why don't we go ahead and proceed and we can
+David Goldstein: We may or may not jump in.
+Andrew Meggs: Sure. I mean, you say proceed there's there's not really like a full presentation here or anything. Most of what we would talk about oh, there's events there. I'll wait for him to
+Andrew Meggs: Yeah. I don't know if you saw my my email earlier today. But I did get get you into the compliance accelerator there. And most of what I would talk about on this call you've already done since you've set up the org already and you've scheduled the onboarding. This is mostly supposed to be just sort of a welcome intro call sort of thing. For context, I'm the customer success manager for your account. So what that means is I'm your general main point of contact and account manager here at PreVeil going forward. So I like to have a meeting with all my clients to let you know, I exist, but be kind of walking re go over the onboarding process. Make sure you don't have any initial questions, that sort of thing. Okay. So to that point, hi, I'm Andrew hold on Ravi. Yeah. I'm in Minnesota myself. Where you where are you all calling in from?
+David Goldstein: I'm in Colorado in Denver.
+Vince Chernesky: Okay. And I'm coming in from just outside of DC.
+Andrew Meggs: Oh, okay. So definitely the gamut here. Um
+Andrew Meggs: Yeah. Like I was saying a lot of what I would talk about in this call would be how to create the org scheduling, your onboarding, that sort of thing. So you've already done that. As I said in my e mail too, for the email gateway, that's actually a separate implementation that's done after the initial onboarding meeting. So once you go through that onboarding either Chris or Phil from our team to all the gateway implementation, so they should be reaching out after that to set up the gateway just as a and then they'll walk through how to create the sub domain and getting everything set up in the back end and everything.
+David Goldstein: Okay. I'm gonnask a bunch of basic questions. And this is partially got Jeremy and Vince up to speed as well. Sure. The gateway is giving us an e mail address a separate email address, which is a sub domain of AssetLink. Global.com, right? It's gonna be whatever we choose. Let's say safe. So we there be an email address. My email address is David at Global.com, but there'd be a separate email address called David at safe dot asset and Global.com. Let's say if we pick that which would become my functioning email address in and out of the PreVeil system.
+Andrew Meggs: This yes. Sort of. For all intents and purposes, yes. So normally if you didn't have the gateway, if you were to email someone via PreVeil, they would have to sign up for a PreVeil express account. To receive that email and communicate with you with the gateway. It basically translates communication from your PreVeil into someone's normal inbox. So to them, it's showing up as a regular email and they don't even know you're using PreVeil. But it would come from that sub domain like you were saying. So you would send it from your David at AssetLink, Global.com PreVeil account. And it would show up in their inboxes having come from David at secure or safe dot AssetLink Global.com. And if they were to email that email address back, it would translate it back into your PreVeil.
+David Goldstein: And it would never touch our regular email system, correct?
+Andrew Meggs: Okay. Okay. Well, I mean, yeah, if they were to email your normal email address David at AssetLink, Global.com, it would come to your normal email, of course. But if they were to email that secure dot it would try and the email the
+David Goldstein: Correct email address, then it all intensive purposes, services, a separate email address. That only goes in and out of PreVeil.
+Andrew Meggs: Right.
+David Goldstein: Okay. Perfect. And do we have to set up our own sub domain through our provider? That we get our we pay for our domain name registration, our DNS provider. Do we have to sign up for a separate one or is that happen on your side?
+Andrew Meggs: You would need to get a new one. I think you need to get an a cert uh
+Andrew Meggs: Serve or some such, something like that.
+Andrew Meggs: Yeah. They I don't actually know this the exact mechanics of how it works. I know getting a cert is needed, but they go over all that during the gateway implementation process. But yeah, it would be something you would need to do on your end. We wouldn't be able to get you a sub domain.
+David Goldstein: Okay. Got it. I would tell you what that is and then you guys use it.
+Andrew Meggs: Yeah. Exactly. Okay.
+David Goldstein: Okay. Great. So then when I set up, I think I'm Jeremy or Vince, have either of you guys done anything on the setup side with PreVeil and before I jump into my questions
+Vince Chernesky: I have not just because I don't want to I want to know what's involved and I want to bottom line. I need to make sure that this computer does not have any chance of ever coming in scope for cms purposes. Because it's also my personal computer and I wanted to kind of wait for this introductory introductory call and throw a couple of those questions out myself before I installed anything.
+Andrew Meggs: Yeah. If you were to PreVeil if you were to PreVeil, sorry. If you were to download PreVeil onto your endpoint, that endpoint would be in scope. So you would wanna you can download it to your computer for now and then down the road, move it to another device and delete it from your old device if you want. But whenever you get ready for an assessment, any endpoint that has PreVeil on it would most likely be in scope. Yes.
+David Goldstein: So that's even if the even if so so I set the settings to not have any cloud to be cloud lost, I think was the term you use. Yeah. And to avoid having any files downloaded or sync synced with any computers.
+David Goldstein: With that said, is the end is the end device still in scope?
+Andrew Meggs: Well
+Andrew Meggs: Short answer, you will need to talk to our compliance team about how you specifically have things set up. Long answer, there's gonna be an asterisk with this. It most likely will be be in scope. Because during the assessment they might say even if you can't download it, you'd still be able to take a screenshot on your device. There's some policies and procedures you can put in place to. Maybe take it out of scope, but it's odds are would probably be in scope still. And the only way to truly keep it out of scope would be to use a VDI. But you can
+David Goldstein: Use or what I'm sorry. VDI.
+Andrew Meggs: Virtual desktop.
+Andrew Meggs: Instance instance, yes. Sorry. Um
+Andrew Meggs: Which that's basically you're not actually touching the device. It's a fake internet device on your device, is my understanding or something along those lines? but that's getting into the leads a little bit here. That we do have clients that do have the cloud lock on and have it in their policies and procedures that their users aren't able to download or take take screenshots and they have past assessments with that. But it usually the endpoints are still in scope even if you have cloud lock on. But once again, I would recommend having a deeper conversation about that with our compliance team.
+David Goldstein: Once you set up. So I have mine on my computer and this is my work computer, so I'm fine. Jeremy your have you loaded it on your computer?
+Jeremiah ALG: Yeah. I've loaded on my work computer.
+David Goldstein: And that's your work. And that's a physical workstation that sits in the office, correct? Okay. Do you have a laptop that you bring home or do you just work in your home personal computer when you if you have a snow day or something earlier this week?
+Jeremiah ALG: I have like a home laptop that I work with.
+David Goldstein: Okay. But typically you're on the work computer and that's your situation.
+Jeremiah ALG: Yeah. Correct.
+David Goldstein: Okay. Great. So then Vince, do you what do you how do you want to proceed on this? Um
+David Goldstein: I mean
+David Goldstein: Do we want to get a different another computer for you? That is like a kind of a low end.
+David Goldstein: Dedicated AssetLink computer.
+Vince Chernesky: I think we're gonna need to and again, from a scope determination perspective. Um
+Vince Chernesky: It's not just the laptop. It's also as anytime you're talking about data movement. It's you know, the data at rest in the data in movement and what networks it's traversing. I want to understand again, from a scope perspective, even if you were to send me a laptop a work laptop. It's still going to be connected to my home network in some way. And I want to make sure that my home network is not in scope. Whether we have a VP that we set up or I want to make sure that all of that is we have a plan for it before I ever bring the capability into my house and onto my network.
+David Goldstein: Okay. Yeah, we can figure that. My understanding, I don't know if Andrew you have any insight into this. It sounds like there's a separate compliance group and I'm not expecting you to this to be actionable events. My understanding from all the different discussions we've had on this is that it's really the endpoint and the access and once the like, you can log in from a coffee shop. It doesn't matter as long as the endpoint and the 2 endpoints are secure. Uh
+David Goldstein: But that you know, that's my understanding, but obviously that's not actionable. We have to validate all of that.
+Andrew Meggs: That's my understanding as well.
+David Goldstein: So I know that's not going to be enough for you. You think a lot about this stuff and I appreciate that. But yeah, I think that one if we get you on your own laptop
+David Goldstein: For this if you know, if that becomes our path that you would be fine from a network side. But like I said, we'll we will validate
+Andrew Meggs: Yeah. So so so kind of to that point David, I got you into the compliance accelerator and what I was saying earlier, we do have our own internal compliance team. So they're the people who wrote all of our documentation and keep us compliant and whatnot. Greg and his team. So at any point they're available as a resource and they'd be able to give you a more intelligent answer than I would be able to give you when you get into the accelerator. I don't know if you saw the invite invite for that yet or not. There's actually a direct link to their calendar in there. If you want to schedule a meeting with them and kind of go over your situation and ask them how to set things up, but they be able to they would be able to do that for you. Or rather guide you to how best to do that.
+David Goldstein: Okay.
+David Goldstein: Sorry, go ahead.
+Andrew Meggs: No. I was gonna say in the accelerator, once you get in there is the course additional compliance resources. They there's a link to their calendar if you want to schedule or you can just email them a compliance at PreVeil.com. They're available for that too.
+David Goldstein: Okay. Great.
+Andrew Meggs: But yeah. They're the people who wrote all this stuff and I know a little bit. I know enough to be dangerous, but they're the people who are much more intelligent, about the nuts and bolts and everything that I am. Whereas I'm more on the account side of things, if you will.
+David Goldstein: Okay. We've set up our we logged in now. I didn't set things up as express. I set things up as whatever the other option is non express, is that correct? But yeah, we should be setting up as full.
+Andrew Meggs: Yeah. Downloaded however you want to freeze it, yes.
+David Goldstein: Okay. What is express for should we even pretend that doesn't answer just pretend that doesn't exist?
+Andrew Meggs: Short answer, yes. Long answer. So nominally expresses for when you are communicating externally and you want to communicate with a vendor or a prime or a client or whomever. They would need to sign up for PreVeil express for you to communicate with them if you didn't have the gateway. So I have the gateway you can just email them. Then, if their e mail was whitelisted in the gateway, then it just shows up in their inbox. Like we were saying
+David Goldstein: Okay. So no one internal needs to no one on our side needs to worry about the express type just correct. Yeah. Okay. And then I do have it set up. I believe to not have like I said cloud block. And basically, all that means is it's gonna any of our files stay in the PreVeil cloud and are only accessible through our web browser when we log in to the rail.
+Andrew Meggs: Yeah. It means your drive won't sync to your local devices. And if you have the setting on it means you're they won't be able to download things to the local device. And the reason basically the reason why your endpoints might still be in scope is basically your users. If they try it hard enough, would I could find a way to like, get that information off the cloud taking a screenshot or what have you. So
+Andrew Meggs: But yeah. But yes, if you have cloud block on and you've turned off downloading, then you can only access this the information via the PreVeil app. Gotcha.
+David Goldstein: Okay. So then I have the little icon the little PreVeil key icon in my top of my screen. Jeremy, did you do that as well? And do you have that on yours? I know you have AI believe you have a Mac. You have a PC and I have a Mac. Is that right?
+Jeremiah ALG: Yeah. Right now I'm in a slow noise in the office right now. So I can't look at it, but I do have I think on my tray. I have an icon. Okay. For PreVeil.
+David Goldstein: So when I great. So when I click on run diagnostics I get a couple of errors and I've tried I was working actually, I got no error. I got some errors. I stopped PreVeil. I started PreVeil. The errors went away, but then there was some sort of update that it asked me to do. I did the update and I reloaded the PreVeil system the PreVeil application and now I get those 2 errors that required agents are not running an org dot PreVeil dot file sync blah blah blah is not running prod. And when I turn it off and on
+David Goldstein: It doesn't resolve the issue. So is there anything specifically wrong we're doing and just generally speaking, how do we what do we do when we have these kinds of problems in terms of support?
+Andrew Meggs: The syncing thing might be related to the fact that you have cloud lock on and you can just ignore it. Because turning cloud lock on mix. So you know, it doesn't sync to your local device, but the other one, I'm not sure offhand during the onboarding session you have right after this, you could ask ask our support team about it. The support team would be the people who be the team responsible for bugs and technical issues and things of that nature.
+David Goldstein: Okay. And are they available to us kind of anytime
+Andrew Meggs: Yeah. Support at PreVeil.com. If you email that email address, it'll put a ticket in the system. There's also a ticketing system. We have JIRA. And I'll send a link to all this and all this contact information in my in a follow up email, too. But yes, they would be the team basically support handles all the bugs and technical issues. The compliance team can answer any compliance related questions and I'm kind of the general main point of contact. If you're not sure who to talk to if something needs to get escalated. Or if like I was saying account related questions, like you need to add a license subscription or all that sort of thing.
+David Goldstein: Okay. And it's correct to say, even though we have that little lock in that little this separate application, we need that in order for the communication to be secure. Is that a correct statement?
+Andrew Meggs: To yes, I believe if I'm understanding what you're saying correctly. Yes, PreVeil downloaded onto your computer you have you should have that icon there and then clicking on that would open up the PreVeil app, which you would use to transfer and store data. Yes.
+David Goldstein: Okay. Now, when I click on things, that doesn't open up any app, it just takes me to
+David Goldstein: The only way I can see see any information is on is through my web browser.
+Andrew Meggs: Yeah. You're on a Mac, right?
+David Goldstein: I'm on a Mac. Yup.
+Andrew Meggs: Yeah. There's like an extra button. You have to click. If you click on the key, you have to go to the Eli sus and then I forget exactly how it works, but you can get through get to the web browser via the that little key button icon on the PC. When it's downloaded onto the home your homepage, you can just double click on the app and opens it up with the map map because it's slightly different the key there's like an extra button. You have to press to get to the web browser from it, but the icon theoretically should take you to the web browser of PreVeil. But the
+David Goldstein: If you my point is that the web browser is the entry point yes. There's no separate entry point to look at either mail or files through the app is just the
+Andrew Meggs: The web that
+David Goldstein: Gives us the security wrapper in terms of communication.
+Andrew Meggs: Yeah. The app is the downloaded keys on your computer, yes.
+David Goldstein: Right. Okay.
+David Goldstein: Okay. Um
+David Goldstein: All right. What else do we need to know?
+Andrew Meggs: Well to be perfectly free in terms of just getting started, that's kind of it you've already created the org. You've got your onboarding scheduled and then the gateway implementation will be after that. And then the accelerator, you already have access to. Should anyone else be added to the accelerator? You can have up to 3 people in there, if anyone
+David Goldstein: I may we may I guess Vince. And Jeremy, what do you guys want to be added? I was trying to limit the scope, just to because we're all busy in this moment. But I'm happy to add you guys.
+David Goldstein: The accelerator is, can you explain to these guys what the accelerator is?
+Andrew Meggs: Sure. Yeah. It might be easier to show. But basically it is the short version of this is it's a video doc series and walk through of CMC level 2 compliance as well as a repository of pre made cms compliance documentation templates. So this is what it looks like. There's we basically made a fake company Acme corp and then we walked through compliance. And these are all the steps you'd have to do. And theoretically if you were to go through all this and do all the steps as instructed, you would be ready for an audit by the end. And then each of these steps has a video going over that step. And then beneath it all the relevant documentation templates, you might need for that step. It's kind of a comprehensive cms learning course and documentation repository.
+Andrew Meggs: And then while I'm here, I'll just show you where this is David under this additional compliance resources. That's where the link to the compliance teams schedule is right here. If you want to schedule a call with them. So just as a heads up. But if Jeremy or Vince if either of you feel like you need access to this, I can go ahead and add you.
+Vince Chernesky: Yeah, Dave.
+Vince Chernesky: We've talked about this. I mean, we need to identify the person who's going to be integrating all of this into AssetLink. And I'm not that person.
+David Goldstein: Okay. So no one, Vince. Jeremy do you want to be added or should I just hold the ball for now?
+Jeremiah ALG: Let's hold the ball for now.
+David Goldstein: Okay. Yeah, that's where we
+Andrew Meggs: Confirm someone else's problem for now. But if in the future, yeah. If in the future you do need anyone else added, just let me know and I can add them.
+David Goldstein: We can do up to 3.
+Andrew Meggs: Yeah. And up to three, yeah.
+David Goldstein: Okay okay great okay and if we take documents we place them in
+David Goldstein: The PreVeil drive.
+David Goldstein: Then they're safe there they can live there are they backed up like you know what I'm thinking is we may have some documents we want to place in that drive and then delete from our system um
+David Goldstein: What can you tell me about the you know backups and like I want to make sure obviously that those documents aren't lost
+Andrew Meggs: Sure. So
+David Goldstein: There would be no other copy that's gonna be it. PreVeil is gonna be it.
+Andrew Meggs: Yeah. So nominally the your cms documentation technically usually at least isn't considered c._i so you don't have to keep it in if you don't want to. But in terms of the backup system all the data stored on the AWS, AWS gov cloud. It's fed ramp high. The backups happened twice twice a day. There's 2 different servers. And I believe it's 30 days recovery for anything that's deleted, we can recover it up to 30 days in the past. Okay.
+David Goldstein: So you
+David Goldstein: So we should feel confident that stuff we put up there isn't gonna disappear crash get lost. Like there's backups. There's if we're missing something that should be in the drive, we can contact your customer support team and they will be able to find it. Yeah. That's the at least the assurances you've got that you can offer.
+Andrew Meggs: Okay. I mean, if you want the technical, it's a multiple servers in parallel on gov cloud east and West. All historical e mails and final versions are maintained up to 30 days in the back and the with data durability estimated 99.9 9 9% so backups twice a day.
+David Goldstein: Yeah. Okay. Data durability. Um
+David Goldstein: Okay.
+Andrew Meggs: Um
+Andrew Meggs: I just looked up the actual our actual
+David Goldstein: Yeah. No, I appreciate it.
+Andrew Meggs: Backup policy.
+David Goldstein: I appreciate that. Okay. So, Jeremy Vince do you guys have any other questions? I mean, my you know, the next step here would be to take UI and place it into this drive. Obviously, you have to figure out how Vince is gonna access it and what we move and kind of what at what pace. But that's kind of in my mind as the next burning.
+David Goldstein: Action um
+David Goldstein: And just get it out of our servers. Um
+David Goldstein: And then Vince we have to figure out how to get you access, I think. Um
+David Goldstein: Those are sort of the next 2 items. By the way, Andrew, we can open up an edit documents within the PreVeil.
+David Goldstein: World, right? we can click on a document. It'll open up, it'll be a word document, we can edit it and then close it back up again without ever bringing it down to our computer.
+Andrew Meggs: So you
+Andrew Meggs: You will. There's actually a plugin you'll need to download to do that cloud, a cloud edit plugin, but yes, you can do that.
+David Goldstein: And that's part of our subscription or? Yeah.
+Andrew Meggs: Yeah, yeah. No, no, no. That's just an extra thing. You'll have to download. But yes, it's a free complimentary included. Just an extra plugin you have to download.
+Vince Chernesky: Is it a Microsoft? I mean, are you editing in a Microsoft? I mean, is it like office 365 type plugin or is it some third party editing that is gonna
+Vince Chernesky: Not play well with Microsoft documents.
+Andrew Meggs: More that second one it is a third party. Actually no. It is. I like it is a Microsoft one, sorry. Yes, it's a Microsoft plugin and I'll include in my follow up email the link to how to do that.
+Andrew Meggs: We have a knowledge base article on on where to download that and how to set it up.
+Andrew Meggs: But
+David Goldstein: Yeah.
+David Goldstein: Okay. And we can view pdfs with that plugin. We can edit office documents. Those are the kinds of those are the things we'll be doing.
+Andrew Meggs: Docs all the supported file types, docs, powerpoints, excel pdf, yes, and J peg if you want.
+David Goldstein: Okay.
+Andrew Meggs: It's not all documents. There's it is a limited amount of file types that works for, but it's all the major ones. So dot
+David Goldstein: Pdf. And we can do all that without downloading to our computer, right? It would be if we if there was something more complex like a CAD file, then we wouldn't have to unlock the cloud block and allow the demo to our computer. You'd be a controlled, endpoint work on it and then reload it back up, I guess and delete it from our computer or is or I guess it just sits in our computer.
+Andrew Meggs: It does work for dot D W G
+Andrew Meggs: Which is auto CAD files. But yeah. Okay.
+David Goldstein: All right. I guess if we have to deal with that, we'll cross that bridge. Yeah. Okay. Anything else we should know. I know we have another I think the next meeting Jeremy and Vince, I'm not sure if I invited you guys to tell me if you have it on your calendars, but I don't think I did. This is. I guess it's like a more technical.
+Andrew Meggs: Yes. That's the technical. We call it the technical onboarding. It's really more of a training. Since you already have the org setup, it's kind of going over the roles and responsibilities of the administrators, how to use PreVeil itself. Yeah. It's end user training and an admin training.
+David Goldstein: So Jeremy and Vince, do you guys want me to add you to that or should I just run with it for now?
+Vince Chernesky: Yeah. I'd I'd recommend you run with it. I'm trying to get some stuff done before my 3:00 o'clock meeting. Specifically some security. Access documentation for fort Stewart. Okay.
+Andrew Meggs: You can have them record it too. If you'd like. But honestly, once you get into PreVeil, we try to make it as straightforward and easy to use as possible. So it's not like we're trying to make it too complicated, but yeah. So that's kind of what that next meeting is and then you'll also be able to ask them any questions, like bugs or bar messages or anything like the what you're saying. So
+David Goldstein: Gotcha. Okay. Jamie, do you have are you
+David Goldstein: Full up.
+Jeremiah ALG: Yeah, I follow up if you can have it recorded. That'd be nice. Sure.
+Andrew Meggs: Okay. Okay. Well the only other thing I'd like to do on these calls is I'd like to set up a 90 day check in call with all my clients, just to make sure things are going smoothly. Do you mind if I put some time on the calendar for march for check in call?
+David Goldstein: Yeah. Why don't you send a proposed time and 85% chance. It works? Yeah. And then if it doesn't, we'll answer back.
+Andrew Meggs: Obviously, you can reach out to me before then, too. But yes, I will put this on the calendar. Let me know if that doesn't work. And then yeah, like I said, I'll send this follow up email with everything that we talked about. And if you do have any other questions or if you need anything else, you can don't hesitate to reach out. Let me know. Sounds good. All right. Well, I appreciate you all taking the time to meet with me and it's great to meet all you all and I hope you all have a great rest of your day. Thanks. Yeah. You'll have a good one.
+Vince Chernesky: Thank you, bye. Thank you. Bye bye.

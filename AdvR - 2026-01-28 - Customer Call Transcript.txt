@@ -1,0 +1,186 @@
+Account: AdvR
+Call Date: 2026-01-28
+Duration: 00:41:29
+Participants: Andrew Meggs, Betsy Heckel, Chris Christison
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello, hi. How are you?
+heckel: Good. How are you?
+Andrew Meggs: I am a little chilly, but other than that, I'm well.
+heckel: Where are you at?
+Andrew Meggs: I'm in Minnesota. So it's quite cold.
+heckel: We're in Montana and this is the least amount of snow we've had in my remembrances and I've lived here a long time.
+Andrew Meggs: Yeah, it has. Luckily it's been so cold it has been able to snow, right? But yeah, we actually have not had that much snow this winter. I feel like the last few winters, it's been pretty low on snow. Which is I mean, good for me because we don't have a snow blower or anything. I am the snow. Blower. So I don't mind the there's not a lot of snow.
+Andrew Meggs: But yeah. Just just trying to stay warm. Hello, everybody.
+Tom Londe: How's it going?
+Andrew Meggs: Going well. Yeah. Is there anybody going to be anybody else happen?
+heckel: I think that's it.
+Andrew Meggs: Okay.
+heckel: Is alive he's sick. So I'm glad to see his face.
+Tom Londe: Barely
+heckel: This
+Chris Christison: Is the first time I've ever seen. Tom, really? Yeah.
+Tom Londe: Okay. And as you can clearly see, there's a reason why I try and hide it as much as possible, yeah.
+Chris Christison: It is not what I expected. I'm gonna say.
+Chris Christison: Like a beard white that is going to be a good Santa Claus beard.
+heckel: He's gonna rock and the clause.
+heckel: Great.
+Chris Christison: I can't grow a beard. So
+heckel: Neither can I
+Chris Christison: I'm jealous.
+Andrew Meggs: I can do like a little bit of facial hair, as you can see.
+Andrew Meggs: If I try to grow, I can grow out like a full beard like that, but I try to grow out, but I can what little
+Andrew Meggs: But yeah, facial hair aside. I appreciate everyone taking the time to meet with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of an informal check in call. There's not really like a plan presentation or anything like that. I do have a couple of points that I normally go over on these calls. But before I get into it how are things with PreVeil or just in general?
+Tom Londe: Yeah. Thanks, thanks to be going pretty well. Right now. We've gotten all of our users in there that are going to be using it. It's we're still kind of building up to get people kind of fully involved in doing what they need to do in there, but we at least have everyone in there a week or 2 ago. We finished getting the email gateway set up. That is all configured. I've tested a few times. So that's ready to go on Friday this week. I believe we're gonna be finishing getting the sim connector setup. I haven't heard anything any complaints so far. Any questions from air one? It seems like that's been going pretty well. Um
+Tom Londe: I guess one question I kind of have and this is something that was confusing me for a little bit. And maybe I just got something backwards in my mind, but it seems like where you can look at the logs and PreVeil and administrators seems the location seem to be a little bit backwards. Where if I go into the admin center and look up the activity logs it seems like I can only like pull up stuff kind of related to me. But then if I want to see all of the logs for everything that's going on, I actually go into the settings gear in the top right hand corner and look at the activity logs there. Which I would assume those would have been the other way around. But if there's something I'm not necessarily understanding on that front or
+Andrew Meggs: Yeah. You theoretically should be in the admin tab. Be able to do like, a data export of everybody's logs in the data export functionality. And yeah, you can see your logs in the the gear. I'm trying to think of the best way to phrase it. The like settings gear in your PreVeil, but the admin tab you should be able to see all the logs. Yeah.
+Tom Londe: Yeah. And that seems like that. That's backwards, at least in mine. Because I know our our CEO was asking asking me, hey, has has anybody been uploading stuff and I've I kept going into the admin logs under do.
+Andrew Meggs: You mind sharing your screen, sorry. Sorry to interrupt. But we're talking about the same thing here.
+Tom Londe: Yeah. Give me one second. Here, let me connect into my computer at the office. They don't have PreVeil on this one.
+Andrew Meggs: Okay. I guess I can share my screen. What whatever is easier.
+Tom Londe: I can do this. Just one second.
+Tom Londe: Beat my way through my 20 layers of MA first.
+Chris Christison: MA fatigue.
+Tom Londe: But
+heckel: Yes. It's
+Andrew Meggs: People joke about MA but me and Megan, we recently have been re launching all the mission possible movies. I don't know if you guys have seen any of those. But then the first one they like break into Langley and like he like goes through the ducks and he drops dump from the ceiling into this one computer that's in a vault at the panda on or whatever or the CIA headquarters. And it's like he like he's like there's all these ridiculous security measures. If the temperature of the room goes up point one %, it sets off an alarm or if there's one iota of noise, it sets off an alarm and he like breaks into this computer. And I'm just sitting there. If this computer or MA that would just completely get rid of all all of these security measures would like, just be completely irrelevant if this computer at MA because then like the guy who is like, owns the computer would get a text being someone's trying to log on your computer and be like deny. And then that would just like completely all of these stupid heat security measures and all this other. It'd be like, yeah, if you just had MA on this computer, you know.
+Andrew Meggs: So that's what I think about when I think about MA, is that ridiculous Mission Impossible? Are we
+heckel: That's funny.
+Tom Londe: Okay. All right. You'll see on my screen now.
+Andrew Meggs: Yep. Yes.
+Tom Londe: All right. Yeah. Yeah. If I go into admin and then down to activity logs. It's like I can kind of see some stuff that other folks are doing. Like I've got Betsy here, deleting emails and a lot of stuff like I've been doing. Then like, if we go past 6 months here. Like going back into December one of our users has has been uploading a lot of files and he doesn't show up in here. However, if I have here, if I come up to the gear up here and go to the activity logs here.
+Tom Londe: Um
+Tom Londe: Then I can see kind of what everyone else is doing. Um
+Tom Londe: We got Betsy and Josh uploading files. If I increase the range, we should see a bunch of fill here. And I said maybe there's just something in my brain, that's just confused. But yeah, it seems like the activity logs in the admin console and the activity logs under my personal settings, gear seemed to be doing the opposite of what I would expect them to do.
+Andrew Meggs: Yeah. That is a little strange. Theoretically, you should be able to see both. What happens if you put in Phil, if you go to the admin tab, this is just me spit volume here. I don't know for sure. And put in Phil battle as a user.
+Andrew Meggs: For the past yeah, loan.
+Tom Londe: Yeah. So no, none of the stuff. He's
+Tom Londe: Yeah. Because I said
+Andrew Meggs: That is at the very least UN intuitive and possibly not how it should work in, but I believe it's just unintentional follow up on this though.
+Tom Londe: Okay. Yeah, because because I said I know our CEO had been asking me if anyone had been doing anything and like, this is the logs I was checking because like, no, no one's touched this since I rolled it out and Phil is like no. I've put so what are you talking about?
+heckel: Hey, we've been working. Okay.
+Tom Londe: Yeah. So
+Andrew Meggs: I follow up internally about that to make sure there are any problems, but I believe it's just somewhat intuitive and I also talked to the product team about that as well. Making sure that
+Andrew Meggs: Sometimes when
+Andrew Meggs: The deal team is great. I love everybody that works here. Sometimes when engineering design, some of these functionalities to them, it seems intuitive when it's maybe not intuitive to an end user. I will also follow up with the product team. We're actually making Chris I don't know. I mean, if you are aware of this, we're making some pretty big changes to our system to our drive or coming up with a cloud drive here in about a month. I don't know if you guys have heard anything about that.
+heckel: Know.
+Chris Christison: It's been a bit since I listened to what was coming out, at least for what was on the pathway. I know that the like the functionality in the cloud drive was going to get closer to being how one drive worked so that it wasn't like in an all sync or not all sync. But
+Chris Christison: That's I think that's about all I really remember on like, the big changes that we're coming up coming down the pipe.
+Andrew Meggs: Yeah. We're on some level rewriting our drive from the ground up, not literally, but we're making. I mean, similar big changes to it to the UI and the functionality where we are it's gonna be much faster syncing and download speed. And now when it's synced to your device instead of any of the files, actually touching your device, you'll be seeing as instead a representation of what's on the cloud. So it won't be take up taking up any base on anyone's hard drive or anything like that. We are with that implementing a bunch of UI changes in general to PreVeil because it's a big big change. I'll definitely let our product team know about that just in case they need to maybe switch 2 things there. But that's our new well, our big next product push supposed to come out this month, but it's actually coming out next month, but you know, these things are and then yeah, I'll follow up on that internally just to make sure there aren't any problems. But at the very least, even if it is somewhat intuitive. You are able to see logs they're
+Andrew Meggs: Even if they're not exactly where you think they would be. And then I was gonna ask about the gateway and the same connector. Yeah, it does look like your gateway is set up and you're working on setting up the same connector. Have you all gotten much into the accelerator content the videos of the documentation and everything?
+Tom Londe: Yeah. I have been going in into that. I've downloaded a handful of the the form templates and stuff and I've been working on like transferring my startup of USP into your folks template. And I've been work on kind of adjusting some of our stuff around some of that other documentation. I found from you folks.
+Andrew Meggs: Okay. And then have you not that you need to have done this, but have you talked to our compliance team yet or met with them yet?
+Tom Londe: Not yet. I do need to email them. I do have a couple of questions. I was gonna hit them up with. I just haven't I haven't gone around to that quite yet.
+Andrew Meggs: Sure. Obviously it's up to you how you want to handle that, but that is a resource available to you. Should you decide to use it and then yeah, if it's multiple questions that might need a longer in depth conversation. You can always schedule a meeting with them directly through the link in the accelerator. And then I guess following up on that, do you have a general timeline of when you're going to want an assessment or anything like that? Or are you still kind of working on it?
+Tom Londe: Right now, our target is to be able to say that we feel that we're fully compliant by mid February. But I also kind of give us a little bit of a wiggle room of just quarter one of this year. Okay. I mean, if things need to push to the end of March, we have that. But my goal is to have PreVeil access moved into the enclave by by mid February and be able to hopefully be able to say, yeah, I got all the documentation time done. All 110. Um
+Tom Londe: Controls controls.
+Andrew Meggs: There's a lot of words. I don't know them myself.
+Tom Londe: Brain is not doing brain.
+Andrew Meggs: Things. But so so I guess when were you looking or are you wanting to and I guess when were you looking to get an actual third party assessment, though?
+Tom Londe: I mean, probably as soon as possible. When when we had everything ready to go, we're gonna want to get a a mock assessment first. Just to I mean, not dish out the full price tag and have someone come in and say yeah, I know you guys will probably pass. But then yeah, as soon as we get done with a mock assessment, I think as soon as we could probably get someone in. I know I've just been a little little hesitant on trying to get too foggy about trying to start scheduling. Anybody now, just because I know kind of what we've been doing has already been pushed several times already. And I'm a little nervous about trying to get someone on the books. And then for whatever reason, this keeps getting pushed on our end. Sure.
+Chris Christison: So so Andrew will the once the SP is completed and
+Chris Christison: Will the compliance team review that for AdvR?
+Andrew Meggs: So a sure answer they can long answer. There's some conflict of interest stuff where anything or basically, anything our compliance team says will be with the asterisk of ultimately it's up to the assessor on the day of the assessment etc. Etc. Yes, of course. But they can review your SPF if you have a meeting with them and go over it. But as you know, these SPs are really really long. So it might be best if you had maybe
+Andrew Meggs: Specific questions about specific parts of the SP that you wanted to go over versus asking them to review the whole thing that might be a little bit better?
+Andrew Meggs: Or surgical use of the time there. But yeah, that's a slightly longer answer, but yes, short version.
+Tom Londe: And I know part part of a big reason why I want to some form of mock assessment first is just because
+Tom Londe: Even even between like, myself and Chris, for example. Throughout this whole process, there's been multiple times or like, I've looked at control and I've interpreted as x and Chris has looked at interpret is why
+Andrew Meggs: Yeah. And that's another reason why the compliance team always gives that asterisk if it's always up to the assessor on the day of the assessment. If you catch them on a bad day, where they had a flat tire and they got sick that morning. You never know how they're gonna not to put fear fear into you or anything. But I've had I've heard some horror stories of an assessor on a bad day where they just don't accept anything as what few and far between, but you never know. Yeah. Unfortunately, right now.
+Andrew Meggs: I hate to say this, but some of these controls the interpretation of them are somewhat arbitrary during these assessments. I think down the road if you came back to me in like a year or two, these things would be a little bit more hammered out. But right now, if you can still have even certified through the assessors, 2 different assessors saying 2 different things about the same. Um
+heckel: That's good. I mean, there should be uh
+heckel: There should be everything equal. No matter looking at it. I mean
+Andrew Meggs: That's
+heckel: Legal, you know what that's I mean, we're being assessed and if we fail, we can't do government contracts. How can that be true? That it's up to their good day or bad day. That's just
+Andrew Meggs: There's a lot of things that the government does where you say to yourself, how can that be?
+heckel: Like that to me is
+Andrew Meggs: So but during the assessment they actually need 2 different assessors. That's part of the reason why they do that is to like, have them come to an agreement to agree on something. But beyond that if you're looking to get assessed asap and looking to get a mock assessment asap. I mean, are you and this apologize. Apologies for my own. Ignorance here Chris. Do you all do assessments Entre? No.
+Chris Christison: Okay. No. And that would be a conflict of interest anyway?
+Andrew Meggs: Yeah. So same thing because we
+Chris Christison: Do it because yeah, yeah. Because we're the you know, we're the MS involved, just like you guys can't do an assessment, right. Yeah, what I'm thinking more obviously you're gonna shell out some dollars to do the mock assessment, which I think makes sense, right? Because they you know, they're most likely not going to show up on site to do your mock assessment. They're gonna take a look at your SSP or your documentation and they will give you tips, tricks, insights and recommendations on changes to just make it more solid for when you do complete your full blown assessment. And there there is some areas of unknown that we want the feedback around the enclave and then just everything else internally. I still think that the plan that we've got is solid, but I won't know until we've gone through the process and then we'll get a chance with the mock audit to go and make any of the recommended changes. At the mock esser comes back. With so what is nice is that most contracts today are self ad test station. And I think we can get to a really good spot where we can at least self attest that. Yep, this is where we're at and then start working on getting that solidified. And then into a full blown audit.
+Andrew Meggs: Yeah. Chris was saying the vast vast vast majority of contracts or self at a station right now. I've had one client of mine who actually whenever it was legal to pull contracts back last November or something like the day that it became legal to pull contracts if they weren't third party assessed, their contract was pulled. But that only happened once the vast majority of the contracts are still self assessment. But I guess to to the point of and this is kind of what I was asking folded assessments Chris are you have you already picked out a certified code? Or are you still in the market for one? Because to the best of my knowledge, most of them are booked out already for several months from now.
+Tom Londe: Yeah. No, we're still still looking
+Andrew Meggs: Okay. I mean, just like with Chris, PreVeil does have a lot of partners that we work with that do these assessments. So if you are in the market or Chris, feel free to talk about this with us too. We do have a recommended partners that are already familiar with PreVeil and we certainly I mean, even if you don't go with one of our partners, we heavily recommend that you go with someone who is familiar with PreVeil. Because the way we do our encryption and everything is our proprietary way of doing things. And it is and I mean, we just had our like 70 client past assessments. So it is it passes muster, but if we have had assessors that aren't familiar with PreVeil, that come in, don't know anything about us and then they start asking a lot of questions. Then you got to provide engineering diagrams and all this other stuff versus the partners that are already familiar with PreVeil. They've already done 10 assessments that it's like. Oh, yeah, you use PreVeil. I know how it works. I'll already check these boxes off. Um so that was kind of a long version of whenever you're in the market, let us know and we can provide some recommendations.
+Tom Londe: Okay. So
+Tom Londe: Just just as a hypothetical question. If we ended up going with someone who's not one of your partners and they are getting kind of like you're kind of talking about very far in the weeds. I guess how accessible are you folks for getting involved in audits? Or is it kind of we're on our own? Hopefully we can explain what you folks are doing sufficiently.
+Andrew Meggs: So I mean, this has come up. Unfortunately sometimes during these assessments, they are asking questions that only or like, head engineer can possibly know the answer to and sometimes he is not available at the drop of a hat to join a meeting or join a call. He might not be able to respond for a day or two, which is a very long time if you're in the middle of an assessment. I'm just being real. I mean, obviously we will provide as much support as possible, but this has come up in the past where an assessor like, we have provided our this happen. Well, I don't know. Once again, I'm not trying to put the fear in you. I'm just like covering all the niche situations. This is exactly happened. Exactly one time where the assessor had a bad day. And I was like, I don't believe that PreVeil is doing was it says it's doing despite all the evidence you prevent presented. We had all the evidence to them. We had the diagrams and the so still didn't believe that we were doing what we were saying. We were doing. So we had to bring in the our head engineer to like have them like, come to Jesus moment with them to like, fully explain exactly what we were doing. Exactly how we were doing it, but he wasn't available for 2 days because you know of how things work. He's our engineer. So just to give context, but that happened exactly one time.
+Andrew Meggs: Or we've had
+Andrew Meggs: At this point dozens of assessments.
+Andrew Meggs: It's the only time that's happened, but it has happened.
+Tom Londe: Okay. So so hypothetically, in the name, simplicity, it probably isn't our best interest to to to look at one of your partners and someone who's who's familiar with your stuff just so they won't get get too bunchy about what's going on?
+Andrew Meggs: Yeah. And once this is not to put fear in you or anything like that and but I want to make you aware of all the possibilities, right?
+heckel: Is it when we come to those I go through audits from DC and they actually have to come to our site. Is it advantageous to us to find one that is in Montana for cost wise and availability to do that? Or is this all send me your information and go from there?
+Andrew Meggs: I mean, we generally recommend doing a partner that's at least in the region just in case they do need to do an onsite. It just makes things easier for everyone involved. I don't know off hand if we have any in Montana itself. Though I know that we have partners in in the West in general. And then that's a
+heckel: Big area, yeah.
+Andrew Meggs: Right. But that being said even beyond, if you don't go with like one of like our like PreVeil preferred partners or whatever. We just recommend that you go with one that at least has heard of PreVeil and is somewhat familiar with us. Versus if it's a complete unknown, that's when these sorts of things come up. Um
+Andrew Meggs: I will say unfortunately, most of the crops are on the coast. Most of them are in the DC area or the southeast we have a couple in the Midwest and a couple on the West coast. But right now, the vast majority are on the east coast. We've got one in Colorado one that's
+heckel: Not fine Milwaukee.
+Andrew Meggs: Yeah. So not a ton in in the where where we live, but you know but some um
+heckel: So they but they truly do come on site correct? I mean so much on site. Yeah. Okay.
+Andrew Meggs: I have to see that you lock your doors and that you don't your computers open with the password. Sticky note to the
+heckel: Oh, come on.
+Andrew Meggs: To the desktop. So okay. Great. Yeah, I can provide our list of partners in my follow up email. We also Jamie from our compliance team. Is the one who handles all of our relationships with our partners. So I can provide his contact information too. If you want to schedule a meeting with him if you want personalized recommendations. Because sometimes even if it's even like once again, if we're getting a little bit in the weeds here, it's like, even if it's not in your area, there might be a partner that specifically works with companies of your size or your industry or whatever that might be best for that sort of thing. So he would know better than me because since he works with all the partners
+Chris Christison: And how do you find your partners? Do they reach out to you? Or
+Andrew Meggs: Both some of them reach out to us, some of them we reach out to at this point. Now several are clients that bought PreVeil and then became through through POS and then now are partners of ours because they're kind of naturally that's kind of the cases. So we have several Chris that started as PreVeil clients. But a little bit of everything. Cool.
+Andrew Meggs: But yeah. I don't know if you've talked to Jamie a bunch of Chris, but he handles all of our like, consult not all of them, but
+Chris Christison: Not a bunch. I mean, we've gone back and forth. I do have kind of a process question. So there there is a client that we deal with that. That brought in a consultant who I do believe is cms certified and one of the things that I noticed in there and like, all of their emails, they have a splash that just says if you're going to send us Sui send it to this address, right? And what I'm wondering is from a process standpoint, I mean, obviously AdvR has their their ITAR in their signature, their it statement, right? if we were to add an e mail on where to send, I do we have the flexibility to create an account compliance at AdvR Inc or secure dot AdvR Inc? That could be dealt with like a shared mailbox or would that require a full blown account to be able to do that? I mean what flexibility do we have around there?
+Andrew Meggs: So
+Andrew Meggs: Short answer. Yes, you can. But it wouldn't be compliant. If you had a the issue is if you have an account that's a shared mailbox that multiple people have access to and it's getting UI. Part of it is. I mean, basically long story short. You need to be able to pull logs of exactly who is accessing the UI at exactly what time. And if it's a shared log with multiple people with access to it, you couldn't do that.
+Andrew Meggs: So but if you had a generic email address that only one person had access to and then they disseminate that to who I needed to go to, you could do that, sure. But
+Chris Christison: So like in instead of putting like Betsy on everybody's signature, for example, right? Can we do then a compliance at that?
+Andrew Meggs: At secure dot AdvR dash inc.com and then
+Chris Christison: Land in her book or in her mailbox. Yeah. Okay. So just something to think about Tom and Betsy as we move move forward. I think that makes sense. Because then as you communicate with everybody you're getting out there that hey, if you're going to send me send it here.
+Andrew Meggs: Yeah, we actually have a lot of clients that do that where they have where it's not a shared inbox, but it's a generic email address. That goes to one person then that person can then disseminate it to I need to.
+Chris Christison: Go to and then in PreVeil, is that pretty easy to set up? So that Betsy has 2 email addresses so that one gets directed to yeah.
+Andrew Meggs: So it's just I mean, I can just show you right now because it's easier.
+Andrew Meggs: Versus that stupid? Okay. Yeah. I mean, if you or Betsy whomever wanted to do this, it's just going to add account here and you just create a new account in PreVeil. So like me I've got 2 accounts, I've got my actual PreVeil account. And I've got this test admin account that I use for demos and stuff. So um
+Chris Christison: If we add an account, does that become a licensed account?
+Andrew Meggs: I mean, nominally it should, but I can just say, hey, this doesn't count.
+Andrew Meggs: Okay.
+Andrew Meggs: It's up to me, basically or they're you if you feel. But I guess the
+Chris Christison: The email is not. So the e mail then isn't directed to Betsy internally. You don't
+Andrew Meggs: Yeah. Let me think I'd have to think about that. Okay. We need a license or not. But I
+Chris Christison: And this will come up with other other clients, right? Because we have one other client that is on the same platform. And I think it's I you know, I like the idea. So if we could functionally figure out how do we do that. So that a contact can have two, secure emails, inbound, one that we can put out to the public on everybody's signature and then have it direct to that one person that can then do the handling of it.
+Andrew Meggs: Yeah, we do allow
+Andrew Meggs: Admins to have separate accounts because basically 2 separate accounts like an admin account and a user account to have that delineation there because that's part of being compliant. So I guess this is that same sort of thing of having 2 separate accounts. So
+Andrew Meggs: It's my once again, back to interpretations. It's my interpretation that would be the same kind of scenario that we would have basically a dummy account, if you will.
+Chris Christison: Yeah. Yeah. I mean, essentially, we just need we need to be able to publish an email that gets routed correctly to somebody no different than we do in 365 for, right? like AP at some place or are some place, right? Yeah. If you could dig up the details on that would be great. Because then we could put start putting that into into ours as a standard when we go through setups.
+Andrew Meggs: Yeah. The I guess initially, I don't see a problem with that or the I just because we allowed them admins have 2 separate accounts, one a dummy account and on a like, a real account without needing to be licensed in order to stay compliant since this is the same sort of thing. I think that should be allowed. I'll double check, but I don't anticipate that being a problem.
+Chris Christison: Okay. Awesome. I appreciate it.
+heckel: Yeah. That's a great question Chris because it came up yesterday with our sales Chris knows we're working with another company in the UK. And one in Spain. And the sales guy said, hey, I cannot have any secure anything coming to any of our email addresses, because as soon as it hits the CRM, it is worldwide at that point so I think it's a great question that it's on the bottom of everybody's emails. We'll put it on Hawthorne's emails. If you want to send something secure, you must send it to this email address. I think that's great. As that was a question. I was gonna have to ring up to Chris later. So I'm glad it came up today.
+Chris Christison: Yeah. No, that just you know, tickled my mind. I'm like, yeah, that's a good idea, right? And it really is, I think we need to work on being able to bounce that on the 365 side, right? That if something comes in and it's got an attachment or it has certain verbiage we can then potentially automatically redirect it with a bounce back or maybe just send it back to them and say, nope, we're not accepting this e mail you need to send it to here. Okay. Those are some things I think we still need to to work through. So we can tighten up that. On the configuration side, I know, obviously, spillage is not necessarily reportable, right? We just have the policies and procedures around well, if this happens, this is what we're what we do to interact it. Because no matter what you're it's going to end up coming into the wrong email address. At least until everybody's trained. Your customers are trained on how to get that stuff. To you. So
+heckel: Yeah, because we cannot tell we can tell a customer all we want yeah. They're the ones making that choice of saying, hey, I'm sending this email. Yeah, exactly. Then we it's how we then approach it of going. Oh, we're pushing this straight into because I know who's sending this and I know what it's about. We're sending it back to our security, right? Yeah. But it's the sales people that might not know. And if we had that at the bottom if you want to send anything secure here and that's all the companies that's a Hawthorn wide companies could then have it all directed to one of us here. So I think that's great.
+Chris Christison: Yeah. For sure.
+heckel: Definitely needed as it was discussed yesterday. Yeah.
+Chris Christison: I tried to be one step ahead, somebody
+heckel: Now, you're reading my mind.
+heckel: Good luck in there, by the way.
+Chris Christison: I have the same problem.
+heckel: No. So yes Andrew if we can verify
+heckel: Yeah. It would be a bummer if it's a whole another license. But yeah, if it could just be an added on and if I'm admin and I have that. And Tom can help me more. If I'm already that and maybe have to should it go to somebody else, that's not an admin. It can go to any of us, but
+Chris Christison: Yeah. I think as long as we can work on how do we make that happen? Then we can decide who does it land in, who's the owner of that of that account. Okay. And then you guys can do your processes procedures internally on what happens? But okay. I think the first step is just being able to get a second inbound e mail.
+heckel: That's generic.
+Chris Christison: You have tagged onto somebody, yeah.
+heckel: Perfect. Let's work on that. Yeah.
+Andrew Meggs: And once again, I can't imagine a world in which it's a problem. I mean, I'll double check, but
+Chris Christison: Yeah, that'd be perfect. And I haven't sent it off to support yet either. So I figured we could chat about it here and then, kind of work on that.
+heckel: Yeah. Great.
+Andrew Meggs: Yeah. I know we're already at like, 10 minutes over time here. Luckily, the call I had right after this canceled on me just now, so. But yeah. Any any other questions or anything else you guys wanted to go over?
+Tom Londe: I guess one more quick question I had, kind of semi related to what we were just talking about. You mentioned that it was kind of your call and whether or not an account uses the license or not. Is there anything I need to do with you to just make sure that the service account that was set up for the email gateway isn't consuming our last license?
+Andrew Meggs: No. That yeah. Once again, technically it's actually Chris not me, but yeah, anything with gateway. It's not yeah. That's not a thing. Or rather okay.
+Andrew Meggs: That doesn't any it has a gateway in the name. We it doesn't count towards anything.
+Chris Christison: Now, was it was a gateway or I think that was the sim tool that we had to create a license for wasn't it because it's got to actually do the export process.
+Andrew Meggs: Now there is a gateway user. It's prevailed is away at or dash.com.
+Chris Christison: So maybe there's technically like 2 service users in there.
+Tom Londe: No, because I think we're gonna have but I ultimately leave it on was we're gonna have Betsy be the exporter account. Okay. And then it was gonna be me, Phil, and Todd in the in the export or approval group.
+Chris Christison: And then you only have to do that once. And then it just perpetually has permission to do the exports.
+Tom Londe: Yeah. The yeah, the yes. The account that we had created was called PreVeil gateway with a department of email.
+Chris Christison: Gateway. Gotcha. Okay. Thanks.
+Andrew Meggs: Yeah. So no that's the gateway that would be that'd be pretty messed up if we license the gateway.
+heckel: Right.
+Andrew Meggs: No. We always try to error on the side of making clients, happy. So yeah, that's not a problem there, but yeah, I will send all this over. So the next steps I know you're working on the same connector. If you want to meet with the compliance team they're always available if you want to go over your SP or just generally where you're at or any questions you have or anything. I'll also share our partner list of the partners as well as Jamie's contact information if you want to get personalized recommendations. And then I double double checking on the activity logs thing and I'll follow up with that too. And then yeah. Was there anything I missed there? Is that kind of everything that we discussed?
+Tom Londe: Yeah. I think that was all the big stuff.
+Andrew Meggs: Okay. Well, I will send all this in my follow up email as per usual. I very much appreciate you all taking the time to meet with me and you all have my contact information and if you do need anything, let me know. Otherwise. Yeah, I hope you all have a great rest of the day and stay warm out there.
+heckel: You too, stay warm.
+Andrew Meggs: Have a good one. Bye.

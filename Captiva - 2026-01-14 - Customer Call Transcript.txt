@@ -1,0 +1,68 @@
+Account: Captiva
+Call Date: 2026-01-14
+Duration: 00:11:37
+Participants: Robin Barrow, Eberechi Ugwu-Amole
+
+======================================================================
+
+Robin Barrow: Hi, Abby, how are you?
+Eberechi Ugwu - Amole: I'm well how are you?
+Robin Barrow: I'm doing well. Thank you.
+Robin Barrow: So yeah. How was your vacation? I know you were on vacation, was it last week?
+Eberechi Ugwu - Amole: Yeah. The last 2 weeks. I just got back over the weekend. It was good. It's like a distant memory now. Almost
+Robin Barrow: I know we're already on Wednesday. Yeah. I Sam had mentioned you wanted to connect and kind of talk about the accounts that you have with PreVeil and maybe I could help answer any questions. But if I can answer any questions, I will point you in the right direction. So yeah, kind of tell me okay.
+Eberechi Ugwu - Amole: So yeah. I just wanted to check on on our account. We've referred PreVeil, a few clients, I think they've signed on. I keep forgetting to utilize our partner program. Yeah.
+Robin Barrow: But um
+Eberechi Ugwu - Amole: Yeah. Go ahead.
+Robin Barrow: I was gonna say I don't so the only ones that you utilize you had brought through, but ultimately didn't end up being opportunities. I have a list of those, but I don't have the ones that you referred. But weren't through the partner relationship. So I don't know if you have an account name that you want me to just to check up on me.
+Eberechi Ugwu - Amole: I don't have it in my finger. I have to I'm still in my car, so I don't have to check in my email. Okay. Yeah, it's just one or 2. So yeah. I know we could bring 10 or twenty, but yeah. Because they are one of them is an MSP and helps customers get ready. So they do have a number of clients. Yeah, I'll send you the details once I get to my computer.
+Robin Barrow: One of them said Jefferson, Solutions group. I know that.
+Eberechi Ugwu - Amole: Yes. Yes, that's one. Okay. And then there was another one. I forget his name. I think it's uh
+Eberechi Ugwu - Amole: I'm still on vacation brain and fuzzy brain from a cold. I've been fighting. So I cannot even remember the name of the company, the name of the company the owner is done, but I can't remember the name of the company right now. But again, I'll get yeah, I'll get that to you and we can check later on.
+Robin Barrow: Yeah, I can also let me just let me see if I can dig in.
+Robin Barrow: Real quick while I have you.
+Eberechi Ugwu - Amole: Okay.
+Robin Barrow: I'm just going through our emails. I wish we had a better way of really connecting this, but
+Eberechi Ugwu - Amole: No. It's I guess it's the sign of the times. Things are moving at the speed of light.
+Robin Barrow: They truly are I'm like we're trying to keep up here and you work. So Jefferson group is funny because they work not only with all in technology, but also you all. So there's like a an Allin is also a partner of ours. I know there was a trifecta partner.
+Robin Barrow: But you
+Eberechi Ugwu - Amole: Wanted to see if those also, if there were any unique or new features coming or CMC support remediation, those kind of things then also. I know you guys have your LMS and I think I mentioned this in the very beginning if you were interested or looking for or if you had clients that were looking for training. If there was a way for us to list or share some of our training information somewhere, that would be great.
+Robin Barrow: Yeah. That is definitely something I would talk to. I can on your behalf, I'll loop in with my marketing team to see if we can. We do definitely have customers that reach out regarding training for their staff, like insider threat, training, that sort of thing. Again, we have some very basic videos that are very uh
+Robin Barrow: Mature for in the accelerator. They that Noel had created back in the day, yeah. But again, they're not I do have a lot of customers that are like, do you have partners that do training? Do you offer training? So yeah. Let me definitely connect with marketing on that and see if that's something maybe we can even post on our partner portal the other piece. So as far as features that are gonna be released. We have one, really, exciting one. Well, we have 2 really exciting. One one is the cloud drive. So that is going to be huge as far as collaboration goes within the drive platform. Right now, the drive it's difficult to collaborate because you have to wait for. So say if 2 individuals are in a file at once the versions always can always interrupt each other. So say if I'm on a plane and I open up a file and I forgot to close it out and someone else is trying to access that file, I then finally close up the file. The person does not have the correct version. So the cloud drive is going to solve this issue. It's just going to make the drive.
+Robin Barrow: A lot more like one drive and a lot simpler to use. Whereas right now it's it, to be honest, it was built off of like, sharing capabilities. It was built off of a mailing list. So that's how our it because the mail came first then drive. So yes. We're just taking cloud drive will take drive to the next level. And it won't be an additional feature that will be an upgrade. So it won't be an additional cost. And now for another solution, we have our VDI solution that will be coming out. That's a little further down the road because it's you know, it's a beast to build. And that's gonna be a virtual desktop environment for our small customers. That really just aren't in the camp of managing their own endpoints and really want that on cleave approach. So I don't have a ton of details on that, but more to come. Um
+Robin Barrow: And then the last one I would say I mean, we're always up doing updates, but I think further down the line, we're going to probably revamp our accelerator and make that more user friendly, whether it be going into a different LMS or just creating our own
+Eberechi Ugwu - Amole: Okay.
+Robin Barrow: And one point did have you talked to anyone on our team about our governance, risk compliance tool, the DC?
+Eberechi Ugwu - Amole: No. I didn't know you guys had one
+Robin Barrow: Yeah. We just partnered with a company called is and so now we pretty much put PreVeil branding on it and we manage our own
+Robin Barrow: Outside like, a subset of customers outside of is in a_c. So I add users we're managing it here at PreVeil, but we're using is platform. Okay.
+Eberechi Ugwu - Amole: Yeah. Any more details on that would be nice. Yeah. In terms of pricing and all that. So we can also consider referring customers to that or utilizing that for our customers as we get through the readiness programs.
+Robin Barrow: Yeah. The only requirement they have is they just need to have the accelerator. So all the Acme docs package the it's already pre loaded in the library, but the C is available today. So what I can do, I can have Sam send over our pricing sheet for partners. And then are you all a reseller partner or just regular?
+Eberechi Ugwu - Amole: I think a regular partner. Okay. Yeah. We have the partnership thing if we bring in customers not reselling per se.
+Robin Barrow: Okay. All right. Then I can just give you the regular price. It's 2,400 for the year for up to 3 users. Yeah. Okay. But I can also share more information on it, regardless. That would be good. Yeah.
+Eberechi Ugwu - Amole: And then the last question I had I know we have 3 licenses. And I think we are set to renew in 20 seven, right?
+Robin Barrow: Yes let me pull I was just about to make sure I get that pulled up yes you all are set to renew in May 14th of 20 27 so we got a little bit okay have a time
+Eberechi Ugwu - Amole: What would I have a um
+Eberechi Ugwu - Amole: A new resource internal that I'm trying to see if I should get licensed or utilize one of our existing licenses, but it'll it'll all come down to cost whether your licenses going for now.
+Robin Barrow: They are 30 oh, sorry. $38 per user per month. That's for a standard user license, yeah.
+Eberechi Ugwu - Amole: And the admin is 50 something
+Robin Barrow: So we change our pricing a little bit. The admins are so consider the admin 58.
+Robin Barrow: Because it's an admin plus standard users. They go for twenty, yeah. Okay.
+Eberechi Ugwu - Amole: Okay. Um
+Eberechi Ugwu - Amole: Could you send me some pricing on that? I'm not committing yet, but
+Eberechi Ugwu - Amole: Yeah. I just want to see what that would look like for us to to the end of our term to next year. If that makes sense. Or yeah, just please send me some pricing on that. Now, I'll get back to you once I've made a decision.
+Robin Barrow: Sure. No worries. I'll send pricing for both the DC and the standard users just so you can see the pricing on the GRC 2. And if you're let's move forward the standard user, I'll just remove the GRC and send it off. Okay.
+Eberechi Ugwu - Amole: Okay. Okay.
+Robin Barrow: Yeah. Anything else I can help out with today? Um
+Eberechi Ugwu - Amole: No. I think those are the main areas. So I'll get back to you on the potential of the clients I mentioned youtube.
+Robin Barrow: Yes.
+Eberechi Ugwu - Amole: Yeah, to see if they did sign up or if they've had people. I know I spoke with his partner yesterday and he said thanks for the referral that they did. That some of their customers have signed up and I was like, wait a minute. I need to
+Eberechi Ugwu - Amole: Get to mention it to you all. So I do need to get the name of the company that I referred. And then you'll probably be able to circle back and find out other companies they referred.
+Robin Barrow: Yes. Yes, let's do that because it's like I said, it's a web. So once I get a couple of names, I'll be able to figure it out.
+Eberechi Ugwu - Amole: Okay. I'll get back to you on that. And then for your email on the new license and the tool.
+Robin Barrow: Okay. We'll do. Yeah, I mean, yeah, that's all we have. I'm sure we'll spam you when our new products come out. But
+Robin Barrow: Let me know if you have any questions beforehand and I'll also double check with marketing to see if we can start offering your training on our partner portal.
+Eberechi Ugwu - Amole: Yeah. I'm excited for that. Thank you so much.
+Robin Barrow: No, thank you, Abby. I'm glad you're back. And I'm glad you enjoyed your vacation and we'll chat soon. I'm sure.
+Eberechi Ugwu - Amole: Yeah. Definitely take care and have a good.
+Robin Barrow: You too. Bye, bye.

@@ -1,0 +1,55 @@
+Account: AirQuest Environmental
+Call Date: 2026-01-05
+Duration: 00:10:43
+Participants: Robin Barrow, Victor Minacapelli
+
+======================================================================
+
+Robin Barrow: Speaker 1: Hi, Victor. How are you?
+Robin Barrow: Speaker 1: I think you're muted if you're trying to chat.
+Robin Barrow: Speaker 1: Now, you're UN muted. Can you hear me? All right.
+Robin Barrow: Speaker 1: I can't hear you if you're trying to talk.
+Robin Barrow: Speaker 1: There we go. I hear you now. How are you? Good. Yeah. Thanks for jumping on. To be honest, I'm not sure what this calls about because I see that you booked it yesterday. So yeah. Tell me what's going on. Yes. Sorry, I know last minute. I was thinking of signing up for the Dr expansions license. So already have the regular licensing. Sure. I wanted to ask you a little bit about it. Sure. How exactly works. I know I looked at about the video. Anything I haven't thought of before signing up. Yeah. No, yeah. What questions do you have?
+Robin Barrow: Speaker 2: How does that exactly integrate with the other? is it a replacement for the other guide? The accelerator? Yeah, no. So it actually it's not directly integrated. So the GRC all the compliance accelerator documentation is pre loaded into the C within the documentation library. You'll have all your documentation pre loaded. In the sense that you can grab the documents directly from the library and then apply them to the control. But no, they're not directly integrated. You will still have to do some customization to the documentation as I'm sure your environments not directly matched to the accelerator. My company. But yeah, the documentation is already located in the library. So you can pull the documentation rather than having to to the accelerator pull everything and go through that path.
+Robin Barrow: Speaker 2: Okay. Great. And it says that you're the CS manager. So I was used to talking to chorus, so he knows a little bit about my AI. So I'm not sure what you do. Sure. Yeah. I am your customer success manager. So really my role is anything regarding additional products or your renewal. Or say you have a question, you're not sure where to go. Whether it be support or compliance related. You come to me. So I just point you. My role is literally to make sure you're happy and you're happy with PreVeil. So yeah. It's another resource, which would
+Robin Barrow: Speaker 2: Cause I don't think we ever had. Hello, so. No, no. Not yet. So. I'm Victor. So
+Robin Barrow: Speaker 2: Stuff a couple of months back pretty busy together.
+Robin Barrow: Speaker 2: I have a booking today the ones delete everything, but I have a booking today to integrate the outlook exchange. Part of the system. Okay. You're meeting with Phil at 4 today.
+Robin Barrow: Speaker 2: Okay. Great.
+Robin Barrow: Speaker 1: Yeah. I yeah. Yeah, he. Heads up our support team. So he'll definitely be able to help you out.
+Robin Barrow: Speaker 2: Okay. Documentation would be able to tell me more about how that
+Robin Barrow: Speaker 2: Integrates with the instructions of the documentation, yes.
+Robin Barrow: Speaker 1: I guess I'm confused with the question. Are you wondering how it integrates with the GRC or
+Robin Barrow: Speaker 2: Well with the templates and the sample and how I can
+Robin Barrow: Speaker 1: Yes. So integrated with your current workflow, yes. And put it into the to the document to that because I'm assuming similar documentation would have makes sense. Once we have that. Yeah, that looks like. So the excuse me, the Acme docs is what's located in the DC library. So here is you have access to this and you should have have access to in the accelerator. It's under step 6 and you just scroll down to files. But this is where all the documentation is the Acme docs package. That is the fake company that we created and we brought them through a full assessment process. For instance, we have a pre loaded CSP. The GC will definitely help you generate your SP just based on the policies and procedures you put in place. But this is a great example of what a 1 10 customers SSP looks like. It already has a PreVeil language preloaded. So I always suggest is using this and you can add this document to your controls and then edit it within the GRC
+Robin Barrow: Speaker 2: Okay. And part of the
+Robin Barrow: Speaker 2: For the outlook.
+Robin Barrow: Speaker 2: Where does that fit in with these documents? The outlook integration? I don't know specifically where it's pointed. Um
+Robin Barrow: Speaker 1: Probably within
+Robin Barrow: Speaker 1: This area regarding PreVeil. Yeah, I'm not I am not sure. Okay. So tell me a little bit more about that.
+Robin Barrow: Speaker 1: He will be able to point out the documentation directly, but he'll tell you how to install the outlook integration and get it working for you.
+Robin Barrow: Speaker 2: Okay. That works. Because my understanding is that the location can take a bit, but not just the element.
+Robin Barrow: Speaker 2: Take a little bit.
+Robin Barrow: Speaker 2: Having to making some endpoints part or not part of the scope in situation. That's what I was wondering how to document that stuff. Okay. Yeah, I mean, the accelerator will definitely go through. Have you gone through the accelerator yet?
+Robin Barrow: Speaker 2: No. I have not because I still have to um
+Robin Barrow: Speaker 1: You sorry, you have to what? Sorry, I think I have to uh
+Robin Barrow: Speaker 1: Expansion. So I don't know the accelerators what you already have access to the GRC is a separate tool. Let me confirm I think you do have that. You have
+Robin Barrow: Speaker 1: Already purchased the accelerator? Okay. So did you say what's your sample governance risk compliance?
+Robin Barrow: Speaker 2: I was getting one. That's okay. No, I haven't gone through the I mean, but I haven't gone through the whole thing yet. Okay. But I'm assuming this other will be able to help me then putting your the GRC that it's helpful in putting your specific documentation together. It submits it helps you generate a score. It helps you get organized for a full on assessment. The accelerator helps you learn about how you get a 1 10. So it not only does it provide the documentation, it brings you through the whole process. So think of the accelerator more of educational and GCS getting it executing and getting it done.
+Robin Barrow: Speaker 2: So yeah. I'm gonna go ahead and probably send you the I already have the old quote. I'm assuming that will still work for regarding the DC. Yes. Let me just make I just might need to update the dates because I think the date I had sent over.
+Robin Barrow: Speaker 1: Yes. It's for 11 15 start date. So I'll probably just do it for January 15th, start date and end date in January 14th.
+Robin Barrow: Speaker 2: Uh
+Robin Barrow: Speaker 2: So as possible.
+Robin Barrow: Speaker 1: Yeah. Well, I'm just doing for in regards to make it line up with your current contract. So yeah, I can do that. And for whatever reason, the total fee didn't generate accurately. So I just wanna make sure I tell you the total fee now. Because the quote it looks like it error out. Um
+Robin Barrow: Speaker 1: Let me just make sure.
+Robin Barrow: Speaker 1: I pull up your old quote, sorry.
+Robin Barrow: Speaker 1: To make you hold.
+Robin Barrow: Speaker 1: And again, I'll send it to you, but yeah, the total fee got error out. Um
+Robin Barrow: Speaker 1: Could you pay for the year upfront?
+Robin Barrow: Speaker 1: Yeah, it's 20. It's $2,400.
+Robin Barrow: Speaker 2: Okay. For the year.
+Robin Barrow: Speaker 2: Yeah, that's fine. Okay. I'll update this and I'll send it over to you. And then I'll just send it via docusign so you can sign it through there, but I'll also send you a copy via email as well. Okay. After signing in quickly have access to it. I can give you access same day. Okay. Yeah.
+Robin Barrow: Speaker 1: Of course. And do you have a assessment coming up just so I can make notes on our side?
+Robin Barrow: Speaker 2: Just going for self and I'm gonna go through it.
+Robin Barrow: Speaker 2: Weeks. Okay. Perfect. Yeah. And then after that, we'll look for a real assessment. That's
+Robin Barrow: Speaker 1: Okay. All right. No, that's perfect. There will definitely assist you with that. Especially for a self Eve. And then once you get closer to an actual assessment, just let us know. We have partners we work with. So we'll definitely get you in touch with one. Thank you so much, of course, Victor and I'll send this over shortly. Thank you.

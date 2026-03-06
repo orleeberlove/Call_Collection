@@ -1,0 +1,98 @@
+Account: ATF Aerospace
+Call Date: 2026-01-12
+Duration: 00:14:10
+Participants: Robin Barrow, Keith Gazes, John Prater, Robert Costello
+
+======================================================================
+
+Robin Barrow: So
+Richard Brooks: Hey, good morning Robin.
+Robin Barrow: Good morning.
+Robin Barrow: Hi Richard. How are you? I just let John in
+Richard Brooks: Good morning.
+Robin Barrow: Good morning. And I'm gonna let Keith notetaker in. Are you expecting anybody else to join?
+Richard Brooks: There were a few people on the original message. Yes.
+Robin Barrow: This call honestly, it should be fairly quick. Anyways, we just go over what you all signed up for and I just want to learn a little bit more about you all and understand why you need PreVeil.
+Richard Brooks: Okay. So
+Robin Barrow: This won't be a training today. It's just gonna be an overview. All right.
+Robin Barrow: All right.
+Robin Barrow: I think we have everyone, maybe.
+Robin Barrow: B castello just joined as well.
+Robin Barrow: Do we want to go ahead and get started or do you want to wait a couple more minutes?
+Robin Barrow: Hello.
+Richard Brooks: Hey.
+Richard Brooks: I think you're probably good to go.
+Robin Barrow: Okay. And oh, I have a Randy in the waiting.
+Richard Brooks: Room too, Randy. He's got no. Okay.
+Robin Barrow: All right. I'll let Randy join.
+Robin Barrow: Aweme yeah. I think that we have everyone here now. My I'm Robin I'm your customer success manager. So I'll be your main point of contact moving forward here at PreVeil. I know you worked with Marco previously, but yeah, I'll like I said, I'll be your main point of contact. Really, you reach out to me for anything. If you have questions regarding a technical question or say you have a question regarding your compliance or you're not sure where to go just reach out to me and I can either find the answer or point you in the right direction to find one. But yeah, just to confirm what you all signed up for. I see that you have 15 users into those at our admin. Does that sound accurate? Yes. Okay. Great. So yeah, if you don't mind sharing, why do you all need PreVeil?
+Richard Brooks: Well in a space we're the requirements came through CMC level 2 is what we're looking at. Yeah, requirements came through. We do receive some items that have UI on there. We work in the industry where people take requirements and they'll throw requirements on anything. Okay. But we need to be prepared. So and while things are quiet with it right now. We were trying to get on board before things kick up. We will need A C M C level 2 certification.
+Robin Barrow: Okay. You will need a cms level 2.
+Richard Brooks: Yes.
+Robin Barrow: Okay. Great. And so are you currently so you're not working with UI today, but you expect it coming soon?
+Richard Brooks: We received a few items and say, okay, have that call it C UI. Yeah. But again, I think that it was just a panic move that when the requirement came through last November, yes, thrown on a lot of different things. We haven't had any orders get held up over yet or any issues, but we know it was a transition time over the next year.
+Robin Barrow: Okay. That makes sense. And I'm sure Marco mentioned we do have a whole compliance side of PreVeil. It's not under what you all currently purchase, but if in one you want assistance with that regarding documentation or we have something called the compliance accelerator, which is a 10 step guide to getting compliant. That's a it's an additional product, but it's available to you if and when you need it. Happy to cover it today. But I think it's helpful for companies that are just kicking this off. Um
+Richard Brooks: Me and Marco spoke about that for a little while in the last we are using another company. Oh, okay. I get there. So so we passed on that.
+Robin Barrow: Perfect. Okay. Then that makes sense then. I was surprised when I didn't see it because majority of our customers sign up for it, but if you're working with someone else, that makes a lot more sense. Great. And then as far as the PreVeil platform, have you all got a chance to go through any of the onboarding documentation yet?
+Richard Brooks: I've read through all the onboarding documentation. I watched some of the video. Okay. I know. Richard from User Friendly. He said he went through quite a bit, so he may be able to answer more than me.
+Richard UF: Yeah. I went through the video as well. I just did the same that Richard did watch the same amount of stuff. We read the same amount of stuff it looks pretty explanatory. It looks pretty simple. I see that we're gonna need to push PreVeil onto all the computers. I could probably get your system. Maybe we can write up a like a script or go that'll get them pushed out to all the machines. And then it looks like and then yeah. And then Richard and his team can basically, I guess, log into the create the site tenant and then structure out the folders permissions. And they should be able to upload their data, either from the cloud or just by once PreVeil is installed on the computer, they should be able to upload their data right into the folders, right, that are syncing into file explorer.
+Robin Barrow: Yep. So if you want to have if you have the sync on yes, you can do it. Either option works. We state that. If it's over 100 gigabytes worth of data, we'll probably want to set up some sort of file transfer tool to make it a seamless process. But if you're under 100 gigs, it's not that hard or it won't take that much time to just put it into it yourself or drag and drop, honestly. I would say. So for the 2 admins, do you all know who those who are gonna fill those seats?
+Richard UF: For the site?
+Robin Barrow: Burden creepy, yes. For per rail. Um
+Richard UF: Well definitely user friendly. We should definitely be an admin in there. And then Mr Brooks did you want to be an admin? You're gonna need to be an admin.
+Richard Brooks: That assumption holders and
+Richard UF: Permissions and everything. Yep.
+Robin Barrow: Okay. You all with really get a training available to you have you all. I don't know if you book that yet. Let me just now you have not. Okay. All you need to do prior to that training with our actual support team, you just download PreVeil on at least one device. So assuming it would be an admin because this training is admin specific. You would just want to have it up and running on one computer, just so you can then go ahead and click through the platform as you train. We do have an option for a standard user training with you all taking up. I think around 15 seats, I would say that might be helpful for additional staff. That would be a lot shorter of a training. It's only 30 minutes and they go through the User functions of PreVeil. So just like email and drive and how those work. We always suggest you wait to book the standard user training, once the admins feeling comfortable and has then pushed out PreVeil to the additional users monthly.
+Robin Barrow: But yeah. I mean, from for me I will schedule time for us to connect again in April just as a 90 day check in to make sure things are up and running. But again, you all PreVeil s pretty straightforward if you know how to use e mail and you know, how to use some sort of drive function, you should know how to use PreVeil. But I can send over additional.
+Robin Barrow: Training materials just to make sure your team feels comfortable using it as well.
+Richard UF: Yeah. No, it sounds pretty straightforward. It's like a one drive or dropbox type of thing. Yeah. From the demo video, it looks just just like that Robin for the users point of view they're gonna have the structure set up, just like they've already seen in file explore. They'll have it on the left side. They'll click on it. Any other folder and they'll upload just like copy paste, drag and drop, whatever they normally do. So what I seen it looks like there's really no change on their end. It's gonna all look the same to them. But yeah, it looks pretty simple, but what I can see
+Robin Barrow: Yeah. If I had to point out one thing that our users I wouldn't even say struggle with, but it's just permission base sharing is how PreVeil works. So just make sure you have an idea of what your folder structure wants to look like. Because you have to share out the content, right with each user. Um
+Robin Barrow: But again
+Richard UF: Through permission through groups and stuff. Like all these users can let's for instance, let's say Mr Brooks here. You know
+Richard UF: Creates an accounting folder set permissions for a group of called accounting. And then all the users that are in that group would basically have those permissions to share amongst that folder, right?
+Robin Barrow: It's not group based. It's permission. It's individual permission space. So it would have to go one by one.
+Richard UF: I could have sworn so
+Robin Barrow: We do have groups, but
+Richard UF: I sworn I saw a user group. It's okay. I only watched the video demo once, but I could've sworn I saw a group tab.
+Robin Barrow: Let me just see if
+Richard UF: Creating folder permissions.
+Robin Barrow: We are creating groups.
+Robin Barrow: Just make sure if I misunderstood, maybe I'm misunderstanding you.
+Robin Barrow: Like we can create groups and we have approval groups, but it's you might have seen the approval groups tab, but it based on because of the file structure, it has to be individual share basis from my understanding.
+Richard UF: Okay. I got it.
+Robin Barrow: But you can
+Richard UF: View or edit permission is what you're saying. Either review edit or read it permission.
+Robin Barrow: Yes. Yeah. Right.
+Richard UF: Yeah, I understand.
+Robin Barrow: Okay. Okay. Great. That makes sense. And then yeah, I would say your next step will just honestly schedule time and support team and they'll they'll help you walk through all the admin functions. There's 2 big things that PreVeil will bug you about until you do it. It's saving your recovery key and then creating the approval groups. The reason why those are so important, because if one of you decided to win the lottery and toss your computer off a cliff, you need to access PreVeil. That's the it's just really important because it without those you wouldn't be able to get it.
+Richard UF: Makes sense. And that's why you have a recommended at least 2 admins. Yeah, I'm assuming.
+Robin Barrow: Correct. Yeah.
+Robin Barrow: I like to use that sneer rather than getting hit by bus, because everyone uses that one. I'm like, that's more of it. So
+Richard UF: I agree. So books, I mean, sounds good to me as far as making getting that scheduled if you want to go ahead and get that scheduled. And then I would suggest using your computer as the Ginny pig since you are an admin and you're gonna be going through the admin features in that demo training with the with PreVeil. So if you want we can get PreVeil installed on your system, schedule out that training with them. And then um
+Richard UF: Yeah, probably. And then just add me there. So I can be along with you and we can both training that admin thing together.
+Richard Brooks: Yeah, that works. Yeah. If you can install it a little bit later on today or this evening, it works.
+Richard UF: All right. Robin to get PreVeil installed. The these are specific place or location. I need to grab that installer or
+Richard UF: It installed on Mr bill.
+Robin Barrow: Yeah. What I can do. Let me just make sure Richard that I have your
+Robin Barrow: I don't know if I have your email. Do you mind dropping it in the chat?
+Richard UF: Yeah. I mean, you probably have it's under client Services at User Friendly s.com. Let me pop it in here.
+Robin Barrow: I just don't know if Marco had added it.
+Richard UF: It's okay. Hold on. Thank you. What do you have help desk? Uh
+Robin Barrow: I don't.
+Richard UF: It's okay. Hold on. Client service.
+Richard Brooks: The only side his his his own email up to it originally as far as I see.
+Richard UF: Gotcha. Okay.
+Robin Barrow: Oh, I have oh, excuse me. Yeah, I do have Keith e mail.
+Richard UF: That's all right. Go ahead and send it to client Services at User Friendly, s.com. I'm gonna pop it in the chat for you.
+Robin Barrow: Okay. Perfect. Thank you. Yeah, I'll send a follow up email with instructions on how to go ahead and download PreVeil. And then it also includes the link on how to book time with our support team. It's just through calendar how you booked with me. Okay.
+Richard UF: Perfect. Yeah. And then just add me to that meeting. Mr. Brooks and then we'll jump on together. We'll run through that demo with their team and then we can start getting this little structured out for you. All right. Yep. Excellent. We appreciate it.
+Robin Barrow: Yeah, of course. Please feel free to reach out if there's any questions. Like I said, I'll book time for us in 90 days, but yeah. This call was short. Thank you.
+Richard UF: Just to confirm the yeah, we appreciate it just to confirm. Before I hang up, you're gonna be sending the install link for PreVeil in in this email coming through.
+Robin Barrow: It will be next steps. So it'll be the it'll be list on the same instruction, but the install links live within the instructions.
+Richard UF: All right. And do you know which I'm sure I'll find out when I get to the instructions, but do you know if this is gonna be like an an executive file or an MSI file, I just was just curious to know how I'm gonna script it out or how I'm gonna
+Robin Barrow: I don't know the answer to that, but I can find out for you.
+Richard UF: Once I get the email and we get in there, I'll see it right there. Okay. I'll know.
+Robin Barrow: Okay. Sounds good. All right. Thank you so much.
+Richard UF: You're welcome Robin. All right. Richard. We'll look out for that email and then just shoot me that invite whenever you're ready. Okay. We'll do.
+Robin Barrow: Thank you.
+Richard Brooks: Thanks, bye. Bye.

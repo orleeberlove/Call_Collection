@@ -1,0 +1,82 @@
+Account: American Electric Power
+Call Date: 2025-12-16
+Duration: 00:16:21
+Participants: Robin Barrow, Angela Snyder, Jerry Richmond, Shawn J Swaagman, Michael Fitzgibbon
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Good morning.
+Shawn J Swaagman: Good morning.
+Robin Barrow: Can you hear me all? Hello, right. I can hear you. Great. Awesome.
+Robin Barrow: All right. And are we texting anybody else on this call today? It looks like we have a Shawn Angela and then
+Robin Barrow: I have your name's not popped up in your zoom, sure. Yeah.
+Shawn J Swaagman: That should be everyone we normally would work with Jerry, but he's not going to be here for this meeting, but he'll be in subsequent ones. And then Sam Roberts is our business partner and he's not able to make today, but he'll be in our subsequent meetings as well.
+Robin Barrow: Okay. Great. Honestly, this cost me fairly quick anyways. This is just the intro call to PreVeil. So it's intro to me I'm your customer success manager and I'll be your main point of contact moving forward. Really, I just want to cover what you all signed up for. Talk about next steps on how to get started, but also learn a little bit more about why you all need PreVeil and what you're hoping to get out of it. To dive in. I see that you all have sign up for 18 users, 2 of those being admin. You also purchase the compliance accelerator in the same connector or same connector as well as it looks like the email gateway. Does that all sound accurate?
+Robin Barrow: You all have pretty much everything all has to offer except for one product. So that's awesome. You guys are pretty much covered there. Yeah. I guess tell me if you don't mind sharing, why do you all need PreVeil?
+Shawn J Swaagman: So Angela might not have a lot of the details of our original business analyst. Guy had initially collected that data. But if you have anything Angela to share first, you go ahead with that.
+Angela Snyder: Yeah. So sorry, I'm not on camera. I'm seeing you all guys on like double in trouble. So I'm not fitting to do that to you either. Yeah, basically Robin one of our nuclear teams needs to be able to share data securely with a government entity. And to do that, they need to use the platform that's missed, 800 one, 71 compliant, which is why we went down this road to PreVeil.
+Robin Barrow: Okay. That's pretty straightforward. Yeah. I'm sure you shared with Eric. I just like to hear for myself. Yeah.
+Robin Barrow: Yeah. No, that's pretty standard use case of PreVeil and Erica over the compliance accelerator and we're gonna find everything. If not, I can show you that. Um
+Angela Snyder: In on the call I was on with him. I don't know Shawn and Michael, if you guys are on some subsequent calls with Eric from PreVeil.
+Shawn J Swaagman: No, I don't think we've seen it yet.
+Angela Snyder: Okay. I don't think we've seen anything on it yet. Robin, to be honest with you. At least I haven't
+Robin Barrow: Sure. Well, like I mentioned is really. We just go over your contract and where I stand. And then I also usually show the compliance accelerator, just to give you a rundown of where you can find all the good stuff. The actual technical onboarding, which will be a call after this. That will be with our technical support team. They're gonna go through the whole platform with you. So they're gonna go through email drive all the admin functions. And then because you all purchase the email gateway and the same connector, those calls will also come after because we want to make sure you're up and running in the PreVeil platform. And then they'll we'll start setting up those additional products. They'll you'll have when I talk about resources for support, you have me who kind of sits in the middle. I will be if you have any questions, you're not sure who to go to me. You have the support team and then you also have access to the compliance team. So that's everything regarding to CMC level 2 you reach out to them. But because you all have access to the compliance accelerator does a really great job of bringing you in at green. What is CC why is important all the way through? How do you score a one time? you all have the assessment date or a goal of when you like to be compliant by? I don't
+Angela Snyder: Unless Shawn or Michael have more information about this? I don't know. I think that would be more of the business determining that. Unless our team that would be probably a combination of the business and cyber security figuring out when if and when they want to achieve that compliance state. I wasn't aware that AP purchase that piece of it, but it sounds like, okay, they do want to go that route.
+Robin Barrow: Okay. Is so would the component accelerator be something that you all would have access to or would that be more of the business team?
+Shawn J Swaagman: The business team, yeah.
+Robin Barrow: Okay. I don't know if it's helpful for me to go through it because if it's not something you're going to be added to. But I can just show you real quick. And again, this call is recorded. So if you want me to share it with them too, I can. But or I'm happy to meet with them as well. But um
+Angela Snyder: Robin before you go in and screen sharing and whatnot. Can I ask you a question of course, on these offerings that AP purchased? Is there documentation anywhere that I can go get and get kind of like a functional description of what these things are and what they do?
+Robin Barrow: There is
+Angela Snyder: Okay. If you could point me to that would be fantastic.
+Robin Barrow: Yeah. I can share those with you after this call. Um
+Robin Barrow: Yes. Absolutely. So yeah. The and I can give you a quick rundown. They purchase you all purchased the email and drive, which is very much what it describes. It's an email function that's secure end to end the dry function. Is similar to what you would have with google drive or dropbox, but it's secure. So it's encrypted end to end as well. The email gateway is usually purchase. If you're communicating with entities that involve, let's say the do directly or the Navy. You typically for our third party communication, we require individuals to sign up for PreVeil express, which is a free version. It's not a download, it's not an application. They just have to go through a couple of clicks. As you can imagine the dot is not gonna do that. And some departments of the duty like the Navy or whoever I always use the nav as an example, because they're the ones that always give us the biggest friction. But that's why you all most likely purchase email gateway because it indicates the purpose of signing up for PreVeil express. They can just perceive secure emails directly.
+Angela Snyder: Robin, there's a note on the contract that says for that email gateway that there's a separate certificate that's still required.
+Robin Barrow: Yes. Yeah. So that requires a lot and I think is what it's called and I can get more information on that. You all have to purchase that because you have to purchase a secure sub domain.
+Robin Barrow: So that's why it's an additional cost that we don't acquire. It's not something that we're gonna charge you all for. It's whoever you decide to go through to get that certificate. We can provide some
+Robin Barrow: Example, companies that we recommend, but ultimately, it's up to you. And sometimes you might already have something in place that you don't need to purchase an additional certificate for. Nice.
+Robin Barrow: And to give you a number or ballpark of what that usually costs, you've seen it to be like $300 for the year at most.
+Robin Barrow: Um
+Robin Barrow: And as I mentioned, I already mentioned the compliance accelerator and what that is. That's all our documentation for level 2. It brings you all the way to 1 10 and then the sim connector. Are you all using a same solution today? Or are you looking to get one soon?
+Angela Snyder: We do have the same.
+Robin Barrow: Okay. What the zoom connector does? It does it just pulls the logs directly from PreVeil and puts it into your sim or seen solution.
+Robin Barrow: And that's all of the products. I will definitely still provide documentation so you can see exactly be great what they are. But yeah, like I said, that's a very quick description of what each of those products do. Great. So I guess
+Robin Barrow: For I'm not gonna bore you with the accelerator because you're not gonna be the group that uses it. But for next steps, typically, what we would have you all do is just download PreVeil on the devices that are going to need it. And then schedule time their technical onboarding team. We typically say the first meeting would be the admin training as I mentioned. You would only want your admins to join this call. Because if the standard users all joined it would be too much information. We can set up another training group specifically for them. Have you all determined who would be the admins on the account?
+Shawn J Swaagman: So the first would be Michael here. And then probably the other one is gonna be Sam Roberts.
+Robin Barrow: Okay. Great. So yeah. Michael, if you'd like to download PreVeil, and then you can maybe add Sam. I don't know if you've done so already. I describe it in my step to email and you probably you might know not receive that, but um
+s211046: Yeah, I got it. Downloaded and and installed and set myself up as an admin so far. Great.
+Robin Barrow: Okay. Great. So yeah, if you want to invite Sam or even just schedule a time you're already in a good spot to reach out to the support team. That's great. And then I think what I'll
+Robin Barrow: Do you all have data today that you need to put into PreVeil to start protecting?
+s211046: I don't think we do yet. Okay. I don't know for sure what was our by contact name. I'm sorry.
+Shawn J Swaagman: Sam Roberts. I'll send it to you as well, but yeah, we can check with him to make sure, but it's a new engagement. So I don't think so. But they might have something secured somewhere else internally that needs to be put on there for the near future. So we'll check with them and get back with you on that. Okay. No, I did have a question about so based on the nature of this SaaS product, there's not really a lower region or environment. It's all just the the one production area, right? There's no lower environment. You don't want to test to see if your documents are in there or not and things like that, correct?
+Robin Barrow: Correct. No. No. We do a testing environment. Um
+Robin Barrow: Just trying to think. Yeah. We always state though if you all have over 100 gigabytes worth of data that you want to put into PreVeil at once. Just reach out to us. So we can set up some sort of file transfer. It doesn't interrupt workflow or anything like that. I
+Angela Snyder: Don't think they have anything like that right now. Okay. Robin, they may have been using the DC for something in the interim. But then with the government shut down and stuff, everything kind of put on hold anyway. So I don't think there's a ton of data that they have right now. Okay.
+Robin Barrow: Yes. And then but you all get up to 10 terabytes worth of storage in the system. That's a ton. I don't think I think we have like 2 customers that are approaching that. So
+Robin Barrow: Yeah, you are in good shape as far as storage. Why
+Robin Barrow: Um
+Robin Barrow: Yes. So lastly, from my end I'll schedule some time for us to reconnect, let's say in march just as a 90 day check in. But really I'm available if you all have any questions between now and then, of course. But yeah, I before we jump like, what questions do you all have? Where are you confused on the next steps or where to go?
+Shawn J Swaagman: Are you gonna initiate the tech abort reaching out to us? Or do we have a name? You just mentioned? Eric, I think it was.
+Robin Barrow: So Eric was the one that you initially started this conversation with. We can typically I just sent over a link for you all to book your technical onboarding, whatever what time works best for you. So I sent it over the welcome email, but I'm gonna resend a follow up as well with next steps, but I can send that over. So you would all schedule them once you schedule. You'll have your individual who you'll work with to set up PreVeil. I'm assuming assuming it's gonna be either a Chris Benito or API rodrigues you all. Because you all have a lot of products with us will put you on the more senior great.
+Robin Barrow: Any other questions?
+Angela Snyder: So you said it's got to be installed on the devices that are going to use it first. So that's both the admins and the actual 18 users? Right, correct? Yeah. Okay. Then you would do in like an admin training, the technical type training or is that separate from the technical training?
+Robin Barrow: The admin training. I would say I'll back up. We'll probably just want the admins to install the start out, get the organization setup. Get the admins feeling comfortable with the platform and then you would most likely roll it out to the other individuals. So then we could would schedule a separate meeting outside the admin training for the standard users once they're all set up.
+Robin Barrow: On their devices. So there'll be 2 trainings.
+Angela Snyder: That makes sense.
+Robin Barrow: Um
+Robin Barrow: The standard user training only takes about 30 minutes, whereas the admin training takes about an hour.
+Shawn J Swaagman: So I'm looking at your initial e mail and I clicked on the here button for the PreVeil technical training, PreVeil onboarding. I see that link. So I think that's the one you're talking about. It says PreVeil onboarding. So it kind of threw me off because I was thinking this was the PreVeil onboarding meeting. Okay. But I see it though. So yeah, I can see that here. I can see we can get that scheduled including Michael and Sam in that. Yeah. So sounds good.
+Robin Barrow: Awesome. Okay. And I'll probably be able to see who you all get shortly. But if you all because typically the scheduler goes through a round Robin. So sometimes you'll get scheduled with someone and then you'll get rescheduled with another individual. So if you all see a name, that's not a Chris or fill. Give me a heads up because I want to make sure I get you all in front of a good group, especially with all the products that you all have.
+Shawn J Swaagman: You said Chris or Phil?
+Robin Barrow: Chris or Phil. Everyone's great. But they're more senior. So I'd love for you to meet with them instead.
+Angela Snyder: Shawn, is it would it be okay? Shawn and Michael if I just listened in on that meeting, just like from a learning perspective? Awesome. Thank you.
+Shawn J Swaagman: Yeah, for sure. Definitely especially for requirements gathering or anything like that.
+Robin Barrow: Great. So. And again, I'll send a follow up email with additional resources. We have things like standard user guides that maybe you want to share with your team as you roll this out. We also have another great video that's available within the accelerator. It's called what is cms. So for your individuals that are like, okay, why do I have to start protecting this data? What is this project we're working on? That's a great video to share because it gives them a quick rundown of cms and why it's important.
+Robin Barrow: Great. Any other questions?
+Robin Barrow: Okay.
+Robin Barrow: Awesome.
+Angela Snyder: Robin.
+Robin Barrow: All right. Great. So I'll send like I said, I'll send a follow up email, but I wanna thank you all for jumping on and it was nice to meet you and please feel free to reach out if any other questions come up.
+Shawn J Swaagman: Thanks so much.
+Angela Snyder: Sounds great. Thank you. Take care.
+Robin Barrow: You too. Bye. Bye.

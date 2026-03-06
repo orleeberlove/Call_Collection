@@ -1,0 +1,42 @@
+Account: Clean Harbors
+Call Date: 2025-12-03
+Duration: 00:07:16
+Participants: Emily deBettencourt, Yasmine Femia, John Lupi
+
+======================================================================
+
+Emily deBettencourt: Hi, Emily. Hello. Hi, Tracy. How are you today? Doing? All right. Good. Good. Well, I've invited Yasmine came to join us today. She is the director of customer success here at all. I don't know if you've had the chance to meet with yes. I know you've met with Vince in the past.
+Emily deBettencourt: We have
+Yasmine Femia: No. Really, really. Nice to meet you guys.
+John Lupi: Same to meet you.
+Emily deBettencourt: Yeah. Yasmine reached out. And I know we've met a few times recently as well. But we wanted to check in with you know, just to make sure things are going well with PreVeil, but also wanted to flag that you guys still have not added all of your users to the platform and wanted to make sure you are comfortable with that usage level and see if there wasn't anything we could do to help.
+John Lupi: So we have not seen any requests in probably the last 6 months from any group indicating that they were receiving UI.
+Emily deBettencourt: Okay.
+John Lupi: So that's probably the reason for the lack of users not being in there with the exception of the security team at this point and Mary.
+Emily deBettencourt: And
+John Lupi: And then of course, if we do start seeing that, then we'll go ahead and create the necessary groups and for them
+Emily deBettencourt: Okay. Good. So it sounds like you have a process in place. You've got your security team setup, you've got yourselves and then you have the licenses on hand in case anyone receives UI. Is that sort of your plan?
+John Lupi: Yes. Correct.
+Emily deBettencourt: Okay. Okay. Any plans to be proactive and add users ahead of time? Just in case they potentially get UI or have you flagged anyone internally who is likely to receive cur?
+John Lupi: Not currently. And the reason for that is just the way that the internal teams work. Okay. It all depends on who they're gonna assign to specific projects and things like that. Okay. Overall, we may we might get one person who might be the project manager, but everybody under it is going to be different. And then if there's a second project it most likely is. Everyone under that project is gonna be different
+Emily deBettencourt: Okay. That makes sense. I know last time we met. We talked a little bit about how to flag I or how to identify UI and I sent you some resources. So I just wanted to see if you had any questions about that stuff.
+John Lupi: I don't no.
+PETERSD453311: No, no. The only issue we have of course is the perennial issue. Somebody flag something marks or a CI and maybe it shouldn't be or somebody doesn't mark it and it should be. But of course it the originator the owner the UI, if they say it's UI, it is
+John Lupi: Right. Yeah. And I think part of the way we're gonna end up handling that Emily, is that if it's one of those grey areas where it's like, well, we may send CIO will end up once we see in the email like that from our internal team. We'll say, okay, you know what we'll treat it as we're gonna have co and we'll put them into the PreVeil platform more or less just just as a CIA. In in case they do end up giving us something now. And that was one of the questions I had for you. So in your experience, do you see a lot of times where you've got companies that are gonna say that we may give you a CIO say UI and it's it really comes down to that. They don't really understand the concept of what they may.
+Emily deBettencourt: Own
+Emily deBettencourt: Oh, I think you cut out there. Can you guys hear?
+John Lupi: Yeah. No. Yeah. I can repeat the question. So do you have instances where you've seen somebody say that they may give UI and the reason for it is they don't really know that they actually possess it or not.
+Emily deBettencourt: Yeah. Yeah. That happens all the time. So this is something that comes up with our customers a lot. They don't necessarily know what is UI or how to flag c._i or they've struggled to train their employees. So maybe there's a core team that really understands it. And then spreading the word or getting that education out internally is a little bit trickier. What I've seen my customers do in that case, is just play it safe, frankly. Where anyone who is likely to receive UI or working with a customer or client on a dot related project. To to just play it safe and send those types of files and emails through Val. Yeah, I don't know if you have any other suggestions or thoughts from your customer base on that.
+Yasmine Femia: No. That's basically the same thing really. I mean, we're happy to connect you with our support team who sees these scenarios kind of day in and day out. They can kind of talk you through through that if you're interested in in connected with them. But I think what Emily covered is basically the same scenario that I see from from my customer base as well.
+John Lupi: Yeah. And then that's really kind of the tech that we're taking also is the fact if it looks like we might potentially get it and you know, it's okay. That's unsure. It's a gray line. Put it in PreVeil don't don't even second guess it
+Emily deBettencourt: Right.
+Emily deBettencourt: Yeah. Okay. Well, we wanted to make ourselves available to chat through these things with you and really just wanted to confirm that. You're okay. And you're aware with that lower usage that we're seeing. Of course we're here to support you and to help with anything. We can once you have users ready to use the platform or you need some support getting people on it or trained on it or with adoption of any kind. But yeah. If there's anything else we can help you with today, just let me know.
+John Lupi: Yeah. I mean, I don't really have a lot today.
+Emily deBettencourt: Okay. No. No, I again, it's there's so many
+PETERSD453311: Potential gray areas that are that occur. Anywhere UI has discussed and then we have as John was discussing you have a project manager here. A different team there. You don't know who's gonna be assigned. So there's a lot of gray areas and we'll uh
+PETERSD453311: We'll attack those when we have to
+Emily deBettencourt: Okay. Okay. Great. Well, we're standing by so just let us know how we can help.
+John Lupi: Fantastic. We appreciate that.
+Emily deBettencourt: Of course. All right. Well, we'll give you your 20 minutes back and just let us know if there's anything we can do.
+John Lupi: Thanks. I appreciate it. Very good meeting you. Bye. Bye.
+Emily deBettencourt: Bye. Now, bye.

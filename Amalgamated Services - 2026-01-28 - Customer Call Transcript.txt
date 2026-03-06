@@ -1,0 +1,132 @@
+Account: Amalgamated Services
+Call Date: 2026-01-28
+Duration: 00:28:40
+Participants: Robin Barrow, Brian McGahey, John Riffice, Valerie Soderlund
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi Karen. How are you?
+karen: Boston, can you 50 hear me? All right? 5 or an American. He's charged with third degree of some bank or to suspend the meeting a insisted continue.
+karen: Like this?
+Robin Barrow: Sorry, we're getting I don't know if you're trying to talk, but the feedback.
+karen: Yeah.
+karen: The face is that me?
+Robin Barrow: Yeah, that's you. I don't know if it's like a television in the background or a radio. It's
+karen: I don't know. It's probably a row.
+Robin Barrow: No worries.
+karen: Okay. I got what is wrong.
+Valerie Soderlund: Are you're on what's wrong, Karen? Just give
+karen riffice: Me a moment, please. Anybody.
+Valerie Soderlund: There we go.
+karen riffice: Is that better? Yes. Yeah, I got my husband saying what's wrong? And I'll tell you know, just this whole zooms and all this other stuff. It's very it's not complicated. But when I do like 5 6 a day with different platforms, it gets aggravating. So okay. I'm in a private room.
+Robin Barrow: No worries.
+karen riffice: All right. You're good. Is all on the fine.
+Robin Barrow: She is, yeah.
+karen riffice: Good grief. Okay. Good. Good. Okay.
+karen riffice: You see here's a deal, my husband's retired and he likes to sit next to me.
+karen riffice: Box news on and all this other stuff. And then I get up and leave and he says what's on what's wrong. And I want to say something very bad, but out. So anyways Robin
+Robin Barrow: That's all right. Awesome. Well, thank you all for joining. This is your intro call to PreVeil. So this call should be very quick. We're just gonna go over what you all signed up for. And then I kind of want to talk about next steps getting started and also learn a little bit more about why you all need PreVeil. But yeah, just to jump get things started. I see that you have one admin 2 users and then the compliance bundle. Does that all sound accurate? It's under the PreVeil path bundle?
+karen riffice: Right. The users being I'm still here's the deal Brian from JK. He's been very instrumental in. Helping Amalgamated, get on level one of the cms platform. I hope I don't go to 2 because that's like $30,000. So I've been working with him for over a year. I'm just I'm getting our score up. I don't know if you're familiar with that. I'm there to cms.
+Robin Barrow: Yeah, yeah. Okay. I am, yes. Yes.
+karen riffice: It's a headache, right? Anyway it is. So he recommended PreVeil and I went with his recommendation just so we can get a better score and be ready for solicitations that come our way from any dog agent department of defense agencies that have it in their specs. So I don't know exactly what PreVeil will do, but I do know that Brian recommended it for the purpose of this level one. So I kind of going blindly into this and be is gonna she's my for lack of better words my team, because I'm getting a little old for all this stuff and since she's young and willing to learn all this, I'm making her a lead. So the users you said there are how many users
+Robin Barrow: So there is 3 users, okay. One of them being admin.
+karen riffice: Right. Okay. And then Val
+Robin Barrow: Val, if you want Val to be the admin, she can. But yeah, there you all would have to go out and assign those admins once you set up PreVeil. But that's what I want to talk about and how to go about doing that. So
+Robin Barrow: I know Brian Brian was supposed to join this call, but he's with JK technology, as you mentioned, and he's a partner of ours. So what they what PreVeil will do it will help you manage and store your UI securely. So if you receive a lot of the cases, if you're meeting level one, if you're receiving contract information or specs or anything like that needs to be protected or is marked UI by your prime. That's where PreVeil comes into play. That's where you're going to store this information and that it follows the nest requirements that fall in new cms. So if you have those far clause, 70 twelve, 20 nineteen, all those acronyms that's where you need cms level 2. And that's where we come and apply.
+karen riffice: Okay. Um
+Robin Barrow: So not only are you getting the email and drive capability. So email being able to share out and receive I securely the drive store. You're also getting our compliance accelerator. Um
+Robin Barrow: So I can
+karen riffice: Excuse me, one word, you had an acumen there. I think you said cus was that the comment or of the
+Robin Barrow: UI
+Robin Barrow: Unclassified information.
+karen riffice: Okay. Control. Unclassified information. Okay. That's okay. I didn't know that. Can okay. Great.
+Robin Barrow: Yeah. And the other one is fi, which is financial controlled information.
+Robin Barrow: I might have butchered that one. Let me confirm. But I usually is for level one. So okay. It might be federal contract information. That might be the right one. I'm gonna double check it, but okay.
+karen riffice: Okay.
+Robin Barrow: Yeah. For the compliance accelerator, this is
+Robin Barrow: We call it our 10 step guide to getting compliant for level 2. So everything you will find in here and you all I can add you both to it.
+karen riffice: Um
+Robin Barrow: Everything in here, it will take you really green. From what a cms all the way through how you score 1 10. Okay. Go ahead. Sorry. Karen, do you have a question? Oh, no. I was just
+karen riffice: Looking at this this little chart, is this a chart that we would use if we wanted to go to level two?
+Robin Barrow: This is a it's based out of a learning management system. So these are all course. These are all courses. Yeah. The first one. Well, the first one yells that you and tells you to watch this video in all caps. This one's important because it tells you where to find everything within the accelerator and tells you how to work the accelerator. Our advice is always start from step one and work your way through these additional courses. I'm sure Brian is assisting with these parts with your endpoints and your network that need to be protected for level 2.
+karen riffice: Right.
+Robin Barrow: These are more of Brian can have access to this if he needs it's more of advice. We had a lot of customers that came to us and we're like, great, thank you for PreVeil. You're helping address 102 of the controls. What about the remaining 6 controls or math Robin? 8 controls because you want to catch to 1 10. Those are all around endpoints. So protecting your computers, putting things like multi factor identification on your computers bit locker, that sort of thing. So that's what these courses are gonna discuss. I always say and we recommend starting at step step one, which is the most important scoping your boundary understanding who at your company is going to be working on these contracts and hold having access to the UI, as I mentioned.
+karen riffice: Okay.
+Robin Barrow: The goal is to make your way all the way through to one ten, but the bulk of the content which is this is going to overwhelm me. I'm going to tell you this right now. The bulk of the content is in step 6. This is a documentation. This is the
+Robin Barrow: I hate to say it like this, but it's the biggest pain when it comes to getting to level 2 is the documentation. It is tedious and it's repetitive, but we try to make it easy for you easier for you I should say. And where am I we created the ACM docs package, which is a fully assessed documentation package. We actually had a third party assessor come in certified and review all our documentation and gave our fake company Acme, a level 2 certification. So all this documentation is what you should expect, that you need to meet level 2.
+karen riffice: Okay.
+Robin Barrow: So you have access to all of these. Do you have access to all these templates? Again, we say the full to go from level one to level 2 and get all your systems up to speed. We give you a runway of 4 to 6 months. That's on average, how long it takes some. Yeah, it could take some people longer. I had a customer yesterday. He's like, we're planning on a year. Sounds good at all. It's all about the resources you can put in front of it and how much time you have because I'm sure all of you are trying to run a company at the same time. So
+karen riffice: Yes. And I find it very insulting and the government side to to have this type of certification, whatever, lack of work. But I was wondering I do have one question. If I came across a contract that it required level 2. All right. And I didn't get to that point. All these files is all the stuff that you're showing me, but I'm in process of doing that. Is that something that I could put in a bid document saying well, I'm working. I can say that. It's we are in the middle of working at because I'm sure there's a lot of contractors out there. It's just starting this and now it's a year out before they can get it done. Is that have you come across that with contractors? Requesting, hey can you help me put something together a letter saying that I'm in the process so doing this and put in the bid documents? So you're not you're not wasting time, putting all the proposal to gather package for the government and get it kicked back because this was the CMC 2 was listed in there.
+Robin Barrow: Yeah. Absolutely the biggest thing that we see with our customers that are bidding on these contracts or have existing contracts in place with directly the do or a prime. They are doing a self assessment with a score with a goal to get fully assessed. The self assessment. I always say, do your best. Obviously, try to get as high score as possible. One, it's just gonna help you when bidding on new contracts, but also a lot of we're seeing a lot of customers that have these contracts that are up for renewal. They're starting to state, hey, you need to be level 2. Yeah. You could say, hey, we have a self assessment in place. We have a score uploaded in the SPs system. I don't know that acronym off the top of my head. I probably should but that's the government system that tracks where you stand as far as level 2. You probably have to do it for level one.
+karen riffice: Right. To get that score up, you're absolutely right. Do you know, okay, doing this what we're doing today? And I know we're not going to finish good. We don't have so much time. But will this go in to keep up up having our score on level one higher than where it is now?
+Robin Barrow: By having PreVeil
+karen riffice: Yeah.
+Robin Barrow: Because I think level one is only what 15 controls
+karen riffice: Right. Right.
+Robin Barrow: Yeah. PreVeil if you installed PreVeil and did nothing as a new install PreVeil, make sure you start using PreVeil for your UI. You're meeting around, forty, roughly. Yes, you'll have a higher score, automatically, but a lot of the work comes in with the documentation, making sure your system security plan is in place. Making sure you have your access controls. Done, it's a beast. It is a beast. I'm gonna tell you that. I'm not sure right now. But yeah.
+Robin Barrow: The other place, the other thing I will mention, so you have the documentation, you have the course work. You also have access to our compliance team. We have 60 customers now that gone through the full assessment with a third party assessor.
+Robin Barrow: They have been through this process before. They're really aware of like, what needs to be done. What's should be top of mind for you all. You get 6 30 minute sessions with them. You can book time with them right through here under additional compliance resources or you can email them. So if you have any one off questions that don't require a long answer to shoot them an email, it doesn't count against your time. Okay. They're the real
+karen riffice: Experts. Okay. And these are the this is the the source for the level two, correct?
+Robin Barrow: Yes. They'll be able to they'll give you advice. They won't do your documentation for you.
+karen riffice: Good for
+Robin Barrow: I would honestly we do have partners that are well versed in this and we'll do your documentation for you, but I would talk to Brian first and see what his plans are for you all. Okay.
+karen riffice: All right.
+Robin Barrow: Okay. And if he's like no. Karen, I'm just setting up your network and making sure your endpoints are in place. He's like, I don't want to touch that documentation, right? Then. Yeah, then we can chat and we can get some partners in front of you. Okay. Yeah, that's the compliance side of PreVeil.
+Robin Barrow: Which I know is a beast and it's a lot to take on right now. But I would say if you're like, I don't even want to jump into the course work. I would say reach out to the compliance team book some time and be like, here's where we stand and what should we focus on even have to even have your contracts in in front of you can go through the closets that you have. So they'll be able to map out. Okay, you should focus on level two, but focus on your self assessment work towards a full on assessment. They'll be able to provide that advice. They're always gonna point to the accelerator in some capacity because it was built for you all to educate yourselves on level 2 and also work through the courses, but if you just need a guiding light to start off book time with them.
+karen riffice: Do you know what agencies in the government that are you gonna be requiring? I know I heard a date of November of this year. That I don't know if they always had a strap dead date. Like I remember 5 years ago, it was supposed to happen and they kept them kicking it down the road. So I heard November is the date that they were gonna be put having this a mandatory. My question to you is do you know, in particular what agencies? I know do for sure, without question, do you know what the other agencies are gonna be requiring this, like a general service administration or
+Robin Barrow: I'm not aware of the other agencies. That doesn't mean they don't exist.
+karen riffice: I just
+Robin Barrow: Yeah. I just I just know of the dot so for a pack back in November, car 48 came out, which pretty much gave the contracts officers stating that they can start putting this requirement in contracts. The requirement to get fully assessed for level, right? So okay. That's what happened in November. So it is real. But again, everything is subject to change and there's always it's a government that, yeah.
+karen riffice: Yeah. Like tomorrow we'll have a shutdown so that means it pushes it out because it was November, but now with the shutdown probably like a month again. Probably cyber.
+Robin Barrow: Yeah. We I mean, who knows will will West
+karen riffice: Yeah, exactly. Okay.
+Robin Barrow: And we did see with the last shutdown that what that lasted a month. I think. Yeah.
+karen riffice: Exactly. We already did
+Robin Barrow: Yeah, we didn't see a lot of delays. That was the craziest part. I think it's because I don't know it's the dot but also because we didn't see the only delay might have been in certifications, but we still saw customers coming in. We still saw customers getting up and running. We lost maybe a couple of customers that said that they were receiving any more contracts. But other than that things kept moving. So and that was for a month. Fingers crossed this one doesn't last as long, but who knows
+karen riffice: Yeah. Right. Wild West, like you said it's crazy. All right. Obviously what we have to do for this first phase is download this software and our computer. Now, do you all do that or will Brian be doing that? So
+Robin Barrow: I would lean on Brian, but I'll send over the instructions on how to do so. It's fairly simple. It should only take you around 20 minutes. And then you're gonna book time with our technical onboarding team for a full on training. So you will go um
+Robin Barrow: I would say one admin downloads the software and then invite the other users out. It's very simple. The instructions will list on how to do so and then book time. Because you all are small bunch, you could have everyone on that technical onboarding, but it is going to be admin specific. So you're gonna go over all the functions of the platform.
+karen riffice: Okay. And basically, this is does this put red flags in our existing email platform with outlook? You know that JK they actually support that because we're on that whole Microsoft thing. Changed. Now, does that put more like what I'm saying is that I get a lot of emails that are quarantine and it's okay, but a lot of them do not need to be quarantined. So I'm not gonna have to do extra work and make sure that some of these emails go through without being quarantine that whole document, you know.
+Robin Barrow: I think of PreVeil a plugin on top of your outlook, but it's really gonna work separately. Yeah. It's dividing the world's in the sense that everyone that uses PreVeil needs to be a PreVeil user. So when you go to communicate outside of PreVeil, you're sending an invite for another individual to join your to view your information that you're sending, but also, join PreVeil. It's they get the free version. So it's called PreVeil express. Once they sign up one time again, it's not even a sign up, it's like a few clicks. Once they download it, they're able to start using PreVeil in a smaller capacity obviously than you all, but can still receive any e mails that you sent. So if you communicate with the same person quite frequently, it always it's even better to send out an email and saying, hey, we're PreVeil users now for UI content here. You may see an invite from me.
+Robin Barrow: That's for communicating out. If you are working directly with the dog and you're using something like do safe or any of those FTP sites. You can pull documentation from there and download it directly to PreVeil. That's why where the drive comes into play. And your information is starting to be protected. So a lot of times we have customers we have UI that's sent directly to our commercial inbox. That stinks but also, you can just start moving those emails, right to PreVeil and then delete them from your commercial inbox. And a lot of customers will just put a policy in place or standard operating procedure. Just stating like, hey, if you receive UI from your commercial inbox, please move it to PreVeil and that will cover you amongst that control. But yeah, it's if you put the the PreVeil plugin into your outlook or we call it the outlook plugin into PreVeil you'll see 2 separate inbox. One will be secure messages that's PreVeil. And then you'll have your regular inbox.
+karen riffice: Okay. And that happens after we download download the software and I'll contact with Brian take care of that on the JK part of it.
+Robin Barrow: Okay. And I'll send a follow up email after this call and I'll make sure I'll include Brian and all the next steps to
+karen riffice: Okay. I appreciate it. Well, I am still very confused, but not as confused. So on a level of one to 10 10 b and I was very confused on the on what we're doing. And you know, some met at 8. But I always go to running better.
+Robin Barrow: Than nothing.
+karen riffice: I go to the experts JK, for instance, I go to them. So this is what I'm worried about. What do I need to do and he and they obviously have been working with Brian and this is what we came up with, right? I should say he came up with which I'm fine. Because I know that Brian is ex military. I think he so he has he started this whole offering to JK. Customer base, which I happen to be one so it's good it's a good relationship because he has a lot and he has a lot of background in it. So I'm gonna follow continue follow his lead and Valerie I don't know. Valerie, have you ever talked to Brian?
+Valerie Soderlund: No.
+karen riffice: Okay. Well, he's on that email. So you have his name and everything, but I'm sure what we get coming to our inbox. We can set up another call, will he be involved in it or just your firm directly?
+Robin Barrow: As far as getting PreVeil up and running or
+karen riffice: PreVeil.
+Robin Barrow: I haven't talked to Brian on how he wants to manage your account. But what I like I mentioned I'll just loop you all in on an email. And then, okay, I can even I'll e mail Brian after this directly and say that we met and then we just wondering if you wanted to set it up or does he have access to your devices?
+karen riffice: I believe he does. I can't remember, but just to Karen's confused. Again, he'll know. Okay.
+karen riffice: I'm in I'm confused. Okay. We're at this level. One where at this score what do I have to do and you know, so anyways
+Robin Barrow: Yeah. I can definitely.
+karen riffice: Lot of patients. So but again, I don't want to be the lead. I'd rather have Valerie, but I felt bad about on this call to begin with because I just kind of threw it at her walked away and she said you got to be on the call and go I don't want to be, but I'm good. Yeah, because if I'm confused, how can I hand this off? So I'm sorry, Valerie, I didn't mean
+Valerie Soderlund: To no, that's okay.
+karen riffice: You know.
+Valerie Soderlund: I have a question that you said the PreVeil will be like a second extension of like, our email. Does that mean that we're gonna get a separate email address to use when? Okay. And then we'll prevail in outlook know how to separate what needs to go into our PreVeil one and what needs to go into our outlook one?
+Robin Barrow: In the sense that anyone any emails that you get to PreVeil, you'll know it's a PreVeil user. It'll go directly to your secure messages. Okay. If you like I said if you get commercial, it's here I can show you on the gmail front just to show you what it looks like. I don't have outlook. Um
+Valerie Soderlund: So like if I'm on my regular email and outlook and I click new email and I'm trying to send it to someone that should be going out of a PreVeil out Box, will it not send or will it automatically know to send it under that other
+Robin Barrow: So see how you see my regular inbox here? Yeah. And then you see secure messages is PreVeil. Outlook operates. Very similarly. So if you click on the secure inbox and hit compose, this message is now secure. So you know, they're gonna either go through PreVeil or they're gonna get a PreVeil invite. I'll separate that way there. This might be something to talk to Brian about there is some
+Robin Barrow: What is the word parameters that you can put within outlook that states? Please recognize it's like flags recognize if a subject mentioned CE or it's sensitive material. So then it will know, okay, this needs to be secure and it can start filtering to PreVeil, but that requires some backend on outlook.
+Valerie Soderlund: To know how to do that.
+Robin Barrow: He should yeah. And if he doesn't, he can come to me and we can work it out. But okay. Yeah, the secure messaging. You're in if you say if you're in the regular inbox. Yeah, you guys don't need to see my inbox. But but if you're in the regular inbox and you're like, okay, I need actually, this needs to be secured. You can just you'll see encryption on and off outlook works very similar. Similarly. You can do on off. It's very simple, but this is what the PreVeil inbox looks like. I want to make sure. Nope. I'm not in my demo environment. This is the actual PreVeil software. So if we have some customers, like I need to separate the 2 worlds, I can't have the PreVeil inbox with my regular inbox. They just operate out of PreVeil. You have your email, you have your drive and if you're an admin, you have your full admin dashboard. So okay. It's it seems like a lot right now. But I promise you it's a very simple platform. Okay. If you know how to use e mail and you know how to use google drive or some drive function how to use for mail. It will be okay pretty simple. But yeah, the outlook plugin is mainly for you if you wanted just
+Valerie Soderlund: To you all on one thing. Exactly. Yeah. Okay. All right. And then step one will be download the software, but you're gonna send us instructions and we can talk to Brian.
+Robin Barrow: Yes. Yep. And I'll include Brian on the email as well.
+Valerie Soderlund: Okay. Very good. Yeah. When I have checklists to
+karen riffice: File and
+Robin Barrow: That's exactly just like, my welcome email. It's gonna be broken out just like that. Okay. And the one other thing I'll send invites for the accelerator. So you all will see those come to your in your inbox and it'll say talent LMS dot PreVeil. So those expire after 24 hours. It's no big deal if you miss it, but if you could just log in just to save you a step, that would be good.
+Valerie Soderlund: To just create a login, yes.
+Robin Barrow: Yeah. You just have to click a button. It lives outside of PreVeil, but just know it's our compliance side of PreVeil. Okay. And lastly, for me I will schedule more time for us to connect. Towards the end of April. This is our 90 day check in if you all want to meet sooner. Of course, reach out to me, but it's really just a placeholder meeting to keep us honest and make sure we're staying on track with everything. Okay. And do
+karen riffice: Good.
+Robin Barrow: Yeah. I mean, that's all I really had any other questions.
+karen riffice: No. I don't because I don't don't know what to ask, but
+Robin Barrow: That's okay. You will have them and I'll be here when you're ready. Okay. Just remember, I'm your main point of contact at PreVeil. You have the support team. You have the compliance team, but if you don't know who to go to me. Okay. And yeah, I look forward to working with you all. We'll figure it out together. I promise.
+karen riffice: Thank you so much. I appreciate.
+Robin Barrow: Of course. Enjoy the rest of your day. Oh, yeah.
+Robin Barrow: We like I said, we have plenty of customers that are in your shoes so
+karen riffice: No worries.
+Robin Barrow: Nice.
+Valerie Soderlund: To meet you have a good day used to

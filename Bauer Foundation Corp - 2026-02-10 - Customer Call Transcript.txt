@@ -1,0 +1,192 @@
+Account: Bauer Foundation Corp
+Call Date: 2026-02-10
+Duration: 00:30:05
+Participants: Andrew Meggs, Baltazar Ochoa, Gabriel Rosario, Alex Addison, Bryan Gillen, Marco Fröhlich
+
+======================================================================
+
+Gabriel Rosario: So
+Gabriel Rosario: Good morning, guys.
+Baltazar Ochoa: Good morning. Andrew. Good morning. You
+Baltazar Ochoa: I think we are already everybody on the meeting.
+Baltazar Ochoa: Okay. Thank you. Andy for make you available for this small discussion. Maybe it would be good to if we introduce ourselves.
+Baltazar Ochoa: Just to get an understanding who is in the meeting.
+Baltazar Ochoa: So let's start with and
+Baltazar Ochoa: Oh, me. Yeah.
+Andrew Meggs: Yeah. Sorry. Hi. I'm Andrew I am the customer success manager here at PreVeil for BAUER, Foundation. What that means is. I am kind of the general main point of contact and the account manager here at PreVeil. I met with Baltazar last week to kind of go over your account and he suggested that I meet with the rest of the team. So I'm here to introduce myself and see if you have any initial questions to you might have about PreVeil.
+Gabriel Rosario: Gabriel.
+Gabriel Rosario: Hello, everyone. Yeah. Gabriel are working here in ads has a senior utilization engineer. And my responsibility is to oversee apps software and support process on underneath. And that includes data handling also the use of the power apps.
+Bryan Gillen: My name is Brian.
+Baltazar Ochoa: Marco, please? Oh, sorry Bryan, please.
+Bryan Gillen: My name is Bryan on the American side of the German it system.
+Marco Frohlich: You don't have to turn their cameras on if you
+Andrew Meggs: Don't want to there's no peer pressure.
+Marco Frohlich: Hi Marco. I'm the deputy head of the GROUP it of the BAUER GROUP.
+Marco Frohlich: And looking forward to hear what you have to offer.
+Alex Addison: Alex Addison. I am the local IT person here in the old. So location. So I handle everything that's on site for the IT systems.
+Baltazar Ochoa: And I am but I'm responsible for risk and contract management here in in Odessa in the us and as part of the risk assessments or risk responsibilities. We are implementing this kind of initiatives to check the cyber security systems of our networks.
+Baltazar Ochoa: Okay. So so most
+Andrew Meggs: Of you all are in Odessa, except for Marco, is that correct?
+Andrew Meggs: I'm in Texas. Okay.
+Marco Frohlich: I'm in Germany.
+Andrew Meggs: Sure. Yeah. Well what part of Germany out of curiosity?
+Marco Frohlich: Unique.
+Andrew Meggs: Okay. Okay. Cool.
+Andrew Meggs: I used to live in Munich back in the day. I worked there. But anyway
+Marco Frohlich: Yeah. I know, Baltazar and Gabriel.
+Andrew Meggs: Already had something of a demo of PreVeil. They've already been in there, but for everyone else I guess what questions do you have or how can I help today?
+Bryan Gillen: So I have a very very basic understanding of C M M G
+Bryan Gillen: I don't know what the acronym stands for. I just know what that it exists. And that it's probably applies in this situation.
+Gabriel Rosario: Sure. Uh
+Andrew Meggs: Cms is the actual acronym, but no, worries. And I am actually not even sure if I remember off hand. What the acronym actually stands for it's cyber security maturity. Something something certification cyber security maturity, model certification. There we go. Long story short. What MC is if you or anyone in the supply chain that you're dealing with is handling what's designated C UI. So controlled unclassified information your company or rather the people handling that. I need to meet certain rules and regulations. There are different levels of CMC compliance based on how much you're handling and some other things. There's level one, level 2 and then level 3. Most people handling c._i need to be level 2 compliant which involves a series of hoops you have to jump through, including writing a bunch of documentation and then eventually getting audited by a third party assessor. That's sanctioned by the government to do so. That's the kind of very short version of cms. And that is specifically the whole goal is to strengthen the cyber security of the supply chain. That bad actors can't come in and hack.
+Andrew Meggs: Someone who's 3 or 4 steps down the supply chain and then warm their way up to the primes or the dot itself or anything like that. It's kind of the philosophy behind it. So I guess the first steps would be am I handling I? Do I need to be CC compliant? and or what other uses do I have for something like PreVeil? Because it's you know, we also handle like, ITAR and some other regulations and things like that. So does that sort of answer the question generally?
+Bryan Gillen: So PreVeil is
+Bryan Gillen: The go between
+Andrew Meggs: Yeah. So basically, if you need to be CMC level 2 compliant, there are 110 controls. Once again, it's what they're called, that you need to meet. And a big plurality of the controls is you need to have a properly encrypted and approved way to store and transfer this sensitive information. Normal email normal encryption is not to the security level needed to meet CC regulations. PreVeil is a solution that does meet those regulations. That allows you to store and transfer C, which is the sensitive information in this particular setting. So out of the 110 controls you need to meet PreVeil covers roughly 40 of them and then touches on about 60 more of those. With the remainder being you need to have a firewall you need to have antivirus. You need to have some other things. But PreVeil covers the plurality of the 110 things you need to do to to eventually be CC compliant.
+Bryan Gillen: So the big question that we had when this was first brought up to me
+Bryan Gillen: BAUER foundations, as well as the it system is a holy owned subsidiary subsidiary of a German company.
+Bryan Gillen: Half of our or not half almost all of our staff is either German or Indian.
+Bryan Gillen: And they all have access or could gain access to systems in Florida for BAUER Foundation.
+Bryan Gillen: The
+Bryan Gillen: The layman's
+Bryan Gillen: Way it was explained is
+Bryan Gillen: We need
+Bryan Gillen: We need a different branch of our platforms that no one else can use or access.
+Bryan Gillen: Is PreVeil in this platform.
+Bryan Gillen: Solution, I guess.
+Bryan Gillen: Yeah. So so that we're not rethinking the wheel. Yeah. So
+Andrew Meggs: So right now only Baltazar and Gabriel have PreVeil accounts. And no one else in the BAUER corporation or larger parent company would be able to access that data at all.
+Andrew Meggs: So it's meant for just the few amount of people that are actually handling the sensitive information to have a solution to be able to store and transfer it and no one else in the company would have access to it.
+Bryan Gillen: When they're using a notebook
+Bryan Gillen: Outside of ours, outside of our network out. I mean, that's if I understood our last call, Baltazar correctly. You all have 2 off domain notebooks, just purchased locally deployed and uncontrolled for lack of a better word.
+Bryan Gillen: And that's how you all are accessing the. Okay.
+Baltazar Ochoa: There is certain information that cannot go outside from the us. Normally is technical specifications.
+Marco Frohlich: That is not the
+Marco Frohlich: Question the question is
+Marco Frohlich: Do you need to use other devices that you already have to access PreVeil? Or can you access it with your company own device?
+Andrew Meggs: For that it kind of or I don't know. But Baltazar, you can answer that if you already know the answer.
+Baltazar Ochoa: No. No, yeah. Andrew this is more technical. I can just tell what we do. Now, we have 2 different computers for that.
+Baltazar Ochoa: So
+Marco Frohlich: Power device, yes. And then you have another device, which is standalone we would call it. And with this device you access PreVeil.
+Baltazar Ochoa: That's correct.
+Marco Frohlich: And also are using a different mail address in PreVeil.
+Baltazar Ochoa: That's what I understand Gabriel.
+Gabriel Rosario: So we are using now we are using the BAUER email, but the mails are not going through the BAUER email. They're going. They're they stay inside the PreVeil. So if they if somebody saying send us an email using the PreVeil mail, ER, they see that. Gabriel does Rosario of our Foundation, but the mail goes to the PreVeil mailbox in outlook. I'm only gonna see a layer saying, hey, you have an mail in PreVeil. That's all. But we're using the power foundations e mail in PreVeil.
+Bryan Gillen: How does yeah. So so to clarify
+Andrew Meggs: What he means by that is that his username is his email address. But PreVeil itself does is I mean, it's actually a bit of a mis known or even calling an email. We're getting a little bit in the weeds here. Basically the PreVeil system itself does not actually connect to any email servers. It's its own black box standalone app that does not connect to anything else that you can use to store and transfer UI.
+Andrew Meggs: And we have basically gussied up to kind of look like email like gmail. But it's it might make a little bit more sense if I show you what I'm talking about. But
+Andrew Meggs: One second. Let me pull this up.
+Andrew Meggs: Yeah. So not that all of you necessarily need to see this, but it just might might make a little bit more sense when I pull it up. This is what PreVeil our app looks like. There's a mail function. There's a drive function. If you're an admin, there's an admin function. But this mail is not actually mail. It's not connected to a mail server. It's still just storage or rather, I guess data transfer would probably be a better way to phrase it. We've just made the UI look like mail to be familiar to people. But everything on here is stored in the AWS gov cloud, it's all on American servers on American soil. We're done by Americans. And so basically you have technically your email, quote, unquote username is Amex at PreVeil.com, but it's not actually connected to my actual email. That's just the username you use. If that makes sense.
+Bryan Gillen: I guess yeah. Okay.
+Andrew Meggs: And yeah. If you need to be CC compliant, a lot of our clients do purchase, laptops or end points that are separate from the other ones that are extra hardened and have extra software on them and architect of the network in order to be extra sure that there's no leakage of any sensitive information. So that's a fairly
+Marco Frohlich: Common I don't get that because how should I if I have an extra device
+Marco Frohlich: Which is not connected to the other network, how should I harden it?
+Andrew Meggs: Well, mostly a big part of that. Adding encryption, like bit locker to the device and then a couple of things. I don't remember off hand exactly all the different ways that a device needs.
+Marco Frohlich: But of course, you can access PreVeil with the company own device.
+Andrew Meggs: Yeah. So so there's so there are ways to be
+Andrew Meggs: It's more extra precaution more than anything else to get a device off the network. Basically you can access PreVeil from a company device but it's best practice to only access it from a device that is separated from the network and prevent page.
+Baltazar Ochoa: Just to repeat it just one step that we have to do, right? And we have to have
+Baltazar Ochoa: That you cannot download any information to to an external server or to an external memory device. And all this stuff prepared is just one thing. Well, is the most important thing, but it's one thing only.
+Bryan Gillen: So my experience looking up, what C M C C M C is there are very
+Bryan Gillen: Specific carve outs for one companies.
+Marco Frohlich: So that's we went Bryan we went through this 110 10 questions and we provided all information from our side. So but so the question is when will we have an outcome of that?
+Baltazar Ochoa: This is not with we are mixing here, Marco.
+Marco Frohlich: Yeah, yeah. I understand that PreVeil is for me, PreVeil is just a file sharing tool.
+Marco Frohlich: Which is hosted in a special environment only in the us. This is what it is.
+Marco Frohlich: That's correct. Correct. Andrew.
+Andrew Meggs: For the most part, yes.
+Marco Frohlich: Yeah. What is the other part?
+Andrew Meggs: Well, yes, the short answer is we have some other stuff too. But for the purposes of this call for BAUER, yes. That's the
+Marco Frohlich: C C is just you have a cms approved file storage in the us with the account that is not related to the company power. And only only specify person can use this account and can access the data stored in this account.
+Marco Frohlich: So it's like a cms compatible Dropbox.
+Andrew Meggs: Yes.
+Andrew Meggs: I mean to to actually be fully compliant, you would eventually need to get assessed by a third party that says that you need all 110 controls, but for the purposes of this called yes, you're correct.
+Bryan Gillen: Is that assessment in the plans Baltazar? Okay.
+Baltazar Ochoa: The assessment is gonna be ready by this month. This is already. I think as Marco said, they have already been through certain.
+Baltazar Ochoa: Questionnaire
+Baltazar Ochoa: This they are finishing the report.
+Marco Frohlich: From a only concentrating on on PreVeil or yes. Who is the admin of the account? Because it's like you just add an account for our Foundation and
+Baltazar Ochoa: At this moment, Gabriel is the admin of the account.
+Gabriel Rosario: Okay. The 3 persons there and Amir also is an admin and there is another person that it's a
+Gabriel Rosario: It was with BAUER and it's not long with power and
+Marco Frohlich: So how do you ensure if someone leaves that he doesn't have access to classified information anymore?
+Gabriel Rosario: Because that the 2 computers that we have here, the Howard and they are
+Gabriel Rosario: The only ones that can access the files. So so if that person wants to add another device, we have to get an approval and all these inside the PreVeil.
+Marco Frohlich: So I need to approve assistant to enter PreVeil, is that correct? So I can't enter PreVeil from any computer. It must be a specified device.
+Andrew Meggs: Yeah. So basically when you
+Andrew Meggs: Download PreVeil initially to create your account. The encryption keys are downloaded onto a hard drive and you can then you can't then add PreVeil to any other device. It's kind of locked on that device. There's and you have to go through the add a device.
+Marco Frohlich: Okay. Process.
+Andrew Meggs: Which requires admin approval.
+Andrew Meggs: And also if someone were to leave the company, the admins have the capability to off board that user and delete their data.
+Marco Frohlich: Okay. Understood.
+Andrew Meggs: Yeah. I guess that is a good follow up question though, Baltazar. Are you already working with the C 3 PO? Do you already have an assessment scheduled or anything like that?
+Baltazar Ochoa: Yeah, that is not yet ready, but they were supposed to finish on February by the end of the month. Okay.
+Andrew Meggs: And then yeah. So did anyone else have any other questions or anything else you wanted to go over?
+Marco Frohlich: So I have an account on Foundation.com in your system in PreVeil. Then I need a client. I download the PreVeil software there. And during the installation, the encryption key gets generated.
+Marco Frohlich: Is it also linked to the account? So does Baltazar always need to use the same device is Gabriel leads.
+Marco Frohlich: Or can they share the devices?
+Andrew Meggs: Well, I if I'm understanding the question correctly you can have different accounts on the same device. You can just switch back between accounts on the same. Yes. Okay.
+Bryan Gillen: Yeah, you had 3 users and 2 laptops. Somebody had to share
+Marco Frohlich: Yeah. Yeah. My question is just how when I have a computer which is not connected to a network, it's a standalone device. How should I ensure the security on this device? I mean, when this device is connected to PreVeil, I can download the data and copy it to use stick or
+Andrew Meggs: If someone shared something with you with edit privileges, yes, you could download it onto a local device and copy it to a USB stick. But in terms of like, that's more of a policies and procedures question. Then then a PreVeil question. You just have to make sure that the devices in a secure location and
+Marco Frohlich: So there's no rights management in PreVeil? Like
+Marco Frohlich: You can download a file, but you cannot copy it or you are only able to open a file.
+Marco Frohlich: If I serve or something.
+Andrew Meggs: It depends well short answer if someone shares something with you, with edit and download privileges, then you can download it. Um
+Marco Frohlich: Okay. This is a privilege.
+Marco Frohlich: In in the system, I can say you are not allowed to download it just can few it.
+Andrew Meggs: Yeah. There's you can share something as view only edit read only. There's different ways to share things. Okay.
+Marco Frohlich: Understood.
+Andrew Meggs: But yeah. That's kind of part of what I was referring to earlier by by hardening device is in acting those policies and procedures that make sure that your devices don't go missing or get lost somehow or something. So. But yeah, that's how it works.
+Andrew Meggs: And then obviously as part of the hardening, those devices would need to have a password you need to get into the device and things like that. So but all of that's kind of covered by the normal regulations. You would need to do to be CC compliant, anyways.
+Marco Frohlich: Okay. So PreVeil just offers a secure data space.
+Andrew Meggs: Yes. Okay.
+Marco Frohlich: Understood.
+Andrew Meggs: Yeah. I mean, I have we have like security white papers and stuff. We have literature that goes into that a little bit more detail. That's something you would want to look at. But yes, that's what we offer. The cms approved file sharing and storage. Okay.
+Marco Frohlich: And how do I how is it?
+Marco Frohlich: How is it paid? Is it like, accounts? Is it storage or
+Andrew Meggs: Per per user.
+Marco Frohlich: But you said per user per month or
+Andrew Meggs: For instance, right now BAUER Foundation is licensed for 5 total users, 3 of which can be admins. So we both are and I had that conversation last month or last week about users. But and that is until
+Andrew Meggs: July of this year. So it's kind of a 12 month thing.
+Marco Frohlich: Mm. Hmm.
+Andrew Meggs: And then, yeah. I was kind of alluding to earlier, we have our own other products, like CC templates, pre written and cms solutions and things like that. But but for power Foundation specifically, it's just the user licenses.
+Marco Frohlich: Okay.
+Marco Frohlich: Understood. No questions from my side.
+Andrew Meggs: Okay. Alex or Bryan?
+Bryan Gillen: This is independent from
+Bryan Gillen: Whatever work you've done so far on your assessment Baltazar correct?
+Baltazar Ochoa: That's correct. Okay. Right.
+Baltazar Ochoa: As I said, this is just one part of the whole
+Baltazar Ochoa: Initially that we will have to implement because
+Bryan Gillen: That's I don't think from a from an it perspective from me Marco or Alex. I don't think any of us having an issue with PreVeil and understand quickly what it is and the purpose of it. Our thing is
+Bryan Gillen: How do we go about this without rethinking the wheel?
+Bryan Gillen: So that you and everybody that can use PreVeil, don't need to purchase separate computers, don't need separate.
+Bryan Gillen: Internet access solutions in your offices. Amir has multiple hot spots in his Texas office. Meanwhile, they pay for fiber with under behind our firewall.
+Bryan Gillen: It's
+Bryan Gillen: Having a whole second system for a better word.
+Bryan Gillen: Purpose is to access PreVeil.
+Marco Frohlich: This is not handle. You can do it with 2 devices. But I think that this is a point for the assessment because we were able to answer a lot of questions. It doesn't make sense to to have a separate device, which I should harden. Nobody hardens a separate device.
+Baltazar Ochoa: Okay. I think we wait to the assessment to see how we were from there.
+Marco Frohlich: Yeah. Because I didn't hear anything from them after my last email.
+Baltazar Ochoa: Okay. I they I yeah. On your email I emailed them. They told me they don't need any further information from Germany they are. Okay with whatever they have, they will do the assessment. I mean
+Marco Frohlich: Because the email was the 21st of January. Yeah.
+Baltazar Ochoa: They told me with the information they already have. They can do this. Okay. The report. That's what I told me.
+Marco Frohlich: Okay. So
+Marco Frohlich: As Brian just mentioned, I don't have a problem with having a secure file storage for this kind of projects. If this is a requirement, it's a requirement, but I have a problem with you need separate devices because that doesn't make any sense.
+Baltazar Ochoa: Okay. We will need to find the solution. That's it.
+Marco Frohlich: Therefore, we have to wait for the assessment.
+Baltazar Ochoa: That's correct. Okay. I used uh
+Baltazar Ochoa: Just wanted to
+Baltazar Ochoa: I hate to
+Baltazar Ochoa: Hop off.
+Andrew Meggs: For another call right after this. Yeah. Yeah. It sounds like you'll need to have a you'll have a discussion about the separate devices, but if you have any other questions about PreVeil or anything else that you need, definitely don't hesitate to reach out and let me know. And I appreciate everyone's time and I hope you'll have a great rest of the day.
+Marco Frohlich: Thank you very much Andrew.
+Baltazar Ochoa: Thank you.
+Alex Addison: Thanks Andrew. Thank you Andrew.
+Marco Frohlich: Okay. For me. It's more clear than it was before so
+Baltazar Ochoa: Because the
+Baltazar Ochoa: Marco way. They are there is a guy here. They are still recording or what is this PreVeil recorder?
+Gabriel Rosario: Um
+Gabriel Rosario: Are you the
+Gabriel Rosario: Owner of the meeting. You can in like the

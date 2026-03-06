@@ -1,0 +1,72 @@
+Account: Dameron Alloy Foundries
+Call Date: 2025-11-25
+Duration: 00:13:30
+Participants: Zackary Gilman, Andrew Meggs, Daniellenicole Bunger, Danny Do
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Andrew
+Cuong Do: How are you doing?
+Andrew Meggs: I'm doing well. How are you? Hello, good afternoon.
+Cuong Do: Or good. Good morning. Look depending forward on for a holiday.
+Andrew Meggs: Yes. I guess holidays are coming up. Uh
+Cuong Do: Yeah.
+Cuong Do: My traveling plan.
+Andrew Meggs: No no well I mean we're gonna go hang out with my in laws they live like an hour away so I don't know if that counsel traveling or not but sure hi Daniel hi
+Andrew Meggs: How are you doing?
+Andrew Meggs: I'm good. How are you? Good, good. I'm doing well. Are we waiting for anyone else? Do you know?
+Cuong Do: I think that's it, right. Yeah, as far as I know, this is it. Okay.
+Andrew Meggs: Yeah. Well I appreciate you hopping on a quick call with me. Hopefully, this won't take too terribly long. This is mostly supposed to be just sort of a welcome intro call sort of thing. For context, I am the customer success manager for your account. So what that means is I'm your general main point of contact an account manager here at PreVeil going forward. So I like to have a call with all my clients to let you know, I exist, but be kind of go over the onboarding process and make sure you don't have any initial questions.
+Cuong Do: What kind of
+Andrew Meggs: So to that end. Hi. Hi, Andrew. It's nice to meet you. Welcome to PreVeil. You all are you in California? I'm
+Cuong Do: In California. Done in live Kentucky. Yeah.
+Andrew Meggs: Okay. Okay. I'm in Minnesota myself. So covering all the bases here. Yeah. So so getting started with PreVeil. There's kind of 2 separate pillars. There's the technical implementation and then there is the compliance portal stuff. So for the technical implementation, who is gonna be the person that will be setting up the organization and being the initial administrator?
+Cuong Do: Would be me.
+Andrew Meggs: Okay. Let me make sure because I sent over an initial email that had some instructions on that, but I don't know if you were CC'd on that. I actually I believe you were yeah, in my initial email. And I'll send all this in a follow up email too. But basically, to get started on the technical side of things. First step would be to create the PreVeil organization for your company. And so that is the video that it goes over to like an hour long because it goes over how to use PreVeil and whatnot. But the actual setup is super straightforward. It's just downloading PreVeil signing up for a PreVeil account. And then there's a specific IP address to go to that while you're logged into your PreVeil account will prompt you to create the organization. And once that's done you'll be set up as the initial administrator and be able to add people. So we
+Cuong Do: We can do that. We can do it right now. We would have to wait
+Andrew Meggs: Well, you can do it right now, but it takes 8 to 10 minutes to download and install PreVeil. So it'd be kind of just sitting here, watching you do that. But yeah, if you want to get started on that right now, you could it's just PreVeil.com backslash download and then you just download the full version of PreVeil and then eventually you sign up for an account once that's downloaded and installed. Or if you want to wait till after this call or whenever you have
+Cuong Do: Time, I do absolutely calls. Wondering do we have to wait? That's all.
+Andrew Meggs: No, no. No, no. You can do that right now. Yeah. And then once the organization is created, you will be set up as that administrator. Like I said, unable to add people and then the next step after that would be to schedule the actual training and onboarding session with our technical support team. So that'll be an hour long training session on admin roles and responsibilities and end user training and making sure there aren't any technical problems in the back end.
+Andrew Meggs: Okay. And then after that initial on boarding session will be the email gateway implementation. So as part of your subscription, you have what we call our email gateway. And so that'll be a separate implementation after the initial setup and onboarding.
+Cuong Do: You're talking about gateway time up email or everything go through it.
+Andrew Meggs: Yeah. So basically normally with PreVeil
+Andrew Meggs: If you didn't have the gateway when you tried to email someone outside your organization, they would need to sign up for a PreVeil express account in order to communicate with you since the it's all encrypted needs to stay in PreVeil with the email gateway. You'll be able to email people outside your organization and it show up in their normal inbox. Basically translates e mails from your PreVeil system into their normal inbox so that they don't have to sign up for PreVeil express.
+Cuong Do: I see. Okay.
+Andrew Meggs: That's part of it's a it's an additional thing as part of your subscription and like I said, it's a it's a separate implementation after the initial onboarding. And then I believe, Chris, Vinita from our support team is the one assigned to that ticket for your gateway. So he'll reach out when you're done with that. When you're done with that initial onboarding. He'll reach out to set up the gateway. I
+Cuong Do: Don't see. I may want my email change.
+Andrew Meggs: After after you after you do the onboarding, it's triggered for him to reach out. So he will reach out after you do the initial onboarding. Okay. But yeah, that but once that's implemented them into the gateway, that's kind of it in terms of the technical side of things. So it's creating the org going through the onboarding and then implementing the gateway are the technical steps.
+Andrew Meggs: Right. Completely separate from that on a completely different website with a different login. Is our compliance portal? So that's our compliance accelerator. It has the doc series on cms compliance as well as the documentation template that are pre written. And for that I am actually the person who can add users to the compliance portal. Should I guess who needs to be added to that.
+Andrew Meggs: If, you know offhand.
+Cuong Do: Mostly Danielle and me Daniel.
+Cuong Do: And then Nick Malik.
+Cuong Do: Part e mail.
+Andrew Meggs: See, do I have Nick?
+Cuong Do: You want to add somebody else on the compliant.
+Cuong Do: No. Not right now. And yeah, you have Nick's email address. It's on.
+Andrew Meggs: The original email you sent out for onboarding. Yes. I do see that. Yeah, I will add the 3 of you all to the accelerator after this call and you will see a separate email invitation to that. Okay. Yeah, that's the the other half of things the accelerator stuff. And then with that comes access to our own internal compliance team. So while you're going through that or if you have any general compliance questions, they're available as a resource at compliance at PreVeil.com. There's also a direct link to their calendar in in the excel. I schedule a meeting with them. But yeah, that's kind of it in terms of getting started. Is the technical implementation and going through that process. I was saying and then getting access to the accelerator, which I'll add the 3 of you after this call. And then once that's done, that's there's no other magic switches to pull or anything. Like I was saying, you can get started on creating that org right after this call and you can get into the accelerator right after this. Call once I add you. So yeah, that's kind of it for getting started. Do you have any questions about PreVeil or any points of clarification need here at the beginning of the process?
+Cuong Do: I might miss that during the technical implementation. Do we have support from your team if I have questions? How set up correctly? You know? It's
+Cuong Do: I think we will have many is not issue, but question related to how do we set up properly using PreVeil system? is there any support available or any person I can contact you?
+Andrew Meggs: Yeah. The so you basically have 3 different teams as resources for you here. If you have technical implementations about like, the technical setup PreVeil, that would be our support team and they're available at support at PreVeil.com and they'll also be the ones that will be doing your onboarding. You can also ask them questions during that. And for the onboarding, I forgot to mention this in my follow up email. I'll include a link to their schedule to schedule that onboarding. You can go ahead and schedule that onboarding as well, there. But they can answer any technical questions about setup you have for compliance questions. If you wanted to have not necessarily technical questions, but maybe best practices or recommendations on how to set things up, that would be our compliance team. It's a separate team and their compliance at PreVeil.com. And then there's also a link to their calendar and the accelerator, like I was saying earlier. And then I am kind of the general main point of contact if you're not sure who to talk to, if something needs. To get escalated. Or if you have account type questions like adding licenses subscription renewal, that sort of thing would be me.
+Andrew Meggs: But but yeah, those are all the resources you have available here, but they're all we're all here to help.
+Cuong Do: Okay. So so you refer email support, right? When and you have issue, I have a question go through that channel support emails first. And then if not, I didn't get a response or certify answer what the next level would be to go back to you.
+Andrew Meggs: Yeah. I mean, what when in doubt if you're not sure definitely don't hesitate to reach out to me, I'll always be your main point of contact. But if you yeah. For so for technical questions that would be support, but if you need to escalate it or you feel like you're not getting a good response, then definitely reach out to me and I'll go metaphorically. Knock some scales for you.
+Cuong Do: Yeah. Okay. My point is if I had a quick respond that probably best and I hope after I don't think we encounter any major issues during the technical implementation and just if something can get back to me quick so I can move on and finish up and then we move the next date quicker. So that's why I'm asking questions. Okay. Sure. Yeah.
+Andrew Meggs: Yeah. I mean, the our support team is very responsive, but like I was saying if you do if you feel like they're not responding enough, you can reach out to me and I'd probably be able to answer some of your questions. But I'm not as technically minded, so I might not be able to answer all of them. But yeah, if you're not sure to talk to if you're or if you feel like you're not getting a good response, definitely reach out to me directly.
+Andrew Meggs: Okay.
+Cuong Do: In your experience you say it wouldn't take long to implement technical side of it?
+Andrew Meggs: Well it depends I mean the actual initial org creation like I was saying is you know takes maybe 8 minutes to do if you know it usually it's very very simple and easy and straightforward to set it up I don't know what sort of you know fire walls and permissions you have on your side of things which might slow things down but generally it's very very easy and straightforward and it takes a very short amount of time
+Andrew Meggs: Okay
+Cuong Do: Yeah. Yeah.
+Cuong Do: That's all I have a question. So
+Andrew Meggs: Okay. Well, the only other thing I like to do on these calls is, I like to set up a 90 day check in call with all my clients, just to make sure things are going smoothly. Obviously you can reach out to me for if you need anything. But do you mind if I put some time on the calendar for February 24th or fifth is 90 days from now?
+Cuong Do: Is it on Wednesday, Thursday?
+Andrew Meggs: This Wednesday the 25th. Okay.
+Cuong Do: 25th.
+Cuong Do: Look at January February 23rd Wednesday okay I'm good I mean I don't yeah it's
+Andrew Meggs: It's a while out so if we need to change that we can
+Andrew Meggs: Okay
+Andrew Meggs: Okay. I will put that on the calendar. I will add you to the compliance accelerator and send a follow up email going over what we talked about. And if you do have any questions or if you need anything else, you can let me know.
+Cuong Do: Sounds good. Thank you. Yeah.
+Andrew Meggs: Thank you all and it's great to meet the both of you all and I hope you'll have a great rest of your day.
+Andrew Meggs: Bye.

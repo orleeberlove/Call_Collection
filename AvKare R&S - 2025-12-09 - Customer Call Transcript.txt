@@ -1,0 +1,62 @@
+Account: AvKare R&S
+Call Date: 2025-12-09
+Duration: 00:07:31
+Participants: Robin Barrow, Chris Thorpe, Malcolm Ault
+
+======================================================================
+
+Robin Barrow: Oh, hi, welcome. How are you?
+Malcolm: Hello. Doing good yourself?
+Robin Barrow: I'm doing well, thanks. Sorry. For the delay here.
+Malcolm: It's all right.
+Robin Barrow: Are we expecting anybody else to join today?
+Malcolm: Chris uh
+Malcolm: Should be here, sorry.
+Robin Barrow: All right. No worries. So this is your 90 day check in. Really just want to see how things are going. I'm pulling up your account now, just to see. All right, you're in there.
+Malcolm: Yep.
+Robin Barrow: Your users.
+Malcolm: Got one in limbo right now with her. They gave her a new laptop and didn't let me know. So we got to do the recovery process. But that's no biggie. Yeah, we're not really
+Malcolm: I haven't really started using PreVeil. I
+Malcolm: Don't know that we ever will. It's just we have to have it for the cms level 2 requirement. So but yeah. So far everything's been working complaints. So
+Robin Barrow: Awesome. And have you been able to get into the accelerator and poke around there?
+Malcolm: I have not okay. Yeah.
+Malcolm: There again I don't foresee is actually using this. Um
+Malcolm: But anyway, we can investigate that if things change. So
+Robin Barrow: Are you
+Robin Barrow: You're working with one of our partners to get C level two, correct?
+Malcolm: Yes.
+Robin Barrow: Okay. All right. So are they handling the compliance side?
+Malcolm: Yeah. The login yeah. Yeah, they're working working with us pretty closely to get through the project.
+Robin Barrow: I always mispronounce her name. Yeah. Nice. Yeah, I was like I'm gonna try, but
+Malcolm: Bionic
+Robin Barrow: Yeah. Yeah. It's it's a mouthful. It is it actually is spelled exactly how it sounds, but for whatever reason, my brain
+Malcolm: Ever remember it either.
+Robin Barrow: They so yeah, they're actually great partners of ours. They just released a webinar series with us. So you are in good hands. Okay. But I'm assuming just all haven't gotten to really kick things off as far as the requirements scope just yet, right?
+Malcolm: Yeah. Okay. Yeah. We're still we just started the level 2 compliance portion. So okay.
+Malcolm: Yeah, we're good or 9 months out before we're fully implemented. So
+Robin Barrow: Okay. Okay. I'm letting Chris in now. I mean
+Robin Barrow: You're up and running. You have access to the accelerator. Hi, Chris. Oh, he hasn't connected. Hi Chris. How are you? Hello. I'm sorry. I don't know what happens. You're good. Certainly this is this call, might be quick anyways. But yeah. I mean, it sounds like you are you have to install which was number one, right? You have access to the accelerator. It's just a matter of when you're gonna have a need. When the yeah, do you currently have contracts in place though? That state that require you to be level 2. No.
+Malcolm: Okay. This is and brand and hopes to acquire contracts with the government. Okay. That they require it. So
+Robin Barrow: Okay. All right. Well, what can I do to help? Is there anything I can do?
+Malcolm: I don't guess really anything at this point you know like we're in it I've set up the recovery group we got one user to recover and I can reach out if I have any difficulty with that but I've I read the document and that was before so I slept since then I'll have to go back and read it again but
+Robin Barrow: Resend how to get in and I mean I
+Robin Barrow: I'm sorry.
+Robin Barrow: The guy to get to compliance. So um
+Malcolm: Yeah. And we've still got all the documents that you that were originally shared with us. Okay. They're still out there on our shared in our folders, yeah.
+Robin Barrow: Avail.
+Robin Barrow: Make sure.
+Robin Barrow: Yeah. I mean and then this, again, this is available to you said you have access to you just haven't gone through it. Um
+Robin Barrow: Again, this is something your partner's going to be working with you on, but you still have all the docs available to you for cms level 2. They all live within the accelerator. So yeah, you just let us know and you still have access to. You weren't supposed to see that. Sorry. I have access to the compliance team. So if you have any questions just for additional help, you can reach out to them. Okay.
+Malcolm: Yeah. That sync update quite often. Yeah, that was one of the things I was gonna bring up. It looks like there's an update at least once a month.
+Robin Barrow: I know we are right now. We are trying to get our drive.
+Robin Barrow: Up to snuff. It's there. It's we're making a ton of improvements. Right now. We're releasing a cloud drive. So and then the other piece we are releasing manager, dashboard. I mean, obviously, we're we love if you guys updated your software all the time, but it's not a huge requirement. We do push out an auto update. But if you want that turned off, we can see if we can do that for you.
+Malcolm: Okay. Yeah, we'll talk about it. We'll either we may either use the auto update or use ninja.
+Robin Barrow: Okay.
+Malcolm: To deploy to the clients. Yeah, cause him do this manually every 3 or 4 weeks is going to get
+Robin Barrow: Yeah. Yeah. So say it's gonna get tedious and old. So yeah. Let me know. I we I have a lot of customers that have been like what's going on. You're pushing out a new update. Every it feels like every other week. Honestly, yeah.
+Robin Barrow: Yeah. You just let me know. But also I'll see what kind of what we're looking at in the future. Okay.
+Malcolm: Yeah. I'll let you know, alrighty.
+Robin Barrow: Yeah. That's I mean, I really don't have any other updates other than we're here if you need help. And yeah, if there's no other questions, I'll let you enjoy the rest of your Tuesday.
+Malcolm: Alrighty, okay.
+Robin Barrow: All right.
+Malcolm: Thank you. Bye. Bye.

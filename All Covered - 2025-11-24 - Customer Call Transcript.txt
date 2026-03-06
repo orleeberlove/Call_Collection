@@ -1,0 +1,44 @@
+Account: All Covered
+Call Date: 2025-11-24
+Duration: 00:04:59
+Participants: Robin Barrow, Kelsey Biefer
+
+======================================================================
+
+Tim Stranen: So
+Tim Stranen: Alright, how about you? I'm doing well.
+Robin Barrow: Are we waiting for Kelsey to join?
+Tim Stranen: Sure. We can give her. Hi, a moment. Tim here. How are you?
+Robin Barrow: Okay. Hey, doing, I know this is to discuss the same connector. Maybe any additional questions. If it's 2 more detail, they'll probably loop in a technical person, but I just want to get a better understanding of what you all are looking for.
+Tim Stranen: Okay. Yeah. I mean, it's I mean, there'll be some technical questions, but it's mostly just figuring out if we can keep it within one one system because the customer no longer has a an onsite presence. So like they don't have they don't have a uh
+Tim Stranen: Any infrastructure that they used to have on onsite at a workplace. So we're seeing what can be accomplished from from the PreVeil side. If we can just have our basically our sim connection point
+Tim Stranen: On that same Box or not.
+Robin Barrow: Okay.
+Robin Barrow: And this is for which which client this is for im solutions? Okay. Sure.
+Tim Stranen: And my understanding is it's already signed off. They im solutions has has signed the contract from PreVeil side. We're just trying to figure out how to to get it implemented so that the logs can reach our send instance.
+Robin Barrow: Okay. All right. And I do see the ticket and everything. Okay. Honestly, this call might not be necessary now that I look deeper into it. Okay. It looks like, okay.
+Robin Barrow: Okay. I might re. So this was actually it's fine for last year. This connector, but it sounds like their environment change. So what I can do maybe I will add you to a ticket with that. I see open currently for
+Robin Barrow: With Phil, who's our head of product?
+Robin Barrow: Technical support and he'll be able to implement it. What team solution are they using right now, if any at all?
+Tim Stranen: Google chronic or setups.
+Robin Barrow: Okay. Okay. Perfect. And just a confirmation they okay. And I believe that's a normal json format, right? Or just log? Yeah, I mean
+Tim Stranen: We can accept json to CSP any of those value.
+Robin Barrow: Okay. So really we just need to get it up and running.
+Tim Stranen: Yeah. This is less about the parsing or anything like that. There is default default parsers. From the Chronicle side, it's just about how we can get that data to reach our sim database servers. Okay.
+Robin Barrow: Yes. Okay. That's easy enough. I'm gonna add you to this ticket now. I apologize. I wasn't fully understanding initially problem. And I can make sure that you're looped in and also Kelsey is looped in on this ticket and we I can let Phil know to reach out as soon as possible.
+Tim Stranen: Okay. Yeah, that sounds good.
+Robin Barrow: Okay. Was there anything else you wanted to chat about today?
+Tim Stranen: No. That was it. If you want to put details in the case the only other follow ups I was gonna have for Phil or like, what OS is the PreVeil connector running and then does it you know, would it be able to accept a doc or instance? So
+Robin Barrow: I can probably go on
+Robin Barrow: Um
+Robin Barrow: I can see.
+Robin Barrow: Runs on. Windows, support, 20 sixteen, 2019 and 20 22.
+Robin Barrow: I can also run 10 and 11 for testing. Um
+Robin Barrow: The right now, I'm seeing I can forward logs to see running in doctor a doctor, but um
+Robin Barrow: Yeah. I just there might be a workaround for that. Okay.
+Robin Barrow: I'll obviously have Phil clarify more on the ticket, but I just wanted to give you a brief answer.
+Tim Stranen: Okay. Yeah. Sounds good.
+Robin Barrow: Okay. Great. And I'll send a follow up email just so Kelsey is aware. So she if she tries to jump on, we're not and we're not here. She knows why. But yeah, I'll take care of this right now.
+Tim Stranen: All right. I appreciate the help.
+Robin Barrow: All right. Thanks, Tim.
+Tim Stranen: All right. Thanks. Bye.

@@ -1,0 +1,41 @@
+Account: Breiner Company Inc
+Call Date: 2026-02-11
+Duration: 00:07:30
+Participants: Andrew Meggs, Joe Lucas
+
+======================================================================
+
+Joe Lucas: Hello, yeah.
+Andrew Meggs: Hi, how are you?
+Joe Lucas: Not too bad. Sorry about that. For some reason zoom wasn't launching. So got it figured out.
+Andrew Meggs: We got there. Yeah. No, worries. I appreciate you taking the time to meet with me. This is mostly supposed to be just sort of like an informal welcome intro call. So it's a okay.
+Joe Lucas: Not not any big.
+Andrew Meggs: Pressure here or anything like that. For context, I am the customer success manager for your account. So what that means is I'm your general main point of contact and account manager here at PreVeil going forward. I like to have a call with all my clients to let you know, I exist, but be kind of go over the onboarding process and make sure you don't have any initial questions.
+Joe Lucas: Alrighty.
+Andrew Meggs: So to that point hi, Amanda can PreVeil. Yeah. So so getting started with PreVeil there's kind of 2 separate pillars. There's the technical implementation and then there is the compliance implementation, if you will. So for the technical implementation of PreVeil I assume you are the person actually setting up their organization and being their administrator?
+Joe Lucas: Yes. Okay.
+Andrew Meggs: So yeah, the technical setup PreVeil, very straightforward. I sent some some instructions over to you in that initial email. But the video is like an hour long because it goes over how to use PreVeil and other stuff. But the actual setup, super easy. It's just downloading PreVeil creating a PreVeil account and then there's a specific IP address to go to that once you've created your PreVeil account will prompt you to create the org, okay. The whole process takes maybe 7 minutes tops. And then once you've created the organization, you'll be set up as the administrator. And then you'll be able to add other users. Okay. And then after the org is created, the next step would be to schedule the actual on boarding call, which is like an hour long kind of training and information session with our support team to go over like admin roles and responsibilities, how to use PreVeil and then making sure there's no technical problems in the background that's sort of thing. Okay. And then in terms of the technical setup, it's kind of it. I mean honestly, you can use PreVeil as soon as you create the org. But the onboarding is recommended. But yeah, it's fairly straightforward there. Just creating that org and going through the onboarding completely separate from that is all the compliance stuff. So that's the accelerator and the GRC tool that you have as part of your subscription.
+Andrew Meggs: So fortunately, you're gonna have 3 different logins here is somewhat annoying. But here we are for the accelerator, which is the the video doc users on compliance and all the courses and the templates and the GRC tool, which is the project management tool that keeps track of what you're actually doing with all your compliance. I added you to both of those right before this call. So you should see email invitations from those shortly. But I'll also include direct links in my follow up email too. The accelerator we built, you'll see an email from talent LMS and the GRC we built out on is so you'll see an email from Ives.
+Joe Lucas: Yeah. I've got logged into it, so. Yeah, so that worked, yeah.
+Andrew Meggs: Yeah. Yeah. So 3 different logins here between the actual PreVeil app, the accelerator and the GRC but theoretically you now should have access to all of them for the accelerator and the GRC tool, you can have up to 3 people in there, but and they do not have to say be the same people that use PreVeil it's a separate system. Should I add anyone else to those off the bat or is it just you for now?
+Joe Lucas: Just just what we have for now. Yeah.
+Andrew Meggs: Okay. I am the person who adds people to those. So if in the future, anyone needs to get added to either of those let me know.
+Joe Lucas: Okay. Yeah, we'll do um
+Andrew Meggs: And then with that comes access to our compliance team. So the people they are the people who wrote all the documentation and made all this stuff. They are available if you have any questions or any clarification on any of the documentation or guidance for your compliance at compliance at PreVeil.com. And then there is a link to their calendar and the accelerator as well. Okay. Um, just as a heads up, there's kind of in addition, I mean in addition to there being 3 different logins, there's also 3 different teams you'll be dealing with here. So the support team that will be doing your onboarding the compliance team that can answer any compliance questions and me as kind of your general main point of contact. If you're not basically when in doubt, just reach out to me in the right direction. Yeah, I'm your general main point of contact. If you need anything if something needs to get escalated or if you have any account related questions, like adding a license or subscription rule, that sort of thing would be me. All right. Uh but yeah, 3 teams here, 3 different logins a little bit to keep track of here. But but I'll send all this in my follow up e mail, so. So you'll have it. But yeah. So do you have any questions about PreVeil or any points of clarification you need here at the beginning of the process?
+Joe Lucas: I don't think so. It all sounds pretty straightforward. Just just stuff that has to be done. So I'm just looking forward to jumping in and then then I'll have questions then for sure.
+Andrew Meggs: Sure. So yeah. I mean, we do try to make this as straightforward as possible. Yeah. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. All right. Obviously you can reach out to me for them if you need anything. But do you mind if I put some time on the calendar for May 11th is 90 days from now?
+Joe Lucas: Let's see where we are.
+Joe Lucas: Yeah. May 11th anytime that week looks pretty decent. So, but May 11th is fine if that works for you?
+Andrew Meggs: Yeah. And where are you located? Or
+Joe Lucas: Indianapolis eastern eastern. Okay.
+Andrew Meggs: Okay. So put that I'm I'm in central time. So in Minnesota myself.
+Joe Lucas: A little North, yeah.
+Andrew Meggs: It's quite quite chilly, actually. It's nice today. It's like got up to 25. It was really nice. Um
+Andrew Meggs: But I mean, it's sick that I think that's nice. But you know, here we are.
+Joe Lucas: Well, no. We just spent 2 weeks under under 25. So I know where you're coming from.
+Andrew Meggs: Yeah. I will put this on the calendar. I will send all this the instructions on creating the org and all the direct links to everything in my follow up email. And you have my contact information. So if you do need anything, you'll know where to find me.
+Joe Lucas: Okay. That all sounds good. I'm gonna jump into this the intro stuff and then schedule my call. Okay. On board.
+Andrew Meggs: Well, I appreciate your time Joe and it's great to meet you. And yeah, you have my contact if you need anything. Otherwise, I hope you have a great rest of your day.
+Joe Lucas: Yeah, you too. Looking forward to working with you.
+Andrew Meggs: Yeah. Me too. Have a good one. So
+Joe Lucas: Yeah, you too. Bye, bye. Bye.

@@ -1,0 +1,139 @@
+Account: bbgsgllc.com
+Call Date: 2025-12-04
+Duration: 00:28:03
+Participants: Robin Barrow, Philippe Rodrigues
+
+======================================================================
+
+Philippe Rodrigues: So
+Robin Barrow: Hey Robin. Hello, we were emailing back and forth. What yesterday it's going and yeah. I sent over the um
+Robin Barrow: Updated invoice and told them they need to take care of it. So I don't know if they're in the waiting room if they're gonna join, but I'll just reiterate that on this call.
+Philippe Rodrigues: Okay. Good. Yeah, they haven't joined yet. Okay.
+Robin Barrow: I don't know if I to be honest. Because I literally I said the same thing. That
+Philippe Rodrigues: Take care.
+Robin Barrow: Of the invoice before moving forward. Oh.
+Philippe Rodrigues: He's coming in, I'm gonna admit him now. Okay.
+Robin Barrow: Hi, Daniel. How are you?
+DanielFavela: Hey, Robin, good. How about you?
+Robin Barrow: I'm doing well. Long time. No chat.
+DanielFavela: I know it's been a while. Sorry running a little bit late. Um
+DanielFavela: I think Michelle should be jumping in here in a second.
+Robin Barrow: Okay. No worries. Yeah, we can wait for mother to join.
+DanielFavela: Good. How are you doing?
+Robin Barrow: I'm doing well. It's been busy over here at PreVeil. I'm sure say the same. Um
+DanielFavela: Yeah. We had
+Robin Barrow: How are your clients?
+DanielFavela: Busy busy is good, no. Yeah. It was the alternative.
+Robin Barrow: Yes. Exactly. That is right. Um
+Robin Barrow: Have you all been busy on your end too?
+DanielFavela: Yeah. We've been we've been very busy. Yes. And then it's just been climbing and climbing so you can see by the accounts been moving up, they move out. So
+Robin Barrow: That's good though.
+Robin Barrow: While we wait for much to join. The reason why I joined this call is because we just need an updated order form. Like I mentioned in my email. Just I remove the other e mail gateways, but then I added because I remember you reached out and said you needed 10 additional more users, so I just added that to that.
+DanielFavela: Okay.
+Robin Barrow: That, excuse me. It's an order form. So we just need a signature on that and then a payment process.
+DanielFavela: So I did forward that. So last week one thing when you send it to me, I forward that to my accounts payable. That's why I assumed everything was squared away. Okay. So but then when you said that, no, we're still pending. I said, can you send it to me? I thought it was an additional one and the same one. So I forward it back to my AP department. I said what's the status on this? You know? Yeah. Let me actually matter of fact, I think I might have done a response.
+Robin Barrow: Okay.
+Robin Barrow: Yeah. We just need an updated signature on that. And then our my finance team can resend another invoice. So okay. As long as we get payment, I'll say by the end of this month, then we should be good. I know you guys are eager to get started with email gateway. I would say we can grant that. We just really need either a signature or the invoice paid. So you'll have you'll have time to pay the invoice if we could get a signature to
+DanielFavela: You okay. If I understand, frankly, so you just need me to reply back with a signature on that quote?
+Robin Barrow: Yep. And then I'm gonna send and then our finance team is gonna send an updated invoice out and we'll just need payment on that as soon as possible, just because the previous one obviously was still outstanding because we were still figuring out how many e mail gateways you needed if it was going to work or not. This is just updated.
+DanielFavela: Okay. I had already sent it too much.
+Robin Barrow: That's okay. Yeah.
+Robin Barrow: Yeah. If you want to just tell them to the AP department, just say, hey, an updated invoice with this amount is going to come shortly. Once, obviously, you send over a signature.
+DanielFavela: Okay. I have a question about
+Philippe Rodrigues: The configuration uh
+Philippe Rodrigues: In the ticket we were talking about consolidating the 5 different domain names to to a single domain name that we can you'll be more efficient about this process.
+DanielFavela: Um
+Philippe Rodrigues: So is that still the goal? Because that will change the product list from having 5 gateways to a single gateway for a single domain?
+Moshe_Lindsay: Yes. Yeah.
+Robin Barrow: And that's what I updated it to Phil as well, yeah.
+Philippe Rodrigues: Sure.
+DanielFavela: I did see Robin did the price went up on those I guess is because we changed it from 5 to one
+Robin Barrow: The let me just see. You just you lost the volume discount for email gateway and then I applied a volume discount for the number of licenses.
+DanielFavela: Yeah. Okay. I'm just curious. They were not I said I assume this because we kind of change the amount.
+Robin Barrow: Yes. Yeah, we price it by the it's tiered pricing by the number of licenses. You all have. So I think you're pretty up there now. So it's I'm trying to see in the system but because you have I'm trying to go by the entity display name. I don't know. Phil, can you see how many they have in there currently?
+DanielFavela: I think it's 49.
+Robin Barrow: I think that's what I see now. Yeah.
+DanielFavela: The payment is we're at 6 50 licenses, but and I'll tell you right now. Robin, that's probably gonna increase by next week.
+Robin Barrow: Okay. You just let me know again. I want you to be able to add the licenses, get comfortable with the number and then we can increase again. Okay. Yeah.
+Robin Barrow: Probably do it by the end of this year. But perfect. It's already December. It's crazy, but you just let me know.
+DanielFavela: Okay. Yeah. That sounds good.
+DanielFavela: And yeah so much on with us now. So we we do we once we found the concept that you could not use the same portal to to manage multiple gateways. That kind of changed our process on the Muse. So we do wanna we do want to just do with one right now and set it up. We are looking for the best solutions, probably recommendations on your part then probably Phil. That's part of what probably gonna help us out with your expertise on this. Because we don't know if we want to know that process is gonna be for people to transfer over when we change our accounts data and stuff like that. And what easier way to do it without losing data. And I know that it's very minimal access for us to do it for them. Or but I don't know if on the back end, you all have that capability of just moving.
+Philippe Rodrigues: The data do not have that capability in the back end. It's all gonna have to be done on the front end. Because of the security standard that we hold here at PreVeil. We don't hold anyone's keys. It will be a bit of a project that we should work together on Daniel. The way I understand it is you have an organization, you have users of different domain names, right? They're PreVeil IDs could be at different things than a single domain name. Is that right?
+Philippe Rodrigues: Correct. So what we should do on a high level. This is my vision. Um
+Philippe Rodrigues: We'll pick the domain name. And then whoever doesn't already have that domain name, we will invite them to the organization by that domain name. So then these users will have temporarily 2 PreVeil accounts, the new domain name and the former domain name. And they will have access to both of these accounts on the same machine. And you could have multiple PreVeil users on the same machine, switch back and forth between. So users will go to their former domain name, PreVeil users and share everything they have in drive to their new PreVeil user.
+Moshe_Lindsay: The user is, they will share it.
+Philippe Rodrigues: But the users will do this. Okay. And they'll share everything in our drive. So this is folders that they're sharing with their new users full, right? and it didn't share. Then they'll cross over to the new users, open the invitation, accept the invitation, make sure they accept without syncing. So it isn't expensively take up all the space on their computer.
+Philippe Rodrigues: And then the new users can remove their former user IDs from the permission list of the folders that you just shared. So that's gonna be the most efficient way to do the drive carry over to the new users mail. We're gonna have to so if they're not already using outlook.
+Philippe Rodrigues: They're gonna add PreVeil to outlook. And then we're gonna use outlooks capability to export over mail to a PST file or an outlook archive file and it's stored at file in the drive of the new user. We'll put it in there and then if they need to go into those emails, they can load it up in in outlook as a new mail folder. If they need to have it in their live mail box, then we can shift some of those emails over or perhaps the whole thing over. But really, you want to think about archive G those emails if it's a large mailbox that's mail. Activity logs we can export smartly through a data. Export in the admin console the admin can go in there, select all the users and export the activity logs. If you're not interested in the activity logs, we can skip that altogether. And then we'll need to reform the recovery methods for the new users and you will need to make new approval groups and then assign those to the new users. That's all on the admin side, those last 2. That's my vision here. We should probably have a few calls to set this up 30 minute call to set this up and then write down the instructions and send the users what they'll need to do and then the admins, what they'll need to do.
+Moshe_Lindsay: Thanks for that Phil. I think our main concern with that process, especially for the email. When I initially over to outlook doesn't that kind of put us out of scope for even temporarily for the moment that we're moving, the emails that weren't supposed to be. Because now there's gonna be a record of those emails in our say, for example, our outlook defender our explorer. It's gonna basically be on our 3 6 5 tenant even temporarily for that time period that we're moving it. Where before it wasn't and that's how we were recently able to say okay, we're in scope because these emails have not been moved over through and we can't see them through our 3 6 5 admin tenant. So how could does how is there a way to get around that or is that just kind of how it is? Um
+Philippe Rodrigues: Normally it doesn't sync to outlook exchange. If you're using the classic version of outlook, it's just an I map processor. These things are not gonna sync up with Microsoft servers. It's just a local application that is transforming the data from one one form to another. If you want, we could do this completely offline. We can turn off the the network adapter. And we could do this without any internet connection and you know, back up your emails to a PST file. And then turn on the internet connection. So that I can connect to our backend servers and store it in the PreVeil drive. I don't see Microsoft cloud servers being involved in this operation. Okay.
+DanielFavela: So Phil. So you're according to what you're kind of giving us the run down here on the process. If are you saying that we would have to spin up a new portal with this a brand new portal? So this cannot be done on the existing portals? It
+Philippe Rodrigues: Could be done on the existing portal. Yeah, you so the if by portal you mean the PreVeil organization, right? or the tenant yeah, we could do this on on the current tenant it would really just be shifting the data from one user to another. So you'd invite the new users there and then have the former users share everything with the new users. All this could be within the tenant that you've started already.
+DanielFavela: Would it be easier or say for a cleaner to do a brand new one or what do you recommend? We just do use a paying
+Philippe Rodrigues: On the present one for a few reasons, one is it retains the activity logs of the former users. And it retains the name that you have on the organization.
+Moshe_Lindsay: Okay. You mentioned something about turning off. So syncing should not be enabled for this process when we're moving the data drive. Was that what you were saying?
+Philippe Rodrigues: Yeah. When you share folders and filter people it generates an invitation. So if you were to share a folder with me, it'll say Daniel is sharing a folder with me. When I go to accept the invitation the choices are except with syncing or except without syncing. If I accept with syncing then everything that's in that folder will automatically sync to the local sync directory on the s drive without syncing, then it stores it in the cloud. And so because you're the users will have both their former and their new accounts and the same machine. If you accept with syncing then you've effectively double the amount of data that's being locally stored. They'll have a lot of duplicates of everything there that can run up the available this space and it's very simple. It's just except without syncing so that you don't run up to the available desk space on your computer.
+Moshe_Lindsay: And when that's complete then do we turn on syncing for that folder? Say when we remove the previous account and UN sync that drive?
+Moshe_Lindsay: Okay. Okay.
+Philippe Rodrigues: That's right. Yeah. You basically yeah. After you've done the carry over, you're turning off one side and turning on the other
+Moshe_Lindsay: Because they will they do usually work like that. Normally on a day to day basis. So they're gonna expect to have that capability. Yeah. Back
+Philippe Rodrigues: Yes. Yes, that's the end goal. Yeah, end goal is to turn on anything.
+DanielFavela: Okay.
+DanielFavela: That kind of brings up a complete different subject to and what is um
+DanielFavela: How do I word this? How how secure is it having that sync, setting it up and syncing to our route? Because does that move the data off of PreVeil and into our physical device?
+Philippe Rodrigues: Well, it syncs down to your device and it's just your device will have a copy of what's in PreVeil. And you know, that brings your computer in scope, but your computer is always in the scope really. And you want to make sure well, there's there's different approaches to this. One is you can secure the computer, the endpoint computer some companies have virtual machines or group policies and things like that. Strict passwords to to access and so on other companies on sync things when they're done using them to minimize the attack surface. But in order to access the files you have to sync the files onto your computer so they can be de crypt D and opened by local application. And you know, that's a requirement to to access your files and PreVeil. It's just a matter of, you know
+Philippe Rodrigues: Do you want to secure to files while they're in use by your by your users? answer is usually yes and having some group policies and some security mechanisms for those computers. While users are editing is suggested we're actually working on a VDI set up here and for Val where we're gonna be hosting a VDI system, this is in a few months time probably, you know.
+Moshe_Lindsay: Do you guys have a beta version of this that you're talking about already kind of available though?
+Philippe Rodrigues: No. That's the cloud drive. That's a different animal. The VDI system is actually coming further. It's in the very early stages right now. But it will be a solution that I think solve the problem that you're describing.
+DanielFavela: Yeah, because that kind of in our envision PreVeil is used to basically safeguard the chi data and it's not supposed to be sitting on our network. So if during the sync process if a bad actor gets in there for some reason bypasses all our filters and then has access to that actual possible cy data that sits on our physical network. So
+Philippe Rodrigues: Yeah. Yeah, I understand that problem. You obviously want to minimize the attack surface there and a lot of a lot companies. They have a virtual infrastructure where they can easily discard the machines that users have enabled sync on and are storing things for a long term. Um
+Philippe Rodrigues: But what I find just in my experience, most companies just have the endpoints in scope and then they manage the security of those computers. So they'll have strong passwords. They'll have group policies that manage where things can go hours of operation. They monitor the activity logs UN synced folders when they're not using them. And there's a whole list of other suggested things that you can do to to remain in compliance with some of the files that are being used. Locally saved to the computer.
+Philippe Rodrigues: Okay. Robin. Yeah, I also have to go to another meeting here soon. Um
+Philippe Rodrigues: Okay.
+DanielFavela: Um
+DanielFavela: I think we're we're good. We probably need to schedule. I guess something to start moving forward with right. And I'll show you to start getting this get going.
+Moshe_Lindsay: Sure. Yeah. I mean, it's gonna be quite the project. If all this is gonna be from user to user and then we're having to basically walk the users through.
+DanielFavela: I was gonna say we're gonna have to touch as a user to that, right? Um
+Moshe_Lindsay: And not just that. But the moving of that St depending on how big these
+Moshe_Lindsay: How big they are, their PreVeil mailbox is going to be that could
+Moshe_Lindsay: Potentially take a while moving that. Um
+Philippe Rodrigues: So yeah. Yeah. Migration will take a little bit. Yeah, yeah. It's a decentralized process. And the users have their keys. But it's a very clear set of steps, right? Moving things over and coordinating with the users. We can do a few together and then it's just a matter of having this as a repeatable process for the rest of the company.
+DanielFavela: Okay. Um
+DanielFavela: Well I think well, I guess she and I will we'll probably chat and see what the best attack is for us to move forward with. And then we'll shoot you an email and maybe we'll see when we can schedule this to kick it off.
+Philippe Rodrigues: Okay. Great. That sounds like a plan. Yeah, thank you both.
+DanielFavela: Okay.
+Moshe_Lindsay: Question, Phil for the security email gateway. Is it feasible to just use a sub domain added as an alias into one of our account or a service account or etc, etc. On our 3 6 5 10.
+Philippe Rodrigues: Yeah, the email gateway. Um
+Philippe Rodrigues: You. Yes. You will need a different domain name.
+Moshe_Lindsay: So we are debating between the 2 ideas of just creating a sub domain, having a sub domain and using it as an alias or making a new domain. Do you have any input on what scenario is basically better? or not?
+Philippe Rodrigues: Um
+Philippe Rodrigues: There's not a better one. My personal preference is a sub domain. For a few reasons. One it's under your control. It's no additional cost and it's not dramatically different name for your clients to work with. Nearly all of our customers go with secure dot and then your domain.com. And I will create the DNS records for you there. There's 5 DNS records as SD marketing Kim. And it routes the mail from that sub domain to the gateway. So just a matter of having
+DanielFavela: A sub domain that you can edit.
+Philippe Rodrigues: And put in the custom records. It's important that it's not used by anything else currently. For another website or another mail service or anything like that. So sub domain is the answer. But if you have another domain that's not being used for anything we can work with that. So secure some some folks ask is secure the best word or does it give give away too much to the hackers or so on and so forth, secure. It's past all the assessment tests that I've had for over 300 implementations. But you know, I've had other customers using credit. Or I do as a sub domain it all uses the same technology and it's all secured the same way.
+Moshe_Lindsay: And in terms of the infrastructure of it as we roll it out every single user in our 3 6 5 will need to have that alias in their email so they can receive the mail, correct?
+Philippe Rodrigues: There will be no configuration in your existing mail server or your mail services. All this is done on the PreVeil side.
+Moshe_Lindsay: To receive the invite in the first place to join to this. They'll need to have an alias right with because they usually they have to receive an invite from PreVeil and that PreVeil that invite goes to their outlook. So we usually add them add as their their alias as the outlook accounts. In PreVeil, that's not how it's supposed to be. Maybe this is a miss yeah. But all of our accounts in PreVeil currently are existing aliases in our 3 6 five, right?
+Philippe Rodrigues: Yeah. I'm a little confused too. I'm not really following the alias.
+Moshe_Lindsay: For example at ours is at LLC.com. We would send an invite and we would add that account in pre bill and then that account or that outlook account would receive the invite from pre bill. They accepted and it creates the PreVeil account.
+Philippe Rodrigues: But is this regarding the email gateway or the
+Moshe_Lindsay: I'm saying so for those accounts because those are I guess you could inform me if I'm thinking about this incorrectly, but the accounts that we're gonna be adding the new accounts will be tied to that gateway, correct?
+Philippe Rodrigues: No.
+Philippe Rodrigues: Yeah, yeah. Over we haven't talked about the gateway and live yet, but the the external domain name or the alias for the gateway won't be something that you configure in Microsoft. It'll be completely on the PreVeil side. So imagine you have a PreVeil user account fill or PreVeil.com. I decided to go with subdomains, secure dot PreVeil.com for the gateway. What happens is
+Philippe Rodrigues: If an external party, who's not a PreVeil user wants to send you an email, they would use the secure dot for bill.com to send the email. That email would be routed to. The gateway would translate the destination address to the PreVeil address. So we'll go from secure dot to
+Moshe_Lindsay: PreVeil whatever that main domain name is.
+Philippe Rodrigues: The main domain and then it will be delivered.
+Moshe_Lindsay: Um
+Philippe Rodrigues: So none of this is handled by Microsoft or any other commercial mail system. All this just resolved by records.
+DanielFavela: Okay. So so we'll have to just register a domain name and then we won't implement it into our 365 portal. It will be implemented in PreVeil?
+Philippe Rodrigues: Well, if you use a sub domain name, you don't even need to register. It's just configuring the DNS records. Okay. If you don't use a sub domain name and then yes, you can register a whole different domain name. And then we can route those emails with DNS records to that domain, which then points to the mail server. But it's the alias name isn't configured in your commercial mail system. It's the DNS record that will point it to a new mail server.
+Moshe_Lindsay: So for the secure email whatever that that service account that's needed for that I forgot the specific name, but I think there's like a specific an account is needed for the translation and uh
+Philippe Rodrigues: Yeah. The gateway user.
+Moshe_Lindsay: Yeah. Does that user need to exist anywhere but PreVeil or no?
+Philippe Rodrigues: Yes. Yes. That user. So yeah. You'll need to create an email account called PreVeil dot gateway at whatever the domain name is. Not the alias, but the principal domain name. Okay. Yeah. And then that user to the yeah. Well, then we have a call. I mean, all of this is discussed during the orientation call, we're a little bit before that right now we're previewing it but yeah, that is an independent user, right. This doesn't reflect what the end users have to do on their accounts. Okay. Okay.
+Moshe_Lindsay: We can talk about this more in depth, I guess, during the actual orientation. But I just wanted to make sure I was thinking of it correctly. So thank you. Sure. Sure.
+Philippe Rodrigues: Okay. Well, thank you both have been effective session for our next session. Feel free to reuse the same calendar link. The one where we do the migration of the user data.
+Moshe_Lindsay: Could you do add Danny onto that thread? The support thread? I'm not I wasn't able to even though I kept trying to CC him his account or um
+Philippe Rodrigues: Yeah, yeah. I can thank you. Sure. Sure. Okay. Well, no other questions. Thank you. Both.
+DanielFavela: Yeah, I appreciate it. Thanks, bill.
+Philippe Rodrigues: All right. Take care.
+DanielFavela: Take care.

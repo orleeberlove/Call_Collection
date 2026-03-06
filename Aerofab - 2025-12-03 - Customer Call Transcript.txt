@@ -1,0 +1,160 @@
+Account: Aerofab
+Call Date: 2025-12-03
+Duration: 00:26:03
+Participants: Andrew Meggs, Michael Pickard, Dean Mantha
+
+======================================================================
+
+Andrew Meggs: Hello. Good morning.
+Dean Mantha: Good morning.
+Andrew Meggs: How are you all doing?
+Dean Mantha: Good. How are you here?
+Andrew Meggs: I am doing well. You don't have to turn your camera on if you don't want to. There's no.
+Dean Mantha: Pure pressure. That's okay. I will Mike won't.
+Andrew Meggs: I talk with my hand. So I feel like if I don't have my camera on I can't
+Dean Mantha: Can't hear myself meeting at lunch. So yeah. Uh
+Andrew Meggs: No, no. Yeah. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context. I am the customer success success manager here at PreVeil for you. So what that means is I know you guys are working with cyber. But on the PreVeil side of things, I am the general main point of contact. And this is a call to let you know why exist as a resource, but the kind of go over the onboarding process and make sure you don't have any initial questions.
+Dean Mantha: Great. All right. Um
+Andrew Meggs: So I guess no one from is no one from on this call.
+Dean Mantha: No. It's just Mike and I from arrow fab to Processing. Yes.
+Andrew Meggs: Okay. And I guess just for my clarification here, who is going to be the person that's actually going to be I phrase this actually creating your organization and being the administrator, will that be all or will be that someone from cos?
+Dean Mantha: I
+Dean Mantha: It's a good question. I assume that was gonna be us. But I we haven't we're actually having we're having a kickoff meeting with next week. Andrew we are actually off off loading and off boarding from our current it support company impact to based here in Indianapolis. And then our contract with impact technically ends in a few months. But we already made the decision to move forward with so yeah. It and of course, then talking to them about our cyber security requirements, they're the ones that brought us to your attention with the PreVeil product. And so anyway, we're not fully on board and things going with them yet. So that that may be part of the process. But we can ask them what this what that standard process is with them. If we need to be the administrator or if they need to be the administrator if it matters
+Andrew Meggs: Yeah I mean it's ultimately up to you and them how you want to do it it doesn't really matter who
+Andrew Meggs: It does somewhat matter, but you want to have that conversation with them. And maybe they should have also been on this call too, just to make sure. And if you want to have a follow up intro call with them just to connect us to, we can certainly do that if you want. But basically, for the short term, there needs to be one person, whether that be you or someone from who goes through the onboarding steps of creating the organization and being the initial administrator in order to basically invite everyone and start the whole process.
+Dean Mantha: Yes. Yeah. Yeah. I think we need to be the administrator. And I guess I would prefer Mike to to be the similar thing. Same thing with them, office 365 I'm an admin, but I don't have the full full admin rights. Right now impact well, they got moved to, but make it story simple more simple. Yeah, they used to handle be the main administrator, but I have the administrative abilities to create accounts and then delete them. Anything that would be involved in a user account.
+Andrew Meggs: So okay. So
+Dean Mantha: Be involved in there somehow yeah let's just go ahead and answer that question that are fab CPC will be the administrator
+Andrew Meggs: Okay. Okay. Yeah. And that's fine. And if you want to have that conversation with us when you have that, but I guess getting to that point then of how to even do that. I'll send a follow up email after this. So you have these instructions. Okay. And I think they might have been included in that initial email that I sent to. But basically, it's just it's very simple. There's a video that's like, an hour long. I don't know why, but the actual setup is just downloading PreVeil creating a PreVeil account. And then there's a very specific link to go to that. If you go to that link will prompt you to create the org. The whole thing takes maybe 5 minutes to do. And whoever ends up doing that, which sounds like Mike will be doing that. Once you do that, you'll be set up as the initial administrator and then you'll have an extra tab on your available as admin. And then you'll be able to add users and administrate the organization.
+Dean Mantha: Right. And if I remember our discussion with the preview of the product there needs to be a backup administrator as well, or I thought there was 2 people that need to be identified on that. So um
+Dean Mantha: So if that's the case, it would be it will it'll be Mike and I and we'll yeah, we'll plan to go through that.
+Andrew Meggs: Yeah. I mean, you have well, you don't literally have to but yes, it's recommended that
+Andrew Meggs: And you do have 2 administrators as part of your subscription. But but yeah. So Michael go go through that. And then basically after that, the next step on the technical side of things would be to schedule the onboarding session with our support team. So that'll be the hour long actual training and
+Dean Mantha: Technical onboarding, is that
+Andrew Meggs: Technical will be able to use PreVeil once you create the org, but it's recommended, but then that'll be like the hour.
+Dean Mantha: Long training, the training.
+Andrew Meggs: One thing I did wanna mention
+Dean Mantha: Yeah. Question for you about that training session. We I'm guessing we should probably include or plan to include whoever is gonna be using PreVeil to be a part of that meeting if possible so that we could make sure everybody sees that training at the at the same time. Would you recommend that?
+Andrew Meggs: Yeah. Or well, short answer, yes. Long answer you can record it as well. But also part of the training will be going over admin roles and responsibilities. So we'll be outside of the scope of your end users just as a heads up body. But yeah, you can certainly you can invite whomever you want you can have your model in there if you want, you know. But yeah. If you want to include all yours, you can I would recommend also once you have this conversation with including the CS representative in that call as well, just so they have kind of an idea.
+Dean Mantha: I don't want to complicate this, but we are already a PreVeil account customer. We do have an account with PreVeil. It's mainly being used for file transfers that kind of replace our old FTP server. Rarely use. But but we do have in the account already. Yeah.
+Andrew Meggs: Yes. That was actually gonna be my follow up. Question. So um
+Andrew Meggs: Two, is this to Processing corporation?
+Dean Mantha: Yes, it is to Processing corporation. Is our legal name, yeah.
+Andrew Meggs: Okay. Uh
+Andrew Meggs: So this is somewhat complicated. So technically on our end, there are 2 different clients, there's arrow Feb. And then there's 2 Processing.
+Dean Mantha: Yeah. Technically, it's the same thing. Arrow fab is a division of 2 Processing corporation.
+Andrew Meggs: Okay. And it looks like to Processing is a direct deal with us and arrow Feb is via cyber.
+Dean Mantha: Okay. Okay. So so the file transfer portal that Mike was referring to was done as to Processing or under 2 Processing and what the Exostar initiation on the this for this area was done under a fan.
+Andrew Meggs: Okay. I guess and we can there's a little outside of the scope of this call. But
+Dean Mantha: Locked in like a 3 year deal. I think we're on our third year, but um
+Andrew Meggs: Yeah. That's what I was gonna ask is so are you basically not going to renew with 2 Processing and then continue forward with just arrived?
+Dean Mantha: I think that would be the way they go on it because I don't know if you have the ability to because I don't even think we're I have any users right now that's using PreVeil. I may have to use every on the rare occasion, but I don't know if you have the ability to get us that contract and go with the new one.
+Dean Mantha: To somebody else about that, yeah.
+Andrew Meggs: Yeah. That yeah. That's well for starters 2 Processing isn't my client. That's actually my co worker Robin's client for one. So that would be a conversation with her. I'm looking at and it does look like she has a note saying that you won't be renewing your subscription. But so we do have that on there. But this is there's not really a way to get out of the contract or if you were that would be a conversation with her. I don't have any
+Dean Mantha: Sign on that. I would think is we're going with the we're adding more services and stuff like that they might be waiting to get out of that contract, but we definitely won't be we won't need to continue on as long as we have that file transfer service included. So yeah.
+Andrew Meggs: For sure. And once that unfortunately I that's her contract and retro we may maybe should have put both under my name or both under her name, but you know, here
+Dean Mantha: We are
+Andrew Meggs: It's Robin barrow R O I N D A R R O W
+Dean Mantha: Right. Sounds familiar. Okay.
+Andrew Meggs: And that's a bar at PreVeil.com.
+Dean Mantha: Okay.
+Andrew Meggs: If you wanted to have that conversation with her, that would be to talk to. All right. Kind of to my point though, or kind of to the next point here is that Mike, it does look like you have a PreVeil account with the picker at Tube pro.com email address and an organization has already created with that says arrow, arrow Feb, a division of 2 Processing. Are you going to continue to use that org or are you want to or do you want to start from scratch?
+Dean Mantha: That's what I was saying. If we could get out of the contract, we could start from scratch.
+Andrew Meggs: Well, you don't necessarily have to get out of the contract to start from scratch on the technical side of things.
+Dean Mantha: If it doesn't matter technically and we're already in there, then, I guess
+Andrew Meggs: There's no. Yeah, if you wanted to use that same word, there's no I mean, it's already
+Dean Mantha: But yeah, if it says arrow fab a division of 2 Processing, I think that would be preferred.
+Andrew Meggs: Yeah. Okay. So
+Andrew Meggs: It's gonna be slightly what's yeah, if you want to use just that one, Mike, are you able to log into your PreVeil account using that?
+Dean Mantha: So yes. I haven't been a while, but yes.
+Andrew Meggs: If you're able elevator, if you're able to it's not a problem. You can keep using this. If you're not able to we'll basically have to recreate the whole thing. So maybe double check that. You're still able to log into that as an admin. It does have you I do see you as the admin of the arrow fab division of 2 Processing PreVeil organization with the picker at Tube pro.com email domain. So if you're still able to log into that, you could just use that and not have to create a new one if you don't want to.
+Dean Mantha: Side note question for you, Andrew. I have an account I guess with PreVeil because I use the download feature for a for multiple customers on our side. So to for trial file file transfer. So since I already have a an account under my email address, will that affect anything with this onboarding and this whole system? Is that through a customer though? That's through? Well, I just have a user account plan.
+Andrew Meggs: Yeah. So that was gonna be my next.
+Dean Mantha: Customer site. Well, it's not that. Yeah, it's through
+Andrew Meggs: I'll answer your question real quick because I have the answer to the short answer. Yes, it will change things slightly. It's not a huge deal. I do see that you and several other people with the at arrow fab.com email domain have a what we call PreVeil express account. Yeah. That is a the the free browser version of PreVeil. Basically what
+Andrew Meggs: Usually how this is gonna work is if you didn't have an PreVeil account, like as the admin of the re org would invite someone and they'll get invitation to join PreVeil and they create a PreVeil account and they join the organization.
+Dean Mantha: Gotcha. You
+Andrew Meggs: Already have.
+Dean Mantha: My screen now, but this is this is our 2 Processing account. Oh, okay. All right. Um
+Dean Mantha: Yeah. And what I have an express. So okay. Got it. Understood.
+Andrew Meggs: So so the difference here is if you were to we can test this out now, if you want to Mike there's that plus button in that blue bar.
+Dean Mantha: That plus button.
+Andrew Meggs: Light blue next to the filter there's a plus button.
+Dean Mantha: In the middle of the screen in the middle of the screen. Yeah, you see it? Yeah. Oh, no. Yes. Okay.
+Andrew Meggs: So if you were to put in Dean manthe his email address and then norm long story short Dean will get an invitation in his PreVeil account to join the organization. So if you click if you were to click create account instead of him having to create a new account yeah. So click create account. This won't hurt anything. If you click this, it'll say oh, it says this person already has a PreVeil account. Do you want to invite them you're seeing here? So instead of him creating a new account Dean you'll get an invitation in your PreVeil account. So next time you go into your PreVeil account, you'll see an invitation to join the org and you'll be sub some into that organization.
+Dean Mantha: Okay. All right. Thank you.
+Andrew Meggs: Asterisk here. This
+Dean Mantha: Message here, is that something I need to be concerned about?
+Andrew Meggs: Yes, but not now.
+Dean Mantha: Okay. Yeah. No, no, I understand that. So
+Andrew Meggs: You will want to create recovery groups and approval groups and I'll go over that during the onboarding process. Um
+Andrew Meggs: But yeah. So so Dean next steps here is you're gonna get an invitation to join the organization. But what you're also going to want to do is because you have the free browser version of PreVeil, you're gonna want to upgrade that to the full downloaded version of PreVeil. It's pretty easy, just download PreVeil and then when it says add account, you'll get an option to add existing account and then you'll just use your account credentials to do that. Yeah. You're gonna want the downloaded version of PreVeil and yeah, it'll make sense. Once you get into it a little bit more, but that's the only difference between if they don't have an account. If they do have an account is instead of creating a new account, they'll get an invitation to join.
+Dean Mantha: Okay. That will not mess up his current.
+Dean Mantha: Access.
+Dean Mantha: Access. Yeah. The express it doesn't
+Andrew Meggs: Change anything in the back end, all it does is now link his express account to this organization.
+Dean Mantha: Okay.
+Andrew Meggs: Got it. And I am seeing 5 people with express accounts. There's a Walter hair, young, Denise brown brand, dotson, and you
+Dean Mantha: Dean yeah. Yeah. The brand dotson is no longer here and I didn't hear what the last name was, but all the other correct. Yeah.
+Andrew Meggs: Okay. If you want our support team to delete brands account, we can
+Andrew Meggs: Or if you don't it's fine.
+Dean Mantha: Yeah. I mean, well, I mean, yeah, we can and I'm sure we can I guess we could which would we send a an email request or is there a way to do it through the portal?
+Andrew Meggs: So because normally well, this is long answer or short answer. Yes, you do support at PreVeil.com, just put in the ticket to delete his account. Normally if it was like, normally, if he was part of the organization and admin would be able to delete his account, but because he's a like, floater express account.
+Dean Mantha: Account. Yeah. Okay. So so it's his express account. He's not tied to our organization.
+Andrew Meggs: Account correct. Yeah.
+Dean Mantha: Okay. Well, then that doesn't
+Andrew Meggs: Matter, yeah.
+Dean Mantha: Yeah. That doesn't matter.
+Andrew Meggs: Then yeah. If you don't want it if you don't care about it and you have to delete them in just but it is
+Andrew Meggs: Once again, this getting a little bit of the weeds here, it is with his at a.com email domain. So we recommend ultimately it's up to you're the client, do whatever you want. But we recommend that you clean up any of any floater accounts, just on the off chance that somebody accidentally sees he's in the UI.
+Dean Mantha: Sure. Well, since yeah. And since it's referencing his old arrow fab account, then I get it. Okay.
+Andrew Meggs: Yeah. I would recommend that you put in a ticket to delete his account. Okay. That's kind of the setup here. Yeah. You've already got the or grade, which is great and you can log in, which is great. So the next step here would be to schedule that onboarding meeting. And I will send a in my follow up email. I will send a link to the support team's calendar to schedule that. So it's the group calendar. So whomever has time at that time will take it. And I would recommend that you invite a member of the CS team to that as well, the idea.
+Dean Mantha: I agree to have them included. Yeah. Okay.
+Andrew Meggs: And then yeah. I mean, on the technical side of things, that's kind of it. Technically you have that set up now. You can use it. But the other half of things is the compliance portal, the compliance accelerator. So that is the video doc series on compliance and the documentation templates and whatnot. That is a separate website. It's a separate login. Okay. You don't have to keep sharing your screen if you want to make the way but yeah, for the compliance portal is going to be helping write your compliance documentation as well. Do you know?
+Dean Mantha: Yeah. Yes.
+Andrew Meggs: Okay. For the compliance portion of things. I like I said it's a separate site and I am the person who adds people to that. Do you know who should get access to that? You can have up to 3 people in there.
+Dean Mantha: Besides Mike and I
+Andrew Meggs: Yeah. Or rather, should I add you and Mike for starters?
+Dean Mantha: Yeah. You should add Mike and I and then up to 3 people. I mean, I guess we want we wouldn't want one of the CS folks included, correct?
+Andrew Meggs: It's your decision, but yeah. Okay. If they're helping you with the documentation, they would probably. So yeah, I mean, all of it is
+Andrew Meggs: All of the documentation is also all download able the videos are download able. So if you need more people now, you can just download it and share it. Okay. But whenever you have that conversation with us you can determine who on their end would be the best person to add and you can let me know. You can add them. Yeah. Okay.
+Andrew Meggs: But okay. I will go ahead and add you and Mike. So you will see an email invitation to the it'll be it. It's from a separate site. It's a somewhat generic email address the invitation. So just as a heads up may go to your spam filter or something. But I'll send a direct link to it too in in my follow up email. Okay.
+Andrew Meggs: And then yeah. That's kind of it with like, the at least getting started here at the beginning is creating that or starting the organization and scheduling the onboarding and then getting into the compliance accelerator. And then yeah. Let me sorry, I'm just adding you guys right now. Um
+Andrew Meggs: To kind of reiterate the resources you have available to you here. The support team will be doing that technical on boarding, but they're also people that do bugs and technical issues or deleting users, their support at PreVeil.com with the accelerator comes access to our compliance team. So I know you're working with us, but the people who wrote all of our documentation and everything. If you have any questions about it or any general compliance questions, they're available compliance at PreVeil.com. You're noticing a trend in the email addresses here. And then I am your general main point of contact if you're not sure who to talk to or something needs to get escalated or something like that. I know you'll probably be working directly with us, but I'm here too, if you
+Dean Mantha: Need something sure. And then
+Andrew Meggs: Yeah. Kind of it's kind of it for my spiel. Any questions about PreVeil or anything? Any points of clarification you'd hear at the beginning of the process?
+Dean Mantha: I'm not aware of any I mean, I remember from the discussion about the product itself. I mean, you've got the drive for storage and you've got the interface with office 365 and that's the those are the 2 main output. Yeah. With outlook. So yeah, yeah.
+Andrew Meggs: There's the outlook plugin. And yeah, you can go ahead and start with that if you want. I can give you the knowledge base article on that, or if you want to just wait for the onboarding for them to walk you through that, you can whatever.
+Dean Mantha: You might just wait for the onboarding.
+Andrew Meggs: Yeah. The only other thing if you wanted.
+Dean Mantha: To do something with that Mike.
+Dean Mantha: Okay. Yeah, we'll just wait.
+Andrew Meggs: Okay. Okay. Okay. Yeah. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients, just to make sure things are going smoothly. Sure. Obviously, you can reach out to me before then. But do you mind if I put some time in the calendar for march? Third is 90 days from now?
+Dean Mantha: Let me see how that looks. I mean, that's I don't know the top of my head. That's let's see march, third.
+Dean Mantha: Yeah, Tuesday.
+Dean Mantha: Yeah. Um
+Dean Mantha: Yes. Roughly same time frame.
+Andrew Meggs: Or or sure what time zone or what time zone?
+Dean Mantha: Are you all in? We are we're on eastern standard time.
+Andrew Meggs: Okay. Does 10 30 work for you, all that? 30 eastern
+Dean Mantha: Yeah, that would work.
+Andrew Meggs: So I have another call I live 90 days in advance. I'm like, already booked out like 90
+Dean Mantha: Days so gotcha. Uh
+Dean Mantha: Yeah, that should work.
+Andrew Meggs: And you said you all are in Indianapolis, right?
+Dean Mantha: We are. Yeah. Okay. Cool.
+Andrew Meggs: I'm in Minnesota myself.
+Dean Mantha: Oh, are you okay. Yeah.
+Andrew Meggs: To wake up at 6:00 am to shovel my wife out of the driveway.
+Dean Mantha: And whether
+Dean Mantha: We we got nailed with our first major snow of the year on on on Monday evening.
+Andrew Meggs: Yeah.
+Andrew Meggs: I'm putting that yeah. I don't I assume it's slightly warmer than here, but not that much different.
+Dean Mantha: Not a whole lot. You guys yeah. You guys get a little bit more harsher. Uh
+Dean Mantha: Weather than we do. But not a whole lot different. Yeah.
+Andrew Meggs: Yeah. Let me tell you nothing. Nothing like shoveling snow than 15 degree weather to wake you up who even needs coffee, right? Uh
+Dean Mantha: No. I totally agree, understood. We're taking your wife to the emergency room, because slipping bang your head against some brick stairs at night.
+Andrew Meggs: Yeah. We I need to take like an ice pick our whole backyard. I don't know. I don't want to get into the details, but we gotta we have to like, re grade our backyard. Because it's turning into an ice ring because it's going towards the house. And that's next year's project though. Anyhow, I will send this follow up email. You have you'll have my contact information whenever you have that meeting with us. You can determine who would be the best person to well first off, if you wouldn't mind giving them my contact information. And then I can maybe have an introductory meeting with them if they want to. And then let me know that if they needed to be added as the accelerator. And then I'll be sure to include them in communications to okay. But for now I will send this to you all and yeah, I will send the direct link to the accelerator and all this contact information and everything. And if you do have any questions or if you need anything else, you can let me know.
+Dean Mantha: Sounds good. Thank you, Andrew.
+Andrew Meggs: Yeah. Thank you, all. And it's great to meet the both of you and I hope you'll have a great rest of your day.
+Dean Mantha: All right. Nice to meet. All right. Take care. Bye. Bye.

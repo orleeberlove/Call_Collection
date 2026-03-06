@@ -1,0 +1,68 @@
+Account: Bron Tapes LLC
+Call Date: 2026-02-02
+Duration: 00:12:06
+Participants: Andrew Meggs, Michael Cao
+
+======================================================================
+
+Andrew Meggs: Hello, Mike.
+Mike Cao: Andrew, how's it going?
+Andrew Meggs: It's going well. How's it going with you?
+Mike Cao: Oh, just another busy Monday.
+Andrew Meggs: Yeah, yeah. Very, very busy. Yes, sir.
+Andrew Meggs: I guess, in that case, I won't take I won't take too much of your time here, hopefully. This is mostly supposed to be just sort of a informal check in call. Cool. There's not really like a presentation or anything like that. So I have a couple of points that I normally go over on these calls. But before I get into that how are things with PreVeil or just in general?
+Mike Cao: Not too bad. We're going through all of our stuff that we need to get done right before. I guess we call in our C 3 PO to come and perform an assessment for us. But kind of getting the our data stewards kind of in line with what they need to do within PreVeil is kind of a challenge because they're busy they want they don't want to stop and spend time to to actually look at it. But we got to get the secure secure email gateway stood up still. I had a meeting with
+Andrew Meggs: About that. Yeah.
+Mike Cao: Yeah, he provided everything we needed. It's just taking my sweet time and actually doing stuff. I have other things that are in priority right now, but that's on my list, obviously. We have logged into iden trust and started and going to start that process of getting the certificate, but I got to get Chris. The I think there's a key that he's waiting on for our secure email gateway user. So I got to get him that, but that's all in line all on my list there and then that's it, man. Just a bunch of documentation and evidence that I have to start creating for this entire assessment and this tire program. So that's kind of been my I would say gonna be my month and maybe the next few months, 6 months, maybe. So yeah. That's about it. Yeah.
+Andrew Meggs: It's not fun. I know. Yeah. I mean, so that is one of the things I was gonna ask about is kind of where you're at and the compliance journey. Do you have like a timeline of when you think you'll be ready for an assessment?
+Mike Cao: We picked a timeline around may. So after may maybe around end of May beginning of June, we've talked to already some about 3 or 2 C 3 POS. One of them is awaiting some of our security questionnaire or something like that to to get back to them. But that's our time frame right now.
+Andrew Meggs: Okay. And that was actually gonna be my next next question, is if you had been talking to set videos yet, we are have you narrowed one down or are you we have a few here who you're
+Mike Cao: Talking to, we have a few it was the that was most likely gonna be the ones that are based out of the Colorado area or in Colorado. I think when we were talking to Jamie he said there was a new one that kind of opened up as a 3 C 3 PO in Denver, Colorado. And that's where we're based out of. So that only makes sense to kind of use them, but we're also gonna contacted. We also been in contact with digital beachhead as well. So kind of talking to your guy Jamie. He kind of pointed us in the right direction there.
+Andrew Meggs: Yeah. Okay. Yeah, that's what I mean, honestly, doing my job for me here. That was gonna be my next point is Jamie can provide recommendations there. Yeah. But if you've already been talking to Jamie, then then that's cool. Yeah. Whenever you do finalize that and when you are ready for an assessment just as an FYI.
+Andrew Meggs: I mean, and they're gonna ask for this at the time. I'm just gonna I'm just giving you a heads up. You're gonna need our body of evidence, which is basically just the stuff that proves we say that we do you can reach out to me whenever they ask for that. Our the customer success team is the people who is the custodians of that. Perfect. It will need an NDA signed. It's like a super basic thing, right? But yeah. Just I mean once again, sounds good months in the future, but that is something you will need to enjoy. Okay.
+Mike Cao: I think Jamie did mention that I remember us talking about that and asking the question. If it's something that you guys have to create with each client or it's something that you have kind of a template or I don't know, but you we understand we get it.
+Andrew Meggs: Yeah. I mean, if you want to use your own NDA, that's fine. We I mean, we have our template. It doesn't we don't really doesn't super duper matters. And then we were
+Mike Cao: Talking about the actual body of evidence that yeah. Does that something that takes months to create or is that something that you guys already have ready to kind of go?
+Andrew Meggs: Or no? No. We just it's our boilerplate body of evidence that makes sure. And then if and if it's AI mean, frankly, if it's a copy that's already done an audit with us, they would already be familiar with it, anyways.
+Mike Cao: Makes sense. Yeah. And okay.
+Andrew Meggs: I mean, they would still need it to check the box saying that it was course, but of course of course it they would most likely already know everything that's in it. Yeah.
+Mike Cao: Yeah.
+Andrew Meggs: But but yeah. Okay. That's kind of that was that line of questioning is where you're at with your assessment. Looks like you've got your users in system. I was gonna ask about the gateway, but you already covered that. You've technically got 10 licenses. I'm seeing 3 users in the system. Are you anticipating needing any more than 10 licenses?
+Mike Cao: At this point, maybe not right off the bat. I can foresee is maybe going over that 10 licenses here after the assessment. At some point, there's basically gonna be some responsibilities that probably have to extend out to the UI data stewardship program that we have going on. But right now, I think 10 would be fine, but I can kind of see that going past it at some point which we're not opposed to. We're okay that too, as well. Yeah. Yeah.
+Andrew Meggs: Yeah. And then I guess I don't know. Did Jamie I mean, this is you're already pretty far in the process. So this is not really necessary, but I'm bringing up any did Jamie bring up our tool with you when he
+Mike Cao: No. He didn't. But I have looked in. Not really looked into it, but I was looking at the video around it. And my boss and I talked about it and I don't know if we're ready for something like that yet. He was okay with it. I was okay with it too. So right now, I'm keeping most of our stuff in SharePoint and I'm tracking that manually, but it would nice be nice to have a tool that actually does all is made for this, right? I think he was okay with actually purchasing the actual GRC tool, but it wasn't really something that we needed.
+Andrew Meggs: Yeah. Yeah. I mean, it is a more it's like a project management tool, like quality of life tool. So it isn't actually something you absolutely need, right? me being a terrible salesman here course.
+Mike Cao: No, that's okay.
+Andrew Meggs: Some of our clients who aren't this far along in the process is super useful for them. And a lot of clients were asking for us to make one, but you know, where you're at if you're gonna get assessed in a few months, it's probably overkill if you're most of the way there.
+Mike Cao: Let me ask you this with the assessment. Do do people do? How does this now? I've obviously I've never been involved with the cms assessment yet. How does it usually work as far as if I have a GRC tool? Do they do I give them access or do they just kind of hover over my shoulder and I show them things click here, click there type of thing. You
+Andrew Meggs: Can give them yeah. You can give back to an accessory.
+Mike Cao: Okay. And that GC tool allows read only access or anything like that or something kind of lease privilege?
+Andrew Meggs: Yes. I believe. So if I'm not okay. I mean, to be perfectly honest, it's so recent even I'm not 100%. Sure, yeah. Yeah, to the best of my knowledge, it provides you can provide read only.
+Mike Cao: Okay. Okay. It looks great. I mean, I looked like it had all the controls there and looked at it. I had all the requirements for each control that I don't have to really guess. And even though I kind of made it my own SharePoint site from all of the missed documentation. I would like to have something that's made by professionals, right? I'm not I wouldn't consider myself a professional just yet. But I think my boss and I are gonna talk about that more about the actual tool because I think we might be interested in just kind of using that as our. How do I say our source of truth going forward with some of this stuff now? How long does that GRC tool is that a perpetual license or
+Andrew Meggs: So it's basically it's an add on to the accelerator. Okay. So because it pulls in all the documentation from the accelerator. Sure. It would be a subscription, like with the accelerator?
+Mike Cao: Got it. Okay. Makes sense. Can you remind me did we buy a yearly? Was it an annual subscription? Or was it a 3 year subscription there?
+Andrew Meggs: Uh
+Andrew Meggs: Yeah. You all have most of ours are annual, so
+Mike Cao: I think it is annual yeah. Okay. That's all good. No worries.
+Andrew Meggs: So this is technically your current subscription is up in the end of October.
+Mike Cao: Of the end of October. Okay.
+Andrew Meggs: Cool. Yeah, man.
+Mike Cao: Time flies. Okay. Okay. Yeah, that's all I didn't really have anything else and those are some good questions. So hopefully I was able to answer everything you needed.
+Andrew Meggs: There. Yeah. No, no, that's great. The only other thing I wanted to mention next big product update, we're releasing cloud drive in like a month month and a half. Okay. I don't know if Jamie mentioned that at all. We're not rewriting our we're essentially rewriting on some of our drive from the ground up. There's gonna be a lot of changes. Nominally, the syncs can be faster, downloads, faster, uploads, faster, etc, etc.
+Mike Cao: Well, right now, that's we don't we're not gonna part of our policy is not gonna be allowing sync to the devices. But so that's part of our policy right now is kind of persuading. I don't even know if I should use the word persuading, but kind of getting the users to understand that. We want to have a trusted community that we
+Andrew Meggs: Send to what's the creating buy in. Yeah, that's the corporate corporate.
+Mike Cao: Exactly. Yeah, exactly. After I showed them, hey this is how we share, but we toggled the trusted community on and they're like, well, you're telling me we have to reach out to it every time you want to share out to a specific domain. I'm like that's pretty much what we're saying and they were kind of have an issue with that and kind of push it all the way up. So you know, we're kind of fighting that battle right now. But other than that it's going well just kind of getting getting hands on updates as we start to get a software development, not development, but software. Deployment tool. Sure. I want to be able to update our I guess, end clients end user clients PreVeil clients like with that, but I'm not sure if that we need that. We're thinking about our scope that we have and we it might stay small with like, dedicated clients. And that's the case. I don't have to have a software deployment. I can just go manually do it, but anyway, anyway, that's all.
+Andrew Meggs: Yeah. That's actually that is actually one thing. I normally asked well, you're gonna do the gateway anyways. Yeah. So never mind. I was gonna ask about like, communicating externally, but you're still setting the gateway up. Yeah. Yeah, I mean, that's it for me. I that was honestly you covered all the points I was gonna ask. Awesome. Awesome. Yeah. I don't like wasting time in meetings. So unless there was anything else you want to go over, I can let you get back to it. No.
+Mike Cao: Not at all. I don't is there another do we have another check in in another 90 days? Or how does this work after?
+Andrew Meggs: This you can I mean, we can if this is the standard, just the one check in. Yeah. Okay. And then we check in again, closer to your renewal, but if you want to set up another check in, we certainly
+Mike Cao: Can no I don't think it's I don't I think I can I think it looks like I can reach out to you if I have any questions.
+Andrew Meggs: Yeah, you have my numbers.
+Mike Cao: So one more question I did have so that quote that you sent me for the GRC tool. Is that still valid? Or do you have to do we have to request a new one?
+Andrew Meggs: I have to change the dates on it, but okay. The pricing hasn't
+Mike Cao: Changed during I tell you what let me I'm gonna talk to my boss again and then I'll reach out to you if we request if we need a new one and yeah. Let
+Andrew Meggs: Me, well, let me double check that. What did I send you? Uh
+Mike Cao: Oh, man, yeah.
+Andrew Meggs: Yeah. Yeah. I mean, obviously this I sent this back in December, so I have the dates.
+Mike Cao: Around of course. Okay. Cool. No, no big deal. That's pretty much what I'm asking there. That should be good. Okay. That's all I have man. I appreciate your time.
+Andrew Meggs: No worries. I appreciate you taking the time. Mike, and I hope you have a great rest of your day.
+Mike Cao: Thank you too. Bye. Bye. Bye.

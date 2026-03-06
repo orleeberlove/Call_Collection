@@ -1,0 +1,79 @@
+Account: Barker & Associates
+Call Date: 2026-01-14
+Duration: 00:14:40
+Participants: Andrew Meggs, Adam Gordon
+
+======================================================================
+
+Adam Gordon: Hello.
+Andrew Meggs: Oh, hello Adam.
+Adam Gordon: Hey, there, Andrew. How's it going?
+Andrew Meggs: It's going
+Andrew Meggs: It's my first cup of coffee of the day. It's going well, now. How are you?
+Adam Gordon: Doing all right.
+Andrew Meggs: It's just you today, right?
+Adam Gordon: Yeah. I think the other guys are occupied. So it'll just be me. We can go ahead and get start.
+Andrew Meggs: Yeah. Well, I honestly there's not like there's a formal presentation or anything like this is mostly just supposed to be just a little check in. So it's okay if it's just you. There are a couple of points that I usually go over on these calls, but before I get into it, how are things with PreVeil or just in general?
+Adam Gordon: They're good. We're. I mean, we're still working through just bit by bit our migration. So we are getting most of that taken care of. But we're mostly just busy not with PreVeil. Exactly. But I mean, in in a way, we're working through our CMC compliance. So we're pretty in the weeds with that and using a lot of yells information and documentation. So that's where the bulk of our efforts are going right now with that.
+Andrew Meggs: Sure. That's kind of that was one of the things I was gonna ask about is where you're at in terms of compliance. Do you have anything written already? Or I guess do you have like a I guess what generally what's the timeline are you looking for to get an assessment?
+Adam Gordon: We're trying to wrap up level one we kind of chopped it up into level 1 and 2. So we're trying to wrap up level one for the end of this month. If we can we're nearly ready to do our our gap assessment and all that stuff. So we've gotten the majority of our our documentation put together and stuff. Though a lot of that is also gonna be for for level 2 as well. We're good chunk of the way for level 2 as well including we're trying to do all the stuff for configuring our endpoints and get that set up properly.
+Andrew Meggs: Yeah. I guess when it does get to the point that you are actually looking for a third party assessor. Then definitely reach out to us and we can provide some suggestions for you there. We have a team of people that we work with.
+Adam Gordon: Yeah. We'll we'll reach out with the compliance team most likely and get yeah, get some suggestions from you.
+Andrew Meggs: And I assume there haven't been any technical problems or difficulties with PreVeil or you would have mentioned it. Um
+Adam Gordon: No, I don't think so. We've had a few more technical questions that we've asked with support as we're trying to figure out a few pieces of software and how they interact with PreVeil as we're putting together a compliance. We've asked the question here and there, but as far as issues or difficulties, I don't I don't think so. Um
+Adam Gordon: To be honest, we haven't been because we haven't fully completed our migration. We haven't been using it full time. Sure. Really yet. Um
+Adam Gordon: But yeah. I mean there's yeah, there's a few things that I'm weary of maybe how it will function as far as like like
+Adam Gordon: Refit, central models was one of them. We didn't we're not sure yet. How it will handle multiple people in 1:00 central model and synchronizing and that sort of thing. We um
+Adam Gordon: It kind of works with us using Dropbox right now. But we have learned that um
+Adam Gordon: It will.
+Adam Gordon: It will not it'll it'll run into issues if we have multiple people trying to synchronize at the same time. So like with our current system, we actually make like a time table of okay, you synchronize that these minutes and I'll synchronize that these minutes. So we don't overlap or just that's just one of the little things that I'm curious how it will help PreVeil will handle that if um
+Adam Gordon: Hopefully it goes well. But if we have questions when we get to it, well, we can ask them. But yeah, we as of right now, I don't I don't think I have any anything to bring up.
+Andrew Meggs: Yeah. We do have a cloud edit functionality that basically how it works. If you want to edit something in the cloud, it locks it for everyone else. I'm not sure if that's the sort of thing you're referring to. But we do have something like that.
+Adam Gordon: Guessing that's most likely just for Microsoft soft.
+Andrew Meggs: Yeah. That's
+Adam Gordon: For you. Yeah. Yeah. Even an Autodesk. They do it a bit differently. There's a file. It makes temporary files and it pushes updates to the central file. So it has its own means of tracking that people are in it and manipulating it. But it was more of just the case of
+Adam Gordon: Um
+Adam Gordon: Yes. Either, if it can handle people synchronizing the same time. Because I think if you're on like an actual network drive with your own hosted server, it will perform the best as far as okay. Hey, the model is busy right now. I'll wait until. So and so finishes synchronizing before you're allowed to synchronize. So there's some stuff you lose when you're when we're using central or a cloud services that we're just just gonna figure out how it will work. Yeah.
+Andrew Meggs: Yeah. Makes sense. The other talking point I normally go over on these calls is have you I mean, I probably not since you haven't really done much with PreVeil yet. Have you communicated much externally with PreVeil or had people sign up for PreVeil express to do any communication?
+Adam Gordon: We have actually had one individual sign up for express we were trying. We have a we basically have a part time employee that's helping us with some of our compliance that person made a account there. We were able to share documents and they were able to upload. But they
+Adam Gordon: Were unsuccessful with being able to use the the desktop client. They I think they actually reached out to support and basically all said, you can't really use it with an express account. You would need to have a full account, which I was confused by because I thought we were when we were trialing PreVeil we were able to utilize the desktop app, but I could be mistaken.
+Andrew Meggs: Yeah. That's a
+Andrew Meggs: Not error. This is just a nomenclature thing. Express just means this is our internal nomenclature an express account. Is the browser only version of an account. They could download a free full version of PreVeil if they wanted to from PreVeil.com backslash download.
+Adam Gordon: Is there um
+Adam Gordon: Yeah. Because I think because they can download the app, it's just the the way that the sign in process works like they
+Adam Gordon: They were struggling it was and I ran I feel like I had the same issue when I was trying to sign in with my trial account. Yeah, I guess I won't call it an express account, but my trial account of getting the activation key or tell it to get the recovery key that kind of stuff that I was just wasn't working for them where they I don't know. Generate a recovery key go to put it in and it just nope, this is not a valid recovery key and they just could not get the program to sign in. And supposedly they were totally out by support that it would require a full account, not a free account.
+Andrew Meggs: Yeah. I that doesn't make any sense. Theoretically this person doesn't have the same email domain, right? They have a separate email.
+Adam Gordon: Domain, correct. It's just a gmail account that they're using.
+Andrew Meggs: Yeah. They should be able to download PreVeil and um
+Andrew Meggs: It's I mean so they already have a like, browser express account, right?
+Adam Gordon: Yeah. They I shared a a folder from our company. They created a count. They
+Andrew Meggs: Theoretically, they should be able to just download PreVeil onto their computer and log in using their express. When you download PreVeil, there'll be an option to create a new account or like, add existing account or upgrade from express. And they should be able to do the upgrade from express option and use their login information to basically connect the downloaded version of PreVeil to their express account.
+Adam Gordon: Is I guess that maybe again, just some nomenclature stuff does because that to me sounds like upgrading from a free account to a paid account. But if you're saying the
+Andrew Meggs: Difference between a paid account and a downloaded account is the paid account or on the AWS gov cloud, but be part of like an organization with an administrative review. So he'd have a full or downloaded version of PreVeil. But it would be AI don't know. Rogue agent is somewhat dramatic term, but sure. Floater calendar. Um
+Andrew Meggs: Yeah. However you uh
+Adam Gordon: But yeah. Okay. That's yeah. I guess the assumption there was oh, we have to buy him a seat because that's how we were interpreting it was buying an additional license.
+Andrew Meggs: You would not have to buy in a
+Adam Gordon: Seat now. But okay. Yeah, just a bit of ambiguity, just ambiguity with the nomenclature. Yeah, we okay. We yeah, we thought express meant free and upgrading from express made. We'd have to pay for an additional license. That's just yeah.
+Andrew Meggs: I mean, if it was up to me, I would change the names of all these things, but those decisions are made above my head, but express just means the browser version of PreVeil. When support says full PreVeil, they just mean the downloaded version of PreVeil. And then this those are completely separate terms from paid or not paid account. So that those are disconnected terms.
+Adam Gordon: Okay.
+Andrew Meggs: He can have a full. He can have a full PreVeil account that is free.
+Adam Gordon: So he should be using the upgrade from your express account button. Not the add your existing account button because he should still only have an express account and it hasn't been upgraded to a full download account from my understanding.
+Andrew Meggs: Yeah. Well, yeah. Short answer, yes. Longer answer the process. It's easier to download PreVeil. And then if the option says to create account or add express account, do the ad express account rather than going through the process of upgrading through PreVeil, it's a long story, but either way will work. But he can still do what I'm getting at though is he can use the full download version of PreVeil, yes.
+Adam Gordon: Okay. Yeah, we can we can take a look at that.
+Andrew Meggs: And I'll yeah. I'll we have like a knowledge base article on as you. I can send but it's fairly straightforward process. Just like you were saying the upgrade express button.
+Adam Gordon: Okay. Yeah. And I can I know how to get to a
+Adam Gordon: Knowledge base, so I can look it up if I need that.
+Andrew Meggs: But yeah. That's kind of it in terms of my talking points that I normally go over. Is I guess you've got speaking of licenses. You've got your users in the system. Excluding this person. Do you anticipate needing any more than 6 users?
+Adam Gordon: It's entirely possible. Will happen down the road. We're we don't we're a very small company. We don't change employee count very frequently. So it could be a year, could be multiple years. Could be 6 months. I don't know. Um
+Adam Gordon: But we will definitely reach out when we need to change that number.
+Adam Gordon: Okay. Yeah.
+Andrew Meggs: And that's pretty in elegant process, you just email me and I put together an over form. But yeah. Anything else you wanted to go over or talk about?
+Adam Gordon: And you say e mail you just to remind me, are you specifically our sales rep for our company or I should be customer?
+Andrew Meggs: Success manager is technically my title, but yes, I am the account manager for your company. Yeah.
+Adam Gordon: Okay. I just wasn't sure if it was you specifically or your sales team or customer.
+Andrew Meggs: Support. I don't like sales call me anything you want. Just don't call me sales. But yeah. No, yes. I specifically am your account manager.
+Adam Gordon: Okay. I just needed that reminder. Yeah. Okay. Well, we'll definitely do that when if and when that time comes sure.
+Andrew Meggs: And yeah. As per usual if you do have any other questions or if you need anything else. Let me know.
+Adam Gordon: Yeah. And we're we've been utilizing the support ticket system and we have those technical questions that we're trying to work through and we've been getting responses quickly. So that's been. Yeah, that's been good.
+Andrew Meggs: Okay. Well, I appreciate your time Adam and like I was saying let me know if you need anything else. Otherwise, yeah, I hope you have a great rest of your day.
+Adam Gordon: All right. Thank you. Andrew you do the same. Have a good one. Bye. Bye.

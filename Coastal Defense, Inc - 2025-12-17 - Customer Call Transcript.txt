@@ -1,0 +1,159 @@
+Account: Coastal Defense, Inc
+Call Date: 2025-12-17
+Duration: 00:28:22
+Participants: Robin Barrow, Jp Bowdoin, Christopher Levy, Garrett Ames
+
+======================================================================
+
+Chris Levy: Hey Robin. Good morning. This is Chris. Can you hear me?
+Robin Barrow: I can hi, Chris, good morning.
+Chris Levy: Hey, good morning. I had a medical appointment that went a little bit longer than planned and I'm taking this from my car. So I'm just gonna listen right now. I'm not gonna have a video on if you don't mind.
+Robin Barrow: No. You're okay. No worries. Honestly, this cost me fairly quick anyways. It's just your intro call to PreVeil. We're just gonna go over what you all signed up for. Talk about next steps on how to get started. And then yeah, kind of take it from there.
+Chris Levy: I'll give Kyle a couple of minutes to join here and I'll text him if he doesn't join here quickly.
+Robin Barrow: He's here.
+Chris Levy: Oh, yes. Okay.
+Robin Barrow: As well.
+Chris Levy: Okay. Great.
+Kyle Stanbro: Yeah, you got me and Garrett here. So Robin, just so you know, I'll be the primary and Garrett will be the backup for this iteration. So if you have some questions later on or we're gonna kind of run the program after you guys get it set up for us. So just let us know what you need.
+Robin Barrow: Yeah, sure. Let me just I just want to confirm what you all signed up for first. I see 10 users, 2 of those being admin as well as the compliance accelerator. Does that all sound accurate? Yes. Okay. Great. And I'm just going through here. Have I added you all to the excel rater yet?
+Kyle Stanbro: I will say, no, because I'm not sure what it is.
+Chris Levy: Yeah, same.
+Robin Barrow: Okay. Great. So we'll go over that as well. Yeah. This, I guess from your standpoint, why do you all need PreVeil and what are you hoping to get out of it?
+Kyle Stanbro: We need cms certification and we needed it yesterday.
+Robin Barrow: You needed it yesterday. Okay. Great. I'm gonna share my screen and Chris, don't worry about this because I'll add you to it anyways. So you'll I know you probably I don't want you driving and looking at your screen at the same time. That's dangerous. But if you see here, this is a compliance accelerator. This is what we call our 10 step guides, getting compliant. What it does really take it from a really green. What is my is important all the way through how do I score 1 10. I'm not sure if Marco covered this with you, but I'll highlight some of the key areas. So this is with the compliance excel reader. You get all our documentation templates. So you will see we have a Box package called any docs. That's our company that we created and brought them through a full cms level 2 assessment. Give me a second here because my I'm not signed into and see if this one's already pre loaded. There we go. Okay. This is we break in. We've broken out all the documentation. Based on the control families. So that's why it's structured like this. But if you click into these documents, it'll open up and you'll be the template, but it's a loose term because they're completely filled out. They are fully um
+Robin Barrow: As you can see, like a version history is completed. You're obviously gonna have to customize these documents to your needs, recreate your version history. But the reason why we fill filled out completely, so it's a perfect example of what a 1 10 company looks like. Um
+Robin Barrow: Obviously, the PreVeil language will stay the same. You'll have the network diagram for the UI flow. Obviously, some changes may need to happen through here just depending on your setup. But like I said, everything's fully completed all the way down to the filing somewhere to find things. So it's um
+Robin Barrow: Really, really detailed. As you can tell this is 185 pages this
+Robin Barrow: System security plan. Um
+Robin Barrow: And if I go to before I move on any questions on the documentation or how it works at all?
+Kyle Stanbro: So basically, we have to take these your documents that are already pre done to meet our requirements for cms and just customize them for Coastal Defense and what our basic requirements are, because every company is different. Is that what you're saying?
+Robin Barrow: Yes. Yeah. Um
+Robin Barrow: Again, the Acme docs are based off a company that has a full on.
+Robin Barrow: Security team, right? And not everyone's going to have a CS or not. Everyone's going to have a specific security officer, that sort of thing. So obviously there's gonna be some tweaks that you're gonna need to make. But again, the bones are there in majority of the meat, it's just customizing it a little bit.
+Robin Barrow: Um
+Robin Barrow: The other helpful resources I want to point down the excel rater. I guess
+Robin Barrow: Where do you all stand? Have you started the compliance journey? Are you this is like your first introduction to it or
+Kyle Stanbro: Introduction first time, I don't know anything about it. Don't like it. Just trying to get it done because we have to have it done.
+Robin Barrow: Okay. Okay. And you all are a Microsoft environment?
+Robin Barrow: What's that? Your Microsoft environment? Yes. Okay. With PreVeil you get about I want to say 40 controls completed. As long as you install prevail, do nothing walk away. 40 controls. We say we share 102. What that means is that obviously around the PreVeil platform you install it. There's going to be needs to be documentation around your side, how you're gonna train your staff as far as how they're managing and storing UI. Again, we write that all of the examples in any docs, but
+Robin Barrow: It's you still need to do it with so that covers around 102
+Robin Barrow: The remaining 8 are around your endpoints. How are you protecting your endpoints? How are you? Protecting your network? because you are a Microsoft environment. This is what we call our endpoint configuration. These are the software that we recommend to help you meet the endpoint controls that are listed out here.
+Robin Barrow: So not only do we tell you what they are. We actually tell you how to configure it.
+Robin Barrow: Through if you're Microsoft environment, you might already have these in place already.
+Chris Levy: It's Kyle. I think that's where Jp comes into play for those last 8 requirements.
+Kyle Stanbro: Yeah. I was thinking the same thing is hey
+Kyle Stanbro: Sorry, Robin sometimes to me I have a scars on my nuckles for a reason because I drag them a lot. So we have Jp that's gonna help us out with this and when we have to do
+Kyle Stanbro: Microsoft defender for endpoint. No idea what that is. It's an antivirus. Got it. So we'll standardize our company. So every employee has that particular document and there's Jp now. So yeah, I talk he shows up.
+Robin Barrow: Shows up he knew. Yeah. Hi, Jp. How are you? Hi morning. I apologize. Robin. Apologize, guys. I was 2 meetings at the same time and I ran into
+Prospect: The wrong one and
+Robin Barrow: Then this one give me a hard time. So
+Robin Barrow: Thanks for having no. It's my fault. Okay. Um
+Chris Levy: I don't think it's all your fault. We changed the meeting time yesterday as well. I'll take some of that plan buddy.
+Kyle Stanbro: Thank you all. To do that. I had a medical appointment I get to so I kind of mess with you guys. Okay. Jp, we're just talking about if you can see the screen right now, I'm not sure if you're on your phone or computer, but there's some software things that we're going to put on to make sure they're in place so that we're we're compliant with any software spam type, whatever these things are on here that we were just talking. That's something that you're probably going to help us to make sure each employee has his system set up correctly. Absolutely.
+Robin Barrow: Yep. We're here for it. And again, Jake, I you all get 3 licenses within the accelerator. So you all can you just let me know who you'd like me to add and I can add you. This yeah. This endpoint configuration is available to you. Like I said, it breaks it out. Um
+Robin Barrow: As well, you miss this is the Acme documentation. So these are all the C level 2 documents fully fully assessed by C through and fully completed, but those are available to you as well. And then
+Robin Barrow: Lastly, the compliance accelerator, it's through learning learning management system. There's a lot of content. There's a lot of courses. It's all great content. I highly suggest is going from the top all the way to the bottom. But if you were like I just need to speak with someone who's familiar with this process. From our side, this is where you book time with our compliance team. You get up to 6 30 minute sessions with them. You could come right through here, you can also email them any one off questions. Those do not count against your time. Those are also available to you. So when I break PreVeil out, you got 3 people, I sit in the middle as your third person, but you have the compliance team. You have the technical support team and then I always say if you don't know who to go to me and I'll point you in the right direction. Or hopefully I can answer the question for you. But that's pretty much it from a compliance standpoint. Any questions around this or the accelerator or how it works or anything like that?
+Kyle Stanbro: Nope. I think we just need to get in there and start changing things, uploading computer, software and moving out.
+Robin Barrow: Yeah. Okay. You all have to be I know you said you have to be compliant by yesterday, but do you have an assessment coming up or anything like that? We don't no.
+Robin Barrow: You need a self assessment you need to score in place. Pretty much.
+Kyle Stanbro: We could do a lot of self assessment, but we haven't done I mean, we went through there and we have some policies in place. How do you destroy old computers? What do you do with all that kind of stuff is on there? But it was just kind of a wall covering. That wasn't a thing that was very well done. Okay. This is our chance to get yes. Now we need to be we need to watch the videos. We need to do the paperwork. We need to do the software stuff and make it happen. So this is where we're at now. Okay.
+Chris Levy: Hey, Robin, this is Chris quick question for you know, for the assessment by the inspector for the level 2 been told that takes it takes a while. Is there a way we could go ahead and schedule it as soon as possible to have a date towards which we are working?
+Robin Barrow: Yeah. I we have a partner network that we work with. So obviously we're providing you software. So we can't run assessments for you. We don't have C 3 PO on our team, but we have a partner network that we work with. And I can definitely get you some names over or at least where to find them. And you can start I would suggest start doing some outreach price shopping, honestly because they're expensive these audits. So yeah. We we can go ahead and recommend maybe 3 to you and then also provide you with where to find them as well.
+Chris Levy: Got it. And these are these private individuals with certification to who will be doing the audit or are they government individuals?
+Robin Barrow: Private most? Okay.
+Chris Levy: Got it. And then what is the price range is any idea?
+Robin Barrow: I want to throw a number out there. It we've seen a range. I'm gonna be
+Robin Barrow: I'm gonna go go high. I've seen 40 to 50 grand in sometimes like worst case upwards, but um
+Kyle Stanbro: Yeah, you're driving.
+Chris Levy: Yeah, I know. Right.
+Robin Barrow: The other question I wanted to mention or ask and if you're feel comfortable telling me, do you all have government contracts in place that are another saving that you need to get this? Are you trying to bid on new contracts? And that's why you want to get certified or are they requiring you to get certified? I know would car 48 that came out in November. There's been some but I haven't seen a ton.
+Kyle Stanbro: There's no requirement on us right now and anything we're bidding or currently operating on. We know that there's a window setup and we're already passed that window. So eventually some contractors is gonna put it in the RFI that says you must be CC certified in accordance with whatever. Um
+Robin Barrow: Okay. Trying to get ahead of it.
+Kyle Stanbro: We're getting ahead of it.
+Robin Barrow: Yeah. Okay. Good. No, I love that plan. I just want to make sure. And then what do you do come down to assessment or you do need resources from us? Our team is gonna want to help out you score. Well, we score well, like it looks good for us as well. We'll we'll provide a body of evidence. We'll get our team on to help assist with any questions that you all have. And then we always suggest to before you dive into assessment because they're expensive, you would do a mock assessment. So work with a company that would not only do a full assessment, but also provide a mock assessment for him too.
+Robin Barrow: So because
+Chris Levy: A pre inspection. Got it. Makes sense. Yeah.
+Robin Barrow: Yeah. So again, because you need to score, I think the passing towards an 80 eight, but aim for that one time, obviously.
+Chris Levy: Got it. Robin, I have a question for you. So
+Robin Barrow: Forgive my 9.
+Garrett Ames: To this process and stuff. But how much is this parallel, like the military controlled classified information and documents and stuff like that? Is this similar or is this a little bit different?
+Robin Barrow: I guess is it? I guess I'm confused by the question, is it? Um
+Garrett Ames: So like as a in the military as a member we get training once a year and there's some more in depth training based on the equipment or the documentation that you're handling. And so like, it's just a one year, 3 hour computer based training course. Obviously, the computers are already set up for all this and stuff and phones whatever electronic devices and everything. How much is this parallel that? And if we're on military contracts can they do inspections for us as well? Or is that completely different?
+Robin Barrow: It's different. There's 110 controls. I think there's upwards of like, 320 sub controls. It's a beast from an individual standpoint. As in like your employees, the training is probably very similar of what you want to set up for your team and how to manage and store UI. And what that process look like, you could definitely mimic what you've done for the military for your staff. But the actual getting to level 2 we say give yourself 4 to 6 months to get fully up and running. A self assessment obviously, is it can be quicker, but yeah, 4 to 6 months is what we say. Hopefully that answered your question.
+Garrett Ames: It does. Okay.
+Robin Barrow: Um
+Robin Barrow: And I can also send over a video for you all. It gives you a good rundown for your team like what is and why do I need to care about it? Type of deal?
+Robin Barrow: That as well.
+Kyle Stanbro: Yeah, that'd be good. Yeah.
+Robin Barrow: Um
+Robin Barrow: What else? Any other questions on compliance?
+Robin Barrow: I know you'll have more once you dive in. From the actual PreVeil set up who so Kyle, you'll be an admin who else will be an admin?
+Kyle Stanbro: Garrett
+Robin Barrow: Garrett. Okay. So
+Chris Levy: I got a question. Do we need Jp? Do you need to be an admin as well? I
+Kyle Stanbro: Like to be yes, please. Correct. Yeah. Okay. Okay.
+Robin Barrow: That's fine. And to get started all you all, you just need to download PreVeil on your device and then one individual on the first download and then setting up the organization. And I'll provide all the instructions on how to do so. It shouldn't take you longer than 20 minutes. If it does that mean something's wrong. But from that you just send it by the invites out to the additional admins.
+Robin Barrow: The, where should the application live Robin on the device that's going to be managing and storing UI. So it has to live on. It's an install on your shiny machine. Okay.
+Robin Barrow: So more than a statement and I mean, Kyle, Chris with respect Garrett with respect to the equipment that we
+Prospect: Own today. And this has been in my head we need company owned equipment.
+Prospect: And
+Kyle Stanbro: I this may be that time to get something in place. That will be the home to this.
+Kyle Stanbro: That's the question. Is that a cloud based storage or can that is that got to be hardware type storage? because we are separated, we're not your normal company. There's not 2 people within 100 miles of each other. Um
+Robin Barrow: So bring your own device situation. Yeah. Um
+Robin Barrow: It has to be so the way PreVeil works, it's a 0 press environment. It's an encryption key installed on each device. So if you're going to be working on your personal device management store UI, you need to protect it. And that's where you're going to be installing PreVeil on. Let me ask the
+Robin Barrow: What their guidelines are on actually bringing your own device setup.
+Kyle Stanbro: There's software that's gonna dictate when they we open a document, it's gonna say this is UI and it's not only get to it's going to restrict what you can do with it, where you can save it, stuff like that. So right. What we think is UI and what the software thinks is UI maybe 2 different things. But we're gonna have to go with the software it says because that's the protocol. So we're gonna have to go and that's
+Chris Levy: A great question, Kyle. What does the software think is something that is physically labeled with a statement upfront? Or is it analyzing the text and with or and or something like that and trying to figure out, hey, this is on its own?
+Robin Barrow: You the system our system won't be able to flag your GA. It depends on where are you getting it from? are you getting it through via email? Are you getting it from an FTP site? Are you? Where's it?
+Kyle Stanbro: We're getting it from the government through.
+Chris Levy: Yeah. Yeah. For example, there or we're working on a proposal right now and got an email from the government this morning. That said, if your response contains information, we need to have it uploaded to the file transfer site as opposed to email.
+Robin Barrow: You are currently generating the que. Is it like parts? Or sorry. I'm just trying to understand. So I can understand the flow of how it's gonna work with PreVeil.
+Chris Levy: Yeah. I think there is going to be quinformation generated. Especially if we're working on a contract bid. There is potential to have information generated and not just received from the government Kyle. Am I? Correct.
+Kyle Stanbro: So anything that we've gotten from the government, we're really what we're doing is we're taking something that they sent us non co
+Kyle Stanbro: Regurgitate it onto a proposal saying if they say, we need to work in Chicago and be able to work in Delaware and be able to work in Miami. We're just regurgitate that say we are able to work in. Chicago, DC and Delaware or whatever. And we're not saying anything that they didn't send to us already. We're restating the same things. And then maybe we're adding a couple more. We also have assets in 3 different locations. So I don't know. What I is the problem is what is classified on. I don't know what it is.
+Robin Barrow: Okay. Sorry. I'm just trying to understand.
+Kyle Stanbro: If I mentioned the city we're going to be working out of, is that cool?
+Robin Barrow: It's controlled on classified information.
+Kyle Stanbro: And the government government sent it to me over an email, not labeled
+Robin Barrow: Right. That's I always stay in order to determine what is considered UI or what documents are considered C. If your contract has the Dr 70 12 clause in it. So if the contract states that and there's a couple of iterations to the far 70 twelve, there's far 70 2019. But if it has that dear clause in my mind in the dots mine, you're managing your store. Excuse me, you're working with UI. So anything that pertains to that contract, I would say put in PreVeil and start protecting it.
+Robin Barrow: And if you're communicating um
+Robin Barrow: You're saying that the government is emailing you directly. What's the UI?
+Kyle Stanbro: I don't it's not labeled. So in our mind if they don't the government doesn't label, I yeah, I suppose to determine the government is messing up and not doing it, right? I assume that the government knows what they're doing. They're here to help, right?
+Robin Barrow: Um
+Kyle Stanbro: So see where that's why I run into problems. Is it cool or not? Well, the government doesn't think it's good. They wouldn't have sent to me. So if I send it back the same information
+Kyle Stanbro: Is there anything wrong with just treating it that way as a baseline?
+Robin Barrow: Rather than trying to discern the difference on a basis. We've got the system now, so. Yeah, I was gonna say I wouldn't, yeah.
+Chris Levy: Yeah. I think that's the safest way to go with it. And the Jp just the question that we need to talk to you about offline is
+Chris Levy: Equipment do we need to get a server and do all this on the cloud? or do we you know, let's got that one machine and she does everything with that machine. Does it run the e mail in this system? that's hardware questions. I don't know the answer to. Yeah, we need to chat, agreed. Um
+Robin Barrow: Okay. I was gonna say I don't want to dive too much into it because I want to make sure I don't want to confuse you all anymore, but it's coming down to. But based on the
+Robin Barrow: From what I'm hearing and the government sends the UI to our customers all the time via commercial inbox. It's crazy. They do it all the time. So just keep that in mind. And I'm sure you're aware because you see it. They a lot of our customers. They do have get it via do safe. That's the best case and then they're able to just put it into PreVeil. Right now, if you're receiving your commercial inbox, we always just stay forward it to yourself and encrypt it and make sure it gets into PreVeil.
+Kyle Stanbro: Robin if we have to then what you're saying is it's not gonna be saved on our hard drive. This can be saved on this hard drive, we have somewhere else. So somebody's gonna go and save it to this other hard drive that we buy and position somewhere and that's the hard drive that we will save all information on.
+Robin Barrow: You'll wanna not only protect the new device that you all. Sound like you're gonna get and network, but you're gonna want to protect it again within PreVeil. So you're you
+Robin Barrow: You'll have it
+Robin Barrow: On how to explain explain this, you'll have it protected with bit locker dual factor identification. That device is extremely protected and then you're doing a double layer by putting it into PreVeil and making sure that people can't even access there. So if they have access to their computer, they can't it's gonna be impossible for them to access that information.
+Kyle Stanbro: I was shaking his head up and down. So I assume that's a good thing. Okay.
+Robin Barrow: Yes. It's work, but and I'll just show you real quick. PreVeil does work out of a browser application. But it's like I said, it's a you have to install it on your device. This is what it looks like your mail client. But it's connected to your outlook or gmail depending on what you're using. So it um
+Robin Barrow: It works it's very simple to work if you use some sort of Dropbox or email before.
+Robin Barrow: But it works via a plugin. So you have to download the plugin to your outlook or gmail and you'll see a separate inbox.
+Kyle Stanbro: Okay. I'm
+Robin Barrow: Gonna show you real quick.
+Robin Barrow: Again, you'll get in the weeds with this with the support team.
+Robin Barrow: But you'll see a set
+Chris Levy: Does this give us the ability then to e mail the government document that is encrypted? does that meet their parameters?
+Robin Barrow: It does. Yeah, if you going to email I'm just gonna fill my inbox without showing all my stuff. So let me just get to my chunk page. Here we are say if you got a you want to email a third party.
+Robin Barrow: Any kind of information.
+Robin Barrow: And you want to chat a document. You would this is through gmail, you would encrypt it says encryption on and this is where all your encrypted emails go to.
+Robin Barrow: Right through here.
+Robin Barrow: So I'll say this is
+Robin Barrow: To my account, that does not have PreVeil.
+Robin Barrow: Oh, I do have PreVeil with that one. Sorry.
+Robin Barrow: So this account, like
+Chris Levy: Our first step is to get hardware in place. Second, step is to get this loaded onto that hardware and then come up with the procedures. Jp I'm about to walk into my office. I'll set up a meeting with the 4 of us as soon as possible. What's your day look like? I'm all error Group today. So meeting with folks in 6 and we're gonna keep on doing.
+Prospect: A meeting with John and Dave this afternoon talk about servers, this is certainly going to be on that list.
+Chris Levy: I would love to chat with you guys after this. If you have time I'm here for you. Okay. When do you need to pull Chuck to head to your appointment?
+Kyle Stanbro: I've got 15 minutes and then I'll be back hopefully by 1:00 o'clock central time, which I'm not sure where everybody is. I'm mountain. Okay.
+Robin Barrow: I also like, I'm all set. I will send over my follow up email. I'll let you all have the time to chat now and connect as a team. But that's right. Just make sure you get your devices in place and then we're ready to rock when you all are. And we can support you on getting PreVeil installed. Robin. Are you available to have a quick phone chat when we're done here? Yes. Yeah, let me just double check my calendar. I just have a meeting with my manager, but she can wait, so we're good. No worries. I need like 5 10 minutes. Honestly, no. Yeah, you're good. No worries.
+Robin Barrow: Any other questions from the team before I jump? And like I said, I'll send a follow up
+Chris Levy: Thanks, Robin. I do not. Thank you.
+Robin Barrow: All right. Thank you all. Enjoy the rest of your day.
+Robin Barrow: Bye, bye.

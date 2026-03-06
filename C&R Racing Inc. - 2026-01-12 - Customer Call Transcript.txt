@@ -1,0 +1,130 @@
+Account: C&R Racing Inc.
+Call Date: 2026-01-12
+Duration: 00:24:39
+Participants: Andrew Meggs, Andrew Styman
+
+======================================================================
+
+Andrew Styman: So
+Andrew Styman: Hello, Andrew?
+Andrew Styman: Good. I afternoon have no sound. Good afternoon. I can't hear you. How at are the moment you? Uh
+Andrew Styman: Which is just typical typical that
+Andrew Meggs: Once more with feeling
+Andrew Styman: Much better.
+Andrew Meggs: Okay. We got there.
+Andrew Styman: How are you?
+Andrew Meggs: I am doing well. How are you?
+Andrew Styman: Not too bad. Thank you. It's a lovely 6 am in Australia.
+Andrew Meggs: I was gonna ask. I noticed the dot au and your email address. I was gonna ask where you were at.
+Andrew Styman: Yes. We're based in Brisbane. So Joe, who's the it manager MS and for the facility. He'll be joining us in a second. We work out of the Brisbane facility or gold coast facility in Queensland. So we have a lovely sunshine, 200 days, a year, a fantastic place to live. Um
+Andrew Styman: And we support the Indianapolis facility. So we're trying to drive the CC implementation remotely. But we will look to be on site, obviously, when needed.
+Andrew Meggs: Sure. Yeah. No, I I'm in Minnesota myself. So pretty much the opposite of what everything you just said. Nice, weather. It's it hasn't gotten above 0 Celsius in in a about a month and a half here.
+Andrew Styman: Oh, wow.
+Andrew Meggs: But oh, there's ji there.
+Andrew Styman: Yeah, that's winter.
+Andrew Meggs: It is winter is I mean, but I guess our winter busy all summer though, so
+Andrew Styman: At the moment. Yeah, it is a
+Andrew Styman: Johnny happening in Minnesota at the moment, isn't it?
+Andrew Meggs: Yes. There. There is quite a bit happening here. I I don't know. I guess news gets out to other countries. I don't know.
+Andrew Styman: It does, yes.
+Andrew Meggs: Yeah. So
+Andrew Styman: Was that Minnesota where a good was just shop by the police?
+Andrew Meggs: Yes. Yes. Speaking of winter, we do have a lot of ice at the moment. Yes. Yeah. No, I actually live right by there. And but I work from home. So I haven't really left the house in a week. That's the positives of working from home. But yeah. So somewhat spooky times not going to live. But I like I said, don't leave the house. So just hopefully things will blow over. But politics aside, I appreciate hi jack by the way. I appreciate that. You hopping on. So early yeah, I time zones. Um
+Andrew Styman: That's part.
+Andrew Meggs: Part of what I would go over you've already done since I already got you access into the accelerator. But this is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context. I am the customer success manager for your account. So what that mean or I guess specifically for car racing. I'm the account manager, basically. So yeah. I'm the main point of contact and I like to have a win intro call with everybody just to let you know I exist, but be kind of go over the onboarding process and make sure you don't have any initial questions.
+Andrew Styman: Yeah. Perfect. So just to let you know as part of our setup. So like I said, John and myself are working on the implementation for the cms, for Indianapolis. We will not require the email setup for the secure transfer of information there. We've got 25 licenses, so the specific error space, defense team whether it be in the us or whether it be Australia will need to have that setup. So obviously our next or the next call with yourself will be representatives from the a and D department. Who will then need to actually run through the setup of the email. And if they've got any questions or during this call, if we're gonna review this is how to set it up walkthrough then they can do it on their own and if they've got any questions reach out to you, I'm not sure what your normal processes around that.
+Andrew Meggs: Yeah. Normally the process is more of that second one. So basically how this normally works for the technical implementation is there needs to be one person who does the initial setup of the organization. And then they'll be able to add all the other people and then there is like an official hour long technical onboarding. That they'll then schedule with our support team to go over how to use, PreVeil admin roles and responsibilities and things of that nature.
+Jai: That's probably me then.
+Andrew Styman: Yeah. I was gonna say, well, I volunteered yeah, the
+Andrew Meggs: The actual setup of PreVeil. I think I sent some instructions that initial email, but I'll resend them in my follow up email. It's fairly the video is like an hour long because it goes over how to use PreVeil and what not. But the actual setup is very straightforward. You just go to PreVeil.com backslash, download, download PreVeil. Install, it create an account and then there's a specific local host address to go to that while you're logged in. Will prompt you to create the org takes maybe 6 minutes total to to do it the whole thing. And then, once you do that or whomever does that they'll be set up as the initial administrator of the organization and they'll then they'll be able to add all the other users. And then if down the road you want to make someone else an admin and then an admin yourself, you can do that. But but yeah.
+Andrew Styman: Yeah.
+Jai: Sorry, Andrew, I'm just Andrew. So introduced just team manager globally for PWR. We in the North America side, probably dealing more with Don, but yes, I put my hand up and we'll be part of that initial onboarding and administrative part of this provider piece. I've just just signed in now. I'm just just logged into the portal now.
+Andrew Meggs: Sure. So so yeah, you say sign in, what do you mean?
+Jai: I haven't that initial email for the login details that was sent through. I haven't received that. Oh, sorry, I haven't logged in. I've just gone and forget password and now I mean, here now so. I've access the portal.
+Andrew Styman: Okay. The
+Jai: Dashboard that says the PreVeil accelerator?
+Andrew Meggs: That's the thing. That's actually a completely separate thing from the tech setup. Yeah. The compliance accelerator is the I guess I probably should have mentioned this. Basically the compliance accelerator is a separate site. It's a separate login. That's just the documentation and the like video walkthrough of compliance. The actual setup of PreVeil is a it's its own app, it's a separate thing.
+Jai: Okay. Yeah.
+Andrew Meggs: So that is the one where yeah, you would download the actual PreVeil app create an account. And then there's a specific IP address to go to item. It's like 1 2 7.4 or something like that to go to that. While you're logged in, if you go to that link, it'll prompt you to create the organization. So and I will send all this in my follow up email too. But perfect. Yeah. Yeah. And then so basically once the once you create the organization, then you would schedule or you could go ahead and schedule it if you want the technical onboarding. And like I said, that's an hour long kind of training session and you can invite anyone you want to that and then because you have our email gateway as part of the subscription just as a heads up, that's actually gonna be a separate implementation that's done after that initial on boarding. So after you do the onboarding Phil or Chris from our support team is who does all the gateway implementations, they'll reach out to set that up.
+Andrew Meggs: So basically, in terms of the technical setup, creating the organization, scheduling the onboarding meeting and then after that scheduling the gateway implementation meeting.
+Jai: All right.
+Andrew Meggs: Okay. Yeah, and like I said, I'll send all that over and then kind of separate from that. You were saying is the compliance accelerator and that's where all the documentation is. I guess are you also going to be in charge of their compliance and writing the documentation and everything as well?
+Andrew Styman: Yeah. So where we are with the documentation and the governance side of things is we've been working with an MP out of the us. They're called Mary Plex and fun solution. So they we part of the gov side with regards to the setup and controls. So that's Joe's been working with them. That's obviously what you don't see. With regards to applications being implemented. Now, for the physical policies. We've got for the 14 policies, aligned to the level 2 requirements. Okay. But what we don't have and what we would need to do is to incorporate the PreVeil components into our documentation now. I'm not sure whether there's already an outline with regards to each of the sections or like, an SSP that. Even if you ignore all of the the external parts that PreVeil don't control, is there an SP that can be produced purely for the for the components or the inputs that PreVeil are controlling which sections of the the level 2 compliance structure. Where do preVeil have that control with regards to transfer data etc, etc.
+Andrew Meggs: Yeah. We do have the our SP. That's we basically made this fake company and we've written this SP with PreVeil in mind. Yeah. But there's not a separate SP for just the PreVeil part. It's basically a full P.
+Andrew Styman: Pre, right. Gotcha. Okay. And that's is when we log into that training, we can see that SP in there. Not that we've got into it yet, but
+Andrew Meggs: Sure. Yeah. It might be easier just to show you where that's at. Let me pull this up. Yeah. Perfect.
+Andrew Styman: Because we'll look to whatever's in that documentation that SP will look to obviously incorporate that into what we have already.
+Andrew Meggs: Right. So once you get in there, this what this looks like, the accelerator, uh. And the idea is it's like a step by step guide. You don't have to I mean obviously you're well ahead of the game, you don't have to go through all these steps. If you just want to skip to 6 step 6 here, which is the documentation that's where everything is. So there's this Acme docs package here in step six, which is our master documentation package that has the SP the PO the artifacts everything is in this package. That's where you would find the SP is step 6 under this Acme docs package here.
+Andrew Styman: Yeah. Perfect.
+Andrew Meggs: And then while you're going through it, if you have any questions our compliance team, the people wrote all this stuff is available as a resource to. So under this additional compliance resources course, there's actually a direct link to their calendar. So if ever you want to schedule a meeting with them to ask any questions or go over anything they're available to
+Andrew Styman: Okay. Perfect. That's good. Um
+Andrew Meggs: And if you have a burning desire to go through all these steps, you certainly can. But yeah, if you just want to skip to the SP that's in step 6.
+Jai: And that will pull down the SSP for the real
+Andrew Meggs: Yeah. Yeah. If you just download this Acme docs package, it has the SP in it.
+Jai: No worries.
+Andrew Styman: Perfect.
+Andrew Meggs: It's so it's a to clarify. It's one word document that has a bunch of links embedded in it to all the different documents, one of which is the SP. So yeah, that's in step 6.
+Andrew Styman: Okay. Thank you for that. No, that's makes things easier to navigate. All right. But
+Andrew Meggs: But yeah. That's kind of it in terms of getting started is the technical setup of creating the org and going through the onboarding and implementing the gateway and then getting into the compliance documentation and getting that SP so those are kind of the 2 pillars of getting started here. Do you have any general questions or any points of clarification need here at the beginning of the things?
+Andrew Styman: So um
+Jai: Go on, John. No, that's all good man.
+Andrew Styman: So with regards to yourself, Andrew we're reaching out, obviously. We've got the app for the documentation and we'll navigate that. If we've got any questions around that documentation, we can then reach out to that additional resources. With regards to any questions there. When did we get the 25 users to set up there download the app? for obviously for the ability to be able to transfer data. I think our account we get the 25 users download the app and then do the one hour training. So when they do the one hour training, will that need to be like, all 25 users at the same time? Or can we do it in different? Um
+Andrew Styman: Different classes.
+Andrew Meggs: Sure. Uh, you don't have to have everyone download it first if you don't want to. And part of the training will be outside the scope of your endusers. So part of it will be admin roles and responsibilities in addition to how to use PreVeil. But yeah, if you want to invite everyone to that, you can if you want to just have them record the call and then share it internally. You can if you want to schedule multiple meetings, you can whatever we're easy, like Sunday morning, whatever you prefer.
+Andrew Styman: Yeah. Perfect. Because I think in the there'll be an admin in the us, an admin in Australia, probably as well a part of that just so we can get across the admin side of the controls in case they forget and come to him and say, hey, do we do this? Because that's normally the case when it comes to it. And then with yourself, so obviously being our account manager, is that more around additional users or any any other problems we have or
+Andrew Meggs: So yeah. I guess uh
+Andrew Meggs: Just to delineate the duties here, I guess. Sure. So the support team, the technical support team will be doing that onboarding. They're also the people that handle bugs and technical issues that support at PreVeil.com the compliance team. You're saying can answer any compliance related questions. It's compliance at PreVeil.com or through the link in that accelerator was showing you. And then I am the general main point of contact if you're not sure who to talk to if something needs to get escalated. Or yeah, like you were saying I need to add a license subscription, renewal account stuff would be me. But when in doubt if you're not sure to talk to, definitely just reach out to me directly.
+Andrew Styman: That's perfect. Yeah, that's awesome. That's good to know. We will have the so we have a quality director is also the so for the facility Indianapolis he reports to myself. He will obviously engage from a facility perspective with regards to the SMS and he may reach out to yourself. I'll provide him your contact details as well. Yeah, sure.
+Andrew Meggs: Definitely anybody who feel free to share my contact information with anybody.
+Andrew Styman: Yeah. It'll more than likely be Joe or myself reaching out and saying, hey we're a bit stuck or we don't know where's the direction to go with navigation of any browser or website we engage with or interact with.
+Andrew Styman: It
+Andrew Meggs: Yeah. The the only other thing I like to do on these calls is I'd like to set up a 90 day check in call. Just to make sure things are going smoothly 90 days from now. It's April.
+Andrew Meggs: This is my own. I don't know much about time zones. Is it better for you all to do it earlier or later? It's like is it 6:00 am there?
+Andrew Styman: Yeah. For us, it will be morning for you. It'll be afternoon.
+Andrew Meggs: Yeah. I can do later than this at the very least. I got I wouldn't want to wake up uh
+Andrew Styman: Yeah. April, I think that savings or kick in for yourselves. So it'll have to be an hour later.
+Jai: What have you. I've just downloaded the can I just share my screen here? Sure.
+Jai: So I've just downloaded the so I've gone to documentation 6 and I've gone into the my documents package now. Um
+Jai: Should I be able to
+Jai: Download this CSV or
+Andrew Meggs: Yeah. Theoretically, it's a link that you should be able to download. Double click.
+Jai: Did sorry? Yeah. It's like it was showing image there. Oh, good man. I'll just double click on and then be able to pull it down. Oh, that makes sense. All right. I can see that there now. And then that is flat based
+Andrew Meggs: Pretty large, but yeah.
+Jai: Yeah. And that's the that would be the SP that you would recommend to use.
+Andrew Meggs: But it's up to you. If you already have one written, you can compare it to what you've already written and pull
+Jai: So that's fine. Um
+Jai: Excellent now Andrew and I will have a look at that today.
+Andrew Meggs: And as you can see, there, there's all the other documentation in there too.
+Andrew Meggs: Docs package. So yeah.
+Jai: Excellent. Thanks, man.
+Andrew Styman: Yeah. Yeah. Andrew I've accepted the meeting, which will be our 14th 6:00 am 14th of April.
+Andrew Styman: We can follow up.
+Jai: Yeah.
+Andrew Meggs: At the very least, make it a little bit later than that.
+Andrew Styman: Hold up. Well, the moment that's 6:00 a.m. That still works. Okay. That'll be fine. We're normally open about anyway.
+Andrew Meggs: All right.
+Andrew Styman: Well, we just I
+Andrew Meggs: I appreciate it.
+Andrew Styman: No. I net win. Unfortunately we're not blessed enough to sleep. So we we're awake to be honest.
+Andrew Meggs: No. Rest for the wicked, I guess. Um
+Andrew Styman: Keep in mind active. That's the main thing. Okay. So our PreVeil account commences the the second of February and runs until the second of February. We'll be looking there's a few things going on with the team settling back in for the new year, et cetera, and getting their focus right? We just need to give them a week or so. Joe and myself would just obviously talk internally make sure we're across everything we need to. And then we'll look at the specific users. That will then set it up, set up the email, secure email and then be able to transfer to whomever sure they need.
+Andrew Meggs: If you want to go ahead and create the organization and get the ball rolling, you don't have to wait till the second. But okay. Yeah. There's yeah, that's fine. So. But if you want to you know, like I said, if you can do it whenever you want. If you want to do it right after this call, it takes 5 minutes. If you want to wait till the second, you can, but there's no there would be nothing stopping you from starting early if you want to.
+Andrew Styman: Perfect. So we can have a chat with them. I know they've got a couple of visits, customer visits, key customer visits this week and next week. I'll check their availability and then if they're okay to proceed, they can then just install and then set up the one hour training session. We can have that conversation with them. And then whether it's next week or the week after, they can then schedule that in.
+Andrew Meggs: Yeah. If Jay is going to be the one who creates the initial organization, he'll need to do that and then invite them to the organization as the admin. But but yeah, other than that, yeah. That's fine. And then yeah, if you have any questions or anything like that, like I was saying you can reach out to me and I can help out.
+Andrew Styman: Yeah. From a setup perspective, if joy downloads the application and then obviously it just works through that with regards to creating the account, etc. And then registers for the training. He can then
+Jai: I'll get a separate invitation link here for the setup.
+Andrew Meggs: Yeah. I'm gonna send it after this call, but basically the actual setup, like I say you just download PreVeil create an account and then there's a specific link to a link in in the instructions that I'm gonna send you that you go to. That will prompt you to create the org if you click on that link while you're logged in. And then I'll also include a link to the support team's calendar. So you can schedule that onboarding for whenever works best for you all.
+Andrew Styman: Okay.
+Andrew Meggs: So yeah. You basically for the app you won't be receiving invitation. You'll need to to go in and create the work yourself. But okay.
+Andrew Meggs: And then as previously mentioned, once the onboarding is done the gateway implementation, our support team will reach out to you all to to help with that. So
+Andrew Styman: It seems
+Andrew Styman: Very straightforward. Hopefully it is as easy as everything the process is easier to set up and be good. And then we can get everybody on board and underway for for using PreVeil. Um
+Andrew Styman: If there's if there is if we think of any questions that we discussed today and we'll just shoot through an email to say, hey, and just touch base with yourself and that'll be good, obviously, to have that key point of contact.
+Andrew Meggs: Yeah. You'll have my you'll have my contact info.
+Andrew Styman: Perfect. Awesome. Joe. Anything else from yourself?
+Jai: Now I'm on, right?
+Andrew Meggs: Cool. Okay. Well, I very much appreciate you all taking the time to meet with me so early and it's great to meet the both of you all and yeah, I hope you all have a great rest. Rest of your morning day afternoon, etc.
+Andrew Meggs: Yeah. Enjoy the warm weather for me.
+Andrew Styman: Yeah, I will appreciate.
+Andrew Meggs: Have a good one.
+Andrew Styman: Brilliant. Thank you. Cheers. Bye. Bye.

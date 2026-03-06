@@ -1,0 +1,55 @@
+Account: Cannon Companies
+Call Date: 2026-01-21
+Duration: 00:11:29
+Participants: Andrew Meggs, Kevin Richter
+
+======================================================================
+
+Speaker 1: So
+Speaker 1: Yes. Hi.
+Speaker 1: Hold on.
+Speaker 1: All right. I think you I hear can me hear on you a now Andrew.
+Andrew Meggs: How about now?
+Speaker 1: Yep. I can hear you.
+Andrew Meggs: Okay. Well, I appreciate you hopping on a quick call with me. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of an informal check in call, sort of thing. I do have a couple of things I normally go over on these calls, but before I get into it, how are things with PreVeil or just in general?
+Speaker 1: I haven't really used it that much actually. My only question that I really had was we did set it up for us the 3 admins and then last time we talked there was a grouping, right? We had a question about, hey, is groups where you could assign groups to for access and stuff? And that was a feature that was kind of in the works. I didn't know if that was still in the works or that was implemented.
+Andrew Meggs: I'm not sure. I apologize I can't remember off hand that exact conversation. What what feature was
+Speaker 1: So I thought it was so like, when you go to assign access to folders, right, we were wanting to make it that we could have a group. So we'd say, okay, this subcontractor their group name would be their company name. And then as we add their employees, right? We just add them to the group. We don't have to actually have individual access to folders or files. We would give the group access, right? That's just higher level management of easier to just assign people to groups and then those groups would be responsible for the folders.
+Andrew Meggs: Okay. Yes. We are planning on. Well, I'll get to the point here. A lot of our enhancements that we've been working on have been pushed back because we have been really pushing hard to release our cloud drive functionality, which should be coming out in the next couple of weeks. Where we basically rewritten our drive from the ground up and it's supposed to be much faster, some UI improvements and things like that. Basically that was supposed to get released at the beginning of January, but it's taking a little bit longer to to to release. So that's the main focus of the engineering team right now, though, what you're talking about is nominally on the product roadmap. It's just some of this stuff has been pushed out a little bit while we're working on cloud drive. But we are planning enhancements to basically admin functionality of being able to do things with with groups and stuff rather than individual. But that's looking to be more unfortunately, second half of 20 20 six, since everything has been pushed out because of the cloud drive enhancement push right now with engineering.
+Speaker 1: Is there would we have the benefits of this new cloud drive? I'm kind of curious what it might even look like or if you had like it.
+Andrew Meggs: Yeah. Yeah. That's it's for everybody. We're just we're rewriting our drive. So it's it's gonna be there will be fan fair. You'll you'll get a marketing email, I'm sure. Yeah. That'll that'll be for
+Speaker 1: Everyone. Okay.
+Andrew Meggs: But basically we're just making it that syncing and uploading and downloading will be much much faster. And also now now when you sync folders from your drive to your device those folders are actually touching touching the endpoints, but with cloud drive it'll just be like a representation of what's on the drive rather than actually touching the endpoints. So it's gonna help a lot with space on your computer as well as preventing coy leakage and stuff like that. So it's a pretty major improvement to how our entire system works. But as I'm sure you're aware with big changes like this and it takes a little bit longer to take sometimes longer to to implement than initially forecasted.
+Speaker 1: Yeah, that's fine. I think we'd be interested in checking that out. That's kind of been our
+Speaker 1: Only like roadblock is I guess we just didn't fully understand how the platform worked. We thought it was kind of like Dropbox where you go online and make make permissions and drag and drop files to it and then share it out and it's kind of like that, but it's not right. It's pretty like you got to have the agent on your computer and all this encryption and stuff. And it's not as I guess there's a lot of barriers to entry for our users so we haven't fully deployed it to everybody, but
+Andrew Meggs: Sure. Yeah. I mean, with the level and the nature of our encryption, that does come with some sacrifices in, I guess you could say quality of life, things just to be extra secure. I guess one of the points I was gonna ask about though, I guess
+Andrew Meggs: Regarding barriers to entry, have you had a chance to communicate much externally with anyone or have them sign up for PreVeil express?
+Speaker 1: I don't know if we might have one person. I'd have to ask our other guy Kevin if he set it up, I gave access to anybody yet. But he said he tested it and he said the you know, they get the email and it seems pretty straightforward. Like they can get to the cloud, right? Because I don't think they have to have the agent installed.
+Andrew Meggs: No. Yeah. So third parties, they can just do the browser PreVeil express version.
+Speaker 1: Yeah. I think that's what we were kind of thinking. Oh, we'll just log in online and drop our files and it was a little just behave differently than what we were thinking.
+Andrew Meggs: Sure.
+Speaker 1: So yeah.
+Andrew Meggs: And uh, but I mean, what little you have used it. There hasn't been any technical issues or bugs though I have there.
+Speaker 1: No. I think yeah, we were able to be based off your recommendation, right? We added the 3 admins. We made sure that there was the where you could if someone did get locked out, we made sure we set that up. So I mean, we've implemented your recommendations, so but we haven't really gone much further, you know.
+Andrew Meggs: Sure. Sure. Okay. Well, I mean, if you haven't used it a ton, there's not I mean some of some things I would go over where if you had used it a lot and I know that you have the implementation hasn't been with everyone yet due due to these barriers to entry you were mentioning. Do you anticipate needing any more users or anything down the road?
+Speaker 1: Not users wise. Yeah. Without Kevin being here. He did mention one thing. There was another kind of mis miscommunication something with the I know we're not paying for the email gateway, but I think he was saying something about the email the invite. Um
+Speaker 1: I can't remember what he said. He
+Speaker 1: Either was like we sent an invite to our employees, but it sent the invite like to their PreVeil account or something. Something weird like it. I don't remember he'd have to explain it, but he did run into one kind of small bug where he wished. Um
+Speaker 1: Like our actual e mail was notified or something. But I can't speak to it. I don't remember what he said.
+Andrew Meggs: Yeah. I mean, the your actual email and your PreVeil are 2 separate things. So if something if someone sent him via PreVeil or something wouldn't show up in his normal inbox. But maybe that's what he's referring to. But without knowing a little bit more, I wouldn't be able to really take on it.
+Speaker 1: I don't remember. If they if it comes from a system account probably so probably the like, say the sub if they replied to the email, I think it's a system. They wouldn't go like, back to the user that requested it, right? I don't think that's how it would work.
+Andrew Meggs: No.
+Speaker 1: Yeah. I don't think that's the problem. Like the user, replied and then he didn't get it. I don't think that's the problem, but
+Andrew Meggs: Yeah. If if
+Andrew Meggs: That is an issue or anything. Let me know. And I guess once you if that is a persistent issue, let me know the details and I'll look into it.
+Speaker 1: Sure.
+Andrew Meggs: But yeah. Honestly, there's not much else for me to talk about if there hasn't been much use. That's kind of it in terms of my talking points. I yeah. Like I said, the cloud driver will be coming out. Well, nominally the end of the month, possibly mid February. We'll see when it actually comes up. But sooner rather than later, it's an open. It's in beta. Now I've seen demos. So it works. We just I think are still figuring out a lot of the kinks before releasing it into the wild.
+Speaker 1: Let's do this then. Because I think if it's got more features or maybe a little more more user friendly. Maybe let's schedule a call end of February or something. And we could talk about that and then we could maybe we'll get more use out of the new release than the current one.
+Andrew Meggs: So yeah, I will I'll put a note on the calendar for end of February to check in. I honestly, it's I don't want to go ahead and put a meeting on the calendar because I don't want to commit to releasing in February even though theoretically it should be. But I will put a note on the calendar where if it is released, I'll reach out to schedule some time. Okay. And if it's not released, I'll move that. But okay. Let me put that there.
+Andrew Meggs: Okay. Um
+Andrew Meggs: Yeah. I don't wanna waste too much of your time here. There's not really else much for me to add. Was there anything else you wanted to go over and discuss?
+Speaker 1: No. No. I think the if they're working on group permissions, I think that was kind of the big one for us. It's just to make the admin side is we would just set the folders globally. These groups have these folders and then as you invite people, it's you know, the user isn't having to do all that responsibility and making sure that read only and hey remember remember not to well out edits and you know, it's sure it's more admin control.
+Andrew Meggs: Okay. I'll make another note to follow up with the product about that too. But yeah, I'll put that on the calendar. If cloud drive does come up before then nominally you should you will be getting an email about it. Probably from our marketing team in in your PreVeil inbox, detailing it. But I will put that note on the calendar to reach out and as per usual if you do have any other problems or if you're continuing seeing issues with that, definitely let me know.
+Speaker 1: Okay. We'll do.
+Andrew Meggs: All right. Well, I appreciate your time, Kate. And I hope you have a great rest of your day.
+Speaker 1: Okay. You too. Thanks, Andrew. Bye. Bye.

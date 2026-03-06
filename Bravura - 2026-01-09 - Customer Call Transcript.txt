@@ -1,0 +1,58 @@
+Account: Bravura
+Call Date: 2026-01-09
+Duration: 00:10:50
+Participants: Andrew Meggs, Claudine Adams
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: How are you?
+Claudine: Hello, good. How are you?
+Andrew Meggs: I am doing well. Hello Claudine, it's just you today, right?
+Claudine: Yeah. Just me.
+Andrew Meggs: Okay. Well yeah I know we've been going back and forth. Well, I guess you've technically been talking to Christina. Just as a heads up with the delineation of duties there. Christina is helping us out with like, sending out notifications for the renewals and everything, but I'm still technically the account manager. So the difference there is all okay. But anyway. So I know you've been talking with Christina back and forth about your subscription coming up here and license counts and whatnot. Yeah. I guess before I get into it, what all would you like to discuss today?
+Claudine: I just wanted to we had more licenses last year, but we weren't able to really do what we needed to do yet and getting ourselves together and getting everything set up. So I don't know if you're aware. We're setting up PreVeil now.
+Claudine: Well, 2 things. I am A C 3 Pao through my doing business as a cyber. So we're transitioning that environment to PreVeil. And then we're going for recertification. It should be coming up here in April, the April timeframe of this year. So that's one one thing. So right now, I was looking to to renew the licenses a subset of what we did before. And then once we get through that process to expand because I'll need my level 2 for Bravura, but you know, proper but I don't it might come faster than I think, but I want to concentrate on getting the C 3 PA and stuff done. So. I think we have for like, 14 licenses. So I think what I wanted to do is renew a handful mail and then renew more later in the year when I'm ready to to expand and get Bravura insert.
+Andrew Meggs: Sure. Yeah. I guess just for context here, right now, you are currently licensed for 18 total licenses, our email gateway and the compliance accelerator, which is like the documentation and everything documentation. And if you were to just renew as is no changes it would be about $14,000. So specifically, 13 nine, 50 six, but 14 grand
+Claudine: Yeah, that's about what it was. I just don't need all of those licenses right now. I need the documentation. I need the structure. Of course. I just don't need all the licenses. So I wasn't sure what you could do and
+Andrew Meggs: Yeah. One license if you wanted there's
+Claudine: Yeah, I told her. I think we could do 8 now or 10 now or something like that. And then do add the others later when we're ready.
+Andrew Meggs: Sure. Yeah. So however many so right now it's 18 total licenses, including 2 admins. So however many licenses you want to renew with, we can make that adjustment. The gateway pricing does change based on certain tiers of number of licenses. So if you have 10 or fewer licenses, it would be slightly cheaper for the gateway as well. Okay. So so let's just for ballpark. Let's say you had 10 users, 2 of which are admins and the gateway pricing for the lower tier. Your total cost would be $10,200. So about $3,800 cheaper
+Claudine: So that would be let me write this down 10 licenses, the gateway.
+Claudine: And the compliance.
+Claudine: Is what was it?
+Andrew Meggs: $10,200.
+Claudine: 10,200. Okay. And then if we did do 8 licenses, what would it be? I think we would need ten, but
+Andrew Meggs: 8 licenses would be 9,336.
+Claudine: Okay. All right. Well, we'll probably go ahead with the 10 and the 2 admins there. If I needed to add in and I don't think I don't want too many admins, but if for some reason I did need to add an additional admin, does that change the license cost?
+Andrew Meggs: Yeah. So basically we've changed the nomenclature of how our licenses work somewhat. So now instead of a separate license, the admin is considered like, an add on to a standard license. So so it's like, you'll see it in the order form. It's basically 10 licenses and like 2 admin add ons. So two, 2 of those 10 are admins. So if you wanted to have a full new user, that's also an admin. You would bring the total to 11 and 3 if that makes sense. But if you wanted to just like make another one of your 10 licenses also have the admin add on, it would be
+Andrew Meggs: 20 times twelve, whatever. That is. Because I'm better at
+Andrew Meggs: $240. Okay.
+Claudine: Yeah. I think 2 is probably enough, but I want to talk with the team and see what they think as far as the admin, who should be an admin for it. And is it just like admin or user? Is there anything in between
+Andrew Meggs: No. Like an admin is a user, but also has the admin tab.
+Claudine: That's right. But there's no super user or tiers of admin support, so to speak. They're an admin or you're not okay. Just wanted. I figured that's how it worked. And what is our renewal?
+Andrew Meggs: Into January, so January 30 for
+Claudine: The corner, yeah.
+Claudine: So did you are you gonna send me?
+Andrew Meggs: Yeah. I can send you this order form for 10 users. You have that is pricing and then you come back and say, hey, I actually I need 8 or I need 11 and 3 admins or whatever. I can make that adjustment. Okay. And then down the road. If you want to add users, you just email me and say, hey, I don't add however many users. Like we were saying in the e mails there is we can start applying bulk discounts at like 30 plus users. I don't know how many users you eventually want to add. Yeah.
+Claudine: I have to see that's part of what the team needs to tell me, right? We do have a subset of people in Bravura that use a lot. Most of my people are at government sites and they don't really touch UI. They're doing their own thing at the on location. So I would think most most of my headquarters folks would need it, but I need to talk with the team and have them tell me how are you setting this up and what do you want to do here? How do you want to support this?
+Andrew Meggs: Right. Right. Yeah, I can yeah. I can send this order form over and then you let me know what you'd like to renew with. The gateway tiered pricing is. So it's basically like 10 and below and then like 10 to 30 and 30 to I forget the exact, but okay. That's what the change in prices. So basically, your 10 or below it's the lowest tier pricing.
+Claudine: I got you. Okay. All right. All right. I think I got it. That's all I needed. Just just kind of a quick overview of where we are. And I would think we'll be adding some licenses for sure. In in in a little bit. I need to get through the C 3 Pao stuff. Sure. It's driving me a little crazy. And yeah, I asked you guys before, but I like I don't think you can you can't sit with us through the actual audit, right?
+Andrew Meggs: Uh
+Andrew Meggs: Short answer. No, I know that we have a few times basically been brought in as not consultants per se, but like, subject matter experts for specific questions, but we can't there's a conflict of interest for there.
+Claudine: For like you said through the
+Andrew Meggs: Through the whole assessment.
+Claudine: All right. Well, when I when we finally settled on the dates of it, I'll let you know and I know we set it up before where we would call you were just kind of an alert so that if we needed you for something. But now, I'm excited. So, yeah, were using this google space. We signed we did it in what 22 I've had my C 3 Pao since 22 and went with this google workspace and it's just so complicated. Yeah. It's just it's way complicated. And I don't my staff doesn't know it well enough. They don't know it. And every time we try to do something, it seems to be a challenge. So your system will be much much much easier to work with
+Andrew Meggs: Well, I'm glad to hear that. And then yeah, once once you get the final counts with how many total licenses, however many months down the road, that is just let me know. Okay. I can add
+Claudine: All right.
+Andrew Meggs: Yeah. In the meantime, I'll send this over with 10 licenses in the gateway and the accelerator and if that's what you want to move forward with, we can just I can send via docusign and if any changes to be made pretty pretty simple simple task there.
+Claudine: So now, as far as once I sign I keep those 10 licenses, right? I'm paying that pays for the year.
+Andrew Meggs: Right. Yeah. It'd be it's a 12 month.
+Claudine: Right. Subscription. Okay. And then
+Andrew Meggs: Down the road if you wanted to add licenses, it would be for however many months are left in.
+Claudine: The subscription okay. It all renews together. That makes sense too. I gotcha. All right. Well, thanks, that's really all I had. Just wanted to review quickly where we are and just tell you what I'm up to. And if you want to send that documentation over, I'll take a look and get squared away.
+Andrew Meggs: All right. Sounds good. And then yeah. While you yeah, definitely for your assessment. If you need any extra help our compliance team is always available to compliance.
+Claudine: At provide the team the tech team has been working with them. Okay. Yeah, we're they're connected there. That's
+Andrew Meggs: Good. Okay. All right. Yeah, I will send this over and let me know if you need to make any changes. Otherwise, I appreciate you taking the time and I hope you have a great weekend.
+Claudine: Alright. You too.
+Andrew Meggs: Yeah. Have a good one. Bye.

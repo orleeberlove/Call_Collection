@@ -1,0 +1,148 @@
+Account: CSI IT Holdings (Consulting Solutions)
+Call Date: 2026-01-29
+Duration: 00:33:52
+Participants: Scott Rifkin, Jeff Paske, Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: Hello, Jeff. Hello, how are you? Andrew I am doing well. How are you? I'm doing well as
+Jeff Paske: Well, I guess, besides being cold, where are you located?
+Andrew Meggs: Yes. It's quite cold. I'm in Minnesota myself, really cold.
+Jeff Paske: That's not even I don't even think cold is a word in Minnesota.
+Andrew Meggs: It's a high of 0 today. So yeah.
+Jeff Paske: Then I'm not gonna complain. We're all the way up to 42 now.
+Andrew Meggs: Oh, yeah. No, that would be
+Andrew Meggs: Yeah. Where are you at?
+Jeff Paske: I'm in Atlanta.
+Andrew Meggs: Oh, okay. Sure. Yeah.
+Andrew Meggs: No. That's for Atlanta that's Chile. That's reasonable. Yeah, it is.
+Jeff Paske: There was in the teams this week earlier. So I'm happy with that.
+Andrew Meggs: What part of Atlanta? I'm right outside of
+Jeff Paske: Atlanta, like North wanting area.
+Andrew Meggs: Sure. Well, no, I'm
+Jeff Paske: Okay. To Minnesota.
+Andrew Meggs: No, no. No. I am very familiar with the Atlanta area. I my mom's family is all of them around there, so. Oh, wow.
+Jeff Paske: So we're in a um
+Jeff Paske: 20 minutes.
+Andrew Meggs: Yeah, yeah. Yeah. No, my I grew up in South Carolina and my mom's family all lives in the Atlanta area. So we go there pretty regularly. So most of them live around coming. But that's a little bit more or yeah. And then yeah, her actual not that you guys need to know this, but yeah, her actual mom and a lot of family also live up there in Helen. I don't know if you ever
+Andrew Meggs: I don't know if you ever pleasure. You've actually been. Let's say it's so tacky. It's so yeah. It's something else. I don't know why they decided to make a German theme, but anyhow. Hi Scott.
+Scott Rifkin: Good to see. It's been a while.
+Andrew Meggs: Yeah. Yeah. Are you also the in the Atlanta area?
+Scott Rifkin: No. I am in much warmer. Yeah. Yeah, much warmer. It's normal. It's 56 today. Right now. I'm in southern Arizona. I'm in the town of area, which is just a little bit North West of us on.
+Andrew Meggs: Okay. Okay. Yeah. Okay. No, I was just saying I'm in Minnesota. So a lot colder.
+Scott Rifkin: And I've experienced Minnesota in January, February. I remember I was doing a project when I was with it was before the name change to Accenture when I was with the Anderson Consulting and doing a project at Cargill. So I was on the West side of town and I remember going out to my car, my rental car and the and it was just so cold and the car said minus 19 to care. I'm going oh, my, I want to go home to Phoenix.
+Andrew Meggs: Yeah. It's that's how it was last week here. It's warmed up a little so it's up to 0. We're hoping to get above 0 this week.
+Scott Rifkin: But I hope so too.
+Andrew Meggs: Yeah. Any who I know you all are here for the GRC tool. So I guess for a little bit of context. I know you are asking for maybe a couple of extra licenses. Usually when it's this close to renewal, like I was saying, we just wrap them into the room instead of having a 2 licenses for 2 months or what have you. But we did recently launch our own GRC tool. I know that you all previously had comply up, but a lot of clients have been asking for our own things. So we put together our own C tool that we built on is if you're familiar. But that launched a couple of months ago. And certainly if you want to continue with comply, if you can but I felt like I would show you what we have and then it also would be slightly less expensive as well as part of a description.
+Scott Rifkin: That's always good.
+Andrew Meggs: Like that word. Yeah. I guess before I get into it just for context on yours. And where are you all at in the CMC compliance journey, if you will.
+Scott Rifkin: We start pre assessment next week. Okay. Okay. And right now, targeted sometime that first week of March to start the full audit. So back. I think it was either was October or November. We hired 4 of us as our C 3 PO. Sure. We went through an exercise actually Liz at all on it. Gave us a great list of C 3 POS. That that they work with. We did RFP got some great responses and actually all 3 that ended up responding were great, but we felt that for us as was the best match to our style. So
+Andrew Meggs: We were, yeah.
+Andrew Meggs: We've had. We've had several clients past assessment with for. So that now they're great. So just so I have just so for my own notes in the system when is nominally your actual assessment scheduled for
+Scott Rifkin: That first first week of March.
+Andrew Meggs: Okay. We just like to track when all of our clients go through an assessment just to make sure there.
+Scott Rifkin: Just to give you a little bit of input, you know.
+Scott Rifkin: While comply up does some good things with regards to managing our SP. Yeah, I didn't meet the mustard. So
+Andrew Meggs: We, which is another reason why we're moving to our own thing, right? So complaints about compliance?
+Scott Rifkin: So our SP is pretty robust. It's about 270 pages long. And Jeff and I are in the process of auditing that now. But I think the timing here this probably a good time would've been nice to if we'd known about this sooner to to have this a little bit earlier. But I think what I the link that you said I watched that webinar and I like what I saw, especially the fact that you can track at the assessment, objective level. So I'm gonna be quiet because Jeff hasn't had a chance to look at that yet. I don't think. And so, let's get into the demo. And then we'll have probably more questions for you, but this is the right thing. Then we can talk next steps.
+Andrew Meggs: Sure. Yeah. I will I mean, I'll start with this depending on where you're at in the process. If you're already this close to the assessment, you might not necessarily need a tool in general. But I can certainly show you what this looks like. This will be slightly less in depth in the webinar. You watched. Well, if I could
+Scott Rifkin: Interject real quick. I actually think A G tool is good, because this is a journey. Yeah. Yeah. You and if you're an if an organization is planning just to one assessment, then they don't have the right mindset for this. And you've gotta you've got this is something that requires accountability and governance even after you get your certification.
+Andrew Meggs: And yeah, you're over here doing my job for me. Yeah. Full disclosure.
+Andrew Meggs: You are? Absolutely, correct. Unfortunately, a lot of our clients don't view it like that and think that. Okay. I've got my assessment, jobs, done etc. Which it is a struggle to communicate what you just said to some of our clients. Because when we plus a lot of them are very budget conscious as well. So they're like, if there's something I don't need I don't want to buy it, so. So that's why I did did want to preface that because but you're absolutely correct. And I do actually agree with you, but a lot of our clients
+Scott Rifkin: Just an example of where things could change, you know. So given our current environment, we have a private cloud, that's a bunch of virtual servers. There is a there. We have a plan a roadmap where eventually we're going to move to
+Andrew Meggs: Azure sure.
+Scott Rifkin: I guess what that move to Azure changes a lot of our access control stuff, which means you've got to manage it. You've got to up the SP. Whether you have your certification or not has to be updated because of the government says, hey guys, you're not doing what you're supposed to be doing. They could come in and do an audit, you know?
+Scott Rifkin: If they don't think you're doing the right things to protect their data. So you know, like you said, I'm preaching to the quire.
+Andrew Meggs: Yeah. I honestly if you want to if you want to call in our webinars and say that to our clients because sometimes they don't believe me, maybe they believe you. But I'm yeah, definitely. I fully 100% agree with you. But yeah, I mean, as you saw on that webinar, this is kind of when you first log in, this is what it looks like. Jeff, there's a little dashboard. Obviously, this is my demo counsel doesn't have anything in it. So everything's at zero, but you know, it has your nominal spurs score. It has your assessment progress. That has action items for things that are past due. And this is kind of like a at a glance dashboard for generally where you're at and what needs to be done right now. And if you actually dig into it, though, if you click on this there is a list of all of the controls and everything here. And this is yeah. So basically you can come in and you can go into these and you can click you've done it, you haven't done it. You need to maintain it. And has basically all of our SPs and all of our documentation pre loaded. But obviously you've worked on your own system security plan. So if you were to upload what you have written, it would fill in everything I just showed you with with what you have written. Um
+Jeff Paske: Yeah. Similar to compliance.
+Andrew Meggs: Yeah. The difference being comply up. I mean, honestly, the big difference is comply up was a part or a company that we partnered with versus this which we have built with PreVeil in mind, you know. Yeah.
+Andrew Meggs: Yeah.
+Scott Rifkin: Our system environment section in in our SP is very comprehensive it's so I'd be curious once you get to that point I won't just to see what we have that we can upload in there what the flexibility is. This way the leveraging the tool to be able to generate that in the future. Because right now we had to just move to a word document. And that's the primary source. And as we're doing our audit, I'm updating comply up with changes in the description on how we're implementing the control.
+Andrew Meggs: Yeah. Um
+Andrew Meggs: Exactly. Where once again Scott doing my job for me, thanks Scott. This is where you would put in all that information. And you can either, as I was saying, upload something to replace everything that's in here, which obviously you would do at the beginning or you can append things that are in here versus replacing everything. You can upload the hardware inventory software inventory and it will update everything here in the GRC tool. And then yeah, this is kind of as I'm sure you notice this is the system security plan section where you would upload all this information. And then that would automatically be factored into the controls tab here and this list everything, but you can filter for controls. And then as I was kind of showing earlier, you can dig deep into these specific controls to check Box if it's done. If it's not done. If it's not applicable, these things. I feel like yes. No, and maybe are things that makes sense. But yeah, basically it would fill in all this information. But then has everything related to this for uploading artifacts actually problems.
+Scott Rifkin: Real quick. If I could so Jeff, what I'm seeing there is what we've done so far. It very easy for us to kind of just paste the full control. So in our SP, we have the we have a section called security controls. Yeah, and we have it broken down by the 110 controls. But when in each of those controls sections, we call out the assessment objectives. And then so there's an implementation approach at the control level. At the highest level, we talk summarize. Then at each control there's a a implementation statement. And then for each assessment objective, there's an implementation statement along with 2 additional category roles and tools technology. And we have some conversations we need to have with our C 3 Pao because this sort of also acts as our relationship matrix. So I just have to figure out, do I have to pull that out and put it into a spreadsheet or can they just get everything out of the SP?
+Andrew Meggs: Right. Yeah, that would be a conversation with them. And I mean, obviously also at any point if you have any questions like that or our internal compliance team is available to as a resource to you. I don't know if you've interacted with them much. But
+Scott Rifkin: We've been kind of Jeff and I have been kind of tag teaming this and just kind of hitting the grindstone. So I'm sure next week when we and Jeff, I just sent off an email to the for mar guys in prep for next week. So we'll I'll make sure we'll have a note of that question to follow up. And I think you and I have already talked about it, but it's just been it's been this. It's been the Jeff and Scott. So
+Jeff Paske: Yeah.
+Andrew Meggs: Sounds like a fun show. But yeah. Yeah. To be honest, our internal compliance team is also just they know more about this than I do. If you want any like, in depth conversations about controls and whatnot that they're available as a reason.
+Scott Rifkin: That would be great. Hey, Jeff, we may want to consider that after we have some initial conversations with for us Mesa. And then from there we can determine if because I know that this question has come up before is there an opportunity to reach out to live on again?
+Andrew Meggs: Yeah, sure. And then just briefly showing you the action items bit here. So you can create an action item, assign it to someone and then have an expected due date. And then that person gets a note on there to to to do that task here. And so
+Scott Rifkin: The entire pm is managed here. Now, question. Is it just like one giant pm that is continuous or can you separate out and have different POS?
+Andrew Meggs: I believe don't I'm almost positive. It's one giant Pam, don't quote me on that. But and I think that
+Scott Rifkin: That's doable, but I just wanted to ask the question.
+Andrew Meggs: Yeah. I'm not 100%. Sure off hand. Um
+Scott Rifkin: I would just I would think that there would you would may want to have some trace ability back to an assessment.
+Andrew Meggs: Sure. I'll double check on that. Also kind of in the spirit of what's the word I'm looking for?
+Andrew Meggs: Open ability that's not the word. Long story short. This is only been available as a tool for a couple of months. So even I'm not fully cognizant of everything that's available to it.
+Scott Rifkin: Completely understand.
+Andrew Meggs: Visibility, I don't think that's the work, but you get what I'm trying to say one. But I'll this is a good thing to know. So I'll double check on this too. One. Thank you so much versus multiple little tractable proms. Okay. Yeah. This is a continuous monitoring. You were saying Scott, even after you get your assessment, there's continuous things that need to be done. And then obviously activity logs, comments, etc. And then, this whole section is for just one of these controls and they have it for all 110 here. So basically how it would work, it was you would go in and update everything. And each one has the same possible options here for word upload things. Were to do action items, continuous monitoring, activity logs, etc.
+Andrew Meggs: Um
+Andrew Meggs: And then yeah, this is where you would put in your policies and procedures as the name kind of suggests very similar just uploading things. Yeah, this is the risk management section where you know, I feel like we're we tried to label things as explain self explanatory as possible here. Uh
+Jeff Paske: For a good idea.
+Andrew Meggs: Yeah. Honestly I am not familiar with specifically how comply up looks like or works. I don't know the all the differences between the 2 but I you know, this is what ours looks like. And then I
+Scott Rifkin: Can tell you right now leaps and bounds. I'm the client is just a little frustrating restrictive, so I'll leave it at that.
+Andrew Meggs: Fair enough. Yeah, approvals for, you know
+Andrew Meggs: Getting approvals running reports. You can obviously you can generate reports on everything in here. And then as I was kind of saying, earlier, all of this is currently pre loaded with our documentation templates, but this is all of the current documentation templates pulled in from the compliance accelerator that you might need or you will at least have access to here. So this is everything here. And I don't know what version of the templates you're currently working on with your SP and POS and whatnot. But this is all of our latest document him. Great. You know what?
+Scott Rifkin: To be honest, it's been a combination of the templates that you all provided prior to us engaging with you all. We had early on right after. And I know you guys are familiar with all of a we after they did our NI basic assessment in February of 20 three, we went out and purchase the p package from compliance, forge templates also. But over time what we have found to meet what we're looking to produce for our organization, it's been a tailoring of all of the above and then a lot of assistance from some some of our friendly AI tools and I openly admit I use the out of it. Because this we're a 2 man team here and Jeff has a ton of other stuff outside of this is one of many programs that Jeff is responsible for. I'm almost 100% dedicated on this and he pulls me in on other stuff when he needs me for. But again, when I say 2 man show, this has been a 2 man show in reality, is this? is more than a 2 person show, yeah.
+Andrew Meggs: Yeah. It's 2 men and cloud or chat or whatever it is you're using.
+Scott Rifkin: I use them all because what the output from AI is only as good as your prompt engineering. And what I will do is I will and
+Jeff Paske: The review of it.
+Scott Rifkin: Exactly. And I will put different AI tools against each other to see what I get back. And there have been cases where I've gotten a response back that. Okay. No, no, no, you're missing this. And so
+Andrew Meggs: Yeah.
+Andrew Meggs: Then it's dumb.
+Scott Rifkin: So I have I've actually put I got frustrated with a response and I go you're dumb and chat p responded. As I apologize for your frustration.
+Andrew Meggs: Well, at least it's polite.
+Andrew Meggs: But but yeah. So anyway, this this is I guess this is kind of the 10 or the 5 minute overview of what our GC tool looks like. I hopefully this was somewhat helpful or self explain it.
+Jeff Paske: It's absolutely helpful.
+Andrew Meggs: And then like I said earlier, when you first log in, you get this dashboard of kind of generally where you're at. We are I mean because this is such a relatively new tool, we are still implementing. So planning on implementing some improvements. I know that we're looking like, right now for instance. The controls are all blanked out 0. We are planning down the road to have it where it just automatically fills in the stuff that PreVeil fully covers. And then obviously you can change that if you need to. But just to make life easier. But for right now it's all blanked out. And then we are always looking for recommendations for improvements. Since it's still so new. So we're still so working on a little bit. But this is what this looks like for right now. And I mean, honestly, I do think it is a good solution. I've we heard a lot of positive feedback since we released it. And yeah, the response
+Jeff Paske: Been from the people that have gone to it from whatever comply up or something else.
+Andrew Meggs: Well like the first couple of weeks there were still some bugs to work out. But once those got smoothed out the response has been very, very positive.
+Andrew Meggs: You were saying you wish you knew about this a little bit earlier. Honestly, it's probably good that you didn't hear about it until just now, anyways. Because we're still smoothing a few winkles there in the first few weeks, but the response has
+Jeff Paske: Pricing on on that.
+Andrew Meggs: Yeah. If you bundled it to get I mean, with since you already have the accelerator, you basically get a bundle discount. And that's I'm sorry, I'm really bad at mental math. Basically
+Andrew Meggs: 14 41,440 for the 12 months versus
+Andrew Meggs: The 2,160 for compliant.
+Jeff Paske: So saving
+Scott Rifkin: How long would it take to get this stood up and are there features to import data? I noticed where you can kind of grab files. So especially when you went into the system environment tab there's, you know where I could potentially just thinking out loud I can break up our SP into the right components to add to this. And then some of this would be doing running some reports on some of our systems. Running a report from RR to get an inventory of devices. That's something Jeff we need to do because it's something we're missing. Because on the side I'm multi tasking and I'm looking at evidence that we need. So
+Andrew Meggs: Yeah. In terms of setup. As soon as the contract is signed, I can set you up set up the tenant takes 5 minutes. I am the person who, well, not just me the customer success team are the people who manage the tenants. So if you needed to add someone you would need to ask me. You can have up to 3 people in here at any one particular time though. I assume it's just the 2 of you for now. But yeah, pretty much immediately. Is the question is the answer to that question and then in terms of uploading things? yeah. So basically every um
+Andrew Meggs: Short answer, you can upload everything or anything you would need into into each section, sec section of a long day.
+Andrew Meggs: But yeah. So probably some procedures upload here each of the controls. Um
+Andrew Meggs: I can't. Yeah, I can't recall if you think this is. If you upload it in the other places, it updates it here, but you can attach certain policies and stuff to each of the controls to and obviously with the artifacts and document for each control, you would upload per per control. But the big one would be with the system security plan and the policies and procedures tabs, uploading the general policies, procedures and
+Scott Rifkin: From a policies and procedures those I would say we're probably at 95%. We're wrapping up the SP. I think Jeff and I need to take one last look at our fiscal protection policy, but we've done policies by the domain. And then we've got some plans also because some of these example risk configuration change. In addition to the policy, we make a clear distinction of in our documentation between what you need to do. That's the policy. And then the plans are how do you do it? Yeah. And we have that clear distinction in our documentation. And then we created these operational manage manuals by by domain that capture guidelines procedures, standards, run books, play books, it's comprehensive, but it's those are living documents because as we grow we may find we need to create a new run book.
+Andrew Meggs: Sure. That makes sense. Yeah. This is kind of the extent of my normal demos here for the GRC tool. Were there any other questions you had or anything else you wanted to go over?
+Scott Rifkin: Well, I think Jeff and I need to Paul on this. Yeah. But once we make a decision how I know you get your really good. So we really definitely appreciate how responsive you are when we reach out. How quickly can we turn around on this and get something stood up?
+Andrew Meggs: Like I said, I mean, as soon as we get a signature, I can do that in a matter of minutes, but I can send it. I can basically after this call, I'll resend what I sent you with the order form for the renewal and then as well as a separate order form for the pricing with the GRC tool included in it. And then with the basically the idea is technically your renewal isn't up until April, I believe. And you would essentially also get a couple extra months of access complimentary for with the early renewal.
+Andrew Meggs: So it wouldn't yeah, if that makes sense. Yeah. Yeah. I can put this together and then you can let me know what you decide. And I mean, even even with what you already have, though, you still have access to our compliance team and they're always available at the compliance at PreVeil.com. And then there's also a I don't know if there's a link to their calendar in here. I think let me pull this up or do you know where the do you already know where the link to their calendar is in the accelerator?
+Scott Rifkin: No, I do not. And I'm not sure if we even did we get the accelerator when we in our initial contract with you guys. I don't think we did. I think we just got what was coming with PreVeil. So
+Andrew Meggs: Let me pull this up to make sure.
+Andrew Meggs: To
+Andrew Meggs: Pull up the subscription, right? Quick, you might have gotten our like, compliance docs package, which we've I think that's
+Scott Rifkin: What we got, yeah.
+Andrew Meggs: It's been re branded as the. We basically have like, rolled it all into our compliance portal and re branded it as the compliance accelerator. So it's not called the compliance package anymore. Yeah. You had our compliance bundle, which was the previous version of this. Let me make sure you're on the uh
+Andrew Meggs: Well, let me pull this up.
+Andrew Meggs: And what does I believe I have your email address at Consulting Solutions.
+Scott Rifkin: Yeah. Yeah. We have the compliance bundle.
+Jeff Paske: And we have
+Andrew Meggs: Yeah. So
+Andrew Meggs: Yeah. You do actually technically have access to the compliance accelerator. Yes. Okay. And I can resend a link to that in my follow up email as well.
+Scott Rifkin: That would be great.
+Andrew Meggs: Template.
+Scott Rifkin: Actually probably good timing because really what we're going to be doing in the month starting today next week is first week of February and the entire month of February is really kind of getting a little bit more crisp for the for the audit, which should start sometime that first week of March.
+Andrew Meggs: Sure. Yeah. I'll send a link to this I was saying, but you already have access?
+Scott Rifkin: I remember I think I remember this I think I remember you sending the link, but the a refresher and then I can make sure it's bookmarked. And then Jeff I'll make sure that transition doc that this stuff is included in it.
+Andrew Meggs: So most of the stuff not going to be relevant to you since you've already done all this stuff. So this is a step by step walkthrough of how to become CC compliant. You're already there you can ignore most of these documents quick things though. The step six, documentation will always have the latest version of all of our documentation. We have this Acme docs package, which is the master documentation package that has links to everything inside it. So if you're looking for the latest version of our documentation, that's here in step 6 and this Acme docs package. Um
+Andrew Meggs: And
+Scott Rifkin: Jeff, I think one of the things that we're probably we've got to maybe add to our SP is right now, we're not specifically calling out policy documentation. So I have a I'll share with you when we get a chance to sync up what my recommendation on approach to to doing that. Because when I was looking at the between the our calls today. So our previous and then this call I was in looking at the stuff that for us as a sent us and um, some things kind of yeah. I probably should have caught this and should address this sooner so we should probably talk about it.
+Andrew Meggs: It's okay.
+Andrew Meggs: Was it the best time to plan a tries 5 years ago? The second best time is today? yeah. So so latest documentation is always in step 6 documentation. There's also a course in here about the GRC tool. So if you want to take it like you already watched the webinar, but there's also an interactive course here in the accelerator about the GC tool. If you had more questions about that and then in additional compliance resources here, there is a direct link to the compliance teams calendar. So if at any point you want to schedule a meeting with them, you can use that link to schedule schedule some time with them.
+Scott Rifkin: Sounds good.
+Andrew Meggs: I wanted to briefly show you this while we're on a call and this is something you already have access to. And like I said, I'll send a link to that. And I know we're already over time here. So I'll wrap this up. I'll send the order form with the pricing with the tool as well as that link. And anything else you wanted to go over?
+Scott Rifkin: I'm good, Jeff yourself. I think this Andrew. This has been great. So thank you so much. And I appreciate you know, moving so quickly on getting this scheduled that
+Andrew Meggs: Of course.
+Scott Rifkin: We don't always see that.
+Andrew Meggs: Yeah. I well that's the PreVeil differentiator. I'm gonna coin that word. I've never used that term before in my life. I like it. Anyhow, I appreciate you all taking the time to meet with me. Normally I would stay stay stay warm out there, but both of you all are in tropical climate. So I'm not gonna say that, but stay stay. All me out there.
+Scott Rifkin: And I have to say, we just said I kind of chuckled inside a little bit because the last the only place I've ever heard that was in Minnesota.
+Andrew Meggs: Yeah. Throwing off on me, I do say of a lot when I go the images or I'm going to school right past you. And I'm gonna I'll talk to you all later. Okay. You all have a good one. You here?
+Scott Rifkin: I love it.
+Andrew Meggs: All right. Bye. Guys. All right.
+Scott Rifkin: Have a good one. Thank you, man. Thanks.

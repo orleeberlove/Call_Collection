@@ -1,0 +1,55 @@
+Account: Aerospace Fabricators, Inc.
+Call Date: 2026-01-08
+Duration: 00:10:13
+Participants: Zackary Gilman
+
+======================================================================
+
+Zackary Gilman: Hey Chris. Good morning.
+christophercrandall: Hey, how are you doing?
+Zackary Gilman: Doing well. How are you?
+christophercrandall: Good. Thanks.
+Zackary Gilman: Awesome. Are we waiting for anybody else? Didn't look like? Anybody had also did accept this one. No.
+christophercrandall: I just we're kind of running in 20 different directions, but my business partner and I just bought a second business just like a week ago. So he's he's got 100 things to do and I've got 100 things to do.
+Zackary Gilman: Okay. Yeah. No worries. I just wanted to make sure well, this call is gonna be relatively brief or relatively straightforward. It's just pretty much to welcome you to myself. Welcome you to PreVeil. We'll go over some resources at your disposal as well as some next steps for you if that works out for you.
+christophercrandall: Yeah. No, that's great. Yeah, we're eager to get going because the company we purchased is Raytheon supplier.
+christophercrandall: Yeah. We want to make sure we get this in place and that the little bit of the rub for us. That jack actually made me feel a lot better on was that. Well, we're gonna have like 2 sets of emails because there are 2 organizations, right? So there'll be 2 domains basically, right? That we need to set up and I just want to make sure I do that correctly. That's the part where I was a little confused when I clicked the button yesterday afternoon.
+Zackary Gilman: Yeah. I got your email. I decided to send that to support so they can kind of give you a more in depth in or answer were they able to answer that or have they not gotten back to you yet?
+christophercrandall: I don't think I've heard back, but I let me see.
+Zackary Gilman: Yeah. They're pretty swamped right now. So might not have had time. But I would definitely I'll I mean, support will have that as well. But I know that you're trying to get things moving. So I definitely get your onboarding booked as well as soon as possible if you're looking to get things sort of started on your end.
+christophercrandall: Yes, that's what I would like to do.
+Zackary Gilman: Awesome. Well, yeah, just to kind of dive in here. I know it looks like you guys went with the PreVeil pass option, is that correct? The one admin 2 users plus the compliance accelerator?
+christophercrandall: Yes.
+Zackary Gilman: Okay. Perfect. And just to hear a little bit about yourself. I know you just said you guys are looking to just kind of get the cms level 2 requirements for this new company you bought, but just kind of wanted to hear a little bit about what you do and sort of what brought you to PreVeil and just sort of a little brief statement.
+christophercrandall: Yeah. So about 2 and a half years ago my partner and I purchased a sheet metal fabricator. We've been running that for a couple of years. And we just recently closed on the purchase of a second location. Second business. That's very similar to ours. The major difference is that the company we purchase works with Raytheon and we don't have direct experience with that. So we are moving quickly to get all of our compliance in order so that we can integrate both businesses into our location. And we're gonna be moving we're gonna be working in 2 different locations until that point because we got to make sure that we that we get the blessing from Raytheon in order to get that done.
+christophercrandall: And we're running quickly on this and on the io and all the other stuff that you can imagine. So and we're also really excited to be able to add this level of security for our other customers as well. And and that's us. And before that we ran a beverage business for 12 years. It was manufacturing but in a different jara.
+Zackary Gilman: Okay. Yeah, definitely a different Jana for sure. Dealing with a lot of regulations over here. And we
+christophercrandall: Had a ton there. You mean you can imagine when you make beverages we had to we had a 65,000 square foot production facility up in Vermont. That was SQL level 2 certified, which basically means international standards of safety. So we I like to say we hired a guy to stand next to the guy that filled out the form to sign a document that said that he saw the other guy fill out.
+Zackary Gilman: The form, right? Yeah. Um
+christophercrandall: So we're you know, we're used to that and you know that's all good. And we're looking forward to getting our cms this stuff in order.
+Zackary Gilman: Well, great. Yeah, that's super helpful background. Sort of like the next steps from here is within that welcome email. The first link was obviously to schedule this call. The second link is gonna be to set up your organization. Have you had a chance to go in there and do that yet? It's fairly fairly quick. It's just kind of a 5 10 minute download there, but no worries if you haven't been able to to get in there and do that yet.
+christophercrandall: Well, I went there and then that's where my question came up.
+Zackary Gilman: That's where your question came up about the different domains.
+christophercrandall: Yes.
+Zackary Gilman: Okay. All right. Let me I
+christophercrandall: Asked me to set it up. And as soon as I was getting into setup, I had to choose things and I didn't want to choose something that would create some sort of a a beginning that we were backing out of for the next 6 months, you know?
+Zackary Gilman: Okay. So rather than doing the because normally we'll do the org setup before you do the onboarding call. But I'll go in after this. I'll make sure to to hit up support see if they can dig out an answer for you. But for you if you're looking to get things started, I would go to that third link. It's the onboarding call. Because their schedule right now might be pretty tight for this week, but should have some openings for next week. I would book some time with our onboarding team. That's an hour long technical call. They'll go over with you the admin console, obviously setting up the PreVeil system. And like I said, I'm gonna try and dig out an answer for you. But worst comes to worse, they'll be able to kind of set set it up there. Get your org set up there on the call. So you're able to
+christophercrandall: Yeah. Let let me just open do you mind if I just open up the link really quickly just to see if because maybe it's maybe I'm just being pedantic about it.
+Zackary Gilman: Yeah. Sure.
+Zackary Gilman: Yeah.
+christophercrandall: Let's see.
+christophercrandall: Yeah. Hey, you got over here before the other guys. 11. Yeah, the other guys are supposed to be here too. I don't know. Do you talk to them both programming or no? Wrong guy? The other guy? Absolutely. Yeah. Yeah, he's gonna see the marketing guy. Yes. Exactly. And the morning. Brian, Harry. Exactly. Okay. Yeah. Thank you so much. How are you doing? Sorry about that. A good.
+Zackary Gilman: Yeah, no worries. But yeah, within that welcome email should actually be the fourth. It says feel free to schedule an onboarding session with our technical support team here.
+christophercrandall: Okay. Okay. You so that's the best path forward. I just just schedule the onboarding.
+Zackary Gilman: Session, yeah. Especially if you're trying to get things done rather quickly, I would get that on the books first because their scheduled can can fill up rather quick. I get that on the books. Like I said, I'm gonna try and dig out an answer for you, but worst comes to worse, they'll be able to address it and kind of set it up for you on that call.
+christophercrandall: Got it. Okay. And
+christophercrandall: Okay. It looks like Monday. Okay. Great. Um
+Zackary Gilman: Awesome. Well, great. Beyond beyond the onboarding just some some resources to mention, it's in that email. But this will all be in a follow up email as well. But you do have compliance at p.com for any compliance related questions as well as support at.com both of those obviously for compliance and support issues. Any technical issues, we obviously are also have a ticketing system for you to be able to submit a ticket, but sending an email to support submits a ticket for it as well.
+Zackary Gilman: And then in terms of the compliance accelerator, you're up you're able to have up to 3 people inside that platform at one time. I can obviously add your email if you'd like to be added it. I could do that right after this call. But you have up to 2 other people or 3 in total. So feel free to to show or share any emails that you'd want to be added to that system as well. I'll be the one great for you.
+christophercrandall: Yeah. And just a point of clarification on that. So because we're going through this transition because we have we basically have 2 users, right? 2 e mails we can use or is it three? It's 3. Okay. Great. Okay. That's not not an issue. Okay. Excellent. Yeah, I just set it up for Wednesday because the other times we're not, they were too late in the day for me. So I'm scheduled for Wednesday with Chris and if anything comes up on the onboarding side between now and then just let me know and I appreciate your help. Do you want me to just email you the emails?
+Zackary Gilman: Yeah. If I've got your email here if you want to be one of them and then the other e mails, the other 2 emails, feel free to just shoot me over an email with those as well as if the e mails don't have a last name. I'll just need a first and last name just to put it into our system.
+christophercrandall: Got it. Okay. I'll send it right now.
+Zackary Gilman: Perfect. And then the only thing else I have on my end is just to schedule a 90 day check in. So I'll probably just schedule it for the first week of April. This time. If the timing doesn't work out for you as it gets closer to it, feel free to change things around. Always happy to to adhere to your schedule. There should be or there will be a reschedule link within that email or within the invite. But just wanna make sure or open it up for questions, want to make sure I've addressed everything. That's kind of my spiel over here, but I want to make sure I've addressed any pressing question. I know obviously of the support one I'll dig on, but any other questions that might have come up?
+christophercrandall: Got it. Okay. Yeah, I think we're good to go for now. And yeah, you'll you'll see my email in a minute with the emails and the names, etc. Perfect. Thanks so much.
+Zackary Gilman: Yeah. No problem. Well, thanks Chris. Let me know if there's anything else I could do in the interim. Have a good one.
+christophercrandall: Take care. Bye. Bye.

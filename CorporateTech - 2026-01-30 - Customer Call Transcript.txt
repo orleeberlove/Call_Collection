@@ -1,0 +1,57 @@
+Account: CorporateTech
+Call Date: 2026-01-30
+Duration: 00:11:16
+Participants: Andrew Meggs, Micah Trafemich, Kaz Rezvan
+
+======================================================================
+
+Andrew Meggs: Hello, Kaz?
+Andrew Meggs: Hi, Andrew. How are you doing? I am doing well. How are you? I'm doing good. Thank you for asking. Is it just you today? Um
+Kaz R: No. It should be. Let me see.
+Kaz R: It needs to be here to
+Kaz R: So
+Kaz R: Sorry, Mike is a different call.
+Kaz R: Let me see if we can transfer a call and join us.
+Andrew Meggs: It sounds like you're breaking up a little bit if you're trying to say something.
+Andrew Meggs: Sounds like it might be from my end. One second.
+Andrew Meggs: No problem.
+Andrew Meggs: Is any better?
+Andrew Meggs: Yeah.
+Andrew Meggs: Okay.
+Andrew Meggs: Let's
+Andrew Meggs: Okay. Yeah. Do you know if anyone else from either all or from magnetic are showing up? Yeah, Micah is
+Kaz R: Is gonna join us. He's just stuck on a previous call taking a little bit longer than expected.
+Andrew Meggs: Okay.
+Andrew Meggs: Sounds good.
+Kaz R: Should be joining us momentarily.
+Andrew Meggs: So
+Andrew Meggs: Like there.
+Andrew Meggs: Hello Micah.
+Andrew Meggs: Hi there.
+Andrew Meggs: Seems like my internet is a little bit wanke on my end. So no, no video for today. But yeah. I appreciate you all taking the time to meet with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call. For not? Sorry, not. I just got off I just got off an intro call. I apologize still on the same script. Yeah, this is mostly supposed to be an informal check in. There's not really like a presentation or anything like that. There's normally a couple of points I like to go over on these, but before I get into it, how are things for a magnetic in in general or with PreVeil?
+Micah Trafemich: We finally got it. All rolled out to all the users and everything like that, but we're still waiting. We need to talk with the CEO of the company. He's one of the members. Sorry, throw. He's one of the members that are on the list. And we wanted to schedule a sit down time where your team can go over with them, how it works, what the what it is, what to do with it and how it integrates in with their email and for the secure data. So that's kind of the only thing is that we got everyone in there, but unfortunately, the CEO was on vacation until just the just last week. He just got back, so from traveling abroad. So
+Micah Trafemich: We do need to schedule a time and I need to talk with him on when that is possible. I don't I'm honestly I'm not even really using PreVeil. So I
+Micah Trafemich: I can't instruct them on how to do what to do or anything like that. So I know that when we originally discussed or when we originally getting it set up, I talked to you guys about getting a informational meeting with the endusers scheduled. And we just need to get that on the books. So I'm waiting to hear back from him on a date and time to get all their users on there, but that's about all I got.
+Andrew Meggs: Sure. Okay. I mean, we do have we do offer I know you all kind of went through the general onboarding with our support team, but they also offer um
+Andrew Meggs: Sorry, one. I also had something in my throat. They also offer like a one off trainings or whatever. So I will share that calendar link with you in a follow up email. And so whenever the whenever they have time to have that meeting, you can find some time on the support team's calendar for that.
+Micah Trafemich: Yeah. And then that way I can go off that calendar and then the company's calendar and figure out a time when everyone can get onto there that way. Like I said, that way somebody could run it through them, what it does, how it does and what they need it for. So
+Andrew Meggs: Sure. Yeah. So that shouldn't be a problem. But I guess I assume you would have mentioned this, but I assume, but I there haven't been any technical issues with using PreVeil to the best of your knowledge or anything like that.
+Micah Trafemich: No. We installed it on everybody's accounts or on everyone's computers that was on the list. Got them kind of situated. And it just kind of a standstill from there because they don't know how to use it or what they need for anything like that. And because like I said, I really don't use PreVeil on my e mail at all. So yeah. Yeah, it's there. But I can't really give them the proper guidance for how to do what they need to do with it.
+Andrew Meggs: Yeah. Okay. Sounds good. And then yeah, honestly, if you know, you haven't used it that much and there haven't been any glaring technical issues there. Aren't there isn't a ton to talk about here? I see that they have 10 users setup in the system they've got 19 licenses, do you anticipate them needing more than 19 licenses down the road?
+Micah Trafemich: I think we're more or less close to where we're gonna end up. We might have a few more added at the different locations based on once they figure out what it's for and what it does. They might say, oh, this person that person. I don't anticipate more than 19 though.
+Andrew Meggs: Personally. Sure. Okay. So so really the 19 was more for wiggle room, if anything else?
+Micah Trafemich: I think it is. I don't know if it's ever going to go above that, but from what they may sound like, I don't believe so.
+Andrew Meggs: Okay. Yeah, that makes sense. Yeah, I mean, was there anything you wanted to go over and talk about besides scheduling that I guess training meeting?
+Micah Trafemich: No. I like I said I really don't don't use it. So. I haven't had a chance to tinker in there and find any questions that I would need to ask on. It's really just a matter of getting the users up and running on it and making sure they understand it from there. That's about the only thing I got.
+Andrew Meggs: Okay. And then, yeah. Well, I don't wanna waste anybody's time here. I will send this link over and you have my contact information. So in in the future, if you do have any questions or if you need anything where to find me.
+Micah Trafemich: Okay. I'm trying to remember, I know that when we originally talked, there was one issue with installing it on a terminal server. Did you guys I never heard back on that one? Did you guys ever look into that or anything?
+Andrew Meggs: Installing PreVeil on a terminal server. I do have a note here that I looked into it. I don't recall off hand what they got back. I'd have to find what their answer was. I'm sorry.
+Micah Trafemich: I never heard back and I don't know what was going on. Because I know that I was trying to install it instead of on my laptop onto the server because that's where I'd be using it for administrative purposes. And we were having that issue. You were gonna look into it and I'd still like to get it put up on there instead of just sitting on my laptop. But that way when I'm there if I'm on another computer, I can still access it and everything like that. Um
+Micah Trafemich: But that's kind of the only thing that I remember having on my docket for questions in regards.
+Andrew Meggs: Yeah. I'll have to I apologize for I have to go look what they got back to me with. I apologize for not following up with you at that time. But yeah, I'll sorry about that. I'll do that right now after this call.
+Micah Trafemich: Okay. Yeah, that's about the only thing. I got a do you have anything
+Kaz R: No. I'm good. Thank you.
+Andrew Meggs: Okay. Well, I will follow up with this and I will let you know as soon as I hear back regarding the terminal server. I will send this link over to the support teams calendar for a training session and yeah, if you need anything else in the meantime, let me know.
+Micah Trafemich: All right. Sounds good. Thank you very much. Yeah.
+Andrew Meggs: Thank you all for your time and hope you'll have a great rest of your day and a great weekend.
+Micah Trafemich: Doing well. Thank you. Bye. Bye.

@@ -1,0 +1,107 @@
+Account: Aeroforce Logistics
+Call Date: 2026-01-15
+Duration: 00:21:37
+Participants: Andrew Meggs, Heather Varney, Klevin Nebiaj
+
+======================================================================
+
+Heather Varney: So
+Heather Varney: Good. How are you doing?
+Andrew Meggs: I am hello. Doing Andrew well, Andrew? Hello. Hello, Heather? How are is you that Kevin?
+Heather Varney: Yeah. Yeah. Me and Klevin or in my office instead of the yeah. Instead of the conference room to make it easier. Sorry, camera is a little weird here.
+Andrew Meggs: That's okay. Um
+Andrew Meggs: Yeah. I appreciate you all taking the time to meet with me. I know you'll have some questions about adding people to PreVeil and PreVeil express accounts and stuff. So how can I help?
+Heather Varney: So
+Heather Varney: Right now, we have a supplier that uploads documents UN PreVeil that is being used primarily by the warehouse. The warehouse did have access in the past, however they lost their phones so they can get the account again. When we tried when they tried inviting them again, we were no longer able to do it. And then when I tried on my end to have them embed in, PreVeil express it was blocking me which based on the email that we're going back and forth, you said it was because of the domain. Now, the issue is that our warehouse department doesn't need access to PreVeil to share data. It's more for them to receive data from our suppliers. That's why I was like, it didn't really make sense for us to have an account just for them if it's only for sharing for receiving purposes instead of like sharing and receiving. Yeah, they're basically just viewing pictures on them as a quality inspection. That's it.
+Andrew Meggs: Yeah. Are these pictures what are they? you don't have to say exactly what they are, but is it like sensitive information?
+Andrew Meggs: Or anything
+Heather Varney: It's something that we can't share via email. Yeah.
+Andrew Meggs: Okay. The
+Andrew Meggs: The issue is regardless of if they are sharing it themselves or just viewing it, they would need to have a compliant account to do that. So PreVeil express accounts if they were to have a
+Andrew Meggs: Floater account or their own random account. That's not part of your admin organization that would not be a compliant account because it wouldn't you wouldn't be able to pull their logs in and audit their logs. So even if they're just viewing the data, they would still need a full account under administrative review in order to to stay compliant.
+Heather Varney: Compliant with what is this for cyber security?
+Andrew Meggs: Or for well, that's why I was asking what kind of stuff or let's take a couple of stuff back. Is Air Force Logistics wanting to be or needing to be CMC level 2 compliant.
+Heather Varney: Yes.
+Andrew Meggs: Okay. So yes. Compliant with CMC level 2 standards.
+Heather Varney: Oh, okay. Okay. Gotcha.
+Andrew Meggs: So and this is this next part is
+Andrew Meggs: Some of these rules are somewhat arbitrary, but basically the per the regulations, even just viewing UI counts is processing it. So anyone that does that needs to have a full secure account that their endpoints are in scope. So even if yeah, even if they're not personally sharing it out, they would still need to have a secure compliant. Can
+Heather Varney: Makes sense. Okay. And I know that right now, the way that PreVeil is structured is that you have your admin and then you have your user. And then if you want to add additional users, you pay monthly. Now, do you guys
+Andrew Meggs: Not really how it works. But okay.
+Heather Varney: Oh, tell us how it works.
+Andrew Meggs: Well, it's not if you want to add users, it's a it's not pay monthly. You would just email me and say, hey, can I add a user? And then I would put together an order form for however many extra users you needed co termed with however many months left in your subscription.
+Heather Varney: Okay. But it's still a an additional charge. Yeah, what he say.
+Andrew Meggs: Yeah. Yeah, yeah. I guess maybe I misunderstood what you were saying. But yeah, there's no I guess what I'm saying is that it's maybe more in elegant than you think it is. It's there's no automatic billing process or anything like that. It's all still manual.
+Heather Varney: Out. Oh, gotcha. Yeah. Yeah. Okay. Got it. I mean do you guys offer some type of like like a package, yeah, like an account or something like that? Where it's like from if you have from one to, let's say 5 people is this amount if you have from one to ten, is this people?
+Andrew Meggs: Yeah. You actually, kind of already have our package discount and the PreVeil pass which is the 3 users and the compliance accelerator where it's all bundled together for a discount in terms of bulk discounts of licenses. That only occurs if you were looking to add 30 plus licenses.
+Heather Varney: Okay. Okay. All right. That makes sense. Okay. So then we would have to just email how many additional is it just max? We'll figure it out because I'm like it's not like it's being used all the time and that's why I was going back and forth to because it's not like it's a daily process. It's like maybe once a week that they have to that they would have need to go under because right now I'm just doing it through my account. So I'm running for them and then I'm sharing it over or putting it in our drive. That was the only thing because I'm like if it was a daily operation, it would make sense. Yeah, but it's like here and there. Sure. That's why I was trying to figure out how it works and it generally makes sense in my head that somebody for viewing would need full access to PreVeil.
+Andrew Meggs: Okay. Yeah. And unfortunately, the way the system is set up. There's not a way it's basically all or nothing. There's not a way to have it be a view only account or anything.
+Heather Varney: So that makes sense. But what was weird because it's like the warehouse had set up an account with PreVeil express prior to Air Force. Having a full access to PreVeil and they were able to keep access to PreVeil express until they lost their they changed their number. So even though airforce had a full PreVeil account the warehouse department still had access to PreVeil express it only cause an issue when we're trying to create a new one. So it's like for existing accounts, it looked like it worked fine.
+Andrew Meggs: Yeah, I do see that. There are actually 2 express accounts with the at Air Force. Logistics.com email domain there is a max be key at at this warehouse at Air Force, Logistics.com email address and a Matthew quay with an express account as well. So basically, if someone had made an express account before you purchase PreVeil those it's not like we delete those accounts, they still exist. But if those people are handling UI in any way, shape or form, they need to be sub some into your organization. Because as previously mentioned, those accounts aren't CC compliant accounts.
+Heather Varney: Got it. Okay. Okay.
+Heather Varney: All right. That makes sense. It's just like I wanted to clarify all or
+Andrew Meggs: Let me take a couple of steps back. You're the client and you don't have to if you don't want to. You can do anything you want. But just as a heads up those client those accounts aren't CMC compliant. So
+Heather Varney: That makes that to know. Heather did you want to talk to him about, mm? No. I'm pretty sure I know Nick was supposedly supposed to be handling the SMS stuff, but I don't see any activity. Have you heard from Nick at all? Or do you have any activity that anything is being worked on with that?
+Andrew Meggs: Let me see I
+Andrew Meggs: Um
+Heather Varney: Just curious before I like reach out or go through it's just convenient while we have you here. He's actually in Hawaii on a mission for a few weeks. So
+Andrew Meggs: Yeah. I mean, I can see that. He has an account in our compliance accelerator, which is the documentation and the the cms walk through, but I can't see if he's actually downloaded anything or anything like that.
+Heather Varney: We'll just ask him when he gets back. No big deal. And then for that can anybody can Heather also do it or is it only Nick, the one responsible to action and do things on the compliance side?
+Andrew Meggs: Sure. So Heather actually technically already has an account. I added her when you all first started. If you want to go in there and start going through that stuff, you certainly can. But you can have you can also have up to 3 people in there as well and they don't have to be the same people that are in PreVeil. So because it's a separate site, it's a separate
+Heather Varney: Is it? So this is what we would be accessing is all learning information or things we need to set up in order to start being working towards the CMC level 2.
+Andrew Meggs: Both of those things. Okay. It might make sense if I just show you what I'm talking about. Okay. So so basically, we've done it's a video doc series on CMC compliance where we've taken a fake company and we have walked it all the way through compliance from from 0 to 110. And then there's all these steps. And then in each of these steps, there is a video going over that step. And then beneath that step is all the relevant and sundry documentation templates that you'll need to accomplish that step.
+Heather Varney: Okay. Gotcha.
+Andrew Meggs: Okay. So nominally, if you were to go through all of these steps and do everything it says to do, you would be prepared for an assessment by the end?
+Heather Varney: Okay. Got you. Now, let me ask you this question. I just have a quick question. What if I have our it company that doesn't currently do stuff like this? But like, what if I say you know what, I'm gonna pay them as a consultant to go through this. Could I add their name in the one of the user user people on here?
+Andrew Meggs: Sure. I mean, you would need to involve an it person in this anyways because some of this documentation would need to be filled out with someone who is familiar with your like, network infrastructure and stuff. You can either add them or I mean, all this stuff is download able. And you would need to download the documentation templates to to edit them locally anyways. So if you wanted to just download everything and share it with them you could or if you wanted to to add them to this, you could whatever your preference. Okay.
+Heather Varney: So it's up to us so okay. I could see maybe why Nick was saying he'd leave it up because he'd probably go through, read it and then share with it what he needs to do and do part of it. So I got okay. Yeah. I'm gonna talk to him when he gets back because if he can't hit the goal was he said we were gonna have it be at level 2 by August. But I just want to make sure it's getting worked on because if he's not working on it. I don't want to start working on it in August, like start ahead of time because it's a lot.
+Andrew Meggs: Yeah. So depending on where you're at, I mean going through all this and some of these documentation, some of these documents are quite long. The SP is, I think well over 100 pages long to take quite a bit of time to fill out. So if he's if the goal is August and that hasn't been started on yet, that would need to get started on pretty much immediately. Okay. That's no pressure though.
+Heather Varney: No. No. I need to hear this. I need to hear the Andrew. Yeah. Um
+Andrew Meggs: And then
+Andrew Meggs: I also wanted to mention that in case you didn't already know with this also comes access to our own internal compliance team. If you have any questions or anything about the documentation or about compliance in general they're available at compliance at PreVeil.com. And then also in this additional compliance resources page, there's a direct link to their calendar. So if you want to schedule a meeting with them, you can
+Heather Varney: Okay. Okay. So now, I don't know if you would happen to or if you have any examples, but for example Aeroforce was we got 1 10 of the nest 800 the self certify portion, you know. So now jumping from that to cms level, two how much work does it typically take? Like is it going to be a very lengthy process or is it going to be somewhat easy error?
+Andrew Meggs: That's really hard for me to say without knowing more about your setup. If you, for instance, if you already have a firewall and like, bit locker and single sign or multi factor authentication on your devices and already have all the physical security and everything in place, then. Yeah. I mean, things will be easier because then you don't have to go do those things. You already have all that stuff set up. If you already have an SP written, if you already have some of this stuff already written, it'll be much faster. And then it also depends obviously, on on how many who's working on this and if this is their one job versus if they're wearing multiple hats or whatever. Yeah.
+Heather Varney: Okay. Just like I was wondering because with a government getting stricter and wanting companies to be level 2 or level one level 2 by end of November of this year or September, whatever it is, I don't remember November.
+Andrew Meggs: I think it's November.
+Heather Varney: Yeah. I know. And then so right now the way that your setup works on the cms, is that for self certify or would it be ready and audit able by a third party as well?
+Andrew Meggs: The idea behind the accelerator is that you would be ready for an actual third party assessment. Okay. By 3. And then kind of on that note if August is what you're shooting for. Off hand a lot of these assessors are already booked out several months in advance. If you have a specific date you're looking for. You may want to consider maybe not right now. But once you get a little bit better grasp of where you're at in the process, you may want to consider starting to to shop around for one of those.
+Heather Varney: So how do you is there a list of these auditors that you can go and choose from to go? Find them?
+Andrew Meggs: We have a well, no, not not every single one of them, but we I mean, we have partners that we work with. We have like a partner list of ones that are already familiar with PreVeil. Okay. That I can.
+Heather Varney: Provide, okay. We don't have to somehow track we can just basically use your recommendations. We don't
+Andrew Meggs: You don't have to. I mean if you want to do your own research and you know, google C 3 PO near me, you could. But I mean, we would recommend even if you didn't use one of our partners, making sure that they're already familiar with PreVeil before you chose them. Because it just prevents a lot of questions being asked. But but obviously, we would recommend the ones that are our partners because they're usually more amenable to people using PreVeil and are more much more familiar with how our system works. So that way they don't ask any questions, they already know the
+Heather Varney: Okay. That makes sense. And do you have a list of those people or is that something that we would be getting once we're ready to be audit it?
+Andrew Meggs: I have a list. It's just on our website of our partner network. And I can share it in a follow up email. And then when you're actually ready to start looking we do have a partner compliance team. They are a subsection of the compliance team that if you wanted specific recommendations for your company and your location, we'd be able to provide those recommendations.
+Heather Varney: Okay. Got it. All right. I mean, that makes sense. So more things for Heather to do, yeah. Or stay on top of I should say
+Andrew Meggs: Sure. Well, hopefully this person already has it all done and you know, it's all wrapped up in a nice.
+Heather Varney: I'm pretty sure they don't.
+Andrew Meggs: Hook springs internal, but anyhow. So does that answer most of the questions you wanted to go over?
+Heather Varney: Yeah. I mean, what is SSP
+Andrew Meggs: System security plan.
+Heather Varney: Okay. Yeah, that Paul put one together. We had a gentleman here that put it together previously for this 8 hundred, but I think we're gonna just basically hand that over so they can see what we already have and make it a little bit more understandable.
+Andrew Meggs: Sure. Makes sense.
+Heather Varney: And I know, yeah, because we have the 2 factor and this and that. So
+Andrew Meggs: Yeah.
+Heather Varney: Sounds like I planned on.
+Andrew Meggs: Yeah. If you're already self assessed for an estate 100 at 110 of 110, frankly, I mean, you are a lot of it sounds like you're all out of the way there. Obviously, I don't know the specifics of your situation, but that's pretty far ahead. So theoretically August should be a fine time. What fine goal time for. But um
+Heather Varney: Well, I mean, when it came in picture, I know Heather and Nick invested a lot of money in that and being ready. So yeah.
+Andrew Meggs: So so we have our own SP and the accelerator that that if you want to go into and compare to what you already have written and see either if you want to copy and paste what we have into yours or what you've got into ours. That's in the step 6 documentation is the step that SP is in. Okay. But yeah, I will send just kind of a general overview of what we were talking about in a follow up email and including a link to the accelerator and the link to our CSC 3 PO it's hard to say.
+Heather Varney: I hate it.
+Andrew Meggs: Assessor assessor our assessor network. I'll just
+Heather Varney: Star wars, when you
+Andrew Meggs: Say yeah. I know. It's so dumb. I absolutely. I hate all these acronyms. Oh, I was a defense on. I've worked for it for a while. Back in the day when I lived in DC and I just hated all these acronyms. It's just and I'm back at it again and it's like, what are they doing? But anyway and if you do need any additional licenses or anything like that you can just respond to that email with how many you need and I can put together an order form.
+Heather Varney: Okay. Okay. Yeah. What's the acronym that you said g_d? What who is the company?
+Andrew Meggs: General dynamics, information technology.
+Heather Varney: I was like I think you said, general dynamics. Okay. The idea I didn't go
+Andrew Meggs: Well, yeah. It's technically a different. There's general dynamics and there's general dynamics information technology, which is like a that. They differentiate for some reason, but no, I was I worked for the I was a contractor myself back in the day and lived in
+Heather Varney: And I now I see why the y fit so good and understand things.
+Andrew Meggs: Yeah.
+Andrew Meggs: Yeah, I lived in Arlington for like 5 years. But how it is you meet a girl. She she lowers you up to the Andrew and then now I'm shuffling snow. 24-7 Minnesota now. So
+Heather Varney: We're at Minnesota.
+Andrew Meggs: I live in St, Paul. If you're familiar at
+Heather Varney: All I am. Well, my parents just moved to delete.
+Andrew Meggs: Oh.
+Andrew Meggs: I mean, it's dilute is beautiful, but it's
+Andrew Meggs: So cold, yeah. Yeah, terrible. But anyhow, I appreciate you all taking the time to meet with me. Hopefully this cleared cleared up the questions you had. And as I was saying, if you do have any more compliance related questions, or if you wanted to run run what you have already in place by our compliance team to to see they'd be able to give you a better answer or more intelligent answer about like, what else you might need or next steps you might need to go through. Like I was saying they're available through that link in the accelerator and yeah, and as pretty usual, you have my contact info. So if you're not sure to talk to or if you need anything else, definitely don't hesitate to reach out. Let me know.
+Heather Varney: Okay. Thank you.
+Andrew Meggs: Thanks Andrew. Thank you. Yeah, you'll have a good one.
+Andrew Meggs: Bye.

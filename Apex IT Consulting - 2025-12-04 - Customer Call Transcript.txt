@@ -1,0 +1,247 @@
+Account: Apex IT Consulting
+Call Date: 2025-12-04
+Duration: 00:31:50
+Participants: Emily deBettencourt, Gary Russo
+
+======================================================================
+
+Emily deBettencourt: So how are you today?
+Gary Russo: Emily. Hi, it's Gary.
+Emily deBettencourt: Hi, can you hear me okay?
+Gary Russo: Are you great, how are you?
+Emily deBettencourt: I'm hi, doing Gary, well, how are you?
+Gary Russo: Doing well.
+Gary Russo: Thank you for taking the time to to meet with us.
+Emily deBettencourt: Yeah. Sorry about the delay. I was out of the office and oh
+Gary Russo: No, no. Sweat at all. I felt like I was reaching out. I was like I probably should reach out to support, but I don't even know how to get a hold of support. So
+Emily deBettencourt: Oh, you don't okay. Support at PreVeil.com.
+Gary Russo: That makes sense.
+Emily deBettencourt: You can also file a ticket on our website. I'm gonna send you that because I wanted to go through that with you today, anyway. Um
+Emily deBettencourt: I send you a couple of things. Okay. So
+Gary Russo: Steve Tucker Chad's replacement will be joining us any moment here he was running a couple of minutes late okay but maybe just to update you I mean I don't know if it matters but just so that you know who in the world I am yeah I'm the owner of Apex IT we're a managed service provider and we provide IT services to several trans time businesses trans time is the corporate kind of parent of these arrows space companies they are mostly all in scope for cms and you know PreVeil obviously being a very popular solution for CMC compliance I was the one that got in touch with and I can't remember his last name but Eric was the sales person that I spoke with and you know I vetted out the PreVeil kind of product with Eric I got the quote from him we got you know we got airborne bought the licenses and we moved forward and then I handed it off to Chad parkerson who was um, really the team lead on our side for deploying it at airborne and long story short chat is no longer with us so I've just got to get myself and Steve up to speed with implementing this at airborne but anyways I just wanted to make sure that you have that context
+Emily deBettencourt: Yeah. Thank you for that. And we can wait for him to join us before we jump into things. But what I will say is that I cannot personally add anybody to the airborne account. A current admin has to do that. So I don't know if you're set up as an admin on their account or if only Chad was. Do you know that by chance?
+Gary Russo: So we keep all of our credentials in a system called IT glue, but it's a very secure, like password management system. Okay. I'm not seeing anything in there for PreVeil.
+Emily deBettencourt: And yeah, PreVeil doesn't have passwords.
+Gary Russo: Oh, okay. Is it like single sign on with Microsoft or something?
+Emily deBettencourt: No, no. Single sign on. It's the keys. So you have to have everything. You have to have a PreVeil instance downloaded to your device. Um
+Emily deBettencourt: Yeah. That's what makes PreVeil unique. We don't have passwords. We don't support single sign on for that reason. It's what makes it very secure. PreVeil support can go through the ins and outs of this with you. I can check from my side to see who is set up as an admin. Let me see here. Give me a second. Hi, Steve.
+Emily deBettencourt: Hello, thanks for joining us.
+Emily deBettencourt: Let's see. Yeah, we
+Gary Russo: Will there
+Gary Russo: I we've got
+Gary Russo: Yeah. I'm just gonna need to know how to get in. Yeah, there are some
+Gary Russo: There are some PreVeil device. There's PreVeil installed on a couple of devices at airborne, very few. But I know that I believe that there's AVM that chat and Landon were using to do the initial kind of the data push and kind of at least to get some test files out in PreVeil. So hopefully that would be a pathway in for us. But I just yeah.
+Emily deBettencourt: Unfortunately, this is not something I'm gonna be able to help you with. It looks like you have Apex dot IT setup as good. An account within airborne.
+Gary Russo: That's good. Um
+Emily deBettencourt: Let's see.
+Emily deBettencourt: They are the admin Apex dot IT at airborne sis.com.
+Gary Russo: Okay. If we needed to and I don't I know you may or may not know the details on this, but like, if we needed to
+Emily deBettencourt: We don't yeah. We don't recommend that for the record. Using like a
+Gary Russo: Shared.
+Emily deBettencourt: E mail address like that because it does create some problems. We don't know necessarily whose device that's on we can check all of that. Long story short, I'm not gonna be able to help you get in today, because
+Gary Russo: That's fine. That's
+Emily deBettencourt: Something you're gonna have to help get help from our support team on especially if you're using a virtual machine or something like that to to access PreVeil or if that's how Chad was doing things. But it sounds like you're gonna need to um
+Emily deBettencourt: Basically have a re onboarding for yourself and Steve sort through users. Um
+Emily deBettencourt: Deleting Chad, setting up new admins, creating new approval groups, that sort of thing. So it looks like you're scheduled with Chris, Vinita from our team next week and he can go through all of this with you. Um
+Emily deBettencourt: Dang. I wish I could see. I wish you were at least set up as an admin because then we could go in there on your device. Have you ever been into the PreVeil system for airborne?
+Gary Russo: I have no.
+Emily deBettencourt: Okay. Okay. Um
+Emily deBettencourt: Yeah. So no worries. I would say that most of your
+Emily deBettencourt: Questions about how to gain access and set things up appropriately. Now, that he's no longer with you are gonna have to wait until you meet with our support team. Yeah. If you want you can email back and forth with them. It looks like you're scheduled on the eighth, but if you want to email questions to support or submit a ticket, they might be able to help you start the process prior to your meeting. Or since I can see that you're scheduled with Chris, you could just email Chris directly to and just kind of say like, hey, ahead of the call. Yeah, I can do it for you. I can what I can do is actually email Chris and just say, hey, I met with Gary and Steve today ahead of the call next week on the eighth here's what's going on. Here's what they need help with and then perhaps you could get a few of the pieces started in advance.
+Gary Russo: Probably help our make our call more productive.
+Emily deBettencourt: Yeah, I'll do that for you guys today and get you introduced to to Chris. As far as a general training or overview. I've got a really we put together some new videos. Um
+Emily deBettencourt: That are great, actually. So just an overview of PreVeil drive an overview of PreVeil, email. I'm gonna put those I would recommend that both you and Steve watch those. They're not long. This will just kind of give you a
+Emily deBettencourt: Quick intro to everything.
+Gary Russo: Okay. You put those in the chat? I see?
+Emily deBettencourt: Yeah. I'm putting column. Let's see.
+Gary Russo: I think I put that this might have been the I watched a couple also that you had e mailed to Chad.
+Emily deBettencourt: These are new. So probably not the same ones, but it's the last 2 links. So check those out. I'll send an email to Chris Vinita to get you guys acquainted and kind of outline what's going on with you guys. Um
+Emily deBettencourt: Let me check. One other thing I already updated the contacts. So that Chad is no longer listed as part of the account. I wanna check this as well.
+Emily deBettencourt: Are you guys using the um
+Emily deBettencourt: Compliance accelerator program. Yeah, it looks like you've got the compliance accelerator program or they do
+Gary Russo: What is that? Sorry?
+Emily deBettencourt: Yeah. No problem. So so it looks like as part of your original purchase the compliance accelerator was purchased. So obviously you purchased PreVeil and our email and drive platform with licenses for that. We also in house here at PreVeil, we've developed a program that we call the compliance accelerator program. And that is to help people get ready and prepared for cms level to assessments.
+Emily deBettencourt: Okay. It's something that exists separately from the platform. It has a separate login. That is all of the documentation you're gonna need to prepare for airborne their SP, their policies standard operating procedures examples there that they can re purpose and use for their own compliance journey. So let me ask you this, are you guys helping them with that piece?
+Gary Russo: We are
+Emily deBettencourt: Okay. I assume.
+Gary Russo: Our focus is, of course on the technical controls.
+Gary Russo: But yes. We're very involved in their cms process.
+Emily deBettencourt: Okay. The only 2 I have set up for our accelerator program are chat and Landon. I'm going to delete them as users right now, since they're no longer with you.
+Emily deBettencourt: And I'm gonna instead add the 2 of you and this is something we can go through today. Because obviously PreVeil is a piece of this puzzle and it's gonna check a lot of the boxes for you or for airborne rather. But I assume you're preparing all of their documentation and getting things set up for them. So this is the program that you're gonna use for that side of things. Okay.
+Emily deBettencourt: I'm gonna set both of you up. Right now you're gonna get an auto generated e mail to log in.
+Emily deBettencourt: Again, this is separate from the PreVeil email and drive platform, which has no passwords. And you're gonna have to go through with our support team. Let me just put this info in here. Give me one second.
+Emily deBettencourt: All right. Gary just set you up.
+Emily deBettencourt: Give me
+Emily deBettencourt: A second here to set you up Steve.
+Emily deBettencourt: Yeah. It's always tricky when people leave because you have to have a current admin on the PreVeil system.
+Emily deBettencourt: Add edit or delete users. So if your only admin leaves um
+Emily deBettencourt: It can get a little tricky. We always recommend having at least 3 so Chad and Landon were the admins and you've never logged in. Yeah. We'll want to get you set up for sure to avoid this in the future.
+Emily deBettencourt: Okay.
+Gary Russo: On trust. And then
+Emily deBettencourt: Gotten an email yet.
+Gary Russo: Let me check.
+Gary Russo: Not yet.
+Gary Russo: Let me check junk.
+Emily deBettencourt: It might take a minute. Um
+Emily deBettencourt: And I can share my screen here in a second and show you what it is.
+Emily deBettencourt: All right. Let me share my screen.
+Emily deBettencourt: All right. Can you see my screen here, okay? When you do get that email and get set up and log in here, this is what you'll see. So again, this is content that per bail has created to help our customers get cms level 2 certified. So we realized along the way, right? That most people were purchasing PreVeil to secure UI and become cms level 2 certified or missed 871. We're getting lots of questions about that and we eventually created our own compliance team here in house and developed this program. So it compliments PreVeil, very nicely. Now, of course, not all of our customers are using PreVeil. For seem of the a lot of people are just interested in securing things and encrypted for different reasons. But if you are and it sounds like airborne is, this is going to help you through that process. So a lot of people also don't know where to start with this. So we've created everything that you might want to know or need to know. Um and we put it together in 10 easy steps, right? And I say 10 easy steps, kind of lightly. But this is really great content that's gonna walk you through everything. It's gonna provide you with all of the documentation that you might need to.
+Emily deBettencourt: Prepare. So, for example, you're going to need a system security plan for airborne. I don't know if you've already started that or not, but here's a template that you can download and re purpose for airborne. Um
+Emily deBettencourt: Along with all kinds of other good stuff. So here are the files that you can use. I have a video that walks through
+Emily deBettencourt: This program and tells you exactly kind of what it is and where to start and all of that. I'm gonna send it your way as well, but you should have access to that momentarily. Okay. When you get the email this is the piece that you can get started with now. I'm gonna introduce you to Chris Vinita over email. Since I can see that you're scheduled with him. He'll help you sort out the actual PreVeil organization for airborne systems and take a look at who's currently an admin and help you access it. Um
+Emily deBettencourt: Since you have that shared e mail address setup.
+Emily deBettencourt: You'll probably have some luck with him getting into the system and getting things reconfigured. I'll let him know about that. And then yeah. What other questions can I answer for you guys?
+SteveTucker: Emily, I've just got a quick one here. So I got onto AVM that they use I don't know which whether it was chat or landed, but there was a PreVeil so on the desktop. Great, it takes me to the local machine, that's a 127001 and it says create a new account or add an existing account or my options.
+Emily deBettencourt: Oh, you're awesome. Do you want to share screen?
+SteveTucker: Actually yeah. Let me yeah.
+SteveTucker: Let me
+SteveTucker: Do
+Gary Russo: You have to be in as one of I just sent you actually. Steve their their network credentials in case you need it, but Emily, do you know if do do we have to be logged in under their profile?
+Emily deBettencourt: Let's take a look here. Okay. Let me see here.
+Emily deBettencourt: Um
+Gary Russo: I'm thinking that we may need to this is VM one. Yeah, I saw that. It's installed on VM one and VM 2 Steve from what team showed me.
+SteveTucker: And alpha, yeah.
+Gary Russo: Yeah. VM one and VM 2. Um
+Emily deBettencourt: Maybe try the other one with this one. You're going to need. Um
+Emily deBettencourt: If you want to add an account
+Gary Russo: Oh, no. It's Omega VM 1 and 2. But um
+Gary Russo: Anyways. I was wondering we may need to go in under chatter Landon's ad account. I'm I'm suspecting, but I don't really know.
+SteveTucker: So you don't. So on this one, I mean, this obviously didn't go out to the cloud portal. This is that's right. It's talking to itself. So
+SteveTucker: So that's not gonna get us anywhere, right?
+Emily deBettencourt: Because you're gonna need a key to get in there.
+SteveTucker: So should I sign in as
+Gary Russo: I would sign in. It's a
+Emily deBettencourt: Oh, sorry.
+Gary Russo: I just sent you the credentials for IT Steve.
+SteveTucker: Do you know what his username was on?
+Gary Russo: Chad dot harkin.
+SteveTucker: On the um
+SteveTucker: In the barn ad. Yeah, Chad. Probably it's I think it's not charges on.
+Gary Russo: I believe it's Chad dot harks on.
+SteveTucker: And uh
+Gary Russo: And use the daily driver that I just sent you.
+SteveTucker: Were gonna do this thing.
+SteveTucker: Welcome to the land of beyond trust.
+SteveTucker: Over here and drop it into
+SteveTucker: The clipboard.
+Gary Russo: So
+Gary Russo: Okay.
+Gary Russo: Emily, thanks. Again for making sense of this for us. I yeah, absolutely. This is a very critical piece of yeah, at airborne. And it's it became a knowledge gap pretty quickly.
+Emily deBettencourt: Yeah. Yeah. We'll want to get you up to speed. Um
+Emily deBettencourt: I'm glad you're meeting with Chris and he's very well versed in everything here. So he'll be able to to see. Um
+Gary Russo: We're in good hands.
+Emily deBettencourt: Um
+Gary Russo: It's good to know.
+Emily deBettencourt: Not that the other guys aren't but he's been here for a long time.
+Gary Russo: So yeah. Well, good.
+Gary Russo: I'm not sure why, but I still haven't seen that email come through, but
+Emily deBettencourt: It takes a minute. You can always go to the website and do like a password reset process to get in right away, but you may just want to wait
+Gary Russo: Okay.
+SteveTucker: Yeah. I don't have anything either. So this email should come from home.
+Emily deBettencourt: It will come from it's an auto generated e mail from um
+Emily deBettencourt: Our talent LMS system. So it's an at talent LMS domain, I believe.
+Emily deBettencourt: It will come from no reply at talent lms.com.
+SteveTucker: To do anything, yeah.
+SteveTucker: No. I do the same thing.
+Gary Russo: Hopefully it's a
+Gary Russo: Different.
+Emily deBettencourt: There we go. Perfect.
+Emily deBettencourt: Yeah. Okay. So now go to admin, please.
+Emily deBettencourt: I only see these 2 users setup. Um
+Emily deBettencourt: You're gonna want to add yourselves. So go to the plus sign.
+Gary Russo: Hey, Steve, I hate to leave you guys, but I got to jump off. I'm gonna let you guys finish up, but Emily, thank you so much. I appreciate you.
+Emily deBettencourt: Yeah, of course. I'm gonna have him set you up so you're gonna get an email to get started. All right?
+Gary Russo: You're awesome. Thank you.
+Emily deBettencourt: Yeah, thank you. Have a good.
+Gary Russo: Day, you too.
+Emily deBettencourt: Do an email.
+SteveTucker: So so
+SteveTucker: We want to use the airborne email, not our Apex email. It sounds like, right?
+Emily deBettencourt: That's up to you. You yeah. Whichever e mail address you want to use to log in here.
+SteveTucker: Looks like it looks like they were using their airborne e mail. Okay.
+SteveTucker: All right. We'll just do that. Okay. So
+SteveTucker: Upload no, right. Create an account.
+SteveTucker: And then
+SteveTucker: We want to do the same thing with Gary. Yeah.
+SteveTucker: With him, he may just want I don't know that he uses that airborne.
+SteveTucker: Account. Let's see. Let me just do him as
+SteveTucker: Pretty sure it's just Gary and not Gary dot us. Um
+SteveTucker: I don't know. What departments are you
+Emily deBettencourt: You guys use internally? It's not yeah. You can just you can skip it, I believe.
+SteveTucker: All right. Let's go you know, let me take a look at something quickly here.
+SteveTucker: Just let's just see what things from him look like.
+SteveTucker: Oh, it's so
+SteveTucker: Interesting.
+SteveTucker: Everybody else is just the first name, but he's got
+SteveTucker: Here, so all right.
+SteveTucker: Let's do that.
+SteveTucker: All right. So now do I need to your accountants attention?
+SteveTucker: What's that? It says my account needs attention, but it's teams that's complaining about that.
+Emily deBettencourt: Okay. Okay. I don't know who Judy brashers is. We'll leave that one alone. You're gonna
+SteveTucker: See, she's actually one of the users at airborne who's gonna be using the system. There's another there's someone else that we need to add to, but we'll talk about that, I guess
+Emily deBettencourt: Great. Well, I'm glad you can get in. I'm gonna say let's stop here. I do want you guys to to set up recovery groups and approval groups, but I'll have you do that with Chris because he might want to do some stuff with the Apex dot IT at airforce.com email. Um
+Emily deBettencourt: Let's stop here. You're gonna get an invite to join PreVeil to join the airborne systems or set set everything up for yourself. It's pretty self explanatory. You're also welcome to watch those videos that are gonna give you a good overview of PreVeil email and PreVeil drive. So just how to navigate things and work you right around. Um
+Emily deBettencourt: I think that's a good place to start for today. Go ahead and get logged into the accelerator, take a look at that stuff. I'm gonna follow up with you guys after you meet with Chris and on the eighth as well. And we'll go from there.
+SteveTucker: Okay. I should see that email coming into that email address and then is there anything in particular that I need to
+SteveTucker: But I need to to do with that. Is it gonna be pretty self explanatory?
+Emily deBettencourt: It's self explanatory. Yeah, you'll be able to work through it easy. It's gonna ask you to install PreVeil on your device.
+SteveTucker: Oh, okay.
+SteveTucker: At this point and that requires admin permissions, correct?
+Emily deBettencourt: I don't know how you guys have it set up at Apex, but probably I think that's how you guys have things set up there.
+SteveTucker: Well, I think that in the documentation I saw in in order to install your application, I think you have to be an admin.
+SteveTucker: On the machine.
+SteveTucker: Um
+Emily deBettencourt: I don't know about your machines, but you do not have to be an admin within PreVeil to install PreVeil on your device if you've been invited.
+SteveTucker: It's the yeah, it's the machine itself that needs that. Okay. This machine this is my first day in the office. So this okay. I'm not an administrator yet on this. I just have my standard user account. So I got to
+SteveTucker: Work work through that. I won't be able to install any software on it, but uh
+Emily deBettencourt: Okay.
+SteveTucker: Just see here. So I don't want
+SteveTucker: My goodness.
+SteveTucker: It's a
+SteveTucker: Microsoft is being Microsoft asking to look at all kinds of things. Okay. So here's here's the email we received.
+SteveTucker: So if I click on this, is it gonna need me to install the software immediately? Or is this is there
+Emily deBettencourt: I don't know about it immediately. You can always go back to this if you need to.
+SteveTucker: Let's just see what it does here.
+SteveTucker: So uh
+Emily deBettencourt: Yeah, it's gonna take you to install.
+SteveTucker: So we've got to sign up
+Emily deBettencourt: You don't want to to express you want to do the full
+SteveTucker: You want to do this?
+SteveTucker: So get that and then do the download, I guess. I can.
+SteveTucker: I can just do the download the installer.
+SteveTucker: Ready. Okay.
+SteveTucker: So now I haven't done that like that I got an empty downloads folder. That's amazing.
+SteveTucker: Um
+SteveTucker: Will this have created the account then or I mean, I guess we created the account, but this activated at some point or do we still need to do other things?
+Emily deBettencourt: This is gonna your account is created and this is gonna activate everything. So you're essentially claiming it at this time.
+SteveTucker: Okay. Even without installing it.
+Emily deBettencourt: No. You'll need to install.
+SteveTucker: Right. But that's what I'm saying this. It probably isn't done yet. I've got to run the installer.
+Emily deBettencourt: Yeah, exactly.
+SteveTucker: Let's be fairly large. It's still downloading.
+SteveTucker: Okay.
+SteveTucker: All right. Anything that we're
+Emily deBettencourt: I was just gonna say when you open PreVeil, after this is complete, you'll see the same thing that you saw with um
+Emily deBettencourt: Chad to machine. So
+SteveTucker: You'll see this
+Emily deBettencourt: Now, you're not set up as an admin. So um
+Emily deBettencourt: What you can do is promote yourself to an admin after the account is claimed. You'll see that and then you'll be able to promote so. Yeah. And again, Chris can go through all of this with you.
+SteveTucker: Okay.
+Emily deBettencourt: What I'd recommend now is just watching those videos.
+SteveTucker: Sounds good.
+Emily deBettencourt: I also have an enterprise user guide that I'll send over to you guys too.
+SteveTucker: And is this installer that's just called PreVeil installer dot si? Is that going to be the installer that we would use to to push out to people who are gonna be users of PreVeil?
+Emily deBettencourt: That's something you're gonna have to go through with Chris because um
+Emily deBettencourt: Everyone's gonna need to do their own installation on their own machine after they've been added as a user. So so I think to that, yeah.
+SteveTucker: So you can't we can't push this out remotely silently?
+Emily deBettencourt: You can, but talk to him about that. I don't want to give you the wrong answer here.
+SteveTucker: All right. That's good. We can do that and I think that's you see what that when do we schedule to meet with him?
+Emily deBettencourt: On the eighth, I believe.
+Emily deBettencourt: Week.
+SteveTucker: Are boring systems re onboarding with Chris? Many though? Yeah, 11:00 am on Monday. Okay.
+SteveTucker: Great. Sounds good.
+Emily deBettencourt: All right. Well again, I'll check in with you guys after after Monday. But in the meantime, I'm gonna introduce you over email and get a couple of other things teed up for you.
+SteveTucker: Okay.
+Emily deBettencourt: All right. Thanks, Steve.
+SteveTucker: Thank you. Have a good.
+SteveTucker: Bye.

@@ -1,0 +1,70 @@
+Account: Custom Panel & Controls
+Call Date: 2026-01-16
+Duration: 00:10:49
+Participants: Andrew Meggs, Matthew Werling
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Am I muted? Hello. I'm not sure.
+Andrew Meggs: Hello, can you hear me?
+Andrew Meggs: Matt.
+Andrew Meggs: How about now?
+mwerling: Can you hear me now? Or
+Andrew Meggs: There how about now? Okay.
+mwerling: Yeah, yeah. Yeah. Okay.
+Andrew Meggs: Okay. Hi.
+mwerling: How are you doing?
+Andrew Meggs: I am doing well. How are you?
+mwerling: Good.
+Andrew Meggs: It's just you today, right?
+mwerling: Yes.
+Andrew Meggs: Okay. I appreciate you hopping on a call. Hopefully this won't take too terribly long. This is mostly supposed to be an informal check in. I do have a couple of points I need to go over. But before I get into it, how are things with PreVeil or just in general?
+mwerling: Well we're um
+mwerling: We're
+mwerling: We're we haven't really I've done I tried to do some stuff. And it's pretty intuitive and you know, it's pretty easy. But I understand that I haven't completed all the stuff I need to do to make it a more secure thing. I guess creating groups of uh
+mwerling: Different things.
+Andrew Meggs: Yeah. That's kind of what that was kind of the point I was gonna go over is yeah. Yeah. Yeah. It looks like you haven't gone through the actual official onboarding process yet. And then yeah. Implementing your gateway as well, which occurs after that. So basically, you need to be officially on boarded before we're able to implement the gateway for you. Yeah.
+Andrew Meggs: That was kind of the main trust of what I wanted to talk about was was are there any I hate this term? Are there any blockers to that? Is there anything on our end that you need? Or are there any problems or basically just kind of going over that?
+mwerling: Yeah. There's no no issues on your guys' side. It's definitely on ours. We're a small company. And I just I haven't been able to delegate this to somebody. And we're we're working on it.
+Andrew Meggs: Okay. And so just because my boss has asked why hasn't this person been on on boarded yet? basically you're waiting to are you going to hire someone or just waiting to to find someone to to assign to this?
+mwerling: Yeah, I think but you know I'm willing to participate, but not a full time thing. Sure. So yeah, we're I'm trying to you know
+mwerling: We're gonna have to hire somebody I guess or get somebody connected
+mwerling: Yeah. I there's a need for this and I need to have it implemented, but I'm not getting any kind of help I we're you know, we're a small company. I was I spent a month in the Philippines for Christmas working on a ship that got caught on fire, you know. So it's just we you know, we have people all over the country right now in the world or whatever. And it's just one of those things. We you know, we have the need, but we just don't have the interest in some of the people.
+mwerling: So um
+Andrew Meggs: And that's totally understandable. And we you know, we deal with a lot of smaller companies. So this very similar situation and a lot of cases where people are wearing a lot of hats and I had to prioritize. So there's not like a problem or anything like that. It's okay. But I just wanted to make sure there there there weren't any problems or rather anything on our end that's an issue or that you need from us. But I can definitely put a note. Because like I was saying we get basically the system throws up red flags of a client hasn't gone through onboarding and x amount of days. I'll just put in a note in that you're waiting to be able to to assign this task to to someone. Um
+Andrew Meggs: In the meantime, I know you probably haven't used it. Much, have you used PreVeil? Or have you gotten into the accelerator content at all the compliance documentation or anything?
+mwerling: No. Not the compliance documentation, no.
+Andrew Meggs: Okay.
+mwerling: Yeah.
+Andrew Meggs: Once again, kind of just waiting for someone to do that. Yeah.
+mwerling: How are you guys you guys getting more people fully compliant.
+Andrew Meggs: Oh, yeah. We just had our like, 65th.
+mwerling: Person. Okay. So
+Andrew Meggs: More more and more come in every week.
+mwerling: Yeah. Yeah.
+Andrew Meggs: Assessed, yeah.
+Andrew Meggs: And to the best of my knowledge, we haven't had anyone fail an assessment yet, either?
+mwerling: Yeah.
+mwerling: Now, typically, they typically do they have I guess they I mean, you probably they probably all kind of have one person that does is tackling that right? I mean, yeah, like a full time person doing it isn't kind of know.
+Andrew Meggs: Not not for most of our clients know.
+mwerling: Okay.
+Andrew Meggs: It. Unfortunately, how it usually happens is that it becomes a per like, it becomes 90% of a person, yeah, for a short period of time. But yeah, yeah. They never very seldom, especially for our clients. Is there they have like one employee where this is their one job. It's usually on pardon the phrase pond off onto like a like the it manager or systems manager or something like that. Who spends an inordinate amount of time doing it even though technically that's not the full time job.
+mwerling: Yeah. Yeah. Okay. All right. Well yeah. I appreciate the touching base and everything. And I'll try to bring this back up and try to get some traction on our end.
+Andrew Meggs: Sure. In in the meantime I can resend the link to the onboarding with our support team. So whatever you do, I mean, if you and I know you're busy, if you do want to just go ahead and go through it's an hour long meeting, that goes over how to use PreVeil. If you just want to get it out of the way, just so that like, you can get the gateway set up and have everything ready to use. Whenever you do assign this person, you can or if you want to wait for that new person and then basically kind of somewhat start from scratch with them. That might be a good idea to what whatever your preferences.
+Andrew Meggs: Um
+mwerling: So we you saying we could just do it right now.
+Andrew Meggs: Yeah. Well, I mean, not right now, but you can schedule it right now. And so so
+mwerling: Would we be able to schedule me and somebody else?
+Andrew Meggs: Yeah. How it works is
+Andrew Meggs: Just to kind of clarify the roles here. So I'm kind of the like account management side of things, okay. Our technical support team does the onboarding and the gateway implementations. So how it would work is after this call, I would send you a link to their schedule and you would schedule a meeting with them and then you could invite whomever you'd like on your end to attend that. Okay. And it would be end user training as well as admin roles and responsibilities training and them actually setting things up and moving moving making sure everything is right in the back end for your organization.
+mwerling: Yeah, let's do that. Let's let's do that. And um, that would be good. I'll make it happen.
+Andrew Meggs: And then after that onboarding session is when a member of our support, I think, Chris.
+Andrew Meggs: Was assigned to the ticket Chris from our support team would reach out to implement your email gateway after that. Initial onboarding meeting. So but yeah, I'll send this link over and then whenever you have that, I know we're all busy whenever you have the time. Sure. That's always a good joke. Whenever you have the time, you and whomever you feel appropriate can can attend that onboarding session. Okay.
+mwerling: Yeah. That'd be great.
+Andrew Meggs: So yeah, I mean, beyond that since it hasn't really you haven't even been onboarding out. There's not much else for me to discuss. I don't want to waste your time here. Was there anything else you wanted to to go over and talk about?
+mwerling: No. I think I mean, I this is our solution. I just need to get everybody on board the I just need to get everybody on board.
+Andrew Meggs: Yeah. Okay. Well, if you if there are any problems or if you do anything do need anything you have my contact info. So please don't hesitate well. I'm out of town later this afternoon and Monday, but beyond that definitely don't don't hesitate to to reach out and let me know. And then yeah, I'll send this over and I appreciate your time and I hope you have a great rest of your day and a great weekend.
+mwerling: Great. Thank you, Andrew.
+Andrew Meggs: Yeah, thank you, Matt. Have a good one.
+mwerling: Bye, bye.

@@ -1,0 +1,116 @@
+Account: cBEYONData, LLC
+Call Date: 2025-12-09
+Duration: 00:21:51
+Participants: Keith Johnson, Emily deBettencourt, Gregg Laroche
+
+======================================================================
+
+Emily deBettencourt: So are you
+Gregg Laroche: Hey Emily. How's it going? I am doing well. Good.
+Emily deBettencourt: I'm just waiting for Keith to join us here. Hey, Greg. How so just some background for you. They are not going to be renewing early next year, however. They have it. They have already asked for a 6 month extension while they transition. I've quoted them for their 6 month expansion or extension rather. Yeah. And then they had some questions regarding the
+Emily deBettencourt: Gateway and um
+Emily deBettencourt: Our gateway provider. So whether or not they are fed ramp certified.
+Gregg Laroche: Yeah. We already know. They're not
+Emily deBettencourt: Right. And I've told them that I said that they're working on it.
+Gregg Laroche: Well, they don't even need it if they are a managed service and that's not even a requirement, but we can talk about that too. Okay.
+Emily deBettencourt: Great. You should
+Gregg Laroche: Only cloud services have to be fed ramp and that's why yeah yeah if you can say that the gateway there what security centric is doing could arguably be a managed service not a cloud service because every customer owns their own tenant and they can't self service anything it's basically so there are a lot of criteria for what is a cloud service or is not a cloud service and they meet some that indicate they could be a cloud service if you really want to try to make them one but they have a lot of criteria that says they're not so and we've already had 2 assessments pass them as an MSP so it a lot of it depends on the assessor
+Emily deBettencourt: Gotcha. Okay.
+Emily deBettencourt: I think they're having their assessment.
+Gregg Laroche: So are they getting assessed with us or with their GCC, High tenant?
+Emily deBettencourt: Let me check my notes. Sorry, I remember off the top of my head.
+Emily deBettencourt: And I might not know that actually.
+Emily deBettencourt: They were already assessed. They got a 1 10.
+Gregg Laroche: With PreVeil, apparently.
+Emily deBettencourt: Did CAC hold on.
+Emily deBettencourt: They're working with Scott, singer at cyber nines. Um
+Emily deBettencourt: They
+Emily deBettencourt: PO and um
+Emily deBettencourt: Had to address their endpoint responsibility.
+Emily deBettencourt: On it.
+Emily deBettencourt: Got a 1 10.
+Gregg Laroche: Obviously, close their podium items if they had any
+Emily deBettencourt: These are Newell's notes. So let me throw them to you can review those and tell me what you think. And he's in the waiting room, so I will go ahead and let him in.
+Gregg Laroche: Okay. Great.
+Emily deBettencourt: Hey, Keith, how are you today?
+Keith Johnson: Hey, folks, sorry about that customer call. Run a little bit long.
+Emily deBettencourt: No problem.
+Gregg Laroche: It's been my experience all day today. So the first meeting I've been on time for all day.
+Emily deBettencourt: Awesome. Well Keith have you met Greg, Laura from our product and compliance teams?
+Keith Johnson: I have hey, Greg, how's it?
+Gregg Laroche: Going great. Yeah.
+Emily deBettencourt: Yeah. I filled Greg in. Let him know that you guys are moving on from PreVeil, sadly. But it's my understanding that you guys are gonna extend for 6 months or so, right?
+Keith Johnson: Yeah, correct. So okay. We got acquired back in February. Um
+Emily deBettencourt: That's what it was. Yeah. Yeah.
+Keith Johnson: And they are still not ready for us to
+Keith Johnson: Join or be integrated quite yet. Okay. So their goal is or SMS goal is to kind of integrate us or migrate us to to gov cloud. Or sorry, gov cloud GCC High. That was the last conversation. Um
+Keith Johnson: Probably sometime in Q2 of next year. Okay.
+Emily deBettencourt: So. Okay. I think we're good on my side with the quote that I updated for you, but you did have some questions around the email gateway and our provider being fed ramp compliant. There were a few other points to up here.
+Keith Johnson: Yeah. I think that was kind of the biggest question because we kind of we migrated that. Because we had to go through well, we went through cms back in July. We migrated the the PreVeil gateway into our AWS account secured it had all the scanning getting pushed to our sim and all the fun details that kind of go along with all that, right?
+Emily deBettencourt: Right. Yeah. You're hosting your own. That's what it was.
+Keith Johnson: Right. I was just trying to figure out is like, when can we kind of pass the buck back to you and get out of get out of that piece of the puzzle or or do we just kind of carry that through to the, you know
+Gregg Laroche: Yeah. Let me tell you give you the narrative of the story and you guys can take that information and make an informed decision because there's a couple of moving parts here. Okay. One is um
+Gregg Laroche: We have had a couple of customers get through assessments using security centric, hosted gateway. Um
+Gregg Laroche: Because they're they position it as a managed service not as a cloud service because each each customer owns their own tenant and si is only managing it for them and helping them configure it and so even though it's running in a cloud environment that security centric has built it's their own cloud there there stance is like yeah we're our back end is a cloud service but these tenants we spin up for gateway customers the customer owns those and we manage them for them but we're not offering our back end as a service and the customer can't self provision they can't you know in theory they could take over that tenant if they wanted to and they're basically making the argument that they're a managed service not a cloud service and some assessors have bought that
+Gregg Laroche: So
+Gregg Laroche: So if and if that flies as a message then they don't need to be fed ramp they can be cms level 2 and that's kind of their current position so that's one piece of data that you can consider the other piece of data is that PreVeil is gonna be offering ring hosted gateways early next year and we're gonna build our own gateway hosting environment in gov cloud and host gateway instances ourselves and give that as an alternative now in order for that to be fully compliant we have to and we're gonna be a managed service provider like the customers are gonna own their own AWS environments we're just gonna configure the gateway in there for them it's not gonna run in the PreVeil infrastructure at all it's not gonna run in our cloud service they're gonna it's a separate business basically that also happens to be in gov cloud but that's not relevant right so every we will sell every customer their own AWS license they all get their own CTA license they'll get their own Microsoft licenses and then we just configure that stack for them and
+Gregg Laroche: And let them you know, let them they pay us every month or whatever every year for the bill, but it's their bill for their tenant. And if they ever wanted to take it over, they could and we can turn the billing over to them and then that would just turn over. So for all those reasons, it's we're also positioning ours as a managed service. Not because it's not it's gonna interact, there's a PreVeil client in there. That does talk to the PreVeil cloud service, which is fed ramp moderate. But the gateway itself is not a cloud service. It's just a managed Linux server that's managed by any MS could provide and manage that server for them. So anyway, that's our stance. We've already run it by a bunch of C 3 POS. They are in agreement that we should be able to do this and we are making plans to do so. And then part of that is to get that scope of work assessed by C 3 PO and get a CMC level 2 cert for that managed service. And we're trying to get that done by the end of February. So very aggressive schedule. So the idea is to have the gateways available in January and then prepare for an assessment, get the assessment done in February and then be fully ready market ready when that assessment is completed. So anyway, that's our plan for gateway so you can stick with sci.
+Gregg Laroche: They are in that gray area where they're more cloudy than we are because they built their own cloud, but
+Gregg Laroche: You could still make the same argument that they're in MS and like I said, some assessors have agreed. And so
+Gregg Laroche: That's you know, that's up to you. And then we also if you want to wait a little longer, then we could take it on our in our platform. After it's we could do it in January because you don't need to get it assessed. If you were to get an assessment on it, then you'd have to wait till after we get our certification. But
+Keith Johnson: That's the good thing we've already done our assessment, right?
+Gregg Laroche: Yeah, you don't you could switch to our hosting without the real consequences.
+Keith Johnson: Now, the only difference that we had to do in our cloud as well is we had to get all the logs the AWS logs and get that into our sim tool. So are you guys doing any or offering any of that or is that? Yeah.
+Gregg Laroche: We're basically putting all the logs into an AWS cloud watch, log aggregate. And then we have a managed service provider that as a service is doing log analysis for us.
+Keith Johnson: Okay.
+Gregg Laroche: They just come pick up the logs and cloud watch and they feed them into their sock and they have a sock and they have a sim and all that stuff and we're outsourcing that.
+Keith Johnson: Got it. Oh, okay. So then that all right that was the only other kind of wrinkle that we ended up having to go through that to jump through a couple of hoops to make sure that was all that stuff was being monitored.
+Gregg Laroche: Yeah. Yeah. Because you are quite correct that is required.
+Keith Johnson: Okay. Yeah, I know I would definitely be once you guys feel comfortable or once you guys are official. Then I would say let's circle back up and okay. Definitely look at that.
+Gregg Laroche: Yeah. We're testing in December and we planned to available.
+Keith Johnson: To say, hey, how's it going? no? give me another couple of months. So okay.
+Gregg Laroche: Yeah. And we're also just FYI. We're also planning to release in the same window of virtual desktop instance. That can be sold with or without gateway. And that will be like compliance in a box where you get a fully compliant monitored. Endpoint windows, endpoint fully configured and locked down. And as long as you have a generic use case and you only need office apps and nothing else then you could just buy that and cover dam near everything you need. So that's gonna be pretty exciting too. So that's coming out in Q1. And we've also re architect it drive that's while while you since we last spoke. So drive is gonna be updated in January or February also. And it's gonna become a virtual Zed. It's gonna be like one drive. So it'll show up an explorer and show you everything. Everything that's in the cloud, everything that's synchronized. It's gonna work just like it's so much better. So that's where excited about that too. So new architecture for drive new VDI, offering new gateway hosting, offering a lot of stuff going on in Q1.
+Keith Johnson: How about final support for the new outlook?
+Gregg Laroche: We're working on that. We have a design. We have because they removed the support we were using in the previous implementation, they being Microsoft. So Microsoft, basically ripped out the interface. We used to use an old outlook. It's gone and they're not putting it back in. So we have to find some other way to do it. And we've looked at how other companies are doing this. And it looks like the consensus is that you kind of create a task window that you manage as a as an extension of outlook. And you go through the extension APIs and you create a separate task window that pops open when you click a button and we put PreVeil on that and you'd have it wouldn't be quite as elegant as the current solution because you wouldn't get a full mailbox. You'd still actually only have one mailbox and not 2. Okay, you'd be in your one mailbox and then you'd have a button in the button bar that would launch your PreVeil task window and their second mailbox would be in there and which is certainly not as nice as we do. Now, but we just can't do it the way we used to do it. So we're kind of forced into this secondary task window approach. So we're designing that right now and we're gonna launch it before. Classic gets turned off, which is supposed to happen in October, I think so. We're gonna launch support for new outlook.
+Keith Johnson: A little bit of runway.
+Gregg Laroche: Okay. Yeah. Yeah.
+Gregg Laroche: Yeah, because Microsoft is shutting off classic entirely after I think, October, you can't go back. You can only go forward and then they won't let you go back. Right now you can go back and forth, all you want there's a toggle, but they're getting rid of the toggle in October. So we need to be done by then. Yeah.
+Keith Johnson: Okay. Yeah, we've been I know that's been kind of a thorn people. They don't know better even though we tell them don't opt option out get somebody to like, oh, hey, new and then we got to get them flip back and everything else.
+Gregg Laroche: So yeah. It's a pain. I know we kind of get the rug pulled out from under us on that one. But along with a lot of other vendors that use the same set of interfaces that are no longer there. So we're kind of stuck with it and we'll get there. We definitely have an approach that we know will work. It's more just like, how easy, how usable can we make it?
+Gregg Laroche: Got it. Okay. Cool.
+Emily deBettencourt: Awesome. Yeah.
+Gregg Laroche: That's all my updates. So
+Emily deBettencourt: Keith, do you have any questions for me about the order form I shared with you?
+Keith Johnson: I don't I don't think I did. Um
+Keith Johnson: Let me
+Keith Johnson: You sent that right before Turkey day, right? Yeah. I
+Emily deBettencourt: Think so, yeah. Um
+Keith Johnson: No. I think we're good. All I need to do
+Keith Johnson: It in uh
+Keith Johnson: Let me talk to accounting, I'll. I'm gonna try to get this closed out this week or next. Okay. We are switching accounting systems come first of the year. So it is kind of off the books. Before that, then it, you know.
+Emily deBettencourt: Do you need um
+Emily deBettencourt: Do you need accounting to approve it and send a PO or can you sign it? Because if you can sign it, what happens is then I can have an invoice sent your way. So I don't know if you need the order form or the invoice to get your process started.
+Keith Johnson: Let's see the invoice would definitely help so well I tell you what after we get off I'll I'll get it signed okay kick back to you and if you can get us and send us an invoice yeah that's
+Emily deBettencourt: When I can get the invoice once I have a signature or a PO. So whatever comes first
+Keith Johnson: All right. No. That would be that would be great. And then that'll get kind of cleared out through internet before we do the switch over to deltec. Okay. As part of the first of the year. Good.
+Keith Johnson: Cool. Okay. Um
+Emily deBettencourt: Yeah, we'll keep it.
+Keith Johnson: I think I'm good. Um
+Emily deBettencourt: Yeah, that's all I've got. And then if we get closer to June and you still need PreVeil, we can extend for another 6 months or just take it day by day. So
+Keith Johnson: And I've actually we've been talking with the SMS guys as well, where they're they've been kind of looking at it as an alternative kind of a bolt on for GCC High for some other non employees. But we're kind of still working through the process of um
+Keith Johnson: Being able to install it alongside the GCC, High environment or their corporate laptops. So we're trying to see if there's a kind of another path forward in terms of. You're not leveraging it for the core company, but actually leveraging it for the individuals who are not employees.
+Keith Johnson: Is it's global. They're a global company. While we were kind of, we are nationwide SMS deals across the entire globe and in employees non us workers that still I may need or external contractors that may still need access to C in certain circumstances, but they do not allow those people to be actually able to connect into.
+Gregg Laroche: That right. They don't have a contract. Valid contract. They're not eligible. Yeah. I think we have a lot of customers with both products, frankly, is pretty common. This is a pretty common use case for us. Yeah.
+Keith Johnson: So I think we're kind of right now. We're trying to work through the logistics of getting PreVeil, kind of on the baseline for SMS. We can get it installed, run it in parallel because it's also part of our conversion process, right? Is we want to make sure that we can run this in parallel because there's no easy way to get mail from PreVeil into GCC High unless we export. But our goal is if we're can use outlook and we have outlook connected. I, we can kind of drag and drop. It's it'll be manual, but it's better than nothing. And then once we've kinda done that, then we can start to look at that kind of next use case for
+Keith Johnson: I'll call it non employees within the organization as an alternative to to having them up on GI.
+Emily deBettencourt: Okay. Great. Yeah.
+Gregg Laroche: If you get that, yeah. Let us know if we can help with any of that. And we do have a number of customers that own both products. So you're not unique in that respect.
+Keith Johnson: All right. Good. Yeah, I will definitely start to pull in Anthony and Doug in those next kind of discussions. And that'll probably be I'm assuming will be early next year. Maybe the February timeframe in terms of kind of next steps. Those guys are they're kind of going through their cms process right now and they've got their audit scheduled for mid January. So they're kind of locked and blocked for the current timeframe. But once that kind of clears the hurdles then they can look at look at adding additional pieces to their boundary. So
+Gregg Laroche: Awesome. All right. Yeah.
+Keith Johnson: You guys are mine.
+Keith Johnson: All right. Cool. Well, I will Emily, I'll get that signed today and get that kick back to you. Okay. We'll kind of take it from there.
+Emily deBettencourt: Sounds good. Thanks so much Keith.
+Keith Johnson: All right. Well, great speaking with you guys. And I will chat with you later.
+Emily deBettencourt: All right. Have a great rest of your day.
+Keith Johnson: All right. Thanks, folks.
+Gregg Laroche: Thank you. Bye. Bye.

@@ -1,0 +1,129 @@
+Account: Collaborative Placemaking LLC
+Call Date: 2026-01-16
+Duration: 00:25:23
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Elizabeth Perales AICP LEED AP BD + C: Hello Elizabeth.
+Andrew Meggs: Good morning. How are you?
+Elizabeth Perales AICP LEED AP BD + C: Great. Hi.
+Andrew Meggs: Good morning. You don't have to hello turn a car on if you want to. There's no peer pressure.
+Elizabeth Perales AICP LEED AP BD + C: It's all right.
+Andrew Meggs: Fair enough. It's just you today, right?
+Elizabeth Perales AICP LEED AP BD + C: Yes.
+Andrew Meggs: Okay. Well, I appreciate you hopping on a quick call with me. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. Okay. Yeah. For context, I am the customer success manager for your account. So what that means is I am your kind of general account manager and one main point of contact here at PreVeil going forward. Okay. I like to have a call with all my clients to let you know I exist, but be welcome verbal. Kind of go over the onboarding process and make sure you don't have any initial questions. Okay.
+Andrew Meggs: So to that point, hi, I'm Andrew real. I'm Minnesota myself. Where are you calling in from?
+Elizabeth Perales AICP LEED AP BD + C: San Diego.
+Andrew Meggs: San Diego slightly warmer, I would presume where
+Elizabeth Perales AICP LEED AP BD + C: It is absolutely gorgeous. I hate to
+Elizabeth Perales AICP LEED AP BD + C: Are you? Where are you in Minnesota? And I'm here that there's winter storms. So
+Andrew Meggs: Yes, it is currently blizzard ing outside right now.
+Elizabeth Perales AICP LEED AP BD + C: Is it um
+Andrew Meggs: I'm in St, Paul, Minnesota.
+Elizabeth Perales AICP LEED AP BD + C: Which is oh, you are. Oh, my goodness. So there's there's a lot going on right there. It is hectic.
+Andrew Meggs: Yes. But I work from home. So that's no, but my my wife is from kind of your area. So we try to go back as often as we can. She's from San Clemente if you know where that is.
+Elizabeth Perales AICP LEED AP BD + C: Oh, yeah. Of course. Yeah. Is she she I have family in the military or yeah.
+Andrew Meggs: Yeah. Her dad yeah. Was was in the Marines. So, yeah. That's where she was born and raised and she so a lot of contacts out there. Oh, my.
+Elizabeth Perales AICP LEED AP BD + C: I feel like this is good luck because that's my primary client is can penalty.
+Andrew Meggs: Oh, nice. Nice. Yeah, that's where you stationed so. Yeah, we go back. We try to go back every year, but sometimes we don't make it but you know, especially during the winter, it's nice to get out of here. But anyway, geography aside yeah. Getting started with PreVeil. There's kind of 2 separate pillars. There's the technical implementation and then there is the compliance implementation. Okay. Well, so for the technical implementation of PreVeil, are you going to be the person that's going to be setting up their organization?
+Elizabeth Perales AICP LEED AP BD + C: And I am
+Andrew Meggs: Yeah. Okay. So great. I can send some instructions over. I think there were instructions in that original email that I sent and I'll resend them. The video is like an hour long because it goes over how to use PreVeil and stuff, but the actual setup is super easy. It's just download PreVeil, create a PreVeil account. And then there's a specific link to go to that. If you're logged into your PreVeil account will prompt you to create the organization and you'll be set up as the administrator takes. Maybe 6 minutes total to to go through the whole process. And then yeah, once that's done, you'll be set up as the administrator and you'll be able to add any other users and set up everything. So
+Elizabeth Perales AICP LEED AP BD + C: Okay.
+Andrew Meggs: And then once the organization is created technical, you'll be able to use PreVeil. But the next step would be to schedule the actual like, onboarding training session with our support team. So that's a hour long training session on how to use PreVeil, admin roles and responsibilities, making sure everything is right in the back end and answering any technical questions you might have.
+Elizabeth Perales AICP LEED AP BD + C: Okay.
+Andrew Meggs: So that's kind of the technical setup is creating the organization and going through the technical onboarding. Completely separate from that on a completely separate site with a separate login is our compliance compliance portal, which is it's called the compliance accelerator. So that is the doc series on CMC compliance as well as all the documentation templates that are pre written. So that's built we built it on talent LMS. So it's a separate site. I added you to that before this call. So you should see an email invitation to that and maybe 5 10 minutes. Sometimes it's kind of slow, but okay. But you technically now have access to that and I'll send you a direct link to that in my follow up email too. So okay. I guess from my own curiosity
+Andrew Meggs: Where are you at in terms of compliance? Do you have anything written already or just kind of get started?
+Elizabeth Perales AICP LEED AP BD + C: Yes. I have I am level one compliant and I have the documentation for that.
+Andrew Meggs: Okay. Great. Yeah, what you'll see in there and I can just very briefly show you what that looks like.
+Andrew Meggs: Basically it is level 2 focused, but we've basically taken a fake company and walked it through compliance and it includes all the steps on how to do that. Okay.
+Andrew Meggs: Where is this? Here we go. Yeah. Basically there's all these step by step instructions. And then in each of these steps, there is a video going over the step and then all the relevant documentation is below this step. Okay. You don't have to go through all the courses, obviously, whatever you want. If you want to just skip to step 6 is documentation. That's where this Acme docs packages. That's where the SP and the PO and everything all lives in this one one document. So if you want to just skip to that, we certainly can
+Elizabeth Perales AICP LEED AP BD + C: And then how do I integrate the level one? Is there any requirement to to kind of integrate that level one element into this?
+Andrew Meggs: So basically, what you'll do is you'll you'll download the SP, which which is level 2 focused. And then there'll be several sections of it that you'll basically just copy and paste your level one documentation into it. Okay.
+Elizabeth Perales AICP LEED AP BD + C: That sounds good.
+Andrew Meggs: So yeah. It'll make a little bit more sense once you get into it. Okay. And I guess it's a great segue to my next point. If you do have any questions about the documentation or need any compliance guidance with this accelerator also comes access to our own internal compliance team. So they're the people who wrote all this stuff and made all these videos. They are available. Yeah, to yeah. Answer any questions you might have, they're available compliance at PreVeil.com and then also in this additional compliance resources course there's a direct link to their calendar. So if you want to schedule a meeting with them to kind of go over where you're at ask any questions. You can do that too.
+Elizabeth Perales AICP LEED AP BD + C: Okay. Are there regular meetings or is it just as needed?
+Andrew Meggs: As needed meetings?
+Elizabeth Perales AICP LEED AP BD + C: So okay.
+Andrew Meggs: But
+Elizabeth Perales AICP LEED AP BD + C: Certain do you recommend them at certain milestones?
+Andrew Meggs: Honestly, I have so many different clients with so many different compliance needs that it's hard to recommend specific milestones without knowing where you're at. I always I do always recommend a brief. I always recommend a call at the beginning of this. So whenever you have some free time to kind of go over where you're at with them and they can provide specific next steps guidance. But you know, there's not specified normal regular meeting set up now.
+Elizabeth Perales AICP LEED AP BD + C: Okay. And then do a lot of people because you're kind of installing these systems. Do a lot of companies by new computers before they start. My computer is a couple of years old. I don't know if that matters or not. Some do
+Andrew Meggs: So part of being compliant is making sure that your end points are secured that includes firewall, multi factor authentication physical security, things of that nature. Yeah. Some of my clients will in anticipation of this purchase specially made hardware, that's like hard to get physically hard to get into and also software hard to get into. Some of them use their Mac book that you know, it's doable either way, as long as you've got the software in place. And as long as you've got the policies in place, you can use well.
+Elizabeth Perales AICP LEED AP BD + C: Is it easier though? I mean
+Andrew Meggs: I will say asterisk, I did just have a client who their computers are literally from like 19 95 and they do have to buy new computers as long as. So like I say that I literally we literally just had this where a client is like, I can't install PreVeil. I'm still on windows 7. It's like what how like so they do actually have to buy new computers in order to install PreVeil. Oh,, that's so sad windows. 7 isn't even 19 95 that's like 2,000 and ten in my mind. That's like 19 90 five, but no it was not that long ago, but
+Elizabeth Perales AICP LEED AP BD + C: Anyway. No, it wasn't because I was just thinking I remember when people made a big deal about windows 10 because change
+Andrew Meggs: Yeah. Yeah. I don't know.
+Andrew Meggs: Time is
+Elizabeth Perales AICP LEED AP BD + C: I guess, but I'm just old, yeah.
+Andrew Meggs: Anyhow. As long as you're on a relatively recent like 5 years of software, you should be fine. But yeah. So but some of them do specifically buy laptops or desktops that are specifically made to be like, more secure which like, exists out there, I guess. But but no, most of them use the normal laptops. They just install the software.
+Elizabeth Perales AICP LEED AP BD + C: They need to. So when you say computers and software that are more secure, what are you talking about?
+Andrew Meggs: Um
+Elizabeth Perales AICP LEED AP BD + C: But like custom custom systems or
+Andrew Meggs: No. They're I mean, they're off the shelf, but when I say software, I mean it, making sure you have antivirus and stuff like that, like bit logo and a firewall and multi factor authentication to get into your computer, things like that, right? Okay. But it's not like this isn't the Tom Cruise.
+Elizabeth Perales AICP LEED AP BD + C: Right.
+Andrew Meggs: This is a Mission Impossible. We're gonna break into Langley levels that sort of thing. Yeah. It's just make sure you have an antivirus software and your computer, that sort of thing. Okay. If you have like windows commercial, it has the software you need on it. Yeah. Um
+Andrew Meggs: Once again, as risk I don't know off hand exactly which software you need. There's a course on it in the accelerator. That like, goes over exactly what you need. But if you have like windows enterprise, it should be the software you don't have to buy. Yeah, Tom. Cruises, especially made encryption software. Okay. That's what you've got PreVeil, no. But yeah. Does that answer your question?
+Elizabeth Perales AICP LEED AP BD + C: Yeah.
+Andrew Meggs: And then yeah. I feel like I got a little off base there. So technical, implementation, creating the org going through the onboarding, compliance accelerator you have access to now, you can have up to 3 people in there as well. And you don't they don't have to be the same people as our in PreVeil. And I'm the person who adds people to the compliance portal. If you do need to add any more people to the compliance portal, you can let me know. Do you know off hand if anymore people should be added or is it just you for now?
+Elizabeth Perales AICP LEED AP BD + C: It's just me. Okay. I'm having to. So just to give you a little background. Sure. Let's see, 2 and a half years ago. I got a very large contract with hr to assist them with this Marine core work at camp penton. And that work is kind of ramping down. So we're kind of entering the final stages of submit Al and hr is they're very conservative. So as these regulations have become more strict, they basically have said to their subs that they want to control risk by requiring subs to to get level 2. So that's why I'm doing this. Okay. Just as a condition of future work. So
+Andrew Meggs: Anticipating needing it for the future. Okay.
+Elizabeth Perales AICP LEED AP BD + C: Yeah. Not just needing it. But like, the decision to continue working is like it's a prerequisite. It's okay. It's basically the cost of doing this is now. Okay.
+Andrew Meggs: Okay. Makes sense. We have a lot of clients in a very similar situation, yeah. Yeah.
+Elizabeth Perales AICP LEED AP BD + C: It's a no go for them. I cannot get one more contract with them unless I do this, yeah.
+Andrew Meggs: Yeah, makes sense. Yeah. I guess just to kind of reiterate the different teams here that are here to support you. The support team will be doing the technical onboarding and they're also the people that handle any like, bugs or technical issues. Hopefully that won't be relevant they're available at support at PreVeil.com.
+Andrew Meggs: I'll send all this in my follow up email too. But the compliance I can answer any compliance related questions you might have. They're available compliance at PreVeil.com and through that link in the accelerator, I was showing you. And then I am kind of the general main point of contact if you're not sure to talk to if something needs to get escalated. Or if you have any account related questions, like adding a license subscription renewal, that sort of thing would be me. Okay. So
+Andrew Meggs: And then yeah, that's gonna in terms of my prerecorded spiel. Do you have any questions about PreVeil or any points of clarification you need here at the beginning of the process?
+Elizabeth Perales AICP LEED AP BD + C: I think I mean, my main questions are just related to do you have experience or do you have companies like myself where it's just a one person shop? It's a pretty simple. It's kind of the simplest simplest, simplest pathway. And if I'm
+Elizabeth Perales AICP LEED AP BD + C: If I'm working I mean, what is your recommended kind of timeframe in terms of schedule? as I'm ramping work down, obviously, I'm gonna be prioritizing this level two getting this certification. What are most companies allotting to self certify through using this these resources?
+Andrew Meggs: Yeah. The short answer is I would schedule a meeting with the compliance team to have because they are smarter than me about this stuff. So they'd be able to give you a more accurate answer. But the long version is anecdotally we do have lots of like, one, two, 3 person shops. And it's just hard to say it does help that you already have the level one stuff written. We have a lot of people that literally have nothing done and are just starting from scare scratch. Yeah. And also a lot of people that they're wearing 12 different hats and no one has time to work on this. Yeah. If you already have some stuff written, if you are already familiar with some of these things and you're able to dedicate a large portion of your time to this with the accelerator. And this is once again, anecdotal, I would say probably like, at least a month or 2. And then
+Andrew Meggs: More to the point the assessors, if you're actually looking to get a third right now, it's okay to be just self certified at level 2. But if you're looking to get a third party assessor, those are already booked out 3 or 4 months, anyways.
+Elizabeth Perales AICP LEED AP BD + C: So are you saying that the um
+Elizabeth Perales AICP LEED AP BD + C: When is there a chain? I mean, are you saying that you're expecting changes to that kind of a third party certification or no? No, I'm
+Andrew Meggs: Saying right now in a lot of contracts, the contracts you're saying it's okay if you're just self certified at level 2 eventually everyone, everyone needs. And once again, this is purely anecdotal. So this yeah. I have heard from a lot of clients that their contracts are for the first year. It's okay if you're just self certified as level 2. And then like, after that, you'll need to like, be assessed by a third party. I have some clients that like, on November 10th of last year whenever it happened that like in the contracts, they can legally say, you have to be level 2 certified. I've had clients that had their contracts immediately pulled from because they weren't level too. Sure. I've so I've heard both is what I'm saying. Yeah. It
+Elizabeth Perales AICP LEED AP BD + C: Depends on the contract.
+Andrew Meggs: Yeah. Yeah. Not not the right. Right now. It's somewhat arbitrary and up to whoever's writing the contracts. Not really. That's right. Law. Well, right technically. But it also you get what I'm saying?
+Elizabeth Perales AICP LEED AP BD + C: It also depends on the company the risk tolerance of the company. My primary client, yeah. They're not assuming any risks. So they're kind of going kind of on the extreme that they're requiring that subs.
+Andrew Meggs: Yeah. And we have clients where that's the case where their primes or yeah. Like I said, it only happened once that I'm aware of to one of my clients that they literally got their contract pulled. They lost the contract date. The day was their prime was legally allowed to. Most of them give their subs a grace period. But but yeah. But to answer your question and this is somewhat arbitrary because you know, it depends on what you've already have written several several weeks at the very least. I would say there is a timeline in the accelerator of like, roughly how much stuff each thing takes. So
+Elizabeth Perales AICP LEED AP BD + C: Interesting. What
+Andrew Meggs: Part of that you've already done, obviously, that will change that. But yeah. Okay. Um
+Elizabeth Perales AICP LEED AP BD + C: That's exciting. Yeah. You're thinking if I like, once because right now, I'm just we're just finishing this big deadline and there's gonna be probably at least 30 days until we get comments back from the government. So like
+Elizabeth Perales AICP LEED AP BD + C: I mean my goal would be because I'm going to a conference in June.
+Elizabeth Perales AICP LEED AP BD + C: So like, by June, what could I accomplish? I mean
+Andrew Meggs: I mean, depending on how hard you're willing to work on this and how many hours you're willing to put in, you could be independently certified by June.
+Elizabeth Perales AICP LEED AP BD + C: Okay. That sounds like a reasonable goal.
+Andrew Meggs: Yeah. But that would mean, frankly, you would need to start on this today and you would need to already start shopping around for the POS for what for an assessor? Okay. They're called POS is their technical tiger.
+Elizabeth Perales AICP LEED AP BD + C: Okay. 3:00 pm.
+Andrew Meggs: The seat certified third party assessment official or something like that. Okay. But
+Elizabeth Perales AICP LEED AP BD + C: And you do you guys have a list of folks that your clients are currently working with that you trust or that you? I mean, obviously you're not attaching yourself to them in any way, but
+Andrew Meggs: Yeah, we can I don't know any assessments because of conflict of interest stuff. But yeah, we do have partners that we work with that are familiar with PreVeil, yes.
+Elizabeth Perales AICP LEED AP BD + C: Okay.
+Andrew Meggs: I can provide a list of those. Yeah, my follow up email as well. And then if you were looking for specific recommendations then the compliance team would be able to provide that because they're the people who manage those in. And they would also once again, be able to give you a more like if you want to tell them what you have written and what you already have in place, they'd be able to give you a more accurate goal of what it could be assessed, but June. If it's just you if it's just one computer and you're working on this full time June is a reasonable. Okay. But yeah there's at the at risk of things come up depends on how much time you're able to put into this that sort of thing.
+Elizabeth Perales AICP LEED AP BD + C: Okay.
+Andrew Meggs: But yeah. So any other questions or anything else you wanted to go over?
+Elizabeth Perales AICP LEED AP BD + C: The do you have any um
+Elizabeth Perales AICP LEED AP BD + C: I guess now that I'm level one are there additional physical security requirements kind of over and above what is required for level one? Because I'm
+Andrew Meggs: Open would be a compliance team question. I actually don't know off hand what the additional okay. I think I mean, yes, I don't know what they are. Though, offhand. Okay.
+Andrew Meggs: So sorry.
+Andrew Meggs: Enough about compliance to be dangerous, but I'm not as deep into it as some of the other members of the team are
+Elizabeth Perales AICP LEED AP BD + C: Okay. But once I get into the system are the steps the names of the steps kind of would kind of lead me to where I need to get that information.
+Andrew Meggs: Yeah, like step one of the steps is how do I secure my endpoints? How to scope your boundaries, that sort of thing. So okay. That goes over like physical security stuff too.
+Elizabeth Perales AICP LEED AP BD + C: Okay.
+Elizabeth Perales AICP LEED AP BD + C: Yeah.
+Andrew Meggs: So um
+Andrew Meggs: Yeah. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Okay. Obviously you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for April 16th this 90 days from now?
+Elizabeth Perales AICP LEED AP BD + C: April 16th, that's fine.
+Andrew Meggs: Can you are on Pacific time?
+Elizabeth Perales AICP LEED AP BD + C: Okay. And this time works, if you want to schedule it for the same time?
+Andrew Meggs: Yeah. And then it'll be just a check in call. So if you need to move it at that time or if you're doing something, we can move it. But I'll put that on the calendar. And then while I'm doing that, do you have any other questions or anything else you wanted to go over?
+Elizabeth Perales AICP LEED AP BD + C: No, not really.
+Andrew Meggs: Okay. All right. Well, I will send all this over the instructions on how to send up the set up the org as well as a link to the support team schedule to schedule that onboarding session. And then you have my contact information. So if you do run into any problems or if you have any questions, please don't hesitate to reach out. Let me know.
+Elizabeth Perales AICP LEED AP BD + C: Okay. Is the first step? just like the software download and like, yes, securing your email and getting secure storage?
+Andrew Meggs: Yeah. So basically the first step is going to PreVeil.com batch download, downloading PreVeil, creating an account and then there it's in the instructions. But there's I don't remember off hand there's a specific IP address to go to it's like 1.2 point 4. You now it's a string of numbers. And while you're logged into your account, if you go to that link it will create the organization and you'll be set up as the administrator and you'll see
+Andrew Meggs: When you first create your account, you'll see an email tab and a drive tab. Once you create the organization, you'll see an admin tab as well. You'll have administrative control over the organization. But yeah, that's kind of the next step is to create that organization and then use the link to the support teams calendar to schedule the onboarding session with them.
+Elizabeth Perales AICP LEED AP BD + C: Okay. That sounds great. Yeah.
+Andrew Meggs: So yeah. I will send all that over and like, I was saying let me know if you need anything, otherwise. Yeah, I very much appreciate your time and I hope you have a great weekend.
+Elizabeth Perales AICP LEED AP BD + C: Likewise, you too.
+Andrew Meggs: Have a good one.
+Elizabeth Perales AICP LEED AP BD + C: All right. Bye.

@@ -1,0 +1,161 @@
+Account: Caelum Research
+Call Date: 2026-01-06
+Duration: 00:27:16
+Participants: Andrew Meggs, James Bauer, Albert Chang
+
+======================================================================
+
+Andrew Meggs: So
+jbauer: Hello. Can Jim, you hear me?
+Andrew Meggs: Yes. Hi, good.
+Andrew Meggs: How are you?
+jbauer: We're doing. Okay.
+Andrew Meggs: Okay. Is it is it just you today or is anybody that's gonna be
+jbauer: No, it's just me.
+Andrew Meggs: Okay. Well I appreciate you hopping on a quick call with me. I hope your holidays went well. Hopefully, this won't take too terribly long. This is mostly supposed to be just sort of kind of informal check in call. I do have a couple of points that I normally like to go over on these calls. But before I get into it, how are things with PreVeil or just in general?
+jbauer: Well, we still have not gotten the logs working.
+Andrew Meggs: Okay. With the main issue with the same connector, yeah. Okay.
+jbauer: I know that our it guy was working with your guy, but I just asked that's Brian keffer who we have. Yeah. I just asked him how we're doing on that. And he said it's still not working.
+Andrew Meggs: Sure. Yeah, I can definitely follow up on our end to to make sure that they're isn't anything. I can escalate there.
+jbauer: He said, let's check. We received 2 text messages from from PreVeil visible on the log 360. Since then I have not seen any new messages on log 360 or incoming traffic on our firewall. The report says they are sending logs without errors, but either one, they are not they are sending them elsewhere or not sending them or 2 they are sending them at our log 360 agent or firewall inexplicably filtering them. Though that doesn't agree with the lack with it the lack of the firewall. He said I can set up a temporary log receiver. We use uh
+jbauer: Manage engine, Box 360 is our sim or sim whichever it is.
+Andrew Meggs: I just call it a seem
+jbauer: You seem sure. That's a major issue. I think we have right now.
+Andrew Meggs: Yeah. I will definitely escalate that internally to to make sure that gets followed up on for sure. And if if you're continuing to see those issues, definitely reach out to me again and I can escalate it even further to our engineering team.
+jbauer: And that's the other thing and I've not read all your documentation. Sometimes it's like, Microsoft, they send you one place and goes to another that to another into another. Sure. Anyway, I have a hard time contacting you guys when I have a problem or an issue. Um
+jbauer: I hang on let me
+jbauer: I just need to know the right at and who I need to go to to connect with you guys. Yes, that PreVeil homepage and I click on support. It gives me application error, a client side exception has occurred while loading the chat based blah, blah, blah, blah.
+jbauer: And even if I do a login
+jbauer: And from the login I go to
+jbauer: Help center.
+jbauer: I get the same error application error.
+jbauer: Pretty frustrating. When I had some issues. I mean, I had to finally reach out to someone. I forgot the gentleman's name, but he's the one to help me. Um
+jbauer: Your chat works fine, but you know, it doesn't can't always find it, you know.
+jbauer: I mean, I've got like 3 or 4 different URLs for PreVeil. It'd be nice to have one place. I can go to the clip to I go to something called your compliance slash
+jbauer: Concierge
+jbauer: And that one seems to work as far as my chat goes and your chat is very good. By the way, I'll go there and answer get my questions answered if I can find them. But that seems to be a little bit more complicated. I just want to click on one button and go somewhere and be able to know where I can go to submit a ticket or go to this chat. And I seem to have problems. So maybe if you can just give me the link and I'll document and that's what I'll use.
+Andrew Meggs: Well, when in doubt, if you're not sure who to talk to, you can always just reach out to me. And
+jbauer: How do I get in touch with you, I guess?
+Andrew Meggs: That so so yeah.
+Andrew Meggs: My email address. I will I'll send you a follow up email after this that I'll have all my contact information and
+jbauer: Just tell me.
+Andrew Meggs: Megs at PreVeil.com.
+jbauer: What was that?
+Andrew Meggs: A M E G G S at PreVeil.com. A megs at PreVeil.com. Okay.
+Andrew Meggs: And for so so I'm kind of the I mean, I guess just for a delineation of duties here. I am kind of on the account side of things. We do have a few different teams here that you can use as a resource. So for technical problems, like with the same connector. Once again, just to kind of reiterate when in doubt definitely just reach out to me. But for technical issues, like with the same connector you can always just email the support team at support at PreVeil.com and that'll create a ticket automatically if you email them. And then for if you have any compliance related questions, like about the accelerator content, like the documentation and where you're at with compliance, we have a separate compliance team compliance at PreVeil.com. So there's support at PreVeil.com and then compliance at PreVeil.com.
+jbauer: I know something to compliance and they said no, this is for setting up meetings with them and without giving me where I should go. But anyways, if he just put those 3 elements in there overall contact you, tech for technical issues, tech support and this is their email account and for whatever.
+Andrew Meggs: I'll include that in my follow up email.
+jbauer: Sure. That'll be good at that will help me out quite a bit. The other thing that I wanted to talk to you about is uh
+jbauer: When I was setting up all the different things, one of them was the email gateway, which we set up. I was told when we were setting up not to assign a recovery group. Now, I'm getting errors almost every day saying I need a recovery group. Should I set up a recovery group for
+jbauer: At calm.com. Uh
+Andrew Meggs: Specifically the long story short, no. You could. But specifically for the recovery group that gets sent a message.
+Andrew Meggs: Regardless of if it's the gateway user or not. The system treats the gateway user it's a normal user. It doesn't it's not able to tell the difference because basically we create a fake user for the gateway. That's why it's showing up like that. You don't have to know. Okay.
+jbauer: Well, can you tell it not to send me notices that I get emails from them? Sure.
+Andrew Meggs: That's an automatic email that's sent. Not a no one, no, no. Person sends it. But that is a pretty good product enhancement to not send recovery emails for gateway or seem connector users. So I will pass that along to our product team, for sure.
+jbauer: Yeah. Yeah. Emails alert you that you might have blah, blah, blah, blah. And I'm fine. It's just I get it every day.
+Andrew Meggs: Yeah. So no, I can definitely understand how that's annoying. It's just that unfortunately. The system can't differentiate between a made up gateway user in a regular user. So it sees that or it thinks that it sees it. A user that needs to have a cover group.
+jbauer: And are you guys working to try and get
+jbauer: Your e mail to work with the new outlook.
+Andrew Meggs: Yes. Our next big product push is what we're calling a cloud drive. So we are basically rewriting our drive from the ground up to make it much smoother and faster for use and some UI improvements to and that is coming out at the well, it was supposed to come out.
+Andrew Meggs: Late December, but now it's looking to be more early February, but that's our next big product push. And then after that, we are working on the outlook. So the new outlook, it's I mean how these things are, I can't say a specific date, but nominally mid 20 26 is when I've been told the one that's going to be implemented.
+jbauer: Okay. Yeah. Because right now I'm in a new outlook. I don't know how to go back the old outlook and I don't know if I want to. But if you're going to be upgrading then I'll just live with life as it is. I mean, it works out just fine. You guys give an e mail message stating that. Uh
+jbauer: You know that you're
+jbauer: If I don't you know, if I don't check my email in PreVeil, then I get an email now. So that's a good feature. So that works. Just fine.
+Andrew Meggs: Yeah, it is on our product roadmap. It's just basically we're working on this other big project right now and it's we're gonna have to wait till after that's done, but
+jbauer: That's fine. Okay. Um
+jbauer: I think everything else. Okay. We moved pretty much everything over to PreVeil. Um
+jbauer: So right now, I'm going through the rewriting the SPs and modifying the SPs and stuff and the SP and yeah, it's a pretty lengthy document. I've done some re formatting stuff, so it looks a little bit.
+jbauer: Clearer to me, anyways. So anyways, I did download all of them. I just pretty much take the Acme one and I modify that because they're using the same system as the 365 commercial. So I've got some tweaks to make to that. But but I had a hard time finding. And somebody told me I probably got a log somewhere, but I'll make sure I log in now where to find those SOPs and those draft documents. I think it's in your PreVeil compliance.
+Andrew Meggs: Yeah. All the documentation is in the accelerator. It should be under like step 6 documentation.
+jbauer: Oh, okay. Okay. Okay. Step 6.
+jbauer: And
+Andrew Meggs: Just as an FYI, then, it might be easier if I just show you the accelerator is also where you would schedule a meeting with the compliance team. I think you might have been mentioning that earlier, yeah.
+jbauer: That's maybe one I did.
+Andrew Meggs: So so this is what you should be seeing in the accelerator, right? the main homepage?
+Andrew Meggs: So for scheduling a time with the compliance team, it's under this course additional compliance resources. There's a link to the schedule here. Just as that's where the the compliance teams calendar is
+jbauer: Okay. Hang on.
+jbauer: Trying to see where I am.
+jbauer: Like I said, I've got
+jbauer: 3 different hyperlinks, 4 different hyperlinks for you guys here.
+jbauer: Okay. I'm on the uh
+jbauer: Okay. So step 6 is where all that documentation is.
+Andrew Meggs: So yeah. Step 6 is the documentation here at the bottom.
+Andrew Meggs: And then there some other some of the other steps have documentation to or other resources like this additional compliance resources. This has the schedule to the compliance teams schedule or the link to the compliance team schedule. But it also has awareness and training videos and things of that nature. So it has a few other things too. But but the bulk of the documentation is in that step six, yeah.
+jbauer: But okay. That's good.
+Andrew Meggs: And then
+jbauer: Was updated or whatever. At least they have the date of sometime like April 20 25. So that's probably pretty accurate. Pretty current.
+Andrew Meggs: Yeah. And then yeah. I kind of as I was alluding to earlier, if you have any questions about the documentation the compliance team would be best able to answer that. They're through that link in the accelerator showing or they're also available compliance at PreVeil.com.
+jbauer: Well, that makes it easy. I just got to understand it.
+Andrew Meggs: Yeah. So
+jbauer: At PreVeil.com.
+Andrew Meggs: We try to make our email addresses is pretty generic as possible. Support at PreVeil.com compliance at PreVeil.com accounting at PreVeil.com customer success at PreVeil.com to make it pretty generic.
+jbauer: Yeah. I didn't really start getting into until we got the email working and I was waiting until the log started to work, but since that's not working and I had to jump in and start passing with this. So all the stuff that you told me about before is kind of
+jbauer: I lost it. So now I shared with re pressure.
+Andrew Meggs: And then with the team connector the Brian, Brian, is working on that, right?
+jbauer: Brian caper, yes.
+Andrew Meggs: Okay. Yeah, I've asked I'll ask our head of support. I've escalated to I'll escalate this to our head of support to to reach out to you and Brian to try and figure this.
+jbauer: Out yeah. Go straight to Brian because I don't know the it side of it. Sure. Um
+Andrew Meggs: I'll ask him to CC just for visibility, but
+jbauer: Um
+jbauer: I'm trying to see who he was talking with. The guy was very helpful who he was talking to.
+Andrew Meggs: Yeah. I guess it depends on yeah, I guess I don't know who he was talking to, but all the Phil is our head of support, so we'll escalate it with him.
+jbauer: As Philip rodrigues.
+Andrew Meggs: Oh, yeah. Yeah, yeah.
+jbauer: Yeah, he's pretty good.
+Andrew Meggs: Yeah. He
+jbauer: Helped me out with the other problem when I was saying, hey, what happened is suddenly? I could not.
+jbauer: Get emails from the government. Yeah. To my PreVeil account and I had been I didn't know what the problem was and the problem was under um
+jbauer: Okay.
+jbauer: Under the admin site.
+jbauer: The white list, but the email 's got a white list and then the drive has a whitelist too. Is what I was told, which is it.
+Andrew Meggs: For the gateway that that the that white list only affects emails. So the drive is kind of a separate thing.
+jbauer: Right. So somehow that got on click which I know I didn't touch it, but maybe when those guys would did lead around with the log 360 or something so I didn't know that and he told me that and that was a quick fix. And I thought oh,, if the government changed something on their side, then this whole PreVeil thing isn't gonna work. Sure. Thankfully that's all it was and light is good. And I was in a panic mode there for a while ago. Okay. He's going on anyway. Other than that, I think I'm happy with the product has been pretty good. Good, we're learning more about it as we go through it and stuff and it's meeting our needs. So that's the big thing. Again, we get very little UI, but we had a lot of C UI that was stored that we had to migrate over and we did that manually. So we're kind of good there. Or we haven't really tested out the external user when we invite somebody to, you know.
+jbauer: Share a file within our drive. We haven't done that yet, but we're gonna do that today. That should work. Just fine. I suspect.
+Andrew Meggs: Yeah. That was gonna be. That's actually one of my normal check in points is if you've had a chance to test out the PreVeil express. Yeah. So usually I mean, obviously there's usually no issues. But usually I like to check in because sometimes if you share something and the external person gets this weird invitation, they're like, what is this and they think it's spam. So we do recommend if you do share something externally that you give that person a heads up first beforehand saying hey, this isn't spam that sort of thing. So it doesn't go to their trash. So yeah. And then the only other check in thing is looks like you've got your users in the system set up. Do you anticipate needing any more than 8 users?
+jbauer: No. I mean, every so often we talk about I mean, the thing is maybe we want to share something with our president sure. And to give him a license.
+jbauer: Re share the engagement on like one day it's
+jbauer: To protect and stuff like that. What we end up doing was let him see it on our screen which so
+jbauer: I guess there's no way around that.
+jbauer: I mean, I'm sure if I gave him a temporary user license with a add Cale email address. That would be a kickback.
+Andrew Meggs: Yes.
+jbauer: For me to have to do.
+jbauer: Do it for just like a document?
+Andrew Meggs: Seems like a little overkill there for sure.
+jbauer: So what's what's what solution a solution other than just have to buy him a license?
+Andrew Meggs: Yeah. Unfortunately, there's not really um
+Andrew Meggs: A way for this. I mean it's either the full account or nothing there's there's not really a way to have like, a partial 24
+jbauer: Hour access. So
+Andrew Meggs: Great. So, all right.
+jbauer: All right. We'll just yeah. And I mean, we do very we don't do a lot of printing here. So
+Andrew Meggs: Sure.
+Andrew Meggs: Yeah. But in the I mean, in the event that you do need another license or anything just reach out to me, let me know. But yeah, if it's that sort of situation, then, it does seem like it'd be overkill to get a whole license just for sharing sharing one document once a quarter or something like that. Yeah. Yeah.
+jbauer: Yeah, because you know, yeah. Yeah, yeah. We use the 365 commercial so. We try to keep everything off that and just put it on. People are they understand how to do it with what needs to be done.
+Andrew Meggs: Good. Good. Yeah. Anything else you wanted to to go over and talk about?
+jbauer: No. I do know those emails will help out. So I'll put that in my little list. So I don't forget
+jbauer: File type compatibility on like, emails and stuff. I understand that on if I do it in PreVeil that it's not gonna support zip files or emails. But it can support it. If I go to the explore view and access my well, my email. So I don't matter, but in the drives I can
+jbauer: If I try to upload stuff like a zip drive or a zip file or I try to upload a Microsoft email S T file if you will. I can upload it, but I can't open it up in PreVeil it's not supported, but if I go to my drive on my explorer, then I can open it up. So that's good enough. Just a little quirky things that I have to document identify to make sure other people understand that. And I've got a like a cheat sheet that I'm keeping up things that you can and can't do on there. Some people are trying to email from their PreVeil e mail account to their regular Caelum account and that's not gonna work. And just stuff like that sending emails from PreVeil to our at calm account.
+jbauer: Are you still there?
+Andrew Meggs: Yeah. Just a head sneeze.
+jbauer: Oh, okay.
+Andrew Meggs: Yeah. No, that makes sense.
+jbauer: Oh, yeah. Yeah, no. I yeah, documentation is good. I just got to do clean up on it and stuff, but okay.
+Andrew Meggs: Do you have like a
+jbauer: Time probably getting certified sometime. We're still making sure that we're collecting the artifacts. That's why the logs are very Crucial. Everything else is
+jbauer: Pretty much good.
+Andrew Meggs: Yeah. I was gonna ask if you had a timeline of when you think you'll want an assessment.
+jbauer: Probably.
+jbauer: June June time frame. We have our is audit coming up in February, which is 20,000 9,000 27,000. So we're kind of working that too. So. And that's a full audit because appraisal because it's at the end of our 3 years. So we got to get through that and then kind of coordinate our is documentation with our CMC is a lot more while better than me a lot more detailed and structured than what is I don't care if your answers, right? Or wrong. They just care that. You tell them you're gonna do it a certain way and that's how you're doing it. Whereas
+jbauer: Yeah. It's a little bit tougher with a cms, even though I think we're ready we're doing everything that it calls out for. We're just trying to catch up. We had other documentation that we use, but I prefer to use the PreVeil documentation and I'm trying to merge some of that. The reason being is that it will help our audit cms audit when we get ready to do it that they're used to your format and your system. So yeah, we'd want to do that. Sometime in June is what we're looking for. And we'll reach out to you guys and we'll reach out to you and see, okay. Who should we get to do now a preliminary audit. And then the final audit and who you suggest or give us some recommendations that we have to be self assessed in some of our proposals now, which is good. Again, our documentation needs to catch up. But we have old documentation we could use if they ever come in and do an audit. But yeah. I think I think we're in pretty good shape. Just kind of get it done.
+Andrew Meggs: Yeah. That's kind of gonna gonna be my next point there. Was whenever so. So a lot of the auditors are booked out a few months in advance. So whenever you feel like you're ready to start looking definitely reach out to us and we can make some recommendations. That's actually a separate email address for those recommendations in a separate of which I'll also include in my follow up email. It's a subsection of our compliance team is our partner compliance team who handles all of our partner relationships and they can provide specific recommendations for you.
+jbauer: Yeah. I'm getting tons of e mails from other C 3 POS and stuff. And I'm just I will still go to some of their webinars and stuff just to make sure I keep track of some of the latest and greatest things going on. But I've come through you guys to to find A C 3 Pao. Yeah. But yeah.
+jbauer: And we know we got to get it done. We did see one, one. RFP that came out that require people to be CC third party certified. So we have a couple of our we compete coming up and hope to. They don't go that way. If they do then we're gonna have to wrap things up really fast.
+Andrew Meggs: Yeah. We I mean, ever since mid mid November, mid December. And I forget exactly when it happened. November. Yeah. We have heard people. I've only had luckily I've only had one of our clients actually lose a contract where they pulled it immediately as soon as it was legal for their contracting officer. Pulled it immediately after, it was legal to because they weren't fully cms certified. But we have seen it pop up more and more in contracts, at least the self certification, like you were saying.
+jbauer: Yeah. Self certification, sir. The big issue is going to be subcontractors. Yeah. We're prime and most of it and we have subcontractors and all that is where it's gonna be tough on some of these subcontractors.
+Andrew Meggs: Yeah. Yeah. I mean, we're we are here as a resource for to be able to help is to the best of our ability. And I will send all this contact information over to you. And then yeah, if you do and like I said, I'll escalate the same connector thing to fill to. And then if you do have any other questions or if you need anything else, please don't hesitate to to reach out and let me know.
+jbauer: Yeah. Brian actually works full time on a no contract. So his time is sometimes limited, but he's always seems to be available to well or later hours and stuff to get things done. So okay. Part of that delay could be on his part to that. He not been able to connect with sure with you guys during whatever time. But yeah, we need to get it up and going.
+Andrew Meggs: Yeah. Yeah. No, that I definitely agree. And then I was saying earlier, if you're having continuing issues with that definitely reach out to me again and I'll escalate that further. I will
+jbauer: Do that
+Andrew Meggs: Yeah, but you'll have all the contact info now at the very least. And yeah, let me know if you need anything else. And otherwise I very much appreciate your time and I hope you have a great rest of your day.
+jbauer: Okay. Well, thank you much.
+Andrew Meggs: Yeah. Have a good one.
+jbauer: You too, bye. Bye.

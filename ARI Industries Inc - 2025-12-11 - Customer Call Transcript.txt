@@ -1,0 +1,52 @@
+Account: ARI Industries Inc
+Call Date: 2025-12-11
+Duration: 00:07:06
+Participants: Robin Barrow, Anthony Plaza, Mckale Sison
+
+======================================================================
+
+APlaza: So
+Robin Barrow: Hi, Anthony. How are late you're good. Hey Robin. No worries. I'm sorry. I'm late. You're okay. No, you're how's 2 minutes. Everything going.
+APlaza: Not a lot of things are going
+Robin Barrow: I the reason why I asked for this meeting, honestly, is because we are taking a look at your current PreVeil account. And although we see 2 users in there it's really under what you all had originally paid for. Just take a look here.
+Robin Barrow: If I look
+Robin Barrow: If we look at the original agreement.
+Robin Barrow: You all paid for 10 light or 8 licenses. So yeah. Right now we're seeing 2 in the system. So I just wanted to see if I could be of any assistance and help you all get using the platform or see where you all stand to see if there's anything I can do, right? I think uh
+APlaza: That implementing the policies before we roll this and claim environment is what's holding us and setting up some some controls on the laptops that are that we're gonna issue. So oh, okay. We may need maybe we may need some recommendation from you guys or maybe you could
+APlaza: Help us roll this out.
+Robin Barrow: Yeah. Are you um
+Robin Barrow: So you are you're in the accelerator, correct? Have you used it recently?
+Robin Barrow: Um
+APlaza: It's Mckale. That's supposed to be doing this, but I think he's overwhelmed what's what's what's the requirement in here? So
+Robin Barrow: That makes sense. It is. It's quite a beast. We always suggest like, try going through the excel because it is going to tell you like what is all the way through how you score 1 10. But if he just needs like a jump start or maybe some reassurance yourself as well, I would go through the accelerator here and book time with our compliance team. That's exactly what they're there for. They're gonna help you all get a better understanding of what you need to do today. And then you can um
+APlaza: Where did I got? Like the
+Robin Barrow: If you're in the I can send over how to get back in here. But if you go to the compliance accelerator, you just book time right through here under additional compliance resources. So it's if you go to the homepage, it's right here.
+Robin Barrow: Okay.
+Robin Barrow: I think that will be super helpful and they'll be able to go over everything for you. And then if you all are in a situation where you need someone just to implement these policies for you, we would then go about recommending some sort of MSP or someone to assist you with this. We would ask one through our partner network.
+APlaza: Okay. Um
+APlaza: I think that's probably the way we want to go.
+Robin Barrow: Start with the compliance team and then maybe see if you need additional help.
+APlaza: Yeah.
+Robin Barrow: Okay. We can definitely do that. And
+Robin Barrow: I believe Chris has reached out a couple of times regarding the email gateway.
+Robin Barrow: That was back over the summer. Have you all been able to set that up? Yeah, that's been set up. Okay. Great.
+APlaza: Yeah. Everything's been set up. It's just that like I said, we were not able to roll it out yet because we need to like set some policies and controls, right? Yes.
+Robin Barrow: Okay. Yeah. I'm gonna I'm
+APlaza: Gonna review that one again. See okay. And get some help from you guys. Otherwise we like I said we may need to go with your recommended SPs, right? Just to get this rolling.
+Robin Barrow: Yeah. A lot of our customers go that route. I honestly just like you're trying to run a business and then this is a whole other beast, right? You have to dedicate time to it. So we get it. But I would say obviously, because that comes at an additional cost, right? So try to take what you have and that is the accelerator go through it when you can and then and then say, okay, maybe we just we need the help and then go the other route.
+APlaza: What's like the ballpark on how much does it cost for to go with that?
+Robin Barrow: I must be route, honestly.
+Robin Barrow: They're all over the map. Yeah. I couldn't even begin to give you a number. I know that's very annoying, but I would I would talk to our partner compliance team once. You just let me know and I'll loop you in with them and they'll they'll be able to recommend a couple of companies within your price range.
+APlaza: Okay.
+Robin Barrow: Um
+Robin Barrow: Great.
+Robin Barrow: And yeah, I mean, that's really what I want to talk about today. What questions do you have for me? Um
+APlaza: It's pretty much like, trying to get some more help from you guys, like you said, okay. I guess I had to do go with the compliance team then go from there and yeah, we've been also getting a lot of solicitation about CM
+APlaza: People trying to hey, we can help you this. But I'd like to get your input better than just going to with different companies that I don't have any background with them and I think you guys know more than what I know, right?
+Robin Barrow: You can definitely get compliant with PreVeil. We have companies that do it. And I like I said it just takes time and I'm glad we're able to connect today and I think definitely booking time of the compliance teams going to help you it's going to just give you that light and give you a direction of where to start. Sees a hot topic. So there's a lot of companies that are kind of spinning up and doing this. I don't need to tell you on PreVeil again, but we've been at it since before. So yeah. We understand. But again, it is a beast in. A lot of our customers are small businesses trying to do this so. You are in good hands. It's just we'll get you back on track.
+APlaza: Okay. All right. Sounds good.
+Robin Barrow: All right. I'll send a follow up email just with instructions to get back into the accelerator and where to book time. But other than that, please reach out if you have any other questions and we can do another check in like this whenever you'd like.
+APlaza: Okay. Sounds good.
+Robin Barrow: Thank you Anthony. Have a great day.
+APlaza: You too.
+Robin Barrow: Bye. Bye.

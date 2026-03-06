@@ -1,0 +1,77 @@
+Account: BrainBox Intelligent Marketing
+Call Date: 2026-02-12
+Duration: 00:13:21
+Participants: Robin Barrow, Katie Baxley, Zachary Folk, Scott Bridegam
+
+======================================================================
+
+Robin Barrow: Hi Scott. How are you?
+Robin Barrow: Can you hear me?
+Scott ' s Work iPhone: There we have my unmute.
+Robin Barrow: Yeah.
+Robin Barrow: I'm doing well.
+Scott ' s Work iPhone: I am traveling. I will have my video off and try not to stare at my screen.
+Robin Barrow: That's all right. No worries. Um
+Robin Barrow: I was this is your 90 day check in. I don't know. Is Camelot gonna be on this call. Do you know?
+Scott ' s Work iPhone: They we spoke last week. They said at least one of them to be so I expect to have them I think my co worker Tracy will be joining us to
+Robin Barrow: Okay. Great. Yeah, we can give it a few. We're at the top of the hour here. So we'll yeah, we'll just wait a few minutes.
+Scott ' s Work iPhone: Call Tracy.
+Robin Barrow: No worries. And if I'm sorry.
+Scott ' s Work iPhone: I'm having my co worker here.
+Scott ' s Work iPhone: Call Tracy and see if she's gonna be on PreVeil. I got you.
+Scott ' s Work iPhone: No work.
+Scott ' s Work iPhone: Yeah, we really haven't done a whole lot. Since our last discussion we got kind of went through the review. We haven't migrated any of our data yet. We just started with Camelot a week ago for just cms stuff that we're working with them. So a little bit of how we were gonna
+Scott ' s Work iPhone: Set up the environment. We've sort of been waiting on to determine what we have for certain controls and wanted me to give you anyway. Just so
+Robin Barrow: Yeah.
+Scott ' s Work iPhone: Ahead of time, at least we know what we're doing.
+Robin Barrow: I mean, yeah.
+Scott ' s Work iPhone: So
+Robin Barrow: No. Yeah, that's huge. I was gonna say we have Katie from did you flight on the phone as well? He's joined. Hi, Katie.
+Katie Baxley: Good afternoon.
+Robin Barrow: Good afternoon. Yeah. Yeah, Scott that makes sense. I mean, when I take a look at your system, that was one of the things I was gonna bring up. I do see 3 users which is everyone you're licensed for and yeah, that's exactly what this call is just to kind of figure out where you all stand where I can help if there's anything I can do as far as provide training or anything like that. But yeah, you at least you're in the system, I can see it. I think it's just doing a migration and starting to use it for what I yeah.
+Scott ' s Work iPhone: Yeah. We that's kind of the next steps in our mind, is that we're gonna migrate some data, none of it's C UI or anything like that. Katie, it's all sci, but we're gonna migrate that data from its current segmented place on our server over to in the PreVeil environment. But as I don't know, did you hear what I was saying a little bit earlier in Katie when I was talking?
+Katie Baxley: I heard the last little bit of it.
+Scott ' s Work iPhone: Yeah. I was just saying that we it was sort of the like, which comes first the PreVeil or the egg, I guess. But we were like, hey, let's start with Camelot Secure and do our rest investment and see what controls that we're putting in place need to be put in place in order to kind of set up I believe he's like yeah. Yeah. Hang on just a second. So Tracy, it's a zoom link. That was emailed to
+Scott ' s Work iPhone: It's a zoom link that was emailed to you on Scott said.
+Robin Barrow: I was gonna say I don't have Tracy on the invite I only see when Wendy. Oh
+Scott ' s Work iPhone: Well, that's not good. Can I have you forward this to her? Because I
+Robin Barrow: Sure.
+Scott ' s Work iPhone: Do you have her email? You should have it there with the PreVeil system. It's Tracy dot N O E at bi.com.
+Robin Barrow: Yep. I got it. I'll forward it over to her now. Sorry, I should have noticed that from the job.
+Scott ' s Work iPhone: I didn't notice it either, so. But yeah, she and I bill will be our other person bill and he will not be on everything that we're doing because he is not a permanent part of our company. We he's a third party.
+Scott ' s Work iPhone: Contractor that we use as required. But anyway, but I like I said we've I've been getting the notifications when an update is made. That's pretty much all I've been seeing so far in PreVeil because we really haven't been doing much in it yet. I know I'm gonna have some questions once we get set up in terms of the connections with outlook because I'm still pretty much doing everything that I do with our DigiFlight partners on the non Camelot Secure side. The ones that we are the prime contractor down for Sam b that we work our subs with that. We have the potential of cur but definitely have fi with them and I just need to make sure I understand how to use the correct PreVeil or my email through PreVeil. That once I start segmenting this stuff away from not transferring it that way. That's probably the only thing that we're gonna need a little more insulting.
+Robin Barrow: Oh, yeah. Um
+Robin Barrow: That should be just the outlook plugin. It's pretty simple to add. But it depends on the version of outlook that you have. Oh, here's Tracy now. So I can um
+Robin Barrow: What do we call? I can I'll send over the instructions on on how to do so. But if you have any issues and I'll probably just set up a support ticket as well. Hi, Tracy.
+Robin Barrow: Hello? Sorry. You weren't invited originally, but glad you now.
+Scott ' s Work iPhone: Yeah, I guess my only question with the outlook plugin, I feel like you answered this during our very first meeting, but just to refresh our memory. So once we put the outlook plugin in, does that mean that all of our email flows through PreVeil? Or can we segment just the stuff that's communicating with the contract for?
+Robin Barrow: You'll have a separate inbox that will be tied. It will say it will you'll have like a Secure messages in the regular inbox. Once you for third party communication, once you invite those individuals to join PreVeil express and they start communicating with you through PreVeil, you'll see those emails go directly to that secure messaging inbox.
+Scott ' s Work iPhone: Okay. And then so now I'm gonna switch over to Katie. I don't know if you've had this question Katie. But are do you know if the programmatic folks in DigiFlight are using PreVeil as well? So like when I talk to my program manager down, there, rest the Savage, for example, that he and his team are already using it? Or are they gonna have to communicate with us through through that invite of
+Katie Baxley: What? Yeah. So so to my knowledge rusty doesn't but like, I know that for one of our other customers they were testing it out with us and they sent me the link for the express. And so so whenever he would send us an email, it would show up in my regular email that I had an e mail in PreVeil express and I would click on the link and it would open up and I would log in and
+Scott ' s Work iPhone: So really for you or for rusty, his e mails will just be the same to us. It's just that once we connect his, I guess his email address and domain to that, it'll it'll flow into the PreVeil.
+Katie Baxley: Yeah. He'll have a notification in his DigiFlight at he needs to log in and into his it's a free PreVeil account. If I'm not mistaken, right? Robin
+Robin Barrow: It is. Yeah, yeah. That's exactly it. So he'll he'll receive an invite and we'll be able to once he joins one time, he'll have that free account as and he'll be able to communicate back and forth. Same goes for drive. If you share anything over drive. Once he creates that link and you share with him, he'll be able to see within his drive inbox as well.
+Scott ' s Work iPhone: Okay. Well, that's kind of interesting Katie. I mean, because I know he's conversing and emailing with more than and it's not just him it's the contracts folks too, right?
+Katie Baxley: Yeah.
+Katie Baxley: We have GCC High so.
+Scott ' s Work iPhone: What is that?
+Katie Baxley: The government government cloud commercial government cloud for Microsoft.
+Scott ' s Work iPhone: Okay. Okay. That's how they're getting around.
+Robin Barrow: And Katie, you're you were able to download peril express there wasn't any okay. There wasn't any blocks on your end like security blocks or anything like that?
+Katie Baxley: Correct.
+Robin Barrow: Okay. Great.
+Robin Barrow: All right. I just yeah. I was gonna say, Scott the only time. Sometimes we see a little friction with pure express. It's for users that just have security blocks are not able to download software into the computer. They're not able just for like security measures or if they're, for instance the Navy they won't use PreVeil in in some departments. So if you encounter a lot of friction with that, if you're working with any outside communication, then we have another product that we can offer as well.
+Scott ' s Work iPhone: Okay.
+Scott ' s Work iPhone: Tracy now before you got on. Sorry, I didn't notice that you weren't invited either. See Tracy is a pretty big deal around here, guys. So she's usually invited everything. So I just don't so but anyway Tracy before you got on, we were talking about that. We'd be migrating some data from our server. Did you have any questions about that? Because I know there's like a process that makes that easier or something. I remember in our first meeting back in December they were talking about. But I thought, yeah.
+Tracey Noe: No, I think it's it seems like it's gonna be pretty straightforward. I just kind of need to know when it's when is the green light when we need to make that move and then I'll circle back with bill bill and make sure that I'm sure there'll be some residual backups and stuff in the cloud system that that he uses to backup our servers. So we'll want to make sure that we eliminate those from the so everything's in that Secure space.
+Tracey Noe: Right. Okay.
+Scott ' s Work iPhone: Well, I don't think we have any other questions unless you guys have something for us.
+Robin Barrow: Yeah. No. I mean, the only I just wanted to see where you all stand. Like I said, I can see your organization up and running. We are moving to something called cloud drive, but I'm sure our marketing team and support team will spam you before that gets released. You don't have to worry about that. Now it's just gonna it's gonna be an overhaul of drive and just make it a lot more user friendly. So it will be a good thing, but again, we'll give you plenty of heads up before that actually happens. But yeah, I mean, that's all I really want to cover today. Is there if there's no other questions, I'll let us jump early. But of course, please let me know, especially when it comes down to that migration. Let me know how I can help get our support team on and yeah, we can definitely assist with that.
+Scott ' s Work iPhone: Okay. Katie, do you have anything that you need?
+Katie Baxley: No, sir. Just wanted to make sure that you guys are happy. And if there was anything you guys needed from us, I wanted to be here to make sure.
+Scott ' s Work iPhone: No. I'm sure we'll be in communication with PreVeil PreVeil again. But it'll probably be as we start the
+Scott ' s Work iPhone: Stuff we're working with you guys on and we
+Scott ' s Work iPhone: Figure out controls that we need to put in place and then we go oh,, we need to do this. Do that. So anyway, that's where we're at.
+Robin Barrow: Sounds big in.
+Robin Barrow: All right. Awesome. Well, thank you all have a good afternoon. You too. I'll send a follow up with a recap of everything, but yeah. Thank you. All so much.
+Katie Baxley: Thanks, Robin. Thanks. Scott and Tracy. Bye. Bye.

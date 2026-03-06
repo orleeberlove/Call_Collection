@@ -1,0 +1,129 @@
+Account: Cyber Engineering Services
+Call Date: 2025-12-11
+Duration: 00:22:35
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: Hello.
+Jeff Winkler: Hello. How are you?
+Robin Barrow: I'm good. How are you? Here I can turn my camera on. Good morning.
+Jeff Winkler: Good morning. How are you doing afternoon, whatever. Whatever time zone you happen to be in.
+Robin Barrow: Oh, it is afternoon. Oh, my gosh, it's 1:00 o'clock. We had our company meeting last night. So everyone's a little delayed today at we had or I should say company offsite all day. All day yesterday. But yeah. Awesome. Good afternoon I should say. You are Maryland base, correct?
+Jeff Winkler: Yes.
+Robin Barrow: That's correct. Okay. Yes. Yeah, I'm in Massachusetts. Lindsey, so. Oh, okay. Not too far. Yeah. Both east coast. Excellent. So this is your welcome call. Honestly, this call shouldn't take too long. We're just gonna go over what you all signed up for a talk a little bit about why you need PreVeil and then we'll talk about next steps and how to get started. But I am your customer success manager. So I'll be your main point of contact here at PreVeil. I know you worked with Eric previously, but I'll be your main point of contact moving forward. Okay. Perfect. Yes. So to confirm, what you all signed up for I see you have 5 users to those are admin. You also purchase the compliance bundle, which includes the compliance accelerator as well as our GRC tool.
+Robin Barrow: Does that all sound accurate?
+Jeff Winkler: Yes. And I had a question about the the 5 plus 2. Yes, you said 5 users and 2 are admin.
+Robin Barrow: Yes.
+Jeff Winkler: So I couldn't so the admin has to be one of the 5 license users.
+Robin Barrow: That's how it is right on the quote or the agreement right now. But if you all that wasn't clear with conversations with Eric, I can double check, but I
+Jeff Winkler: It was actually something asked me before the call. So
+Jeff Winkler: Works with me.
+Jeff Winkler: He's gonna be involved in some of the Microsoft 365 configuration and stuff.
+Jeff Winkler: Is not someone who would have expected access to see why?
+Jeff Winkler: He wouldn't be included in one of the 5
+Jeff Winkler: But then it kind of had me question like, oh, wait a minute. It might make sense for him to be an admin.
+Jeff Winkler: But like if that's not how it works, then like okay. Fine, whatever. Like
+Robin Barrow: Yeah. But what we could do I would like is just um
+Robin Barrow: Be an admin to start out to help you all get deployed and then back out the system's not gonna stop you from adding the admin. Obviously we do that for the purposes if you needed to license very quickly and you didn't want to have to go through because we would have to update your order form and everything like that for additional licenses. So yeah, I would say for the time being, just while you all get started, you can have that additional admin and then can back out once you all start getting in there and start working with it.
+Jeff Winkler: And is the so the 5 licenses that we have are those I mean, I'm assuming I can transfer right if somebody quits?
+Robin Barrow: Oh, absolutely.
+Jeff Winkler: I can remove their account, add another person. If we have role changes or something within the company. Like that's as long as we're not abusing it, right? Um
+Robin Barrow: Correct. Yeah. Adding
+Jeff Winkler: And removing people every day or something.
+Robin Barrow: Right. Yeah. The like I said, the system won't really stop you. But if as long as you
+Robin Barrow: Are adding 20 licenses in one day, then we'll probably flag you. But other than that yeah. They're you're good. Okay. And we'll obviously we'll be in chat. So if you need additional licenses, just reach out to me. And, like I said, I'll tell you to add them and then we can update your correct great. Great. So, yeah, I guess if you don't mind sharing, why do you all need PreVeil?
+Jeff Winkler: So I mean, you're familiar with the CMC compliance requirements that have come down. Yeah, we're a small company 20 employees. As you can see from our licensing, very few of them. Potential access to say, we have some business in the works that. We actually have one contract right now that has actual requirements in it. Okay. And we don't have a good story for
+Jeff Winkler: Cms compliance. So, okay. The last few months we've been kind of going back and forth around some of the policies and technology we have. We're we've traditionally been a very uh
+Jeff Winkler: Disparate kind of it. We don't have a lot of corporate managed devices. A lot of it is by and some of it was initially by design didn't want this huge infrastructure that one we would have to manage into that could potentially be compromised. There's something to be said about everybody having individual stuff, right? Bad guy gains access, he can't go anywhere, right? Your system so but that doesn't it doesn't fly well, when you start talking about the applying controls and you know, providing assurances that confidential or secret information is not
+Jeff Winkler: That it's being handled properly. So, right?
+Robin Barrow: Right. Yes. Yeah.
+Jeff Winkler: So we started looking at at what we had. We went through a couple of different kind of options. We had another client that used PreVeil to send us some messages and that got us going. Hey, wait, what is this? So we looked in talking with Eric and the team there. They convinced us that. The PreVeil, Microsoft 365 configuration solution was one that could help kind of accelerate our path to uh
+Jeff Winkler: Showing compliance. I understand it won't make us compliant. We have there's still a lot of work that we have to do and configuration and things, but but yeah, we like what we heard. So we said, you know what let's let's do this.
+Robin Barrow: Yeah.
+Jeff Winkler: So that's kind of where we're at today. Um
+Robin Barrow: Okay. No, I mean, that sounds pretty straightforward. That's our typical use case that we have here at PreVeil. And if a lot of our customers, either they have contracts in place or they're seeing a lot of contracts that are coming down the pipe that are going to require this so yeah. No, that's pretty straightforward. And you hit the nail on the head. PreVeil we always say we share around 102 controls, which that means is very ambiguous number. It means not if you install PreVeil and walked around walked away and did nothing, right? That would be around 35 to 40 controls that are covered under cms level 2. The work comes in, is the policies the training of employees, protecting your assets. That's the big chunk. And I'm sure and if you did and I can share with you, but it's all also lives in the accelerator, which I believe I added you to. The shared responsibility matrix does a great job of breaking down, okay. Where does PreVeil come into play and then where do you all come in play? So it's it's pretty detailed. But sees a beast there's no real easy button wherever you go, but our solution and you've already heard this from Eric, so I don't need to sell you on it, but it's geared towards small businesses that are trying to make this work and they don't want to rip and replace everything they have in place today. I have to migrate over to another system. So
+Jeff Winkler: And the good news is we're basically going to be building it to spec, right? So okay. Yeah. We do have a Microsoft 365 environment. But we really only use it for like, productivity applications. We're not even like today our users don't even that's not where they send and receive email and all of that. So
+Robin Barrow: Oh, okay. It's
+Jeff Winkler: It's fairly out of Box, bare bones configuration. The good news is we should be able to apply configuration there and not impact a lot of stuff.
+Robin Barrow: Yeah.
+Jeff Winkler: We don't have much going on our policies and our people very flexible. It's not like we have a rigorous compliance mandate for something else that if we go modifying policies or implementing new ones, it's going to have some grand effect. If anything, it'll just make us better. So we're looking to adopt solutions and policies and I saw that in the accelerator. There's
+Jeff Winkler: There's not 100%. You can't just take what's in there and adopt it, but pretty close. Yeah. If we're missing something it's probably documented there and we can change the names and you know make it our policy and have our people follow it. So
+Robin Barrow: Right.
+Jeff Winkler: So that's a good news there. Are there limits to the number of people that could have access to the
+Jeff Winkler: Accelerator
+Robin Barrow: Yes. So there there is a limit of 3 individuals that can be interchange. Obviously, as you have a lot of customers that will stay like, oh, we thought this person would have enough time to work on those projects. So we have switched out like you can switch out roles, of course. But yeah, the limit is 3. And same goes for the C, which I'm actually going to add you to right now as well.
+Jeff Winkler: Okay. Yeah. And the only I ask one just can we add more than myself of course and then you kinda hit on something oh, I thought this person was going to be involved. One of the things that I've noticed here at cyber sign, I've been working on this side of the house for about the last little over a year. Before that I was still working for cyber side, but on contract with other organizations. So I didn't have insight, but based on, kind of what I've seen here, like and some of the work that we do. So we're also an incident response firm, right? We have customers that are on retainer and if they have something bad happen, they call us and we help respond to that. So some of the work that we do is unscheduled emergency. Okay and I'm a member of that team. So
+Jeff Winkler: I've seen a couple of other things, drag out a little longer than we expected them to because of that, right? right now, if I knock on wood, it's really quiet. We have time to to focus on getting this stuff done. But tomorrow I could get pulled into something that takes my attention for 3 weeks. So it doesn't mean I'm not available. It just means we probably won't make progress on stuff. Okay. Yeah, that should only take a few hours to do. Yeah, I know I'll get to it soon. Yes. But I don't know when, you know. Yeah, if we're kind of starting starting and stopping a little bit the first month or so. It's yes. Probably why.
+Robin Barrow: So that's honestly, super helpful. We you probably know this, but we do track usage. We want to see where our customers stand. Especially in the first 90 days. I will actually have a 90 day check in with you all. That's helpful. I'm gonna put that on your account just saying like
+Robin Barrow: It's just your business of your the nature of your business right now. Yeah.
+Jeff Winkler: Right. Like and even from an implementation perspective I don't not that any company really has just a group of people sitting around waiting to do work. But yeah. But the work that we were very kind of cross functional where a lot of different hats it's probably even less dedicated than than maybe some of the other companies that you've worked with. Like a while he's involved. He's also a security analyst. So he works in our security operation center. He could get involved with some of our other MSP work that's going on. He could get pulled into incident response, you know? And that's just the things that we know we need him to do. Then this stuff comes along and it's like, oh, hey.
+Robin Barrow: Yeah. Need to
+Jeff Winkler: Get you involved in this so
+Robin Barrow: You guys didn't come to work every day to work on cms level two it's yeah. Yeah. No, I get it and you a lot of our customers are operating this way there are cater to small businesses and everyone's wearing 1,000 hats and trying to run a business at the same time. We'll I'll try to meet these requirements. I also used to sell a payroll platform and I knew people didn't start a business to run payroll. So it's the same thing. It's just like it's a need to have so I get it. And that's okay. And I'll definitely make a note on your account. Okay. Just to make sure. But of course, you just always know that I'm here if you need help or you're stuck. You have also have access to not only our support team. You have access to our compliance team. You have a lot of people that you can contact here at PreVeil. And honestly, it might be too many. So if you ever get confused, you're like, I'm not sure who to go to for this. Just now it's me one in doubt. So um, okay. That's I did add you to the C platform. So you will see an invite for that. Within moments in your email. That is operated again, you're not going to have 3 logins. One for the PreVeil platform, one for the accelerator, one for the GRC
+Robin Barrow: There will be a day when it's all in one, but that's just the case right now. Our GRC is operated by it's powered by. We manage it's powered by a company called is I don't know if Eric mentioned this to you. They're great. They developed this tool with us and for us for our customers, really. They've been in the space, but they did mainly is work. So they started to do cms and put the CMC requirements within there. And that's what you see today. It's really easy to use tool, but if you have any issues, just reach out to me and we can set up some time with their engineering team. Okay.
+Jeff Winkler: Awesome. Um
+Jeff Winkler: I noticed you sent it to my sabres.com account. Yes.
+Robin Barrow: I don't know if
+Robin Barrow: I'm
+Jeff Winkler: I don't know if I want you to change that.
+Jeff Winkler: I don't know. So I have another account and it's actually the one that I've set up in PreVeil.
+Robin Barrow: Okay.
+Jeff Winkler: It's a yes. I hyphen gov.com.
+Jeff Winkler: Because I'm looking to move these users that are gonna be using PreVeil into Microsoft 365. I want them. Because we have both google workspace and Microsoft 365. I'm gonna have their accounts and all of the work and everything that they're doing on workstations controlled by Microsoft 365 with PreVeil. But I can't split the company across I can't split the domain across 2 different systems. So that's why I have that other domain name.
+Robin Barrow: Okay.
+Jeff Winkler: Um
+Jeff Winkler: Yeah, I wish I knew when I was going to move ever when I'm just gonna move the whole company over, but um
+Robin Barrow: You it's really easy to change. If you wanna think on that and have me updated. I am happy to it's up to you. Yeah.
+Jeff Winkler: If you could yeah. If you could update it. Yeah.
+Jeff Winkler: I hyphen. Gov.com. Okay.
+Robin Barrow: Hyphen.
+Jeff Winkler: Same Winkler? Okay.
+Robin Barrow: Do you because the do you mind just putting in the chat just so I can make sure I got everything, correct?
+Jeff Winkler: Sorry. No worries.
+Jeff Winkler: Okay.
+Jeff Winkler: Yeah. I'm just trying to like I said silly, but I'm trying to just keep kind of a wall of separation there between my normal accounts and systems and because every like I say everyone that's gonna have access to PreVeil will be within that other domain.
+Robin Barrow: So okay. All right. I did update your email and your username to be the hyphen gov, so you just let me know if it doesn't work, but it should. So it should be updated. Okay. Okay. Great. And you got into the accelerator, I can change that email as well, if you'd like.
+Jeff Winkler: I think it already is. I think what the email that I sent you was the
+Robin Barrow: The hyphen gov. Okay. That makes sense.
+Robin Barrow: Okay. Great. And you're already set up in PreVeil?
+Jeff Winkler: Yes.
+Robin Barrow: Okay. Excellent. Have you all had a chance to create your organization as well?
+Jeff Winkler: I went through the welcome or through the
+Robin Barrow: Yep.
+Jeff Winkler: How far do I get though I got to.
+Jeff Winkler: Create a new organization.
+Jeff Winkler: And then
+Jeff Winkler: I think that's about it, right? I haven't added any other users or invited anybody else. Like there's no recovery group setup or anything.
+Robin Barrow: That's okay. Okay. Great. I see it now. Yeah, all you need to do really from here is book time with their technical support team. They can go over how to create a recovery group, all, all those functions with you. It should we typically ask for an hour, it shouldn't take that long, but um
+Jeff Winkler: Okay.
+Robin Barrow: It all depends.
+Jeff Winkler: I'm so sorry. Well
+Jeff Winkler: And I think
+Jeff Winkler: I'm trying to remember. I feel like I may have and I got into the gro platform by the
+Robin Barrow: Way me one second. I'm so sorry. No worries.
+Robin Barrow: So
+Robin Barrow: So sorry, I had 2 really tough dogs trying to protect the house from the wind. So uh
+Jeff Winkler: No, I hear that.
+Robin Barrow: Um
+Robin Barrow: Okay. So
+Robin Barrow: We your org setup that's amazing. You are now in the accelerator. We just gotta make sure you get into GRC um
+Jeff Winkler: Yeah. And I was able to get into GRC
+Robin Barrow: Perfect. Okay. Great. So you're in there and then you just let me know what additional users you want to add to both the accelerator and the GRC again, you get 2 more in each and um
+Robin Barrow: The Acme docs that you see in the accelerator also live in the C you probably see them in the library there. Okay. Do you all have data today that you need to put in PreVeil? I know you said
+Jeff Winkler: Yes, but it's not like a bunch.
+Robin Barrow: Okay. Is it like under 100 bytes, would you say
+Jeff Winkler: Yeah.
+Robin Barrow: Yeah. Okay. You all should be good, then. We just say if you ever have a situation where you need to add more, just let us know.
+Jeff Winkler: We'll probably set up so.
+Jeff Winkler: Yeah. We do have some I mean, and we also intend like, we have some sci okay. That we've been kind of handling with kid gloves. We you know, we're talking about it last week and we're like, oh, you guys are the same people that handle I get your sci in there.
+Robin Barrow: So yes. Yeah.
+Jeff Winkler: Kind of kill 2 birds with one stone.
+Robin Barrow: But yes. There you go. I know we're seeing more and more of that too. Um
+Robin Barrow: Okay. Yeah, that sounds good again. If it exceeds more just let me know. And that's really all I had today. Did you have any other questions or on next steps or anything like that?
+Jeff Winkler: No. I mean, I'll get a technical call setup. I think I was just I have it on my list to do. I talk to you. I was like let me talk to her first and see what see if there's anything else that we would need to do. So
+Robin Barrow: No, you all are in a good spot. Appreciate it. Honestly being proactive like that and getting your org setup. It just makes the call a lot smoother with the tech team so they can train you out of your organization. Sure. Saves time too. But great. Yeah, other than that, you are off to the races. I'll schedule some time for us to connect in march. Again, as we get closer, you let me know if it's we need to push this out. That's fine too.
+Jeff Winkler: Yeah, I'll you know, I'll reach out if we have any questions or perfect. Anything there so
+Robin Barrow: All right. Awesome. Well, nice to meet you both. And thank you. Yeah. Thank you for working with us and let us know if anything comes up.
+Jeff Winkler: Sounds great.
+Jeff Winkler: Bye.

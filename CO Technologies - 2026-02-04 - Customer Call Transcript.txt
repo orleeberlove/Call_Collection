@@ -1,0 +1,58 @@
+Account: CO Technologies
+Call Date: 2026-02-04
+Duration: 00:11:36
+Participants: Andrew Meggs, Philippe Rodrigues, Mike Clemons, Anders Borg
+
+======================================================================
+
+Mike Clemons: Hello Mike?
+Mike Clemons: Hey, Andrew, how's it going? I am doing well. How are you? I'm good. I'm just waiting on Anders to jump on as well. I sent him the link.
+Mike Clemons: So hopefully he'll jump on here in a minute.
+Mike Clemons: That's Phil.
+Mike Clemons: Hi Phil.
+Philippe Rodrigues: Hello.
+Mike Clemons: All right. Anders where are you buddy?
+Mike Clemons: Let me shoot him a quick email here.
+Mike Clemons: He's pretty good. Um
+Mike Clemons: Let's see here.
+Mike Clemons: Andrew, I believe that's Anders joining now. It is.
+Mike Clemons: Hey, Anders looks like you're muted. There we go.
+Anders Borg AWN: Are the cool guys, good?
+Mike Clemons: Hello.
+Mike Clemons: So Andrew we've got Andrew and Phil here from PreVeil and Andrew and Phil. We've got and Anders here from Arctic Wolf.
+Philippe Rodrigues: Are you there? Nice to meet you?
+Anders Borg AWN: Been talking a little bit with Mike about some potential sort of solutions for a customer that he's got. And literally, I guess what we wanted to address today was primarily around sort of the functionality and the mechanisms that you guys use in terms of your sis log collector like your like the cloud connection as mentioned in the documentation? Yeah. And basically the biggest question is we don't have a parser for your logs yet, so like, we wouldn't be generating automatic alerts. So the goal would be to if we could get just like flat typical RFP sis log sent somewhere either on the customer land or a cloud environment depending on what options you guys have. That's really what we're after. Because then we would sort of leverage that for manual investigation. An alert gets triggered by Sentinel one or something. And then we go back in and coordinate look at what was happening in the logs with you guys around the same time. You know that kind of thing. And it sounds like just based on your response that would be possible to get it forwarded to a local like basically like to our management interface. So that's just like a log
+Philippe Rodrigues: Yeah. Yeah, we use a component called log.
+Anders Borg AWN: Oh, yeah. Absolutely.
+Philippe Rodrigues: Yeah. We can CP or as a cell connection to to to your network and then you can or if you have an added address, we can send it to there and then it gets routed through your firewall to receptacle. We're also pretty flexible about how we um
+Philippe Rodrigues: How we get the logs. So by default, we export them in, xml format, sis log. But we're pretty flexible there with enex log. There's a few formats that would take like, a premium version of x log. But we're pretty flexible with the built in option. I could show you a sample of what the logs look like today and I'll just drop a link here in the chat. So you can see it's AK article and there's sample of the logs that you can download and open on a text editor.
+Anders Borg AWN: Awesome. Thank you. Right.
+Anders Borg AWN: Understanding data fields. Cool. And then it looks like yeah, we have this just
+Anders Borg AWN: Awesome. Yeah.
+Philippe Rodrigues: A lot of it goes to the raw data field. Currently
+Philippe Rodrigues: But that field could be search with key words and terms and we also push it out. Everything in the same severity level. Yes, some modification might be needed on the receiving end to
+Philippe Rodrigues: Classify the logs and build things like alerts and signals. Um
+Anders Borg AWN: And that's something that we would take care of as part of our setup with the Arctic. So listen like basically on our backend say, okay. Well, we know that we our automated system isn't going to be able to parse these. So just making sure that we're getting sort of at least we have the logs then for manual correlation with other events. Basically is kind of the goal. And it sounds based on what you're telling me. That's not gonna be a problem in terms of sending PreVeil sis log to the management interface of a physical.
+Philippe Rodrigues: Also so we use our next log and we we have an input. So we route the the PreVeil logs in. And then we route it to an output to an external destination. So we could do is host, port certificate file and then we could send out over a call or through an added address. We've done both
+Anders Borg AWN: Okay. Yeah, I think just in terms of I'm just sort of thinking out loud in terms of the control that I have. If I'm thinking about how to make this function for a customer and what I have access to you, I think it would probably end up being where we would forward it to an added address rather than setting up your certificate setup. I guess is it CP exclusively or well, I mean, I've used entelo pretty extensively in the past. But in your case, do you guys have a hard requirement instance personal hard requirement?
+Philippe Rodrigues: We can do up. Okay. Whichever port you'd like?
+Anders Borg AWN: Okay.
+Anders Borg AWN: I plastic this log a problem then.
+Anders Borg AWN: Okay. And I guess just out of curiosity one of the other things that we're kind of considering was sort of the logging that you guys are doing in relation to the customer's access and like, identity and things like that. So, for example say you guys were gonna log a new user logged in from x location, right? Like when you generate those logs, if you said exclusively get them generated in PreVeil or do you guys also log to something like, for example, like a log analytics we're based in Azure or like an s 3 bucket on AWS? is there additional components that prior?
+Philippe Rodrigues: Prior to send connection everything is logged, exclusively in PreVeil and there. So the user those actions share folders, send emails that's all written on the ledger in the software and then that's encrypted with the users public and private keys. And then that's transmitted to the backend where stored in a as encrypted data blocks on an Amazon history bucket. And the only mean so decry Ted is for either the user to pull up their activity logs in the UI or for the admin to export it through an approval group process. And the same connection works with this export process just as an automation as opposed to a manual manual operation.
+Anders Borg AWN: I mean, hey, anytime they can simplify something for you. It's it's not a bad thing, right?
+Philippe Rodrigues: Yeah. Yeah, it's a 10 encryption system. Only means to decrepit is through approval processes or an administrator. The same connector automates it every 15 minutes. We have a process to export data the administrator calls for the data and then the approval group must approve of it. So these 3 users will receive approval requests and then if 2 of the 3 approved and it's then it's done. So what we do is we transplant the administrator in the 3 users onto a server. We call this connector. And then we run a special version of the PreVeil software that will run these exports every 15 minutes. So then the logs will come in. It gets decry Ted and then passed over to NEX log and then log writes it to a file. Typically, but we could also just have it pass through and forward to an external IP address. Typically we have 2 interfaces forwarding the logs to an external party or passing the logs onto an agent, which then sweeps up the logs. In a certain directory on the server.
+Anders Borg AWN: Yeah, makes sense. I mean I mean, based on on what you're telling me I don't really foresee any particular hurdles with getting that taken care of. So I mean, that's really the long and short of what I was looking for. So I appreciate that you guys are awesome at and making things nice and clear and concise. So thank you for that. But I guess Mike what other questions concerns did you have from the us? I don't give me credit. The credit all goes to fill it.
+Mike Clemons: I don't give any credit, but continue. Yeah. Anders I was just looking to see if you guys were able to adjust those logs and then take those and make them into meaningful information and alerts and things to trigger on.
+Anders Borg AWN: So we wouldn't be alerting or triggering on anything automatically. These logs would be used for investigation in the event of an incident. So for example with a 365 connector, just to take an example, we use the Microsoft graph API. We pull the logs from unified audit logging. We can generate alerts oh, there was this particular like, deal can be like, data loss, prevention. Oh, this got triggered. Okay. Now that generates an alert, right? in the case of PreVeil what we'd be doing this thing, we get the alert from a different source potentially either our endpoint agent or one of the other API connections depending on sort of how what the incident is, right? and then based on that, we leverage these logs for additional investigation which I know after talking to the guys on the security team, that is something they like to be familiar. Even if we can't parse it. Especially with the system, like a setup like PreVeil. I know that they would find value in in having those logs even if we can't necessarily alert on those things natively. If that makes sense.
+Mike Clemons: Okay. All right.
+Mike Clemons: Well, it sounds like it can be done.
+Anders Borg AWN: I mean, sounds like we got us covered man. So
+Anders Borg AWN: I'm feeling pretty good about it, but yeah, I mean, obviously if other questions come up or customer has other questions, things like that, we know, but I think at least for the moment that's really all I had for you guys. So I appreciate you taking the time today.
+Mike Clemons: All right. Cool.
+Mike Clemons: Thanks, Andrew, thanks. Phil for attending and putting this together Andrew.
+Mike Clemons: We got the questions answered. We needed a question or answers for so cool.
+Philippe Rodrigues: Wonderful. All right. Glad I can help. I think so. Thanks.
+Anders Borg AWN: Have a great.
+Mike Clemons: Thank you, Andrew, of course.
+Mike Clemons: Bye, bye.

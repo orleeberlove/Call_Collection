@@ -1,0 +1,128 @@
+Account: ACME General Corp
+Call Date: 2026-02-06
+Duration: 00:19:31
+Participants: Kirk Curry, Andrew Meggs, E. Hall
+
+======================================================================
+
+Edward Hall: So
+Edward Hall: Kirk is apparently in the waiting room.
+Andrew Meggs: Yes, I believe Kirk there.
+Edward Hall: Andrew I added Patrick said and David on file to the invite. I don't know if they're going to attend or not. Okay. I'll just watch for watch for anybody else trying to get in.
+Andrew Meggs: Okay. Sounds good.
+Andrew Meggs: Do you want me to give them a second or I would
+Edward Hall: I would start go ahead.
+Andrew Meggs: Sure. Okay. Well, I say go ahead there's not really like a super formal presentation or anything like that. This is mostly supposed to be just a welcome intro call, sort of thing. For context, I am the customer success manager for your account. So what that means is, I am your General main point of contact and account manager going forward. So I like to uh
+Andrew Meggs: Have an intro call with my clients to let you know why exist, but be kind of go over the onboarding process and make sure you don't have any initial questions.
+Edward Hall: Sounds good. And as far as we go, I'm director of operations, Kirk. I don't know, Kirk 's title, but Kirk is one of their software gurus and knows more about how we're currently setup than I do. Okay.
+Andrew Meggs: Yeah. So probably the best 2 people to have on this call, anyways. So so kind of getting started with PreVeil. There are 2 separate pillars. There is the technical implementation and then there is getting into all the compliance documentation and compliance stuff.
+Andrew Meggs: So for the technical implementation there needs to be one person who is going to be actually setting up the PreVeil organization and who will be the initial administrator of the org. Would that be Kirk then? Or would that be you
+Edward Hall: What are your thoughts Kirk?
+Kirk Curry: I guess the question would be can there be more than one admin?
+Andrew Meggs: Yeah. So so you can have more than one admin just you're currently license for 13 total users, 2 of which can be admins.
+Kirk Curry: Okay. But there just needs to be one person who
+Andrew Meggs: Does the initial setup, I guess, is what I mean? You can have more admins down the line, but one person will be doing the initial setup.
+Kirk Curry: Okay. I don't I mean, I don't think it's going to be that technical ed. I mean, from what I've read on PreVeil, I mean
+Kirk Curry: Is that true, Andrew? I mean, how much technical do you really need other than ads? Are google admin like our enterprise admin? I mean, it's fairly similar, right? You create accounts?
+Kirk Curry: Set your settings. I don't know how much technical, true, technical.
+Andrew Meggs: No, you don't need and you need the ability to download something under your computer and that's pretty much it.
+Edward Hall: I can do that.
+Andrew Meggs: Yeah. Yeah. Yeah. So so I sent some instructions that initial email over. It's super straightforward. It's basically just Kirk was saying you go to PreVeil.com backslash, download, download PreVeil, create an account and then there is a specific IP address to go to that while you're logged in. If you go to that address, will prompt you to create the organization. And if you do that, you'll be set up as the administrator and then you'll be able to add other users. The whole thing takes maybe 7 8 minutes tops. Okay. And the bulk of that is just waiting for PreVeil to download and install. Yeah, no. Technical knowledge, necessary. I mean, the only complication is if you need like it approval to download a software or something like that would be the only
+Edward Hall: I can take care of that. Yeah. You got my email. You just want to put me as the admin to take care of the initial setup.
+Andrew Meggs: Well, that's what I'm saying. You'll need to do it on your end. There's nothing on our end that we, right? So
+Edward Hall: You're asking me for the names and email addresses.
+Andrew Meggs: Right. That's for the other thing. That's for the compliance stuff.
+Edward Hall: Okay. I'm sorry. I was down on part 3 part 2. I can just log on and do it.
+Andrew Meggs: Yeah. So kind of the full process of the technical implementation is going through that those instructions and creating the organization. Which like, it takes like, 7 minutes. And then after that, it's scheduling the actual like, hourlong training and onboarding session with our support team. Which will kind of go over how to use PreVeil as well as admin roles and responsibilities. So that
+Edward Hall: That's that a bit for everybody. Yeah. Well, it
+Andrew Meggs: Can be for everybody if you'd like. And it is end user training. Some of it will be outside of the scope of your end users because it'll also be admin stuff how to create recovery groups and things like that. But you can certainly invite whomever you'd like to that. Okay. And then as part of your subscription, you also have our email gateway that as a heads up is actually gonna be a separate implementation after you're done with that initial onboarding with the support team. So just after you're done with the onboarding, either Chris or Phil, from our support team is who does all the email gateway implementations. They will reach out to set that up.
+Edward Hall: Okay. Sounds good.
+Kirk Curry: That's really that's the part around what's your kind of on cave is gonna be called, right? our emails that domain part? Yeah. So basically
+Andrew Meggs: Once you create the org technically you'll be able to start using PreVeil 5 minutes from now, if you wanted. But normally when you communicate externally or to another company that person or company would need to sign up for PreVeil express account in order to communicate with you to decry the messages. The email gateway allows you to email them to their normal inbox without them having to sign up for PreVeil express. So basically you'll be working with our support team to create a sub domain usually secure dot ACME General.com.
+Kirk Curry: Yeah. Yeah. Yeah. That's what we were had, been have those discussions and before
+Kirk Curry: What we want to call that.
+Andrew Meggs: Yeah. It couldn't be named anything, but the standard is secure dot, whatever, yeah.
+Edward Hall: I'm in favor of secure and we're just going to get approval for that.
+Andrew Meggs: Yeah. Yeah. You might need to work with Kirk to get the all that implemented. But like I said that's kind of the timeline of getting things started as creating the org going through the initial onboarding and then implementing the gateway which is done after that. Initial on boarding.
+Edward Hall: Sounds good.
+Andrew Meggs: And then completely separate from that separate website. Separate login is all our compliance stuff. So that's the I believe the step 3 you were referring to in that initial email. So that is the um
+Kirk Curry: That's the fun part.
+Andrew Meggs: Yeah, that's the extra fun part. So it is unfortunately 2 separate logins and 2 separate sites. So we have our compliance accelerator, which is a video doc series and walk through of cms compliance as well as a repository of compliance documentation and our GRC tool, which is the project management tool to actually become compliant. So
+Andrew Meggs: For those you can add up to 3 people in there and they don't have to be the same people that use PreVeil. And I am the administrator of those sites. So I can add you to that right after this call ed. But should anyone else be added to that right off the bat? So that would be the people who are actually like, marketing ACME compliant actually creating the policies. Yeah.
+Kirk Curry: Kirk, yeah. Myself and probably Patrick to what do you think? maybe not right off?
+Edward Hall: The time to do anything right away.
+Kirk Curry: Okay. Sure. I'll go ahead and add the both of you.
+Andrew Meggs: To that. And you'll see e mail invitation separate email. You're gonna see a bunch of emails after this. I apologize in advance. But basically you're gonna see an email invitation to the accelerator and an email invitation to the tool. And I will also include direct links to both of those in my follow up email. But basically with this whole package you have there's 3 separate apps or programs or however you want to phrase it. There's the PreVeil app itself, which edge you'll be setting up and then there's the accelerator and then there's the GRC tool. Um
+Edward Hall: Email the email gateway for when you say email gateway, we're talking about phones.
+Andrew Meggs: Phones, yeah. So so so the email gateway is just what we call it's our nomenclature. It is. Engineering your pre system to be able to connect to a mail server. The
+Edward Hall: That's just our google sub drive with a secure area or is there that's not limited to the phone?
+Andrew Meggs: No. The phone is just the normal PreVeil app that's not really related to the gateway is a tool. Yeah. Yeah.
+Kirk Curry: Yeah. The gateway ad would be that secure at sub domain that
+Edward Hall: We can go back and forth and drop stuff into the right one and. Yeah, gotcha.
+Andrew Meggs: And it'll make a little bit more sense when you start going through it, but yeah. Okay. But in terms of getting started that is kind of the general overview is creating the org and going through the onboarding and doing the gateway implementation and then separately getting into the accelerated RC tool and starting the fun fun adventure of
+Edward Hall: The accelerator is basically the education component, make sure we know what we're doing, but GRC is gonna get done.
+Andrew Meggs: Yeah. Okay.
+Edward Hall: And then uh
+Andrew Meggs: To that point. In terms of resources here at PreVeil. There's also a few different teams here that you'll be interacting with. So our support team is the people who will be doing the onboarding and the technical implementation of the gateway they're generally available. So it's support at PreVeil.com and I'll send all this in my follow up email with the accelerator and the GC tool. You also have access to our own internal compliance team. So they are the people who wrote all the documentation and made all these videos. So if you have any compliance related questions, they're available at compliance at PreVeil.com. There's also a direct link to their calendar and the accelerator and then I am kind of the General main point of contact. If you're not sure to talk to if something needs to get escalated. Or if you have any account type questions like adding a license subscription renewal, that sort of thing would be me.
+Edward Hall: Gotcha.
+Andrew Meggs: And then yeah, that's kind of it in terms of the 2 second overview of getting started. Do you have any questions about PreVeil or any points of clarification you need here at the beginning of the process?
+Edward Hall: I don't think so. I think tonight I'll start the implementation from your first from your e mail to us. You're going to send us what did you mentioned you were gonna send us follow up e mails.
+Andrew Meggs: Yeah. I'll send one General follow up email, kind of summarizing everything that we talked about with all the contact information.
+Edward Hall: Yeah. I get to the GRC and the accelerator and okay. Gotcha.
+Andrew Meggs: And then you'll the so I just as a heads up, we built the accelerator on talent LMS and we built the GRC tool on is so you'll also be seeing separate emails from those 2 systems to might go to spam, but either way, I'll send a direct link to both.
+Edward Hall: Sounds good.
+Kirk Curry: So quick question Andrew on the compliance piece. The shared responsibility part there's the enclave of the e mail service. That is all set up one way there's no customization so that really anything on the compliance side that you all cover. There's nothing that gets tweaked based upon.
+Kirk Curry: How we set up anything on our side, once we're set up with the email configuration, correct? Does that sound right?
+Andrew Meggs: I'm not sure if I understand your question.
+Kirk Curry: So on there's all the 110 controls, right? Sure. The ones that are shared, that means we have a responsibility and saying how we do things, but then you're all side. There's no setting like yours is pretty much locked in on your shared responsibility side. Is that correct? editing anything on these policies? Maybe until I get in there and see it? I don't know. But I assume the pieces that you guys control that stuff is not editable.
+Andrew Meggs: Right. Yeah. I mean, the only thing that would well, the short answer no longer the longer answer. It would only be complicated if you were to be using PreVeil in addition to some other software for storage or transfer. Gotcha. Then obviously PreVeil couldn't say that they fully covered that control if you're also using
+Kirk Curry: Something you this you guys are going to be the boundary, right? Yeah. Yeah.
+Andrew Meggs: So yeah. Like a lot of things with cms is the short interview, but there's
+Kirk Curry: A risk. Yeah, there's a nuance, yeah. But that's what I figured. Mostly there's no like if you're setting up a GCC High like, Microsoft client there's all the different ways to set up your own Clive that could potentially modify your policy, but the way you guys have set it up, it's cookie cutter. There's no real editing the software side that would modify our compliance side.
+Andrew Meggs: Correct. Yeah. And then getting a little bit in the weeds here. But there I mean, there are things. If you choose to sync to your local devices or not. If you choose to have the outlook plugin or not, things like that could maybe affect your policies, but the actual software itself wouldn't change.
+Kirk Curry: Okay. Well, I would say just for awareness, we all use. I'm not sure how aware you are of us and our setup, but our email services through google enterprise. Sure. And we'll be using that.
+Andrew Meggs: Plugin or gmail plugin. Yeah, I'm
+Kirk Curry: Sorry. Yeah. Yeah, that gmail plugin for most of our data may work, yeah.
+Andrew Meggs: Yeah. That would be the only thing. And that would just be like changes and wording of the policies. Yeah.
+Kirk Curry: Select.
+Andrew Meggs: Gmail. Yeah, yeah. Yeah. Okay. Yeah. But sorry, well, I feel like with cms, the answer is always become rambling, but the short answer is no but yeah, I will send like I said, I'll send all this over to you all. And you'll have my contact information. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously you can reach out to me before then, but do you mind if I put some time on the calendar for may early may is 90 days from now?
+Kirk Curry: Yeah. I don't have any problem with that.
+Edward Hall: Yeah. I'm pulling up my calendar now. What's good for you?
+Andrew Meggs: May 6th or seventh is like exactly 90 days.
+Kirk Curry: Can we push it the following week? Because that's my wife's 50th birthday and we probably won't be
+Andrew Meggs: Around I don't blame you. Yeah. No, that's fine. What this is just an informal checking goal, so it can be whenever is most convenient. Yeah. All
+Kirk Curry: I'm saying is that specific the seventh is probably a no, go for me. So the following week or even the prior week is fine on my schedule.
+Andrew Meggs: Sure. Let's just do the 14th.
+Kirk Curry: That works.
+Andrew Meggs: And what is going?
+Edward Hall: Eastern time zone.
+Andrew Meggs: Okay. Okay.
+Edward Hall: We both have something at 12 30 on that day.
+Andrew Meggs: Okay. And then a little bit earlier in the day then.
+Edward Hall: I think we're both clear at 10:00 o'clock.
+Andrew Meggs: Okay. Does 10 30 work?
+Edward Hall: Yeah, that's fine. I have another
+Andrew Meggs: I live 90 days out. So I have my calendar is already starting to fill up a little bit. But yeah, I'll put this on the calendar.
+Andrew Meggs: I will send this follow up email to the both of you. And then yeah, like I was saying, you do have my contact information. So if at any point you have any questions or if you need anything at all, please do not hesitate to reach out and let me know.
+Kirk Curry: I've got a general question. I don't know if you can answer it, Andrew. Once we
+Kirk Curry: Do you have recommendations for your clients on when they update their sdrs score? Before they go? our self assessment because this will greatly improve our self assessment. Before we go through the full level two, do you have a timeline as to when you normally tell clients?
+Kirk Curry: When they should do their self assessment re score.
+Andrew Meggs: Well, once you get into well, the short answer, is that the GRC tool will help you with that? Um
+Kirk Curry: Once once you fill in what
+Andrew Meggs: You already have in there, it'll generate a spur score for you. And then basically
+Andrew Meggs: There's not a good answer to when you should officially update it. Yeah. But if it's really I mean a lot of it once again nuance here, a lot of it depends on what your contracts are asking versus if nobody is asking for you to do it right now. Yeah, yeah. There's no reason to you can just wait until you have a great score. If you have a contract that's saying we need a spur score yesterday, then obviously you would need to update it. So
+Kirk Curry: Yeah. No, we already have one. It's just a matter of this will improve it and there, you know. When is there a recommended time? But I guess not it's just at any point, like you said, that tool will give us a score and we can either enter it then or we could enter it as often as we want. I guess it's a self assessment.
+Andrew Meggs: Right.
+Kirk Curry: So okay. Cool.
+Andrew Meggs: But we
+Edward Hall: Wanna we definitely want to put it in for the self assessment when we are asking for more money.
+Kirk Curry: Right.
+Andrew Meggs: Exactly. Well, that's what I'm saying. Is um
+Andrew Meggs: Probably do it when no. No need to do it until someone tells you have to do it or opportune to do it. Yeah. Okay. But
+Edward Hall: When we think people might be looking for it, right? That's right.
+Kirk Curry: Yeah. Right. Okay.
+Andrew Meggs: But yeah, I will send all this over and yeah, was there anything else you wanted to go over?
+Edward Hall: The great chat looking forward to it.
+Andrew Meggs: Okay. Well, I appreciate you time and it's great to meet the both of you and I hope you'll have a great rest of the day.
+Kirk Curry: Thanks for working with you.
+Andrew Meggs: Yeah, you too. Have a good one. Bye.

@@ -1,0 +1,104 @@
+Account: Advanced Metal Finishing
+Call Date: 2025-12-03
+Duration: 00:12:15
+Participants: Zackary Gilman, Robin Barrow, Tom Hedges, Greg Ott, Amin Haidari
+
+======================================================================
+
+Robin Barrow: So
+Zackary Gilman: Andrew emails.
+Robin Barrow: Forgot, nice. You were in here. Are those for no over worries, users or just like standard just doing some expansions?
+Zackary Gilman: Just standard expansions. I'm just going through and
+Zackary Gilman: Kind of digging through his Salesforce report and just send one on one off e mails.
+Robin Barrow: All right.
+Robin Barrow: Smart, my Salesforce is a disaster, otherwise I would have you do that.
+Zackary Gilman: This isn't too clean either. I mean, but it's easy to figure out.
+Robin Barrow: They should be joining. They invited a ton of people for this, but I only one accepted. So
+Zackary Gilman: Okay. See.
+Robin Barrow: I have 4 events next week and then yeah holiday parties, including our company party.
+Zackary Gilman: Oh, yeah. This is a big week for me for holiday parties.
+Robin Barrow: This week?
+Zackary Gilman: Yeah. It's like, Friday, Saturday, 2 friend holiday parties. But luckily, I'm not my girlfriend doesn't get a plus one to hers.
+Robin Barrow: So oh, that's good in your girlfriend's coming to ours.
+Zackary Gilman: Yeah. Yeah. She'll be coming to that.
+Robin Barrow: I told I said I told John to stay home. I'm just like I don't I'm gonna team myself and I'm not gonna go out after the at the dinner. I'm gonna tell myself that's what I'm doing. Because again, I have 4 events. Yeah, that's a lot. I love you all, but I'm gonna go home. Okay. I wanna let step in. Okay.
+Robin Barrow: Hi, Steve, how are you?
+Robin Barrow: Can you hear us?
+Robin Barrow: I don't know if you can hear.
+Steve: Hi, Steve. I hear you. Can you guys hear me?
+Robin Barrow: I can hear you, yeah.
+Steve: Hold on a second. This happens every time were you. The people can hear me, but I can't hear anybody. Um
+Robin Barrow: There we go. There we are. Great. How are you, guys? I'm good. Thanks for jumping on. Are we expecting anybody else from your side?
+Steve: No. It'll just be me for today. I'm running into a little bit of a technical issue where I have not been able to download the I can get into the PreVeil express, but not the actual download desktop version because of okay. Administrative restrictions, et cetera. So they're supposed to be fixing that for me. Today they should have done it this morning already. So I have not been able to go into the all the other stuff. Most of the program besides what's on the express version.
+Robin Barrow: Okay. I'm gonna pull up the ticket in a second here. Did they say like, let me see who you are working with.
+Steve: Oh, it's nothing on your guys' side. It's on. My computer support. It is outsourced. And I we work off of a server and the server doesn't accommodate the software. So we're going off the server, but then there was administrative restrictions. So it's like the snowball effect of every time I make a move, I find another wall. So it should be all cleared up today and then I can go into everything. But for right now whatever you guys want to go through works for me, but I don't I can't look at anything on my end yet.
+Robin Barrow: Okay. No, that's honestly today. We're just going over what you all signed up for and talking about next steps and how to get started. Sounds like you've already well, like you said, you're able to get an PreVeil express you're waiting on to download the actual platform. To actually meet with the technical team and go through a long technical onboarding, you will need PreVeil downloaded so I would just schedule once you get that all set up.
+Steve: I do that with you guys via email or how does that get scheduled?
+Robin Barrow: I can send over next steps and you will there's a link that you literally click. It's like how you booked with me today. It's calendar.
+Steve: Okay. Sweet.
+Robin Barrow: So I'll send that over. But just to confirm, I see that you have 6 users, 2 of those admin, you also purchase a compliance accelerator. Does that all sound accurate?
+Steve: Yes. Okay.
+Robin Barrow: Go ahead. The compliance accelerator. I can add you to if I haven't already. That is through a web browser. You shouldn't have to make any changes to your actual
+Steve: My next question is how do I access the documents and such? So that's the part I'm missing to.
+Robin Barrow: Yeah. I'll add you to that now. You'll get an invite through it's called PreVeil talent lms.com. And it will come to your email. Just see
+Robin Barrow: And you get up to 3 users, you can put into the accelerator. You can also tell me afterwards, but anyone else you'd like to uh
+Steve: Okay. Yeah. It would be well I haven't even set up my organization yet. Because I can't get into the thing, but yeah, there's it would be myself and Greg and probably Jose, but they're not even in the system yet because I've only added myself.
+Robin Barrow: That's okay. The accelerator actually operates completely separately from the PreVeil platform. So there's a separate login everything. So you can you should be able to get into the accelerator today. And again, you'll see the invite come through, but here I'll show you what it looks like. You can
+Robin Barrow: So if you use the learning management system, that's what it's based out of
+Steve: Oh, yeah. Just yeah.
+Robin Barrow: All right. So can you see my screen?
+Steve: Yup. I'm just moving you over to a bigger one. I'm looking away from you, but I'm looking at all the stuff.
+Robin Barrow: That's okay. I'm doing the same thing. The compliance accelerator, we call it our 10 step guides getting compliant. Really what it does it just brings you green. What is cms, all the way to. How do I score one ten? but like I said it's pretty straightforward and it's based out of a learning management system where the documentation live is under step 6 documentation.
+Robin Barrow: If you go down to files, this is the any docs package which you probably saw on your original demo. If not, I can you. So what that is? Let me make sure I'm sharing. Yeah. Okay. And what that is, we have broken out all the documentation necessary by the control families. And we've had all this documentation reviewed and approved by C 3 PO. So this package is scored a 1 10. It's a great example of what a 1 10 company would look like.
+Robin Barrow: Okay.
+Robin Barrow: Yeah. So that and then another piece about the accelerator.
+Robin Barrow: If you go through and go to additional compliance resources, this is where you book time with the compliance team. So you get 6 30 minute sessions with them.
+Steve: Oh, wow. Great.
+Robin Barrow: Yeah. You book time with them right through here and then also you can email them through compliance at PreVeil.com.
+Steve: And is there an expiration on that? those 6 meetings?
+Steve: Like 90 days or can I like space it out as we're like?
+Robin Barrow: Digesting things. Oh, no. You have 12 months or however long your contract is, but you lose them after that. And then if you sign up with the compliance accelerator again, you get another 6. So okay. Subscription based, yeah.
+Robin Barrow: So that's the accelerator. Pretty straightforward.
+Robin Barrow: Any questions on this?
+Steve: Not right now. You sent this via my email?
+Robin Barrow: You'll get an invite and I'll tell you to join PreVeil.
+Robin Barrow: PreVeil LMS.
+Steve: And if I add the e mails um
+Steve: In the chat here, can you add those folks in to the compliance?
+Robin Barrow: I can so you get 2 more you can add
+Steve: Let me hold on a second here.
+Robin Barrow: And if it's someone you invited to this meeting. So I know you had a couple
+Steve: Yes. Jose I'm jumping on and off my server, which is making this difficult, but
+Robin Barrow: Okay. Um
+Steve: Jose, if he's on there and Greg, if he's on there.
+Robin Barrow: I don't is Jose.
+Robin Barrow: With his email, is this Jose uh
+Steve: Amy Abby.
+Robin Barrow: I can I have Greg. So Greg is now
+Steve: Yeah. And then I'm gonna grab you, Jose is really quick.
+Robin Barrow: What is the last or the person that the first letter? What am I trying to say Greg last name or
+Steve: Let me see if it's even done that way. His is just Greg at AMF Services.net.
+Robin Barrow: It is. Yeah, in the system we just need even a letter for the last name is fine.
+Steve: Okay. And then we'll do now. Yeah, I guess I'll do Jose.
+Robin Barrow: You said it's a
+Steve: Yeah, OTT okay. Yeah. OTT
+Steve: And then
+Steve: This is the other one.
+Robin Barrow: Okay. Perfect.
+Robin Barrow: Okay. I just added Greg, so he should be to his accelerator.
+Steve: So the so when it comes to I'm trying to think now, maybe I want to do Tom.
+Robin Barrow: Do you want me to remove Greg?
+Steve: No. Greg is perfect. I'm perfect. And then I'm trying to think of who the third person might be. Um
+Steve: He's like my front office admin, that does a lot of the logistics and production and stuff like that. Yeah. Maybe we do Tom is Tom in that meeting. I think he was. Yeah.
+Robin Barrow: Yeah, I can add him last name.
+Steve: Hedges with an H.
+Robin Barrow: Thank you.
+Robin Barrow: All right.
+Robin Barrow: Okay. They've all been added sweet. It should all see an email within the next 30 minutes, yourself included. Perfect. Great. And then really
+Robin Barrow: Next steps, like I mentioned, once you can download PreVeil, go ahead and do that book time with the support team. They're probably booked up for the rest of this week, but they'll they have time. Next week. Just a quick heads up, we have a company all hands on Wednesday. So we'll all be okay out of office, but if anything is urgent, just give me a shout. And
+Robin Barrow: And I'll also schedule a time for us to connect again in 90 days. Really, this is just check in, see how things are going. If you have any issues or anything like that, but I'm not going anywhere. I'm your main point of contact. So if you have any questions or anything like that, just reach out to me, especially if something's on fire. Give me a shout. So then we
+Robin Barrow: The support team goes through a ticketing system, but I always say if you need eyes on it quickly, just give me a shout, so I can take a look. Okay.
+Steve: Awesome. Hey, thank you, Robin. I appreciate your time. You too.
+Robin Barrow: Thanks, Steve.
+Steve: All right. Thank you.
+Robin Barrow: Bye, bye. Bye.

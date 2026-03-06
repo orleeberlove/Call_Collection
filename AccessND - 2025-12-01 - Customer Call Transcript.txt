@@ -1,0 +1,85 @@
+Account: AccessND
+Call Date: 2025-12-01
+Duration: 00:13:08
+Participants: Andrew Meggs
+
+======================================================================
+
+George Overby: So
+George Overby: How are you?
+Andrew Meggs: I'm hello. Doing George. Well, how are you? Good. I can turn my camera off too. I appreciate you taking the time to meet with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. For context, I am the customer success manager for your account. So what that means is I am your general main point of contact and account manager going forward. Yeah, this call is mostly to let you know, I exist be kind of go over the onboarding process, what can PreVeil and make sure you don't have any initial questions.
+Andrew Meggs: So nothing
+Andrew Meggs: Yeah. Yeah. I guess getting started with PreVeil. There are kind of 2 separate. I guess pillars if you will, there's the technical implementation and then there is getting into the compliance documentation and everything for the technical implementation. It looks like you have your your account already created in PreVeil, is that correct?
+George Overby: Yes, I do have mine.
+Andrew Meggs: Okay. Awesome. For that, the next step would be to create the PreVeil organization. So do you are you able to share your screen? Yeah, let's see.
+Andrew Meggs: Right.
+Andrew Meggs: Right.
+George Overby: Yeah.
+George Overby: Well, I'm gonna
+George Overby: So is gonna get tomorrow. We may all be
+George Overby: What do you need to or do you need to?
+Andrew Meggs: Basically long story short. You'll log into your PreVeil account and then you'll open up a new browser window and you will go to the link that I just put in the chat there.
+George Overby: So this is this might be the desktop was that?
+Andrew Meggs: Yeah, that's fine. Just open up a new browser tab. And um
+George Overby: We just and
+Andrew Meggs: Then just copy and paste that into the url.
+Andrew Meggs: So
+Andrew Meggs: And the department can be admin or it or whatever. It doesn't doesn't sound important. What that's more for your internal use. Okay.
+George Overby: So what is this doing? This is creating, like
+Andrew Meggs: So
+George Overby: Yeah.
+Andrew Meggs: So now, as you can see you actually have a new tab, you have an admin tab. So now you are the official administrator of the access and PreVeil organization. Okay.
+George Overby: All right.
+Andrew Meggs: So the next step. So I mean, honestly you that's kind of it in terms of getting started with PreVeil. You you now have it started. You can now add people and manage our organization. The other next step would be to schedule the technical onboarding with our support team. You do technically have everything set up now that you've created the org, but the next step would be to schedule the technical onboarding. So that'll be an hour long kind of training session on admin roles and responsibilities and making sure there are any technical issues in the back end.
+George Overby: Okay. Is it anymore setup and the technical part? No. Okay.
+Andrew Meggs: Yeah. I mean, if you go to that admin tab, you'll see that you can. You'll obviously it's just you as the user now, but you'll be able to add people and do approval groups and everything there, but they'll go over all that in the onboarding. But the so I'll send a link to the support team's calendar to schedule that onboarding and my follow up email. And then whoever is available. It's the it's their shared calendar who whoever is available at that time will will grab that and do the onboarding. And then once you're done with that's kind of it in terms of the anything technical needed. The other half of getting started is getting into the compliance documentation. That is it's a separate site. It's a separate login. That's on our compliance portal. And I am the person who actually adds people to that site.
+Andrew Meggs: I can go ahead and add you to that now.
+George Overby: Then
+Andrew Meggs: In there you can have up to 3 people in there at at any particular time. I'm adding you, but should anyone else be added to that? Yeah.
+George Overby: Yeah. Let me send you
+Andrew Meggs: A full names and email addresses. Yeah. Now, the other 2 other people that would need access to and they don't have to be the same people that use PreVeil in a separate site.
+Andrew Meggs: So
+Andrew Meggs: Okay. I'll add yeah, I just got that. I'll add
+George Overby: It's gonna be changed in the future, correct?
+Andrew Meggs: Yeah, yeah. Yeah. If someone needs to be added and another person subtracted, just let me know when I can do it.
+George Overby: Say 3 people, you mean 3 people, concurrently or 3 people total.
+Andrew Meggs: I guess 3 people total. So if I add you and 2 other people, that's kind of the max for who can add in the and then in the future if you need to replace one of those people, you can
+George Overby: You have to take one out and put one. Yeah, yeah. Okay.
+Andrew Meggs: So you Marcus and Lee will see invitations to this. Um
+Andrew Meggs: After after this call and it does come from a somewhat generic e mail address. So just keep an eye out on the filters and whatnot.
+Andrew Meggs: That, yeah.
+Andrew Meggs: And then yeah, I am adding the 3 available to that. And I'm gonna send a follow up email with the scheduling to the compliant or the support team to do an onboarding and then yeah, in terms of getting started. That's kind of it is creating that org and going through the onboarding and then getting access to the accelerator which I'm adding to that right now. Um
+Andrew Meggs: And then yeah, uh, I guess beyond that. Are there any initial questions about PreVeil or points of clarification?
+George Overby: The technical guys will tell me about one of the things I'm
+George Overby: Curious to see I guess would be the
+George Overby: It's where I assume they're connecting to our computer. It's pulling log files and things like that are part of the evidence that you need for your cms, certification and
+George Overby: Are they gonna I assume they're gonna deal with that then? Since it's so yeah.
+Andrew Meggs: They'll go over how to pull logs. I mean, it's all there on that admin tab. I was just showing you the export data function, but they would go over how to do that. Yeah.
+George Overby: Okay. Yeah. Those are just most of my questions at this point are probably going to be technical, so
+Andrew Meggs: Okay. You basically have 3 different teams here as resources as available to you. So the support team will be doing the technical onboarding. They'll also be able to answer any technical questions like you were saying. They're generally available at support at PreVeil.com with the accelerator also comes to access to our compliance team. So if you have any compliance related questions, like best practices or any questions about the documentation as you're working through it or anything like that, they're available as a resource at a compliance at PreVeil.com. And there's also a direct link to their calendar in the accelerator too. So you'll you'll see that when you get in there. And then I am kind of the general main point of contact. If you're not sure who to talk to if something needs to get escalated. Or if you have any account related questions, like you need to add a license subscription renewal, that sort of thing would be me.
+George Overby: Yeah, that makes sense. Cool.
+Andrew Meggs: And yeah, I mean, that's kind of it. I try to keep these kind of short and sweet here for the intro calls. The only other thing I like to do is I'd like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously you can reach out to me before then. But do you mind if I put some time on the calendar for march is 9 days from now March 2nd?
+Andrew Meggs: And then what where are you located? What time zone are you in?
+George Overby: Central time zone.
+Andrew Meggs: Okay. Are you in North Dakota?
+George Overby: I am.
+Andrew Meggs: Okay. I'm in Minnesota myself. Really. Yeah, I'm over in St. Paul. Okay. So but my wife travels for work. And she has to go to North Dakota. She's pretty much spend half her time in North act and yeah and grand forks and why not
+Andrew Meggs: In sometimes Bismark and actually Fargo. Actually a lot of time in
+George Overby: That sounds like everywhere. So what company is it
+Andrew Meggs: She works for Alta if if it's the beauty brand, if you're familiar.
+George Overby: Yeah.
+Andrew Meggs: They sell make up and hard.
+George Overby: Look at the space.
+Andrew Meggs: You never know. I don't want to make any assumptions. If you know any females in in your life, they are probably familiar. Okay. But she's in charge of all the tax in northern Minnesota and North Dakota. So she has to do a lot of traveling.
+George Overby: Okay.
+George Overby: Awesome.
+Andrew Meggs: But yeah, which you know is
+Andrew Meggs: Normally fine, but my not in January, I hear is a little rough. But okay. I will put this 90 day check in call on the calendar. I will send this follow up email with all that contact information. I was sharing as well as a direct link to the accelerator and a link to our support team's calendar to schedule an onboarding. And then, yeah, unless there is anything else you wanted to talk about or go over, I can let you get back to it.
+George Overby: So if I add these users in here now, will that send them a
+Andrew Meggs: Yeah. They will get
+Andrew Meggs: George has invited you to join PreVeil. Here's where you to go to to download PreVeil.
+Andrew Meggs: On e mail. All right.
+George Overby: Alright.
+George Overby: Cool. Thank you.
+Andrew Meggs: All right. Well, thank you for your time, George and it's a great to meet you. And I guess I didn't ask how your Thanksgiving was, but I hope it was well and then yeah, I hope you have a great rest of your day.
+George Overby: You too. Have a good one. Okay.

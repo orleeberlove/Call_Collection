@@ -1,0 +1,86 @@
+Account: AE Strategies
+Call Date: 2025-11-25
+Duration: 00:15:17
+Participants: Robin Barrow, Andrea Rillahan, Michael Mayer
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Happy Tuesday.
+Rich Gautier: Good morning, everybody.
+Andrea Rillahan: Morning.
+Robin Barrow: Hello. I think. Let me just hello, double check. I think we have everybody here.
+Andrea Rillahan: Mike said he's joining now. So we should see someone in the waiting room. Okay.
+Robin Barrow: All right. Honestly, this call should be fairly quick. It's just an intro really to me and PreVeil, I'm your customer success manager. So I'll be your main point of contact moving forward. Yeah. My goal is to go over what you all signed up for and talk about next steps and also learn a little bit more about why you all need PreVeil and what you're hoping to get out of it, too. But yeah, we can wait till Mike joins before we get started.
+Robin Barrow: There.
+Robin Barrow: All right.
+Robin Barrow: We'll wait to join with audio.
+Robin Barrow: There he is. Awesome. Hi Mike.
+Michael Mayer: Hi, how are you?
+Robin Barrow: Good.
+Robin Barrow: Now, we have everyone here. Just to confirm when you all signed up for, I see 3 users, one of them being admin as well as the compliance accelerator. Does that all sound accurate?
+Rich Gautier: That sounds accurate.
+Robin Barrow: All right. Great. So if you don't mind, can we do like a quick round of introductions on your side?
+Rich Gautier: Sure. I guess I'll search since my Mike is on. My name is AE. I am helping out a Strategies, a security consultant. So I'll let everybody else introduce themselves.
+Andrea Rillahan: I'm Andrea. I'm the administrative manager here at AE, Strategies. I guess I'm the admin of PreVeil too. Great.
+Andrea Rillahan: Like a hair I'm
+Michael Mayer: Vice president of AE Strategies and I guess the facto head of it with no other person to take on that role. So
+Robin Barrow: Okay.
+Donovan: And I'm donavan and I partner with Richard and providing it support to AE.
+Robin Barrow: Awesome. Well, thank you all and Mike you missed it, but I'm your customer success manager. I'll be your main point of contact here at PreVeil. You all get access to a couple of our team. Do you have our support side, which is all the technical pieces of PreVeil? And then we also have our compliance side you purchase a compliance accelerators, so you have access to them as well. I'm assuming that you all need to meet some sort of cms requirement and that's what brought you to us or I don't know if you all don't mind sharing, why?
+Michael Mayer: Yeah. No, no problem. So this kind of started as we have a most of our works over at dot and our largest contract is over at Navy. We're a subcontract on it now, but it just recently got re competed. We're trying to prepare for that. And then our prime on that one to make sure we had some sort of cms level certification. But seeing kind of the recent news and where things are going. Given that most of our workers in do we really feel like we need to have some level of at least cms certification so we can win new work and not kind of hand of our business moving forward.
+Robin Barrow: No. That makes sense to me. Until you're starting with 3 users and Andrew, you're going to be the admin really PreVeil a pretty easy software to use if you use some sort of email function. And if you use a try function, you'll know how to use PreVeil. I'm gonna share my screen because I'm not sure if Eric had covered this with you all, but this is a compliance accelerator. This is a compliance side of PreVeil. It lives outside of the PreVeil platform. So you'll get a separate login for this. But what this does it is we call our 10 of guide to get in compliance. So it takes you at a really green. What is cms, why do I need it all the way through? How do I score a one ten? you can get up to 3 users in this. So whoever wants access can have it. You
+Robin Barrow: The real the important pieces. It's all great content. I suggest going through all of it. I want to make sure I'm sharing the right.
+Rich Gautier: How do we gain access to this?
+Robin Barrow: So I I'm the admin of this platform. So you just give me 3 emails because that's all your license for. And then I can give you access. So just to highlight a couple of areas. This is like I mentioned before, you get access to the compliance team. You get up to 6 30 minute sessions with them or 3 hours, we call it. You would book time with them right through here, but you also get access to their email. So any one off question you have that requires a short answer. That doesn't count against your time. So go ahead and shoot them all the e mails. If they think it's going to be more of a discussion, they'll probably suggest a call. Um
+Robin Barrow: So that's available to you. I always suggest kind of try to work through the accelerator before you dive into the compliance. Cause because a lot of the time they're gonna be like, well, you can find this here at this stage in the accelerator to
+Donovan: No, that's great. I mean, I think you just literally answered our main question for the for the call right there. That's perfect.
+Robin Barrow: Yeah. Yeah. And then the other pieces to point out to this is where you find the AE docs package and Eric probably pointed this out as well. It's our fully assess guide or not doc package. So we took a company through a full assessment. So all the documents you need for level 2 live there. All the templates live there. I say they're more of a great example of what a 1 10 company looks like. Because the templates are fully filled out with all the details. Like the system security plan in there is 185 pages. So it's obviously the company is gonna not gonna be set up completely completely like how you all are. But yeah, like I said, great example of what a 1 10 customer looks like company. Let me just see. Yeah.
+Robin Barrow: Sorry, no. I was just gonna say another popular step is how do I secure my endpoints and how do I segment my network? That sort of thing. But yeah.
+Donovan: What questions do you all have? I guess how fast can you get myself Richard and Andrea access to this? That would be great.
+Robin Barrow: If this call you all to it will. I'll have access
+Donovan: Cool. So the other question
+Rich Gautier: That I had was
+Rich Gautier: He had mentioned knowledge bases for doing things like into management of endpoints outside of the PreVeil platform that you guys had guidance on that in the knowledge base, how do we gain access to that?
+Robin Barrow: I'm assuming you mean our PreVeil knowledge base and that I'll send you a link to this right after this call, but this has all the everything you need as far as how do you use in tune with PreVeil.
+Donovan: And there was a security endpoints in that compliance area. So we should probably take a look at that and see where that gets us to.
+Robin Barrow: Yes, I can pull it up real quick on this too.
+Robin Barrow: That's my co package. So that's how that's formatted. And this is our endpoint configuration guide. So it tells you obviously, what end points need to be covered for level two, what controls they point to. And then we went a step further and how do you configure it?
+Donovan: But I think we have our work cut out for some reading, some light reading, yeah.
+Robin Barrow: Yeah. I don't know if our compliance team loves when I say this and I don't know how you all feel about AI tools, but I say utilize them give tell them to give you the Dr our compliance team. They're very detail oriented, which is great, but if you need the quick rundown of what the document is trying to tell you, use those tools, we're hoping one day, we have some sort of integrated within our accelerator just to make everyone's lives easier. But
+Donovan: I wouldn't want to be the one that has to go behind that LLC and check the answers it gave to your customers. Put you on our line for them. Yeah.
+Robin Barrow: Always either. I also feel like that can be pretty long winded as well. It all depends on the one you
+Rich Gautier: Use where was that endpoint configuration?
+Donovan: It was on their compliance accelerator guide. It was one of the bullet points that she's gonna give us access to that document. It was step zero, zero, secure my endpoints.
+Rich Gautier: So when you click that get to that document.
+Robin Barrow: Yeah. If you ever looking for documents, just look for the file section scroll down. That's like I said, this is all based out of a learning management system. So that's where we host.
+Donovan: Everything. That's yeah. I assume once we get access to that is when all the real questions will start and all the real fun. So
+Robin Barrow: Yeah. Yeah. And like I said, you utilize our compliance team, they're the experts, they've been through assessments with our customers, they know what to expect.
+Donovan: Where was that email? The link to that email? You were gonna I think you were gonna send us that link, right? So
+Robin Barrow: Yeah. But it's pretty easy. It's compliance at for bill.com.
+Donovan: I think we could remember that. Fair enough. Um
+Andrea Rillahan: Robin, the platform that you just showed us, who whoever has the email that is the user in PreVeil, are those the only people that can get into that platform?
+Robin Barrow: No. That's actually a great question. So you don't have to have the same users in PreVeil to use the platform. You can mix and match. You just only get 3 in the accelerator and right now your license to 3 for all.
+Andrea Rillahan: Okay and then my other question is if I gave access to somebody in the PreVeil platform um
+Andrea Rillahan: And then decide that. I don't for example, I gave access to the CEO of the company because he is going to be using this, but for right now, maybe it's not a good idea to have him with access. Maybe I want to give donavan access and then once we're all set up, then give him access, can can you delete and then add people as you go as you need them.
+Robin Barrow: Yes. Both an accelerator and also the PreVeil platform. You can change the additional admins. I always suggest especially starting out. And this doesn't matter as far as contract wise, starting out you're going to have roles that are in different places because you're trying to get the platform implemented. So you might have 2 admins to start out. And then once every the dust settles, you're down to one admin. So it's really up to you and how you want to go ahead and implement this. But okay. Just as a reminder for the accelerator, I do all the backend of adding and removing the PreVeil platform. You all have ownership to. So the actual email and drive.
+Andrea Rillahan: Okay. And I'm gonna do that today. I'm gonna take Allan out of there, but I'm gonna give you access.
+Donovan: Thank you very much.
+Robin Barrow: That was actually that's my next question. So have you all gone ahead and downloaded PreVeil and got it installed? Yeah.
+Rich Gautier: I haven't downloaded it, I think country has
+Andrea Rillahan: Yeah. I downloaded it. I've started going through the setup with the tutorial. I was just at the point where I was waiting for the people that I gave access to to accept the email. So I can go in and assign the roles so that far through.
+Robin Barrow: Great. Awesome. So you have the org setup and everything? That's awesome. The next step for you all as far as a PreVeil side, you all get access to a technical onboarding, which takes about an hour long. I suggest you only have admins join that call, but it is recorded and especially because you are a small group, I don't think it hurts if everyone just joined. But yeah. They'll go through all the admin capabilities platform. So right now under you're probably getting alerts, let's say create a recovery group or it's yelling at you to create an approval group. And those are all really important, but if you're I would just maybe wait until you talk to the team to go over through how you actually create that. Okay. If I just say there's one important thing you do, it is create a recovery group within PreVeil because PreVeil 0 trust. If you decide to launch your computer off a cliff and we're all done with it's going to be really hard for your team to get back into your organization without that approval group. People like to say. Hit by bus or any of those other fund analogies. I'd like to keep you all safe and just say you got rid of your computer retire.
+Donovan: At a moment's notice and move to Portugal crazy, like
+Robin Barrow: That decided to take off. Yes, you will just need to. Make sure you create that and hold onto your encryption key somewhere safe. Yeah.
+Robin Barrow: Great. So yeah, that would be your next step is just set up time with them also work through the accelerator at your pace. Also, I will schedule time for us to connect in 90 days. This is really just a check in to make sure that you are feeling good and you're getting good use out of the platform and there we're not leaving any stone unturned and we've answered your questions. But of course I'm not going anywhere. So if you have any questions between now and then reach out to me and especially say profile a ticket and you need eyes on it immediately. Give me a shout either call me or email me. So I can light a fire under everybody else.
+Donovan: Thank you for that.
+Robin Barrow: Yes yeah that's what I'm here for yeah what other questions do you have regarding either the accelerator or the platform
+Donovan: I think for Richard and I was getting access to the compliance accelerator and starting to dig in there. So how we were gonna do that was really our big question. You've obviously answered it. You're gonna set our accounts up and setting us links. So from there, it's just going in and then figuring out where we have questions, I think as we go through it.
+Robin Barrow: No. That sounds great. I'll send a follow up to yeah, the biggest thing. Schedule that technical on boarding and have on the accelerator.
+Donovan: Andrea, did you have anything else that you needed to?
+Andrea Rillahan: No. Robin, I'll send you the 3 emails that need access to the technical platform. I'll send them to you now. Okay. Yeah, we can get down of an e Richard in there.
+Robin Barrow: Okay. Do you might for the actual PreVeil platform? You might be able to change access right now. The compliance accelerator, I manage the PreVeil email and drive. You would manage so I don't know. Are you having trouble deleting any users right now?
+Robin Barrow: No. Okay. Cool. Yeah, then you should be good.
+Robin Barrow: Awesome. All right. Well, thank you all. I'll let you enjoy the rest of your day. Enjoy your week and time off if you get it and we'll chat soon.
+Andrea Rillahan: Thank you.
+Robin Barrow: Nice meeting you.

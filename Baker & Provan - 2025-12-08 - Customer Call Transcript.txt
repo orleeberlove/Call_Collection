@@ -1,0 +1,124 @@
+Account: Baker & Provan
+Call Date: 2025-12-08
+Duration: 00:19:34
+Participants: Robin Barrow, Barry Jones
+
+======================================================================
+
+Robin Barrow: Hi, Barry. How are you?
+Robin Barrow: Day.
+Robin Barrow: Oh, it's what's going on? My camera kind of
+Barry: Come up.
+Robin Barrow: I don't know what's happening the 30th we'll figure out. How are you doing?
+Barry: Not too bad.
+Robin Barrow: Great. Thank you. I hope it's not too early for you.
+Barry: No, no, no. We've been usually if we get on around 5 am
+Barry: Strain time. So we go
+Robin Barrow: Yes. Awesome. Well, yeah, thank you. I appreciate you taking the time to meet with me. You all have been with PreVeil for 3 years now. And you had mentioned you are having issues and obviously with your renewal coming up, I want to turn my camera off. It's terrible. It's distracting me. And your renewal is coming up at the end of January. So I just kinda wanted to hear what's going on and how can I help. And it's
+Barry: Mostly just we've had had troubles getting people basically the information out of the system. Okay. We've got a like, pretty well got 4 members on the team in a and one on the east coast, but the coming year we've got some requirements that we have to have more data locked away. Okay. It's mainly just enrolling people and if they move on, we have trouble getting the information out. Okay. That's basically where we're at. And we're wondering why there's a cost in it as well. The costs increasing. So I've got to justify that along the way.
+Robin Barrow: Okay. Yeah. And now this decided to work. If we go to, well, first I want to address the exporting data. Have you all just so I'm aware? I haven't taken a look yet. But do you have support tickets or anything like that out there for this?
+Barry: No, not at the moment. We ended up sorting it ourselves because it took so long for people to come back to us. So that was the most of the problem we did have it was just the support we weren't getting and we tried to contact people, but we got nothing back. So and that's where the concerns come in.
+Robin Barrow: I get that. Okay. And one one of my
+Barry: Directors is flagged it because we've actually we're bringing more it into the business as in. We've got we've always had an external company. One of the general managers is actually left that run with the it a bit. So we've got 100% now, an it company running at all. Okay. They don't have anything to do with Provan because of our secure documents in there that we do have. But we have to be able to get in, add more people to it easily. Yeah, and be able to have them and retrieve the information.
+Robin Barrow: Okay. And okay. If I'm just I was just sharing my screen, this is where you do the data export, but if it depends you to be an admin, you have the user who you're exporting data. I'm glad you were able to figure it out. I apologize and support. I do believe it's due to the tag change, but I'm not sure I can triple check our email communication, but yeah, please always flag me CC me on outreach too, because that's mine. Literally my job to make sure you guys are happy and that you're getting the support you need. If I take a look at your current usage as far again, I can't see I can only see the users that you have in the system and for adding and removing users. I know it's difficult especially with the recovery group. So say if someone leaves suddenly it's it's probably difficult for you all. If there they are an admin, you're like okay. Well, no, that well, that's
+Barry: That's what happened was one of the admins left. So
+Barry: It created a lot of hard, but we've worked our way through it now. Okay. We move on, you know.
+Robin Barrow: Yes okay because I do see you're an admin now and then my mid son
+Barry: Yeah, he's gone. So he's he's left. Yep. Yep. Okay. So he was the other general manager. So he's on so we need to open up another admin, I think.
+Robin Barrow: Yeah. Yeah. I definitely just for the sake of before the renewal, we can talk about that next, but definitely open up another admin to either whoever you'd like really. You can even do if you want to do like an it
+Robin Barrow: Or I always feel like an admin email, just so you can have the backup and create the recovery group. So that's probably I don't know if you have created a recovery group, you're probably getting yelled out.
+Barry: We have at the moment. Yeah, we've got a recovery group. I've added basically to my main offsite as in as well, okay. They can create the recovery group because without the recovery group we've got nothing.
+Robin Barrow: Right. You should be able to
+Robin Barrow: Yeah. Yeah. And unfortunately, you learned this all the hard way. So to remove the recovery to remove Jamie, you just need to get the recovery group going. So if you want to go ahead and remove him because I'm still seeing him out there, you can deactivate him. As far as like, his devices, you probably already did that on a company side, but just in case you can do that. But I can also send over resources. Our knowledge base has been improved, it's gotten better. And then the other piece you want to discuss with your costs and let me just see. Yeah, you when you signed up for us, it was back in 20 23. We do do a 4% increase year over year. To us dollars. So
+Robin Barrow: That's where you're seeing the increase. The one thing and you all purchase for 3 years. Remind you're not doing anything as far as compliance work with us cms level 2. We are at the
+Barry: Moment, but that's the division that's running at the moment. That's what I'm saying this next year. We're actually bringing that into it. Okay. Um, one of the directors actually just come back from over there. Doing business this is where it's all coming in in the line up. So we use the program more
+Robin Barrow: Okay. That makes sense. We do have a whole compliance out of PreVeil. We have cms level 2 compliance guide. So we have documentation we have what is CC why is an important a full learning management system regarding it. I'm not gonna bore you with all that now, but just know that we have that it's available to you if and when you do need it. But I think as far as the PreVeil platform, what I can do just because one, your support hasn't been great with us and I apologize. If you do continue to move forward with PreVeil, we can offer a discount. Um
+Barry: We will be moving forward.
+Robin Barrow: Just to make it clear to you.
+Barry: It's okay. It's just I have to because Provan is what I brought into the business.
+Robin Barrow: Yes, basically.
+Barry: And I've just got to justify to the board of directors, basically the additional cost on cost that we're gonna receive this year as well. Yeah. Yeah, I understand through that is we've got other defense divisions coming on that. We have to utilize it for. So it's starting to make life a little bit better, but I just got to come into an understanding of the percentage the reason behind it. I can explain it.
+Robin Barrow: No. It's just good old fun inflation within the U.S. Market. But what we can do I like I said, you all haven't been receiving this report. I can see just based on our communication that you all deserve. We I can offer a discount. I just have to figure out what that would look like, whether it be 10% or more. I already talked to leadership that this is something I'd like to offer to you all. And then the other piece too. We change our pricing structure a little bit. So every you probably see a charge for the admin from your previous agreement and it was $50, we've broken out the admin. So
+Robin Barrow: Each admin has a standard account. We just count it as a super user. So you'll see with a new quote the admins for $20 and then they're gonna also count as a standard user as well. So right now you have 10 users. It will be 10 standard users and then 2 admin.
+Robin Barrow: When you say you're on you might have more business if you need to bring on more people. All we have to do is co term contract and we can decide that on a later date. Yeah. When that comes but
+Robin Barrow: Yeah. We
+Barry: Still recruiting at this stage. January is gonna be a big recruitment drive to the new year. Yeah. Then you'll start saying moment when we get pretty close. If we need to adjust it, then we'll basically come on let's renegotiate and we go from there.
+Robin Barrow: Okay. No, that works for us. And we I'll get the I'll put together the quote now and get agreed upon discount, so you guys can see it and then closer to February, you just let me know and we can go ahead and update the usage, the users if we need to leave the same. And then I can also when I send that follow up, I'll send over the knowledge base. So you have all our documentation as far as around PreVeil and the platform and how did it go about doing things? It sounds like you made your way pretty well.
+Barry: I'm getting pretty very fluent in it now.
+Robin Barrow: Because it was just learning.
+Barry: Because I did a little bit in the start and then things took me away from it. And I had Jamie working at quite in depth. A few others as well. Where when I had to take got given it back, I had to take it back and then scramble well, we had 3 of us scramble a way through it. We're getting more fluent in it. We have to use it. We've got other was dealing with secure data.
+Robin Barrow: Yeah. So are you all dealing with? It sounds like specifically UI?
+Barry: Yeah.
+Robin Barrow: Yeah. Okay. We are well just I know it's been 3 years, but we are certified. We are fed equivalent. We have all the certifications necessary to handle this data. So if you need a peace of mind there, we're still
+Barry: We've defensive actually looked into you pretty pretty heavily because where we send a lot of data through and we invite them into Provan. So we transfer data between with it. So with the Australian defense and the American defense as well, it's been approved by them. And that's how we why we stay with it because I don't have to go through the all that hard work again.
+Robin Barrow: Yeah. Okay. Approved. Great. Okay. So all good news to me. Let's get you better support. And I'm glad you were able to like I said, I found your way on your own, but I'm here to help. I know the time change, but please
+Robin Barrow: Do whatever you
+Robin Barrow: You what?
+Barry: We deal with the states anyhow. So just get out of bed. So it's just depending on the time change look are working with anybody, you know. Yeah, we're pretty fair about the times because we do understand that working between countries. We've got a business in Europe as well. The time change there hurts.
+Robin Barrow: Yeah. So oh, yeah. It's yeah. It's I mean
+Robin Barrow: Hey, I'm always willing to meet later. I can I mean it's only 6:00 o'clock here. We're working from home anyway. So I just go turn around and go make dinner that's it. And trying to stay warm. It's 2 degrees in New England and the summer months now, right?
+Barry: Yeah, yeah. We're in our 40 forty, 46 degree days.
+Robin Barrow: So yeah. I just
+Barry: Come back from a month out in our wet belt and I've been 40 46 and continuous day after day.
+Robin Barrow: Do you like that?
+Barry: I can't stand the cold. Yeah. Yeah, I'm not a cold person. It's got to be hot to come here and I basically hibernate because I can't I really don't function that well, when it's called
+Robin Barrow: Well, how cold is it? Even get there? I haven't even
+Barry: Probably down to 3. And then you might have 4 days out of our winter that might get to minus 2 minus 3.
+Robin Barrow: Yeah. Yeah, yeah. It's 2 degrees far in height here. It's yeah. It's
+Robin Barrow: It's brutal. Yeah. We like, I don't know what happened. It's not the worst part. It's not even fun. It's just cold and windy. Yeah. We're by the ocean too. So we get like the Ocean's warmer than the air. So that's why whenever you get like, some ocean back winds, they call it like the lake effect, but the ocean. So we don't get snow. It just rains and it's very cold. Yeah.
+Barry: Yeah, that's cold.
+Robin Barrow: You wouldn't like it. Don't come here.
+Barry: We enjoy seeing different places, but yeah, it's when it's cold or yeah. Yeah, it's not me. It's gonna be
+Robin Barrow: You can come escape Stalin. It's really cool there and come to New England and it's one of the best spots in the world for the summer time, but it's humid.
+Barry: Yeah. Yeah. Yeah. Well, we have human is here. It's pretty humid as well. Yeah. But it's not like, I've got people that I know from from there that they moved to Australia, but they swap around for this. They follow the summer months around. Yeah, when you go they fly home over there. Spend the there and they fly back here for the summer.
+Robin Barrow: That's smart.
+Barry: That's a good.
+Robin Barrow: That's extreme snowbirds. Because usually they just go to Florida.
+Robin Barrow: But that's extreme snowbirds there. Yeah. My husband wants to go to Australia, really bad. I have to just get over the idea of the flight and then I can do it.
+Barry: So you don't like flying
+Robin Barrow: I hate it. But I'm getting better. I'm getting much better. I. I've gone to Dublin. I've done like 6 hours plus, but I have to be really great to do 23 hours. I have 3.
+Barry: 24 hours is a long
+Robin Barrow: Yeah, I was it.
+Robin Barrow: You'll get
+Barry: Here and you won't want to go home.
+Robin Barrow: That's what everyone says. So
+Robin Barrow: Yeah. I just need a nice cocktail going up. And then I'm fine.
+Barry: And then I'll
+Robin Barrow: For 20
+Robin Barrow: You'll find you'll
+Barry: Find you'll get here and you won't want to go back.
+Robin Barrow: A good time. Look, you'll the winter here. You'd
+Barry: Probably love it. You think it's summertime here in the winter?
+Robin Barrow: Oh, I know.
+Barry: That's the big change.
+Robin Barrow: I mean, it gets dark here at 4 30. It's just sad. It's yeah. It's pitch black now. It's yeah, the sun are set at 4 30 and it's up at 7. So we get like very minimal daylight. It's at least we're not in Alaska where it's dark all the time. But yeah, it's just
+Robin Barrow: Someone's gotta give we're sick of it.
+Robin Barrow: It
+Barry: Hours at the moment are used at the moment, the sun's up at 5:00 am and goes down around about 8:00 p.m. At night.
+Barry: And it's a warm day. So you finish work, you'll end up at the beach or do whatever you want to do with family and what forth. So and then like, if you're on the I'm on the West coast, but if you're on the east coast, they have daylight savings. So that's 3 hours difference. So they have more daylight away from work because they start work 3 hours earlier.
+Robin Barrow: Than what we yeah.
+Barry: It's a big change.
+Robin Barrow: That here too. We have what the spring forward and fall back. So we gained an hour and that's why it's so dark. Okay. That maybe I'll book my flight and get over there.
+Robin Barrow: If you come this
+Barry: Wife, I mean, I touch base with us.
+Robin Barrow: I will for sure. I mean, my like, my husband did a big trip to tie in last year. He goes okay. Next we're going to Australia. I didn't follow him because he went with his mother and he did like their last family trip before. I don't know, married him along.
+Barry: All drag and the country.
+Robin Barrow: Yeah. He'd be more than happy to do it.
+Robin Barrow: They'll be dragging me to get on the airplane.
+Barry: Once you on it, you can't turn back.
+Robin Barrow: That's the thing I chill out. It's mainly just taking off. I hate I love landing. Oh, we're going back down to the ground, but yeah.
+Barry: It's just you mean it's
+Robin Barrow: Just that control. It's just because we're it's completely out of my hands. And I have friends that are pilots. They've like, explained turbulence and everything to me. They're like pretty much my friend Jones. He said unless you lose a wing and you have total engine
+Robin Barrow: That's the you're gonna stay up. It takes a lot to bring the plane down. And I'm like, yeah, it just it I don't know. And everything. So crazy here right now with the air traffic control because no one like, when the government was shutdown forever there were so many plane crashes that they were all on ground. That almost happened that Logan like? Yeah, because they're traffic.
+Barry: Nervous.
+Robin Barrow: Yeah. We have so many nervous fliers and like and Logan right now. And I mean, have you ever landed into Boston before he came up here?
+Barry: Yeah. Once yes. It's a wall red. Cross wins the whole lot coming there.
+Robin Barrow: Exactly. Because the you look like you're landing in
+Barry: The angle, yeah.
+Robin Barrow: Yeah. It's Logan is like, right across the water. So I see all the plans come in, but it's yeah, it's not. So that's been crazy. I could go on and on
+Robin Barrow: I'll let you go.
+Barry: Yeah. No worries. Good chatting. But yeah, get a cost through to us. We'll have a look at it, but when you're over drop me an
+Robin Barrow: I will absolutely.
+Barry: Around the country side a little bit and show you in
+Robin Barrow: Please do. Awesome. Well, thank you very
+Robin Barrow: Tomorrow morning. Yeah. Beautiful. Thank you.

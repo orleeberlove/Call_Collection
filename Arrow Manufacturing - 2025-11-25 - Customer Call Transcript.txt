@@ -1,0 +1,69 @@
+Account: Arrow Manufacturing
+Call Date: 2025-11-25
+Duration: 00:16:22
+Participants: Emily deBettencourt, Yasmine Femia, Philippe Rodrigues
+
+======================================================================
+
+Philippe Rodrigues: Hello, Mike.
+lmike: Hey, Phil, how are you?
+Philippe Rodrigues: Pretty good. How are yourself?
+lmike: Wonderful
+Philippe Rodrigues: Good. Did the alternative work to get the logs from the server?
+lmike: Yeah. Yeah. They're all there. It was so it was a large amount, I believe. Or like the it was a couple of gigs worth of logs. Oh, wow.
+Philippe Rodrigues: Okay.
+lmike: But that also that server would have been through.
+lmike: The first migration.
+Philippe Rodrigues: Right.
+lmike: Yeah. It's done. I think originally because the server had a very large D drive. The first migration, we tried to sync everything. Well, we did sync everything to the server, but there was a lot of activity there anyways.
+Philippe Rodrigues: Okay. Going into the I haven't saw the log yet. It hasn't synced on on my computer just yet, but I think it's because of the size.
+lmike: Okay. But you did you have a chance to look at Michael's logs that he put up there?
+Philippe Rodrigues: They look at his and there's
+Philippe Rodrigues: Positive sync activity. Um
+lmike: Yeah. Oh, yeah, yeah. I did shoot him a message yesterday. In the morning just to say, have you tried syncing again since the failures? he did try he said he tried to move one. The directory size was 100 megs and it was about 75 80 minutes to move.
+Philippe Rodrigues: To move the directory. And yeah, with the move assuming the move was done on Fox or
+lmike: Right. Right. Yeah. Well, he yeah. That's right. He chose to sorry, this was to sync a different directory in in PreVeil. So he tried to sync down another folder just just for testing. So he didn't get the sync failure this time, which is good, but still quite a delayed sync before the files showed up.
+Philippe Rodrigues: Gotcha.
+lmike: Okay. And I need like, even something like for what we're doing, whether size matters or not. We're talking Michael does pdfs for estimating. If size does matter I'd hate to see what the engineers run into because they're actually gonna have CAD files.
+Philippe Rodrigues: Yeah. I mean usually things are pretty fast and you know, when you turn on sync on a folder the initial sync where it has to get everything from scratch from the back end and bring it down and then de crypt it and save it on your computer.
+Philippe Rodrigues: That can take awhile depending on the size and the quantity of items that there are in there. But once everything is synced down, then there's a steady state and you know the changes on the files or you know, the addition of one attraction of one file here. Sort of balances out and it's much shorter there. It's not unusual for the initial sync to take a while, but after that, you should get in a steady state.
+lmike: Well, in that's where so that was on Friday when we were doing tests and that's what I was curious about. So Michael has 2 different chairs. And depending on what level he checks the box and dives down into to sync. He's he's had this many times and I think I seen it as well. Where all of the files underneath are all of the files in the same folder structure. They turn gray and that's where I was wondering, okay, is it just syncing or is it cate logging everything in there and then once it knows the next time it's gonna be quicker. So that was kind of my hopes and I think that's where I on Friday when I said, okay, can we go back in there and try another folder to see if the speed improved? But then that's when he ran into the failed sync. So I never did get to test. But that's kind of what I was hoping to as we once once a new where everything is. But I think for the amount of times we've tested even with the other user we were originally testing with. They would have been in the same locations different folders, but
+lmike: Yeah. I just it still seems to be delayed. No. Not like you said if he goes in and check off the same folder again often on then sure. But if we're talking, it has to be the exact folder then you're talking about 6 months before it knows about every
+lmike: Or the majority of the directories I guess. But
+Philippe Rodrigues: Yeah, you and Michael, join here. Yeah. Usually if it's
+Philippe Rodrigues: The initial sync it'll take a while particularly if it's nested within a pretty large folder tree. Just the fact that it's in a large folder tree and it could be um
+Philippe Rodrigues: Very well nested. But I have a lot of files and folders within it. Still means that there there's a
+Philippe Rodrigues: Level of abstraction that it has to work through. But we can minimize the sync duration by minimizing sync activity after everything's been synced down. Um
+Philippe Rodrigues: Now, we're moving away from file sync product. We're going to something called cloud drive. It's it's modeled after Microsoft one drive. It uses native windows APIs. And we're gonna have a beta program where you you can test it. But part of this too is us recognizing as a company that the file sync service is very complicated and it does um
+Philippe Rodrigues: It because it's so complicated. It there's a performance impact, right? and there's there's things that.
+Philippe Rodrigues: I as technical support can help you with by optimizing and giving you workarounds and things like that. But then there's like, fundamental things that I think are difficult to support. I think in the long term in terms of clicking a button and everything syncing there within 5 minutes. That I think is a good expectation for cloud drive the file sync right now. I think that's gonna be a little tough to do unless we we turn on sync and then maintain the sync snapshot or the configuration that it's in
+lmike: Right. Well, I mean, the only way that the only way that I could see that making sense is if all of our users had a terabyte drive ensure okay, we're gonna let everybody sync over 4 days and they've you know, we can't do that with the size of
+lmike: The folders we have. But the other thing is I got I understand what you're saying, but it still brings us back to where we started. It's not usable. If we're saying, okay when it comes out, like one drive, great, everything will be 5 minutes, but
+lmike: No matter the tweaking unless you're taking our hour and a half 2 hours down to
+lmike: Whatever a lot shorter. There's if we're kind of accepting it the way it is. I can't see there being any amount of tweak. There's just too many folders, right? They can
+lmike: If you're saying once it's synced, then it's gonna be somewhat quicker. Well
+lmike: It's always gonna be a new or different folder syncing back and forth for the most part, right? Like the estimators. It's always new content going in there. I just don't like from this conversation my question then is
+lmike: How long until we're in the beta program? Because that's the only way I can see any of this being a possibility for us using. With the way it is right now, we're nobody's gonna use it.
+Philippe Rodrigues: I understand. And that's a great question. Um
+Philippe Rodrigues: I think we could do sooner than later. We have
+Philippe Rodrigues: A few stable bills of the cloud drive. And we're actually working on making things a little intuitive in the cloud drive right now and having icons that represent PreVeil and things like that. I think it's just button ing it up and then we can we can share it. So right now we only support on windows is fine for you, yeah. And um
+Philippe Rodrigues: Do you have virtual machines or extra machines? I'd prefer much prefer that you install this on like, a your non primary machine to to test out it doesn't affect any current productivity work that you're on right now. It's more meant to give you a preview of what's come in January when it's officially released with the pro drive the we don't really use a file sync per se. It's more of a hydration model where you can see everything that's in PreVeil on the file explorer, but it's not physically there yet. And when you go to double click and open it it hydrates at that point. And it's like a mini re sync that's happening right then and there. And then it gets your file. So in this way you don't have to turn on sync for a folder to get the things inside of it. You're already syncing on demand right then and there. And it's on the file level, so it's a topic. So you know, you don't have to wait for a whole directory to sync down or the parent to permissions and pass everything down in a very structured way. And also you don't have to wait for sync cycles to make the rounds up. So other things just going to be faster because you have a like a lot of threading and you have a lot of independence in in your file sync. Um
+Philippe Rodrigues: Yeah.
+lmike: So yeah. I mean, I definitely will have AI can have a test machine of any variety, whether it's virtual physical. But what does that mean then? so say you say, okay, we can test this out 3 days from now. What does that look like for the files? does that link up to the existing infrastructure? Or we do another copy to another cloud structure? How does that work?
+Philippe Rodrigues: What I recommend is um
+Philippe Rodrigues: I mean, to be safe, I'd recommend creating a free, PreVeil account with maybe an extra email address. You can just create a gmail address and then create a free account and upgrade. It's full PreVeil. And then upload some test directories and files. And then we can install the cloud drive build. So there'll be a special link with the si file to download and then set that up on the test machine and then we can look at that. Um
+Philippe Rodrigues: Once that's tested, then if you want to test on some of your production files, you can there won't be any detriment or anything. It's just a matter of do we want to test it on a big directory? Or do you want to take a sample of your files? Or maybe your? I think the best thing would be to
+Philippe Rodrigues: Mirror the structure of your your shares, yep. And then send it to this user. We can do like a carbon copy of your files send it to this user and then
+Philippe Rodrigues: Open cloud drive. But this so this way, it's not actually affecting the right the real version of your files. Yep. Yep. I don't know. But that I don't think anything is going to go wrong, but like I said, we're still in and right?
+lmike: So we can do this test anytime now. I can proceed with creating an account or
+lmike: Okay.
+Philippe Rodrigues: Yeah. I suggest starting get next week. Just because it's a holiday week this week and a lot of people are out of the office including the VP of engineering. But I'd like to get on a call with him on Monday and then determining the best build. And then having another call and just walking you through the installation process. And then a quick tour and I like to have him on the call as well. Okay. Yeah.
+lmike: Mike, any thoughts?
+Mike Topp: No, essentially. But we're yeah. I guess at this point we are basically not using not going to be able to use PreVeil until the foreseeable future. Um
+Mike Topp: Is so Phil and I know you this not your department, but is it anticipated in January? Or are we
+Philippe Rodrigues: January, yeah. The second half of January. Yeah, we're the new release is practically built. We're just doing a very thorough quality assurance process through it. And then sort of fixing up the error messages, fixing up the messages in general stress testing, it things like that. So you'll be able to test it and preview it. It could actually even just work. It could be something that works fine maybe a little some quirks here and there that you can report to us and we're constantly making new builds. But really yeah, second half of January. Unless there's a break through, right? And we're comfortable with releasing it sometime before then.
+Mike Topp: Right. Okay.
+Mike Topp: All right. Um
+Mike Topp: Yeah. No, aside from that, yeah. Yeah, I don't know where we go from here from talking to our our cms auditor guy tomorrow. So
+Philippe Rodrigues: Yeah. I'll loop in Emily and you been here as well and see if there's something more here we can do for you, right? Okay. All right. Thank you. Appreciate it. Thanks a lot. A good day. Thanksgiving break.
+lmike: To see you.

@@ -1,0 +1,115 @@
+Account: BARNETT INDUSTRIES, INC.
+Call Date: 2026-02-11
+Duration: 00:22:20
+Participants: Robin Barrow, Don Prysi, Serg Papyshev
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hello.
+Robin Barrow: Can you all hear me?
+Serg Papyshev: Good.
+Robin Barrow: Good morning. Thank you both for joining. This is let me just make sure I got everything. This is your welcome call. Really the point of this call is I'm just gonna go over what you all signed up for. Talk a little bit. About let me just confirm sorry. My computer just loves to restart. Right before I have meetings. Okay. Great. Talk a little bit about the accelerator and make sure I add you both to the C as well. And then also I just want to learn a little bit more about you all and why you need PreVeil. As I mentioned, I'm your customer success manager, so I will be your main point of contact moving forward and I can turn my camera on. So I'm not just like a voice behind the screen.
+Robin Barrow: But yeah, just to confirm what you all signed up for I see you have
+Robin Barrow: 4 users. One of them is an admin user and then you also purchase the accelerator and compliance bundle, which includes the great. Great. So yeah, if you all don't mind introducing yourselves and then just tell me a little bit about what you're hoping to get out of PreVeil.
+Serg Papyshev: To talk
+dprysi: Sure. Can you hear me all right.
+Robin Barrow: I can. Yeah, good.
+dprysi: So Don price. I'm the president of Indy Honeycomb Serg is a business development engineer, but he's also kind of in house it. And we both started hearing about cms a few years ago and we've tried to go down that path. We're a airspace and defense supplier. We manufacture welding metal Honeycomb and it's more of a high value raw material than it is a component. But we do interact with customers that receive C UI on a regular basis. To our knowledge. That's been scrubbed before it gets to us, but we want to be in a position that we can receive that information and have a system that controls it. And we also have some of our customers one in particular, that is adding it to our contractual requirements. Even even if we're not receiving UI that they want us to have a cyber security profile. That aligns with the industry standard. So we looked around at different options landed on PreVeil. Looking for
+dprysi: Maximum support. Knowing that it's gonna be a very lightly used system, but that we want overall overall profile to be up to par. So we want to do a follow up kickoff meeting and include our it company that we outsource with. Okay. They're gonna be handling all of the um
+dprysi: Internal work that we can outsource to them. That way surge doesn't have to spend hours upon hours, filling out documentation. From what we can tell PreVeil has a good baseline. So that between the pre filled documentation and the it support that, we get from our it company. It can be minimal effort on surges part. And we can basically just keep it kind of limited in house and segregate it as much as possible.
+Robin Barrow: No. That that all makes sense to me and a pretty straightforward use case of PreVeil. And we can definitely set up another kickoff call or it might be. Yeah, you know what that makes more sense. We'll set up another kickoff call and I will hold off going over the accelerator today unless you all want to see it. I'm not sure if jack had gone over it in depth, but I did add you both to it. Unfortunately, I don't have a demo environment environment of the GRC but if you use the governance risk compliance tool, some people use it for like is cert or
+Robin Barrow: A majority of them use it for level two, but there's there's a ton of certifications that you can use them in security, measures for and you've used them all, but ours is really basic and it's just think of it as like a project management tool and I can add you both to that as well. But yeah, I guess for today's call typically to get started with PreVeil. You all have one admin. I'm assuming is that gonna go? Is one of the admins gonna go to your it partner or is it is the admin gonna stay within your house?
+Serg Papyshev: I was thinking we're gonna have an admin seat here and let let our it partners do their thing as well. I don't know if it's uh
+Serg Papyshev: If it's normal to share that credential, just to have a have them access that administrative part, part of the
+Serg Papyshev: Package, but I definitely would like to know what's what goes into it. Maybe be as much hands off as possible, but definitely we have to understand what's going on doing.
+Robin Barrow: Sure. Um
+Robin Barrow: My advice would be
+Robin Barrow: You can't share credentials because the way PreVeil works it's encryption keys stalled within a device. Yeah. For your it partner and what's the company's name if you don't mind me yet?
+Serg Papyshev: The name is mql, which northern Kentucky on line that's for over close to 30 years now.
+Robin Barrow: Okay. I was just curious if I heard of them.
+Serg Papyshev: Before they manage a domain domain policies networking kind of what it comes to setting up port forwarding and everything, VPS and stuff like that. So low level stuff I kind of can manage myself here. But yeah. Yeah, I will be rolled
+Robin Barrow: Oh, 100%? Yeah. No, that makes sense. For in that case, I would have them set up an admin temporarily just to get the program kicked off and then add you all to the platform. And they'll go they'll sit on our technical onboarding. So that will be a full on admin training with our support team. And you go over all the admin functions of PreVeil. And then once you all feel comfortable, maybe they back out or we just add another admin license to your account. So for the time being, I'm comfortable with you all having 2 admins until we figure out if they necessarily need one moving forward. Typically the way it partners work is they don't want to an admin account for too long. Especially if the UI is gonna be going into the platform, they don't want access to it, they don't want to see it. It all depends on how you all want to work. But we can definitely manage it that way to start out and then we can take it from there. So the first
+Serg Papyshev: Go ahead. It looks like to and that mean, access, it's 20 bucks a month, something like that.
+Robin Barrow: Yes. Yeah. We
+Serg Papyshev: We certainly can do that course.
+Robin Barrow: Yes. So they would need a full admin and standard users. So it's really
+Serg Papyshev: 50 oh, okay. I see. Yeah. Yeah, yeah. Yeah.
+Robin Barrow: Um
+Robin Barrow: Okay. Yeah. I guess immediate next step for them and I'll send these over in an email. They just need to download PreVeil before they meet with their support team. And that it shouldn't take too long should only take like 20 minutes and I can send over all the instructions on how to do so and then they'll invite you all to the platform.
+Robin Barrow: Okay.
+Robin Barrow: And so just to briefly go over it.
+Robin Barrow: This is the accelerator.
+Robin Barrow: This is a um
+Robin Barrow: It's based out of a learning management tool. Really. It's gonna take you green what is cms all the way through, how do you score one ten? But as jack probably mentioned majority of our customers will purchase us for our documentation, which includes a fully assessed documentation package. And what we've done we've taken a fake company called Acme and created a full documentation package package with all the necessary documents for level 2. So you'll see we have an SP template, probably the biggest piece of documentation that needs to be completed.
+Robin Barrow: And for instance, ours is 185 pages. I don't love to call them templates because
+Robin Barrow: They're fully completed. They're very much filled out. Some of our customers use our SP as the base and then start adding their information to it. Or if they already have a well established CSP, they'll just take out the PreVeil language and put it into theirs with the GRC though. You all are gonna add your evidence to the GRC and it will be able to create your SP for you, generate that report based on the documentation evidence that you put into place.
+Robin Barrow: But yeah. That's
+Serg Papyshev: What does it take to to tailor to us just pretty much open the document and copy to
+Serg Papyshev: Replace the Acme with them without in
+Robin Barrow: You can do that, but obviously like, for instance, there, this is a midsized company. They have different workstations. It's gonna take some customization on your part for the SP
+Robin Barrow: So you'll bring in your for instance, this is a network diagram. Your this network is not gonna obviously be set up the same as what you all have today.
+Robin Barrow: But the PreVeil on leave, maybe.
+Robin Barrow: Depending on how you set it up.
+Robin Barrow: But alongside of this in the documentation you all get access to our compliance team.
+Robin Barrow: So you can book time with them right through here under additional compliance resources.
+Robin Barrow: And you can email them at compliance at PreVeil.com email. You get 6 30 minute sessions for calls and emails. Don't count against your time. So those are unlimited.
+Serg Papyshev: And this will help us guide to tailoring the
+Robin Barrow: They won't do the documentation for you, but they'll be able to provide advice around it. You could say, hey, I have this is how our network is currently set up. What are your suggestions on implementing this into our SP or hey, we have this specific case for UI that gets printed from one room and I have to walk it across the other room to get designed. I don't know the workflow, but that's just an example. They could explain, okay, this is a kind of policy in place. And these are this is what's at risk. If you do decide to walk the UI across the room. So they're very helpful. They've. We have I think almost 60 plus customers now that have gone through a full on CMC level 2 assessment. They've supported them through that. So they're a great resource.
+Serg Papyshev: Okay.
+Robin Barrow: Great. And then
+Robin Barrow: So I'll add you both to that and you just let me know. You get 3 licenses within the GRC and the accelerator. So you just let me know from the your it partner who you'd like me to add, I can do so.
+Serg Papyshev: Okay.
+Robin Barrow: Yeah. And then outside of the other, additional kickoff call, we're going to have. I'm gonna schedule another check in for 90 days just to make sure we're feeling good. Everybody's up and running. There's no gaps in training or anything like that. Again, it's just a placeholder meeting just so we can connect. But I guess when would you all like, to book time? Just pretty much I'm gonna go over the accelerator and next steps with your it partner if you feel it's necessary and we can do a 15 minute meeting even and then you also just need to book time with the support team as well.
+Robin Barrow: So, I guess do you want to schedule that now or do we wanna take do you want me to send over next steps and then we can schedule a follow up?
+Serg Papyshev: Follow up. We need to reach out to to our partner, just to to identify who will be a point of contact, then. The ability.
+Serg Papyshev: I would try to invite them to this meeting and it didn't work out. So we probably need need to coordinate a little more
+Robin Barrow: Sure. Yeah. And once I send over the instructions to you'll get a better understanding of what actually needs to be done. But again, it's fairly easy setup, but I'm more than happy to meet with them.
+Serg Papyshev: Okay. And the goal is to flow to them as much as practical? Yeah, you know?
+Serg Papyshev: We should be able to do some things here. But I was going to this week. I'm going to uh
+Serg Papyshev: Go through step 2 that you sent in your invitation.
+Serg Papyshev: I do have an account is travel already. Do have to make a new one or can I just use mine that? I kind of I got to one of my customers.
+Robin Barrow: Yeah. No, yeah. You can use that one. You just have to upgrade it and I can send the instructions on how to do so. You it's they should be within the knowledge space, but yeah, you just have to upgrade it.
+Robin Barrow: Okay. And then from there, you can invite your it partner. Because if you're gonna go ahead and create the org and make them an admin as well, you're both going to be admins. Yeah.
+Serg Papyshev: I see we have 4 seats and one admin seats. So we right now we don't really need to add additional seats until we kind of put a system in place. So
+Serg Papyshev: 4 seats 2 of these 4 seats be admin seats.
+Robin Barrow: I was gonna say you all just get established, figure out what you need and then we maybe at the 90 day check when we can connect and say, okay, after all, we figured out we needed. Um
+Robin Barrow: You might need additional admin seat, you might need additional seats. So yeah, we I say for the time being getting onboarding do what you need to do and then we can reconnect. We're not gonna charge you.
+Serg Papyshev: Makes sense.
+Robin Barrow: Yeah. Okay. Yeah, I do see you have a full account. Don I see you have an express account existing out there. If you don't know the access to that. Just let me know and we'll just have to wipe wipe your account and start fresh.
+dprysi: Okay. I'll check. Okay.
+Robin Barrow: And then I'm gonna butcher this name. Try my best. I see a mere mark.
+Robin Barrow: So
+dprysi: Yeah. Is what we thank you call him. But yeah, he had one from a customer as well.
+Robin Barrow: Makes sense.
+dprysi: I don't. He's not gonna be involved in this process will be, but
+Robin Barrow: Okay. When that if he does get added and he has trouble, just let me know. We'll wipe his old account, but that's all I'm seeing from your based on your current email domain, so you're good there.
+Serg Papyshev: All right. Um
+Robin Barrow: Great. I guess is there any other questions from your side? Anything else I can help out with today?
+dprysi: I have a nagging question that is really not necessary for onboarding, but I keep asking everyone just because I want to find out where I can get the resource to answer it. Sure.
+dprysi: One of the steps of the process that would be ideal for us if it's feasible is to to cleanse. Um
+dprysi: Our documentation of UI so that it can enter into our system and not be controlled the same way.
+dprysi: Is there an established process for doing that? Because our customers seem to be doing it. Um
+dprysi: But we're not really sure.
+dprysi: What that process looks like to take UI and turn it into uncontrolled information.
+Robin Barrow: That's the first time I got that question. Um
+Robin Barrow: First time I should say. Um
+Robin Barrow: I do know. As far as receiving UI to your commercial account. You can this there's controls within and flags within outlook that can flag it coming in. But I have to see if there's a specific policy that you can scrub documentation and read it of
+Serg Papyshev: It we want to do is to take the information convert it into work instructions that we can share with the people who are actually doing the work and not be worried about campaigning it.
+Serg Papyshev: Okay. And then clay
+Robin Barrow: So are these individuals that are with actually doing the work? Are they within your company? Yes. Yes, they are. Yeah. Okay.
+Robin Barrow: I don't know if there's a way to scrub it, but there is a way to share it. So it's not
+dprysi: And it could apply to outsourcing as well. If we had an operation that was outsourcing knowing what information can be transmitted freely and what would keep it to UI.
+Robin Barrow: Yeah. And I obviously I'm gonna think of a way to share it.
+Robin Barrow: And keep it the same. But I'm gonna ask the compliance team if they've heard of anybody sharing it with
+Robin Barrow: I guessing I'm turning into unclassified information. Well, no.
+dprysi: Yeah, essentially. Well, it's not classifying it as a whole. It's removing you can't give a tank design, but you can make a sprocket and yes that information isn't it isn't controlled. So how what information needs to be removed in order for it to be disseminated freely. Okay.
+Robin Barrow: Thank you. This is not the first time I had a customer yesterday who told me they need to do this and they were trying to figure out how so. Okay. Yeah. Let me go to the compliance team and see what they've heard in the space and how easy it is to do that. But if it comes down to it that you can't do it, I would say we can talk about sharing view only accounts with your shop folks that are making the parts or doing the work. So we have 2 options, we can definitely chat.
+dprysi: About sounds good. Thank you.
+Robin Barrow: Of course. All right. Anything else
+Serg Papyshev: Nope. Let's let's schedule the next one sometime maybe next week. Yeah.
+Robin Barrow: I'll send over times that I'm available. My it's yeah. My calendar is pretty open for next week. And then you just let me know if you have any issues with the follow up in the next steps.
+Serg Papyshev: All right. Cool. I will make some progress on the setting up the org by by the time and we can touch on that.
+Robin Barrow: Okay. That sounds good. All right. Well, thank you both for joining. It was nice to meet you and look forward to working with you all.
+Serg Papyshev: Thank you. Thank
+Robin Barrow: You bye. Bye.

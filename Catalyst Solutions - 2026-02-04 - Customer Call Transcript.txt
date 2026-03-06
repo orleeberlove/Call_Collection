@@ -1,0 +1,54 @@
+Account: Catalyst Solutions
+Call Date: 2026-02-04
+Duration: 00:09:15
+Participants: Zackary Gilman, Eric Baquol, Steven West, John Calvert
+
+======================================================================
+
+Zackary Gilman: So good afternoon.
+Zackary Gilman: Hey, how's it going? Doing well, how are you?
+Steven West: Hanging in there.
+Zackary Gilman: Awesome. Looks like we're waiting for a couple more John and Eric it looks hello, like. Yeah, correct.
+Steven West: Okay. On Eric the client customer?
+Zackary Gilman: Perfect. Are you both from the partner side or is Ryan on the client side as well? I'm on the client side as well. Okay. Perfect.
+Zackary Gilman: Give them a couple of minutes. It looks like John is joining
+Zackary Gilman: Good afternoon com. Check, good afternoon. Do we want to wait for oh, never mind Eric s here. Yeah, should all be converging about now. Thanks. Hi, Zack on John. Hey John. Hey, everyone. Hey, Eric, welcome. This call should be relatively straightforward, relatively. Simple. It's really just to introduce you to myself. My name is Zack. I'm from the PreVeil customer success team here. I'll be your point of contact here at PreVeil from now on. Like I said, it's really just to introduce you to myself. Go over some next steps here at PreVeil as well as some resources at your disposal. But I always like to kick off these calls. Just hear from you guys a little bit about what brought you to PreVeil. I would assume it's based on cms or some sort of government compliance, but I would just like to hear from you guys on what brought you to us.
+Eric Baquol: Yeah, I'll jump in here. This is Eric. Thanks, Zack. So just that, right, cms is for all the compliance, right? To to keep our bidding pace up that we've had over the years. This is something I've been looking into and researching IT for about 4 years. Honestly, to get to this point and I talked with some other folks that were distributors of PreVeil or use PreVeil. And I had talked with some other folks that were pushing the CC thing. Whether it was high or just regular CC and you know, even before it was 4 levels of cms accreditation. So there's been a lot of thought and a lot of study going into this in terms of what's the right thing to fit our size organization currently and something that we can grow from. Even though we're small now we have desires to be 2 or 3 times the size we have right now. And you know, if the most recent rolling it was either take action or get pushed aside and potentially not be eligible to to stay competitive or even bid. So that kind of pushed us over the edge. And then over to PreVeil because of just the I don't want to use the word simple because it's definitely not nothing simple about any of this. But just in terms of not having to lift and shift the entire environment. We would have with government community cloud was extremely appealing to us and John our managing director. And John was introduced to Steven through a mutual mutual colleague.
+Eric Baquol: And fortunately, enough that conversations have gone well over the past 3 weeks to say, hey, we wanna we want to move forward with Steven and Ntegra, which brought us to PreVeil.
+Zackary Gilman: Perfect. Well, that's super helpful context. Great that you guys were able to to find PreVeil when trying to achieve this compliance. I know it can't be easy for sure. But just going into your package here, it looks like you've got the 4 licenses with the one admin console as well as the email gateway, if that sounds correct.
+Eric Baquol: Yes.
+Zackary Gilman: Perfect. And then just kind of going to next steps here, have you guys had a chance to install PreVeil at all? No worries. If you haven't been able to to get that set up yet.
+Eric Baquol: I think Ryan is done has done it so far. Yes, I have it currently installed on my
+Zackary Gilman: Laptop. Okay. Perfect. Well, that's the big step is just getting that installed onto the device. And then from there, as I'm sure you've seen, you're able to set up your organization and invite users to the PreVeil platform. Yes, there. We just ask that you do that before booking your onboarding call. I saw that you already had the call booked for the ninth. So that's perfect. You got the onboarding all set up and you have it downloaded. That'll be more of a technical hands on call. They'll kind of take over your screen, be able to walk through the admin or the admin console with you. Be able to answer any technical questions as well. That'd be great if you have any it folks or anybody technical side who wants to join for them to join.
+Eric Baquol: Perfect.
+Zackary Gilman: So
+Eric Baquol: You got the IT folks on this call. So perfect. Yeah. This is about a stacked as we're gonna get for right now.
+Zackary Gilman: Awesome. Well, that's great. I love to have everybody involved. But yeah, that's the next 2 next steps is just that org setup, which you've already gotten started with and then the onboarding which you guys have booked, which is great. And then just some quick resources at your disposal. You do have support at PreVeil.com and that's for any technical related issues that come up. Sending them an email will automatically create a ticket as well as a manual ticket system that I'll share after this. As well as you have obviously me I'll be your point of contact. So if you're not sure where to go or where who to ask. Feel free to shoot over an email. I'm always happy to help or jump on a call. I can always point you in the right direction over here. Perfect. The only other thing I have on on my list is just to schedule out a 90 day check in call. So probably looking at that first week of May. So what I'll do is I'll put down probably roughly the same time for that first week of May and then as it gets closer to it, if you guys need to change things around to adhere to your schedules, no worries. We can always work around it. Okay. But like I said, this call is very straightforward. That's kind of IT for my steel over here. Want to open it up. See if there's any questions, see if there's anything I can address as you guys get started with PreVeil.
+Eric Baquol: So any specific PreVeil questions we should be coming through you or going through Steven as they can do it?
+Zackary Gilman: Yeah, exactly. So feel free to to loop me into anything. I'll be your point of contact on this side of things. So happy to help if anything comes up. I can always point you in the right direction as well. And
+Steven West: Honestly, it probably be better just to go ahead and direct it to me and then I can go through the
+Eric Baquol: Perfect. Yeah. Hoping for
+Eric Baquol: A similar question, I guess I have is who kinda owns the
+Eric Baquol: Facial fire gonna say we own it.
+Prospect: And I get that. But who is keeping track of what we're implementing and what we're not that we've got a single kind of consultant on that in terms?
+Zackary Gilman: Of um
+Zackary Gilman: Content platforms, types of platforms and all that kind of stuff. That would be Ntegra. Okay. Awesome.
+Zackary Gilman: Anything like yeah. And so then that should be identified before we go to implement something with PreVeil. I'm guessing there's a
+Prospect: We stop the table on, hey, we're adding for more workstations. We get a new contract rather than this piece. We don't just and I guess what's the process for once we get our kind of, initial setup.
+Zackary Gilman: In place for making adjustments. That would go through you guys and then to prevail over.
+Zackary Gilman: Yes. Okay. Cool.
+Zackary Gilman: That all works for me. Anything else I can help address?
+Zackary Gilman: Zack, if you could
+Eric Baquol: Oh, sorry. I'm good.
+Steven West: Add me. Send me an invite for the onboarding. It was not added to that.
+Zackary Gilman: Yeah. I don't believe I have that invite either because it went to our support team. Whoever booked it should be able to share the invite with you. I don't think I have access to that because it's not I do you have that. I believe I do.
+Eric Baquol: We'll get you added on there Steven if we have it. Excellent. Yeah.
+Zackary Gilman: Anything else that I can help address?
+Zackary Gilman: Nothing for me.
+Zackary Gilman: All right. Well, if there's nothing else you'll receive a couple of things. For me. First will be the invite to our 90 day check in call. Next will be a follow up email just detailing everything that we talked about as well as some of those resources for you guys to be able to look over. And like I said, I'll be your point of contact from here and out feel free to dialogue through Steven and you can dialogue to me. But if anything comes up in terms of the PreVeil side compliance side, feel free to reach out. Always happy to help.
+Eric Baquol: One last question, sorry. You say 90 days, would which I hear you. So is there gonna be a consistent qvr quarterly business review that will be doing with you or is this a one time only thing?
+Zackary Gilman: So the 90 day check in call is a onetime call. We can check in every quarter if you'd like. We just put that placeholder so that we have a set time to to check.
+Eric Baquol: In. Perfect. Okay. All good here. I appreciate it.
+Zackary Gilman: Awesome. Well, if there's nothing else, I'll let you guys get back to it. Again, you'll receive the invite from me as well as the follow up email. I'll send that to all of your emails. And if anything comes up again, feel free to shoot over an email. But I look forward to to working with all of you.
+Eric Baquol: Perfect. Thanks, Zack. I appreciate it. Thanks Steven.
+Eric Baquol: Thanks, guys. Bye.

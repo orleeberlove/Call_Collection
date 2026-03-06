@@ -1,0 +1,59 @@
+Account: Convergenz
+Call Date: 2025-12-23
+Duration: 00:08:29
+Participants: Robin Barrow, William Hsiung, Anh Lam
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: I believe hello. We have everyone on. Hi, the how call are you? I'm doing missing well, anybody thank else you from your side.
+Will Hsiung: No, it's just the 2 of us.
+Robin Barrow: Okay. Great. Honestly, this call should be fairly quick. It's just your intro call to PreVeil. I just want to go over what you all signed up for. Talk about next steps, but I also want to learn a little bit more about why you all need PreVeil and what you're hoping to get out of it.
+Will Hsiung: That sounds good. I'm
+Robin Barrow: Gonna go camera off. It's being weird. Okay. I see that. You all signed up for 2 users, one of them being admin and you also purchase the compliance accelerator and the GRC does that all sound accurate?
+Will Hsiung: Yes.
+Robin Barrow: Great. So if you don't mind sharing, why do you all need PreVeil?
+Will Hsiung: So we're an it staffing firm. We do quite a bit of government work and we're based in DC metro area. And we're just seeing a lot of uh
+Will Hsiung: Flow downs from our government clients to be CC compliant. So, yeah. We're just trying to get ahead of it and get our level 2 and be able to essentially just check the box every time we have to fill out a reps inserts or sign up for a new contract.
+Robin Barrow: That makes sense to me. Pretty standard use case of PreVeil and have you all been working towards MC for a while or are you just getting started now?
+Will Hsiung: We're just getting started now.
+Robin Barrow: Okay. Great. And did Eric over the compliance accelerator and what that looks like with you all?
+Will Hsiung: A little bit. Yeah. Okay.
+Robin Barrow: I can show you quick. The compliance accelerator. We call it our 10 step guides getting compliant. So it's perfect for you all. It brings you really green. What is cms? Why is it important all the way through? How do I score one ten? the key areas is our documentation. This is a big reason why a lot of our customers purchase the accelerator. We have the acne docs package, which is a fully assessed documentation package that covers all of level 2. So these are available to you to replicate on your end. Obviously there's gonna be some customization that's gonna need to be done. But if anything, it's a really good example of what a 1 10 company looks like.
+Robin Barrow: Um
+Robin Barrow: So that's available through there. Additionally, you get 6 30 minute sessions with our compliance team. You can schedule time with them right through here. You can also email them. So if you have any one off questions that don't require a call, those don't count against your time, you can. If you're just requires a short answer, you can always send it over to them there. I highly suggest going through all the content. It's all great. And I've added you will anyone else you'd like me to add? I can add the both of you on this call today too.
+Will Hsiung: Yes, please.
+Robin Barrow: Okay. Great. But yeah, that's kind of the gist of the compliance accelerator, the G R C I don't have a demo environment to show you, but it's pretty self explanatory. That's it's going to help you get your documentation in order. Helps generate a score for you all and help you all collaborate and work towards a goal of level 2. So I'll add you both to it and you'll see an invite for both of those platforms through your email.
+Will Hsiung: Is this so this is where we would start, correct?
+Robin Barrow: Yeah. I would say start in the accelerator. Get yourself familiar with the documentation, the controls and then you can move on to the GRC to start implementing your documentation. Got it.
+Robin Barrow: So that you'll see an invite for both of those. And you get up to 3 users in each platform. So if there's another person you'd like me to add, just let me know and I can do so.
+Will Hsiung: Okay.
+Robin Barrow: Great. And will will you both or who will be the admin on the account?
+Will Hsiung: If we could both be the admin, that'd be great.
+Robin Barrow: Yeah. I always suggest having more than one admin. I would go ahead. One of you just needs to download PreVeil on your current device and then invite the other and change roles. It's really simple. You can stop there once you create the organization and then schedule time with our technical onboarding team. They'll go through a whole platform with you and help you set it up to your liking.
+Robin Barrow: The first step, we like I said, we always suggest you just do that first when setting up your organization.
+Will Hsiung: Yeah. I think I have already done that.
+Robin Barrow: Perfect. All right. Then you're in a good spot. To just schedule a time of the support team. Do you see the admin tab on your console?
+Will Hsiung: I believe so. Yes. Okay.
+Robin Barrow: Perfect. Yeah, you can just schedule times 14. Again, that's just as a resource or they'll go through all the admin functions with you.
+Will Hsiung: Okay.
+Robin Barrow: Cool. Lastly, from my end, I will schedule some more time for us to connect in march. Really, this is just a check in to make sure you are feeling good. You're up and running the platform. There's no outstanding questions, but other than that you are kind of off to arises. What questions do you have for me?
+Will Hsiung: How long do you
+Will Hsiung: I know this is
+Will Hsiung: An open ended question, but how long do you from start to finish? Do you think it'll take us to get to that one ten?
+Robin Barrow: I always say to play on the safe side. I say. It will take you 4 to 6 months.
+Will Hsiung: Okay.
+Robin Barrow: That's a safe timeline. It all depends on obviously how much time you all can dedicate to it. And if this is all you'll be doing for the next couple of months, sure.
+Will Hsiung: And then
+Will Hsiung: How would you suggest or recommend when we
+Will Hsiung: The best use of the schedule calls.
+Robin Barrow: It that's really up to you. It's I always say if you want help with scoping and understanding who needs to be involved in cms, I would say schedule a call. If you have a good understanding of that work through the accelerator a little bit and then schedule a call. Again, if you all are working towards a goal of getting assessed, we're gonna want to be involved, then anyways. Really we put a parameter on meetings scheduled because we have customers trying to meet with the compliance team every single day. It's not like you guys get at your 6 meeting and you're like, well, we have an assessment next month. We're not gonna be like, sorry, can't help. We're gonna want to meet with you. So you just let me know if that's coming up. But again, it's really we just had to put some sort of parameter because people were were abusing it.
+Will Hsiung: Oh, got it.
+Robin Barrow: Yeah. Okay. That's flexible. I should say.
+Will Hsiung: Sure.
+Robin Barrow: Yeah. Any other questions?
+Will Hsiung: I don't at this time.
+Robin Barrow: All right.
+Robin Barrow: Sorry, what was that? Sorry, I don't have anything at this time either. Oh, okay. Okay. Great. Yeah, I'll send a follow up email. Like I said, this call is just selfish for me. So I can get to know you all and get an understanding of why you need PreVeil. But the next call with our team will be the on the technical side. And then you should see an invite for both the accelerator and C shortly. I'll send a follow up email as well with the next steps. But yeah, you all are good to go.
+Will Hsiung: Awesome. Thanks, Robin. I appreciate it.
+Robin Barrow: No, thank you. And have a happy holiday. So I don't hear from you and we'll chat soon. Thank you. Bye. Thank you. Bye. Bye.

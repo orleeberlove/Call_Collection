@@ -1,0 +1,74 @@
+Account: Armant LLC
+Call Date: 2026-01-27
+Duration: 00:15:04
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: Okay. Okay.
+Kade Griffon: Hey, how's it going?
+Andrew Meggs: It's going well. How are you?
+Kade Griffon: I'm doing all right, doing. All right. Moving forward making moves.
+Andrew Meggs: It's true. Um
+Andrew Meggs: There's someone else hopping on too, right?
+Kade Griffon: I sent the invite if he's gonna have time. He's in Hawaii. So google diving or something. Yeah.
+Andrew Meggs: Where are you at?
+Kade Griffon: I'm in batten, ruge Louisiana. Yeah.
+Andrew Meggs: Okay. I'm in Minnesota myself. So covering all the time zones. Yeah, it's not the biggest deal if is not able to make it. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. Not everybody has to be on this call. For context, I am the customer success manager for your account. So that means I'm your general main point of contact here at PreVeil going forward and account manager. So this call is to let you know why exist as your main point of contact, but be kind of go over the onboarding process and make sure you don't have any initial questions, that sort of thing.
+Andrew Meggs: So if you want to wait for to hop on, we can or if you want to just go ahead and get into it, whatever your preferences.
+Kade Griffon: Yeah. Now we can go ahead and get into it. I don't expect him to be here. And if he does, he's I don't think he's too interested in what we're talking about here today. So
+Andrew Meggs: Fair enough. Yeah. Well honestly, I say get into it's not like there's like a formal presentation or anything like that. I guess getting started with PreVeil. There's kind of 2 separate pillars. There's the technical implementation and then there is the compliance implementation for the actual technical setup of getting PreVeil organization created and administrating and that what would that be you?
+Kade Griffon: Yeah. I'm gonna be handling all of that.
+Andrew Meggs: Okay. Cool.
+Kade Griffon: Yeah, sales and technical.
+Andrew Meggs: Okay. Okay. Good, good, good. So I did send some instructions in that initial email that I sent over. But the actual setup the video is like an hour long because it goes over how to use PreVeil and whatnot, but the actual setup is super easy, just download PreVeil, create a PreVeil account. And then there's a specific local host address to go to that while you're logged in. Will prompt you to create the org whole thing. Maybe takes like 5 minutes tops. And once you're done with that, you will be set up as the initial administrator of the organization and you'll be able to add the other users. Okay.
+Andrew Meggs: And then after you have the org created, that's when you would schedule the actual technical onboarding. So that would be an hour long training session on how to use, PreVeil, admin roles and responsibilities, making sure there aren't any technical issues in the background, that sort of thing. But technically you can use pre as soon as you get the org setup, the onboarding is just to make sure there are any issues. But for the technical setup, that's kind of it is creating the org and going through that onboarding training session, completely separate from that separate website. Separate login is our compliance accelerator. So that is the compliance portal that has all the documentation in it and the walkthrough of cms compliance that I got you access to right before this call. So you should see an email invitation to that shortly. Sometimes it takes like 5 10 minutes for that to come through. But that's from talent. LMS is what we built our compliance portal on. So you should see an email limitation to that, but I'll also include a direct link in my follow up email. Um, you'll have that. And for that I am the person who adds people to the compliance portal. Should anyone else be added to that off the bat? Should I add to that?
+Andrew Meggs: Um
+Kade Griffon: No. He doesn't need that. If he does. I guess I can just request that at a later time. But I'm gonna be pretty much the only one involved in the compliance side. The technical side. I mean, I'm gonna be kind of like helping the users get that going to get that set up, but I won't be initially just out of the box. So let me just kinda give you the breakdown. So we have 3 user licenses as it stands today. One of those users is also gonna be the administrator. So that's gonna be a he's gonna be the administrator. He's also gonna be one of the 3 license users. I don't think you can separate that. I think um
+Andrew Meggs: Not the admin is kind of like a like an add on onto a user license, yeah.
+Kade Griffon: Yeah. Just as a best practice. I don't think we're gonna keep it that way. That's just kind of like a out of the box. Let's just get it get everything set up and get compliant. I think eventually we're gonna have an additional user. That's just only gonna be the administrator. So that's probably gonna be me. But for right now, it's just gonna be and then 2 other people. Not me. Um
+Kade Griffon: I think it's better.
+Kade Griffon: Just a best practice to have have those separate have an administrator and then 3 separate users that are accessing the UI and the all of that.
+Andrew Meggs: And we do have our clients sometimes that their admins will have a separate account. That's just your user account and the in an admin account. That's just an admin account and that wouldn't count against licensing or anything if you needed to make basically a dummy account that you use just for admin work.
+Kade Griffon: Yeah. Because that's what the cms requires, right? 2 separate accounts. If it's the same user and one is an admin one's a user, they require 2 separate accounts. That's good. I didn't know we could do that, but since you can I may not need to be involved in the technical side as much. Um
+Kade Griffon: At least at the beginning.
+Kade Griffon: All right. Yeah. I guess that's really my only 2 questions.
+Andrew Meggs: Yeah. There and I guess this will be you there does need to be a person that does do one person that does do this initial setup and is the initial administrator. But if long term you want to make the administrator, you can basically invite them and upgrade them to an administrator and on admin yourself. Or if you're gonna be an administrator long term, you can do that, whatever your preferences. But yeah, we have clients that have separate basically you'll have a Griffin at armon solutions and Griffin underscore admin at armon solutions that lead 2 separate accounts. And that yeah, that you want me to buy an additional license for that, right?
+Kade Griffon: Um
+Kade Griffon: So yeah, as it stands, we have 3 company issued devices has one and then the other 2 guys have one. So just for that compliance part of it, we want to keep everything within those 3 devices. So hey, Jay is gonna be pulling double duty for from the beginning. And then the other 2 guys will just be users. But they'll they'll be have they'll have compliant company issued devices. And I think we just need to add a couple of things to them. A bit locker, Microsoft defender and MA type thing. And another question I had was and I might have asked this already to to the other guy that I spoke with. But can you set up like, a google authenticate or within the PreVeil software?
+Andrew Meggs: Not right now. No. So as of now, PreVeil is a very I guess you could say black box product. It does not connect to anything else it for security reasons. Can't doesn't have MA itself naturally or anything like that. Okay. We are pursuing avenues to do things like that. But right now basically for compliance purposes, the MA and everything would be at the device level.
+Kade Griffon: Okay. All right. We'll have to figure that out.
+Andrew Meggs: And that's actually kind of a good segue to my next point. These are the sorts of questions that would be great for our compliance team. So with the accelerator comes access to them as a resource they're the people who wrote all the documentation and made all the videos. They're available at compliance at PreVeil.com. And there's also a link to their calendar in the accelerator to schedule a meeting with them. So if at any point you have any compliance related questions, they're available to you as well.
+Kade Griffon: Cool. And then
+Andrew Meggs: I guess just kind of delineate the duties here on the support team will be doing that technical onboarding. The compliance team will can answer any compliance questions. And I'm kind of on the account side of things. And as your general main point of contact, if something needs to get escalated or if you have any adding a license subscription, all that sort of thing would be me
+Kade Griffon: Okay. Um
+Kade Griffon: Yeah, I do have a question about the licenses. So let's say 6 months down the road. We have to add more people more licenses. How does that work? because we pay a year upfront for the 3. If we need to add 3 more in 6 months. Does the contract renew at that point for another year or is it just for those 3 new ones?
+Andrew Meggs: Yeah. It would co term with however many months left or with your subscription. So it's a fairly in elegant process. You just email me and say, hey, can I have 3 more licenses and I put together an order form for 3 licenses, let's say 6 months for 6 months left in your contract and then that will just be added to your subscription.
+Kade Griffon: That's easy enough. Yeah. And then does it automatically renew at the end
+Andrew Meggs: It is set to auto renew 30 days previous. So if you don't hear from you, we do give notifications beforehand. But that is the standard terms. Yeah. Okay. If you want me to turn that off again?
+Kade Griffon: It's not a big, no. It's not not necessarily right now. I assume if in 3 months we need more users or even if the 3 we have is probably going to still need that after the year. So I'm okay with it. Auto renewing. Yeah. At this point. What's what's taken off during the auto renew? I knew there. There's like some startup costs that don't transfer to the next.
+Andrew Meggs: Yeah. There's a onboarding service fee and that covers setting up the org and going through that onboarding, I was mentioning with our support team.
+Kade Griffon: Okay. What's the what's the renewal cost for same setup? We have now 3 users, one admin. Um
+Andrew Meggs: And the accelerator.
+Kade Griffon: Yeah, I mean, I don't know. Do we still get the accelerator?
+Andrew Meggs: If you want to renew with the accelerator, you certainly can. You don't have to renew with it. If we if we don't hear from you and if you don't respond, any of the notification that we'll send beforehand that I mean, everything is set to auto renew as is except for that onboarding service fee. But yeah. I mean, come renewal time you can certainly renew with whatever you would like.
+Kade Griffon: Okay. If we just want the user licenses and admin, it would just be that price, whatever it is. 40 bucks a month per user.
+Andrew Meggs: Yeah. Slightly less than that. But yeah. Yeah. Um
+Andrew Meggs: Yeah. And then yeah. Obviously we can have that conversation closer to renewal date. I mean the accelerator, there's some value in continuing the subscription because it includes any updates to the documentation or changes based on any of the changes in in cms as well as that continual access to the compliance team. Like I was saying but yeah, you don't have to renew it if you do with it, if you don't do.
+Kade Griffon: Yeah. I mean I'm assuming and I'm hoping that we can get our level 2 certification this year. Yeah. And if we get that, I don't think I think we I mean, that's good for 3 years. So I don't know if we really need to for sure. That makes sense redo that every every year. So we'll see yeah. Cross that bridge when we get there.
+Andrew Meggs: But I guess to that point of seeing where you're at in a few months. Normally, I do put a 90 day check in call on the calendar for all my clients just to make sure things are going smoothly. Obviously you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for April? 27th is 90 days from now?
+Kade Griffon: Yeah. No, I think I don't think I have anything I wouldn't never schedule anything out that for so my calendar is empty at that time. So I
+Andrew Meggs: Live 90. So my calendar is already pretty full by that point. Yeah. Yeah. I mean, do you have a preference for I guess you are you in central time? I don't know what time.
+Kade Griffon: To embed and yeah. Yeah. Central.
+Andrew Meggs: You prefer morning or afternoon meetings.
+Kade Griffon: I don't have a preference. Whatever is open.
+Andrew Meggs: Okay. I will put this on the calendar then. And like I said, I will send a follow up email with the instructions on how to create the org and the direct link to the compliance accel iteration. And then while I'm doing this, do you have any other questions about PreVeil or anything else you wanted to go over?
+Kade Griffon: No, I think that was most of my questions. Everything else is probably gonna be compliance specific. Okay. And I'll have to take a look at the documents that might already be answered in there. So nothing at the moment.
+Andrew Meggs: Okay. Well, as an aside, I like your raise her headset by the way.
+Kade Griffon: Oh, thanks. They
+Andrew Meggs: They wouldn't approve me getting one. But I I like yours. Yeah, I'm gonna send all this over. I just put this calendar tab on the calendar. You will have my contact information. So yeah. The next steps would be creating the org and going through that onboarding and then separately getting into the compliance accelerator and checking out all that content. And then yeah. If you do have any questions or if you need anything else, please don't hesitate to reach out.
+Kade Griffon: Yeah. I'm sure you're already gonna do this, but the compliance website or the email support email and then the links and the instructions as well.
+Andrew Meggs: Yes. Yes, that will be included. All right.
+Kade Griffon: Cool deal. Well, we're good to go.
+Andrew Meggs: All right. Well, I appreciate you taking the time to meet with me, Kate. It was great to meet you and I hope you have a great rest of your
+Kade Griffon: Day. Alright, you too. Thank you. Bye. Take care.

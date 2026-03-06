@@ -1,0 +1,104 @@
+Account: Coronado Manufacturing
+Call Date: 2026-02-09
+Duration: 00:16:13
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Yes. How are you?
+omatus: I'm good. I think I jumped the gun when I made the call because we haven't watched the video. Hello.
+Robin Barrow: So hello, you're good Robin. This is just an intro call. Just an intro to me. So you're good. I'm just gonna go over your contract. This isn't going to be the training call.
+omatus: Oh, okay. Yeah. I was just reading the instructions. And for one reason, I thought I might have to watch the video the things before joining a call with you.
+Robin Barrow: So yeah. No, you're good. And I'm just gonna let the team and again, this is in a training. This is just an intro to me selfish. Y this meeting is for me, just so I can get to know you all understand why you need PreVeil. And then talk about next steps on getting started. But it looks like you dove into next steps a little bit already. But um
+Robin Barrow: Is everyone here? Are we waiting on a couple more?
+omatus: I wanted a couple of more.
+Robin Barrow: Okay. No worries.
+omatus: No, not necessarily. I just want to wait on Elisa and rates.
+Robin Barrow: They're both in. Hi. I'm here. Okay. Hi, we're here.
+omatus: Oh, they're logging in. Okay.
+Robin Barrow: Yeah, they're both here.
+omatus: Fantastic.
+Robin Barrow: Okay. Are we good to get started?
+omatus: Yeah, we're good.
+Robin Barrow: Great. Yeah. Like I mentioned I'm Robin I'm your customer success manager here at PreVeil. So I'll be your main point of contact moving forward. I know you worked with Eric previously, but since you're now a full customer, you go to me. And just to confirm what you all signed up for. I see that you have 5 users. 2 of them are admin you also purchase the compliance accelerator and the GRC which is also called the compliance bundle. And then you also got the email gateway service. Does that all sound accurate?
+omatus: Yes, I did.
+Robin Barrow: Excellent. So yeah, if you all don't mind sharing, why do you need PreVeil?
+omatus: Well, we have uh
+omatus: We are a government contractor and sometimes we have full share classify and classify information. There are sensitive information that we need to send to our suppliers. And we want to make sure we're in compliance when we share the documentation for once.
+Robin Barrow: Yeah. Fair enough. No, that makes sense. Typical use case of PreVeil. So and you I'm assuming you all are trying to get CMC level 2 just based on the compliance model that you
+omatus: Purchase, that's the main go.
+Robin Barrow: Great. And you all get 3 users in the accelerator and the GRC these users don't need to be the same as the users in the PreVeil platform. That's I manage the admin on the both of those platforms. So it doesn't have to be right now, but just gather 3 names that you'd like me to add to the compliance piece of PreVeil and I can do so.
+omatus: All right. I want to have Elisa numbered.
+omatus: The address is
+omatus: Um
+omatus: I'm debating on whether I have myself. I have you in there. Question. We can still share information on internally, right?
+Robin Barrow: Even though within the DC yes. And within the PreVeil platform. But the accelerator doesn't have a collaboration piece. It's really just like a learning management. It's more of a dashboard and videos to watch and train up. And then also you get the documentation. And if you don't mind, could everyone who uh
+Robin Barrow: Beatrice analyst, could you drop your emails into the chat? That'd be helpful just so I can note to add you both for whatever reason it didn't show up on the invite.
+Robin Barrow: Thank you so much. Um
+Robin Barrow: Do you want to add
+omatus: Um
+omatus: Who?
+omatus: Do you wanna add Omar? No. The reason is we only have 3
+omatus: So either I give it to Walmart or I'll take it on myself.
+omatus: Um
+Robin Barrow: I would just go ahead, sorry.
+omatus: So I was thinking maybe I'll have a myself and I can always support everybody else.
+omatus: So I'll add myself to it. Yeah. Okay.
+Robin Barrow: Great. Okay. And this is what the compliance accelerator looks like. As I mentioned, it's based out of a learning management system. It takes you really green. What a cms all the way through. How do you score 1 10 but the bulk of the information?
+Robin Barrow: Is you can it's listed in our documentation. So this is where you get the template that Eric probably mentioned based on our Acme company that went through a full assessment. So you have access to all these. And you can go ahead I think I already have a coffee downloaded.
+Robin Barrow: An exit that there we go.
+Robin Barrow: Yes. It's all broken out. Again, these have been fully assessed by C 3 Pao. What I like to say. It's a really good example of what a 1 10 company looks like.
+omatus: Okay.
+Robin Barrow: These are all available to you. Another area to point out.
+Robin Barrow: Is the additional compliance resources. You all get the 6 30 minute sessions with the compliance team for any questions regarding level 2. And you also can reach out to them via email. Those don't count against your time, they're unlimited. I wouldn't e mail them every day because they probably gonna ask you for a call, but they are available to you if needed.
+Robin Barrow: And yeah, as I mentioned, the accelerator is meant to be
+Robin Barrow: More educational, but then also providing the resources. So if you're new to cms, I highly suggest going through all of it, but if you understand the process, you can just dive into step 6.
+omatus: So for the n is 1 71 self assessment, the questions in there? when I all the 110 questions or
+Robin Barrow: That would probably be. So with cms level two, there's 110 controls and then 320 objectives. So it is a beast. They the you can find the shared responsibility matrix, which will break out the controls that we share together and then also what you are responsible for. So that's one way, but I would say and unfortunately, I don't have a demo environment for the GRC but I would say the GRC is going to build it's really a project management tool that's gonna show you each control and objective that needs to be met and a checklist on how you go about adding your evidence and meeting that requirement. And it will also generate a score for you.
+Robin Barrow: So yeah.
+Robin Barrow: I'll add you to both of those and them working together. I think will be a great resource and help you manage all your evidence and get it ready for level 2. So you just need to do a self assessment right now. And then you have to work up to potentially being fully assessed by. Okay.
+omatus: Great. That's something you do not provide. I had to get a another company perhaps to do that, right?
+Robin Barrow: Correct. Yeah. We have preferred partners that we work with and we definitely can provide recommendations, but it's considered a conflict of interest. Otherwise I think we would start training some people up on our team to do so. But we can't yeah.
+omatus: Understood. Yeah.
+Robin Barrow: Okay. Great. So like I said, I'll add you all to both platforms right after this call. And that's really the compliance side of PreVeil. Probably what you were diving into earlier was with the videos that's the PreVeil email and drive platform. And the support team handles the onboarding for that. So really all you need to do prior to meeting with them is just create your organization go through that those instructions that were sent over. And whoever is gonna be the admin should handle that and you have 2 admins. So just one admin should create the org and add the additional admin.
+Robin Barrow: And I'll resend this in a follow up e mail. So you'll get all the information you need from there just book time with the support team. Just like you booked with me today, I'll provide their calendar link and you just need the admins to join this call because it is admin specific. But if you need a standard user training, I can provide resources for that, but also a link to book with the team.
+Robin Barrow: Lastly, and then I'll stop talking and let you all ask you questions. I'll schedule a time for us to connect in 90 days just as a check in, but I'm not going anywhere. It's just a placeholder meeting just to track progress and see where you all stand and
+Robin Barrow: One question I do have do you have UI data today that you need to put in PreVeil? And if so, what process are you gonna take for that and how can we help?
+omatus: Well, the main my main idea is to ensure that all the during the onboarding contract that we received from our customers. We have a way to receive all the drawings and sensitive documentation was given to us. And then create a process for how are we gonna transfer that information to our sub tier suppliers?
+Robin Barrow: Yeah. Okay.
+omatus: Okay. That's the main focus. As far as the what we were talking early about the UI, I probably will be the most engaged with it. Because I have experience with it. I've already set up a previous company with the the self assessment. So I understand what needs to be done. I know how I load in for information when you have the self assessment done into SP RS using pi and all that. But right now, my main focus is to be compliant with this with the information.
+omatus: And then sorry for I wanted to say that. Yeah. When I was we were looking into PreVeil. There is 2 emails apparently, that we are able to use one that we can communicate internally sharing the documentation and the other one is given PreVeil access to sub tiers.
+Robin Barrow: Yeah. I you all purchased email gateway. And I'm in in you all have purchased email gateway. Yes. The gateway is that second email domain? So it's like it would be sub or excuse me, secure dot your current domain. That is created through a TLS certificate that you all are responsible to pay for. I don't know if Eric went over this with you all, but they're pretty easy to come by. We have companies where we recommend, but then our team will then set up the email gateway for you. So that is the email that your subcontractors or any third parties you communicate with we'll use to communicate with you and you'll just whitelist their domains. So then all those emails automatically flow to the gateway. Now, if you all just want to communicate back and forth within your org, you can just use regular mail or you can share via the drive. So it's completely up to you and how you want that process to go, but both are possible.
+omatus: Yeah. I certainly don't want to drive. I mean, I just want to make sure the most secure way, which I think using the domain and information through it.
+Robin Barrow: Yeah. I would say, especially with the gateway. Like I said, white listing the subcontractors, emails that you work with. You only have to whitelist the domain name. You don't have to do the full individual emails. And again, the support team will go through the whole process of setting up email gateway. They're just gonna want to make sure your org is created first and then add the gateway afterwards.
+omatus: Okay.
+Robin Barrow: Now
+omatus: Since we only have 3 main users for the system, can that be there's changeable with somebody else from the beginning or not?
+Robin Barrow: Yes, you can move users around admins around completely up to you.
+omatus: Okay. If
+Robin Barrow: If you ever wanted to add more users, you can do so we would just co term your current contract. So you just let me know. Hey, Robin, I want to add 10 users. It doesn't have to be 10. It can be 3 2. I say it's silly to do paperwork for one, but if it's really necessary, I will even if you added a user for the day, I would not mind to be honest and then you remove them. It's okay. But yeah, we would just go to your contract. Okay.
+omatus: I like it. Yeah.
+Robin Barrow: Yeah, I mean it's something I track. So if I see that you're over using by a bot I'll say 5 or more, I'll probably bug you, but other than that, don't tell anyone to say so I it's okay.
+Robin Barrow: That makes sense. Yeah.
+omatus: Yeah. Any questions or
+omatus: No, I'm okay.
+Robin Barrow: Okay. I believe someone else joined as well.
+omatus: I'll see this.
+omatus: On mute. No, never mind.
+Robin Barrow: You guys?
+Robin Barrow: Yeah. Okay. Oh, you're in the same room? Okay. I just want to make sure. All right. That you didn't miss anything. Okay. Great. I mean, yeah, like I said, next steps just getting ready with the onboarding team and just creating your organization. I'll send a follow up email, but I'm always here to help if you need anything. Is there any additional questions or do you need more clarification on anything else?
+Robin Barrow: Oh, you're muted. Sorry.
+omatus: Yeah. The onboarding guy that I received. I can share that with all of my team and they can be able to watch the video and do all the initial.
+Robin Barrow: I would say you're the onboarding guide you received is just for admin users. So only one of you needs to go through those steps. Okay. The I can send excuse me, the additional resources to all of you the standard user guide. The process how it will work. The admin will create the org invite, the other admin and then you invite the other standard users. So they'll receive an invite to join your organization. Yeah, the initial steps are just for one admin.
+omatus: Okay. All right. Thank you. I
+omatus: Think I understand exactly what needs to
+Robin Barrow: Yeah. And like I said, I'll send the next step email and I'll break it out for you too.
+omatus: Okay. So
+Robin Barrow: No. Other questions.
+omatus: I'm good.
+omatus: I guess everybody's good.
+Robin Barrow: All right. Well, thank you, all. It was nice to meet you. And I look forward to working with you and I'll send this follow up shortly and you'll see an invite from me for 90 days as well.
+omatus: Okay. Thank you, Robin.
+Robin Barrow: All right. Thank you.
+omatus: Bye, bye. Bye. Bye.

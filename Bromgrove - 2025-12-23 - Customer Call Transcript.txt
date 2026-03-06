@@ -1,0 +1,89 @@
+Account: Bromgrove
+Call Date: 2025-12-23
+Duration: 00:16:37
+Participants: Robin Barrow, Katherine Hart, Chantal Kingswood
+
+======================================================================
+
+Rep: Oh, I was muted. I haven't done that in a long time. Hi. Hi, can I can how are you?
+Prospect: Hi. Robin good evening.
+Rep: Oh, good evening. It's yes. It is evening for you all.
+Prospect: Yes, it's 8:00 pm in Dubai.
+Rep: Oh, man. So we'll make this quick for you can I don't know. Go to bed or go to eat or I don't know what you're doing for this evening.
+Prospect: Well, I'm having a bit of fever. So I'm actually not feeling.
+Rep: Well, we I had that last week. It is no fun. So we'll make this fairly quick for you can go rest up. Hi, Kat. I think you got audio going now.
+Rep: Great.
+Prospect: Sorry, I'm not used to zoom. So
+Rep: No. You're good. No worries. In the future if you ever want to do a team to shoot an invite over, I'm happy to join. Yeah. This like I was saying, kind of this call should be fairly quick. It's just your intro call to PreVeil. We'll go over what you all signed up for and then talk about next steps on how to get started. I'd also love to hear why you all need PreVeil what you're looking to get out of it as well. But to introduce myself, I'm your customer success manager. So I'll be your main point of contact here at PreVeil. Yes. And just to cover what you all signed up for I see, you have 15 users, 2 of them being admin, you also purchase the compliance accelerator as well as the email gateway. Does that all sound accurate?
+Prospect: Yeah. Okay. From what I remember, these conversations have been going on for about 2 3 years with PreVeil on and off.
+Rep: Yeah. Yeah.
+Prospect: So we finally got our bosses. Go ahead because we need to get cms certified so we can continue doing did work.
+Rep: Okay. That makes sense.
+Prospect: Yeah, that's why we need it. And now that there's a time frame, he suddenly has realized that we do need to do this. So he likes doing stuff last minute. And then question is why it's not done.
+Prospect: It so the 2 admins will be myself and Keith that's why Keith is on the call.
+Rep: Okay. Great. That actually answers my second question. You all what is your time frame of when you're looking to get compliant by?
+Prospect: Probably as soon as possible. Okay. I mean, I'd I'd say ideally, 6 months.
+Rep: Okay.
+Rep: That's a good time frame. We usually say 4 to 6 months. So what it takes. And I'm gonna Katherine I'm gonna add you go by cat.
+Prospect: Not Katherine. Yeah. Yeah, totally.
+Rep: Okay. I'm gonna add you to the accelerator now. So you'll have access to that. Did Craig go over what that is and what it looks like? Okay. Well
+Prospect: I honestly can't remember if I'm being
+Prospect: Honest. Keith doesn't really have much insight into this because he hasn't been on any of the initial meetings. So this is first introduction to
+Rep: Okay. I'll break it down. We I like to put PreVeil in 2 worlds. We have the compliance side of PreVeil, which is a big reason why people purchase us, honestly. Because we need we help address 102 of the 110 controls under C level 2 in actuality, if you downloaded PreVeil, got the email and drive run up and did nothing and walked away. You meet around 40 of the controls, 30 to 40 35 to 40 of the controls. The reason why we say we share 102 because the other side of actual the product is the documentation and training of staff and making sure you have policies and procedures in place.
+Rep: So the product email and drive is super simple to use. If you use an email function and you use a drive function, whether that be Dropbox or one drive, any of those, they pretty much all operate the same and that's exactly how per available work. It's just and an encryption and the way it stays encrypted and you're able to track the device that the the user that is using PreVeil is through encryption keys that are installed on device. So
+Prospect: I understand. It works. So like side by side with Microsoft
+Rep: Yeah. Yeah. Yeah, exactly. So I can show you real quick. And this is for Kenneth, mainly too because he hasn't seen it, but the way here works you can either use the browser application or you can use your file finder or whatever you use for that. So you can see
+Rep: You if you have the sync on, you'll see you'll have your PreVeil Box or yeah, folder. And then also you can also operate just right out of the browser application. Make sure I'm in my demo environment. I am. So this is what the drive would look like.
+Rep: That sort of thing. It's very simple.
+Prospect: Okay.
+Rep: And then additionally, I'm assuming you all are using outlook. There's an outlook plugin. So you'll see a separate inbox inside your current outlook. It uses the same email address, but one secure one's not.
+Prospect: Okay.
+Rep: For you all because you purchased the email gateway, what that means. It means that if you send any communication to third parties outside of PreVeil, they won't get an invite to PreVeil express. You all will just work through a secure sub domain and they'll receive an email to their commercial inbox or whichever they use and it'll will remain secure. So you don't have to worry about them signing up for PreVeil express downloading the application and that's sort of thing. You're just going to be able to communicate back and forth easily.
+Rep: So the support team will help you all one train up on the admin functions of PreVeil. They'll set up a separate training for email gateway and assist with setting that up as well. You'll probably see have around 2 meetings with them. Maybe 3 for the email gateway setup because that takes a little bit longer.
+Rep: For the any questions on that?
+Prospect: No. No. I'm just writing notes. Because obviously, I know that it is sort of like it's coming up to Christmas and we UK. We're sort of like minimum minimal hours between now and new year. It's just so that when I come back to it, I will remember
+Rep: Yes. Of course. And I'll email, well. We every company I worked at, we've I've always worked like, through the holidays and only got Christmas and new years off PreVeil is the first company that they actually we're not shutting down entirely. Because obviously we support our team, but no meetings from Christmas to new year. It's actually not the first time. Yeah. We don't like holidays here in the us for whatever reason.
+Prospect: I am. I have her I have also annual leave is another one you don't get much of maternity. No.
+Rep: No. 12 weeks. Yeah, it's crazy. But I can go on and on about that.
+Prospect: So
+Rep: For the compliance side, this is a compliance accelerator. It lives outside of PreVeil platform. So it's a separate login. Yeah, you might have already received an email invite for this and I can add Keith as well. What this is we break cms into 10 steps. We go really green. What is cms wise and important all the way through. How do I score one time? Yeah. If I want to highlight a couple of areas the main reason why people purchase this is for our documentation. We have a fully completed assessment guide or assessment doc package that has been approved by C 3 PO. So all this documentation, I won't even call them templates because they're fully completed. They have all the detail necessary. It's an amazing example of what a one time company would look like if you want.
+Prospect: Sold it to me because I'm not processes and things like that. So that definitely was a tick box for me.
+Rep: Yeah. Absolutely. It makes sense too, because it's so that the language within this documentation, it's like writing a different language. It truly is it's and our team did an amazing job with it. So again, it's fully completed. So if you went in and just change your name and
+Prospect: Yeah. I was gonna say changing the name, the names, the company name and things like that. Isn't it and adding a few bits.
+Rep: Yes. You'll you'll have to I mean, assuming that you're not set up exactly. Like the Acme docs package the Acme company. I want to make sure I have the SP open. I probably do somewhere, for instance, the SP is 185 pages. It's a piece of a document. The we're the version history is even completed. The files are within here. It's we have signature on these things. Obviously you can swap these out and it doesn't find of the name and everything like that. But um
+Rep: Yeah. It's a beast but for instance, the UI company UI, boundary, the network diagram might need a little bit of a change. The UI flow will remain the same because you're using PreVeil. But like, even down to the network documentation links. These aren't real links, they don't exist. Those will be what you all put in there. That lives in there. Craig probably didn't mention this. We do have another product, it's called the governance risk compliance tool. This might be further down the line when you start getting. Really in the nitty gritty of the documentation, it is an additional product, but it helps you keep track of your documentation helps you collaborate on the documentation and it also helps submit a score. So we'll generate a score based on where you stand for your documentation as well. Like I said, that is an additional product, I think it's 2,400 for the year. I always suggest just keeping in mind when you start really getting all your documentation together. I need to organize it.
+Prospect: Okay.
+Rep: Excuse me, and thank you. And then yeah, the last piece I want to point out you get 6 30 minute sessions with the compliance team. So you can book time with them right through here. And that's for any questions that require a long answer. I always say because you have access to their email and that is unlimited. So one off questions require a short answer email. You feel as though you need to talk through something book time with them.
+Prospect: Yeah.
+Prospect: Um
+Rep: So
+Rep: That's pretty much it for the compliance accelerator side. Any questions?
+Prospect: Not so far. Okay. Great. I'm sure I will have quite a few questions as we get into it.
+Prospect: Of course. I
+Rep: I all my customers this week that I talked to the we're in listening mode will be in like, doing most after the holiday. So I'm like
+Prospect: That
+Rep: That's okay. And the last piece I want to share for next steps. We just need PreVeil downloaded on one of your devices because you're both gonna be the admin and just set up the organization. It sounds a lot more daunting than it actually is. Only 20 minutes. The reason why we have you do this prior to actually meeting with the team is so you can train out of your organization so you can go ahead and click through the platform and work with them on it. So I'll send over instructions on how to do that. It was in my welcome email, but I can resend them. And yeah, like I said, if it takes you longer than 20 minutes, that means there's an issue. So reach out to me, but you are a Microsoft environment. Yeah. You're great. And you, do you have any C or any of the acronym data that you need to put into PreVeil immediately?
+Prospect: No. No, no. Okay.
+Rep: Okay. That's okay. We just say if it's more than, I want to say more than 100 gigabytes worth of data that you want to put into PreVeil at once, just give us a heads up, we'll probably want to do a file transfer.
+Prospect: Okay. Yeah. Yeah, I've had to do because we when I started we were using Dropbox and then gmail and then outlook and all different versions. Oh, okay. The file transfer, because I just said to my boss. We're just gonna use Microsoft because this is ridiculous while different licenses when we can just do this. And yeah, that file transfer of all our files. I think that took about 48 hours in total. Oh, jeez. Yeah, it was
+Rep: We for the tool, we use it's gone from my brain. We can it's doable. You get up to 10 terabytes where the storage in PreVeil, but I always compare it to like, downloading a video game or something like that. It's a time. So we would want to set it up after after hours, that sort of thing.
+Prospect: Oh, yeah. That's yeah, I did it Sunday. When I was working. Yeah, yeah. It was very painful.
+Rep: Well, hopefully you don't have to do that for data. Yeah. Keith, did you have a question?
+Prospect: For now, I think I'm okay with the compliance dashboard.
+Rep: Looks and once we are done with the
+Prospect: Manual in the training, I believe will be good to go.
+Rep: Okay. Excellent. Yeah, I added you both to it. You should see an invite shortly. Lastly, on my side, I'll schedule a time for us to connect in march. This is just a 90 day check in to make sure you all are feeling good. You're up and running, but I'm not going anywhere. So if you have any questions, just
+Prospect: Yeah. Reach out. Yeah, I'm sure that I will probably reach out in the new year. Yeah. I imagine but yeah. Yeah, that's great.
+Rep: Yeah. That's kind of my spiel. So anything else you want to bring up before? We jump I'll like I said, I'll send a follow up email with all the next steps. Yeah. Regardless but yeah. Was there anything else I can help out with?
+Prospect: I think at the moment, that's it for now. I will probably try and download PreVeil tomorrow.
+Rep: Okay.
+Prospect: And see how I get on a longer than 20 minutes, I will reach out.
+Rep: Okay. Sounds good. Yeah. And like I said, everyone, our support team is great. Their hours obviously are a little monkey right now for the holidays. But I think they do have a little availability next week if you're looking to just get trained up. But if you're like Robin I'm not gonna look at this till January 2nd. That's okay, too. We're still here. No worries. Probably.
+Prospect: Probably be more likely January 5th.
+Rep: That
+Rep: That works. Awesome. Well, thank you both for jumping on. I look forward to working with you. It's really nice to meet you kind of feel better.
+Prospect: Yeah. No.
+Rep: No fun being sick in the holidays, but yeah, enjoy the rest of your evening.
+Prospect: Yes.
+Rep: Thank you. Bye. Bye.
+Prospect: Bye.

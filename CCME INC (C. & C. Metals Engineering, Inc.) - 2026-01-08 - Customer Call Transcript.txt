@@ -1,0 +1,192 @@
+Account: CCME INC (C. & C. Metals Engineering, Inc.)
+Call Date: 2026-01-08
+Duration: 00:31:13
+Participants: Robin Barrow, Tom Carboneau, Colin Norman, Jane Busby, Jacob Karlson
+
+======================================================================
+
+Robin Barrow: Hello. Hi, Greg. How are you? Not too bad. We are joining from a different computer. We here in the conference room with Metals people and it might just take a minute. I just wanted to connect on my computer to let you know that we were coming. So you don't think we are. Oh, that's okay. No worries. I'm just hanging out. And I'm ready when you all are. Okay. So so once once they connect, I'll disconnect, but I'm with them in the group here. Oh, okay. Behind me there, everybody.
+Robin Barrow: I saw previously Jake and Rick. Oh, they're this there. Is that the conference room? Yeah. Yeah, yeah. Okay.
+Jake and Rick: People are
+Jake and Rick: Recording, okay. I'm just connecting here here.
+Jake and Rick: Okay.
+Robin Barrow: All right. Now we're good.
+Jake and Rick: Yeah, we've been good. I just didn't know that.
+Robin Barrow: Yeah. No worries. Thank you all for joining. Greg, as I mentioned, this is just an intro call. So we're just gonna go over what you all signed up for. Talk about next steps and getting started. I know you all have some experience with PreVeil in the past. I think you're a customer back in 20 22. So yeah, just kinda want to go over. Like I said, what you all signed up for and then learn a little bit more about why you need PreVeil. And talk about next steps and getting started. So yeah. Just to introduce my yeah. Go ahead. I was gonna say I'm your customer success manager, so I'll be your main point of contact. Moving forward. You all had worked with, I believe Emily in the past as a customer success on the customer success side. But yes, I will be your main point of contact moving forward. So I don't know if you all want to do a quick round of introductions as well.
+Jake and Rick: Sure. Robin me of course, Greg. We can scan with a consultant for cms. And I'm helping the company with the cyber security program is an RPI also do quality auditing for them and Jake. You will know, I'm the assistant production manager. I'm tech savvy and I'm here for that. Great.
+Robin Barrow: Love it.
+Jake and Rick: I'm Matt and help out a little bit.
+Jake and Rick: My name is Tom my new purchase a
+Robin Barrow: Great.
+Jake and Rick: And the specialist here.
+Robin Barrow: Oh, awesome. All right. I'm assuming everyone in the room is gonna be using PreVeil at some capacity. No. No. Okay.
+Jake and Rick: All but me, maybe I don't know. No. So so currently the way that the company setup is PreVeil is again, the company's in transition with the scope, because we scoping this, we're not reviewing it. We actually we doing it at this point.
+Jake and Rick: There's a possibility that more seats will be needed. Okay. Company goes on. Currently there are 4 people in the company that are actually sharing externally that need help. Okay. For those people in the room Tom behind me, right? There is the only person that has a set, okay. He's also not mine for okay. So now we are initially asked that Jake, Carlson be one of the user seats and admin and the tool we need to change that. Okay. We need to change that seat to Greg montini and he will also be an admin. I'll send you an email about it, you will have that information.
+Robin Barrow: Sure. Okay. That works. Okay. Yeah. So just to go over what you all signed up for. I see 4 users 2 of those being admin email gateway the compliance accelerator in the same connector. Does that all sound accurate?
+Jake and Rick: Yes. And compliance accelerator, I've been reviewing it. And I'm really pleased with what I'm seeing what I find. So I think it would be useful if you have access to tool to. Okay, okay. We of course the company has access to next and using their the plan. They use our own
+Jake and Rick: Because of just the complexity, the systematic complexity. But I what I'm seeing in the accelerators might just be. It's very pragmatically design to like that.
+Robin Barrow: Yeah. Yeah. Yeah. I will mention the C is a separate tool. So it. I don't believe. Let me just make sure. Did you guys do the I can ask verify with Craig if you did the bundle with the GRC okay. If not I can send over pricing and what that would look like to add. Okay. Sure. It is. Yeah, it's a separate product.
+Jake and Rick: Okay. All right.
+Robin Barrow: Great. So yeah. And then I guess from your standpoint, why do you need PreVeil? I'm assuming obviously you're working towards cms level 2 and again, assuming that you're working with UI today and you just need to manage and store it in some way. All right. Pretty straightforward. Yeah, that use case makes sense. Most of our customers stand in that. Ram 2. So I guess as far as next steps and getting started Tom you mentioned you're gonna be an admin. So all you need to do really is download PreVeil on the current device that you're gonna be managing and storing UI on and then create the organization. That sounds way more difficult than it actually is. It should only take you 20 minutes. I don't know if you've already done it, but I think we did that.
+Jake and Rick: It's already work.
+Robin Barrow: Perfect. Yeah. Okay. So then you would schedule a separate call with our technical onboarding team. Again, this is a training it's admin specific. So you go over all the admin capabilities. You can schedule it at any time, really. But it is available to you.
+Jake and Rick: Yeah, we did that was done. We already had
+Robin Barrow: I'm behind hold on one second. I
+Jake and Rick: Forward, we not yeah. This those people here and
+Robin Barrow: You guys are way ahead of me.
+Jake and Rick: My understanding was one of the issues and the table for us is connect pretty well to to next or yeah, system.
+Jake and Rick: So I have a meeting with nectar people next week. I'm meeting. Okay, bad. I mean, we have a good relationship with them.
+Robin Barrow: So, okay. Great. You met with Chris? Vinita. I'm so sorry.
+Jake and Rick: Vacation though. Probably that's what happened is.
+Robin Barrow: Yeah. It was you met with them right? Before, Chris? So that's yeah, that works. My calendar was Harry towards the end of the month, so I apologize. But okay. Great. So you met with Chris and Chris will most likely be assisting you in the same connector setup with Hector. So we've we have a partnership with nectar. It should work seamlessly again. We who do you all speak with on the nectar side?
+Jake and Rick: So I mean, I know all of them. I mean, but I'm meeting with Patrick on Tuesday.
+Robin Barrow: Yeah, that's who we chat with.
+Jake and Rick: Yeah, but I know Nick. I know, I and I
+Robin Barrow: Okay. Great. And then you have access to the accelerator. Is there anyone else that you'd like to me to add to the accelerator?
+Jake and Rick: Well I don't know if it's out having access to a tool if it makes sense for more people to have access to that we have now. Okay. And depending on the pricing, I mean, I think company we will have to we'll have to look at that. Okay. No, that was included. So but this is good information and accelerate your you have all the key things for the for this system. But you know, this we have multiple systems in place.
+Robin Barrow: Yes.
+Jake and Rick: That's the thing. Yeah.
+Robin Barrow: Yeah. The documentation and I can pull it up.
+Robin Barrow: So you I'm assuming you said you went through our SP you have?
+Jake and Rick: Yeah, we have all that. Yeah.
+Robin Barrow: Okay. Great. Yeah, the documentation is mostly gonna be around Microsoft products. If you go to our endpoint configuration, you'll get an understanding of where our endpoint documentation is gonna be based out of. So it's gonna be
+Jake and Rick: They probably gonna stay with macros because they have a GCC High that means the it okay. Is another problem that they because they also do new clear and it comes to play into that. So looking at switching to google, maybe. But there is a google Products for ca but it's funny. They don't have an it Products. It's funny.
+Robin Barrow: Yeah. We cover both 2 per Val does both ITAR and I yeah. Yeah. The like I said, majority of our documentation is around Microsoft products. So you'll see
+Robin Barrow: Sentinel defender all the sort of things. So again, this is all available to you, but if you look at our documentation, the endpoint documentation is going to match what you see in our SP and
+Jake and Rick: Well, there's also internal internally. The company is also using ERP with pro shop.
+Robin Barrow: Okay. Yeah.
+Jake and Rick: And I know you're familiar with the company. They they don't have external sharing capabilities important, but they must use it to be able to share internally. The challenge with endpoints is of course to actually load into. So
+Robin Barrow: Yes.
+Jake and Rick: And then kill it when they're done with it. I mean, saying that it's difficult problems understatement.
+Robin Barrow: It is. I mean, it's funny you're my third call this week around ERP systems and second call for pro shop because they're not fed ramp. So I my biggest suggestion.
+Robin Barrow: PreVeil use file path links. But does that really work for your ERP system? Because it's not gonna be a standard word document pdf. They're different. That's what we always suggest to our customers. But what
+Jake and Rick: What is it again?
+Robin Barrow: The sorry the it's they're not oh, file path links. So if you have a file, you put the file path in the actual ERP system, but when someone goes click on it and if they don't have access to PreVeil, they can open it up. It will open up in PreVeil if they do have access that works in some cases. But again, it depends on your ERP system, the document types you're working with.
+Jake and Rick: Work with pretty well at all. I mean, we work with pro shop.
+Robin Barrow: It should if the file path link should. Yes. But again, it depends it. Are you editing out of your ERP frequently?
+Jake and Rick: No.
+Robin Barrow: No. It's just saving
+Jake and Rick: It's just uploading.
+Robin Barrow: Yeah. Uploading. Okay. And what kind of documents are they?
+Jake and Rick: Drawings. Material certifications, inspection reports, monthly pdfs.
+Robin Barrow: Pdf. Okay. So say file type? Yeah. Yeah. Okay. Okay. Yeah. Then yeah, that should work for. If you use file links for those specific UI files. Again the support team. I'm surprised that it wasn't brought up with Chris, but they if you if you need help with that, I would probably create some sort of project case in our system and the team will be able to help you create.
+Jake and Rick: So that would require all the users on the end users to be in PreVeil, of course, right?
+Robin Barrow: And yes, if they need access to those files and yes.
+Jake and Rick: That isn't that some of the end users have the machines, they how do they access it through? They do access to the internet. They do have it so they can access it.
+Jake and Rick: Yeah.
+Jake and Rick: They have PreVeil in this would solve? Well, because what shop is saying is they're saying that they're working on becoming of yeah.
+Robin Barrow: They are. Yeah. So
+Jake and Rick: I mean
+Jake and Rick: So so so I'm not sure what it makes make more sense. I think we'll have to talk. It makes more sense to telerate somehow manager and the man in the meantime because that literally requires a separate system and speed to do that. Yeah.
+Robin Barrow: Um
+Robin Barrow: It either way it is going to be somewhat manual with the PreVeil process because you're gonna have to create those file path links. You're gonna have to train your staff and then you're gonna have to add the staff to the PreVeil. So it depends on and it also depends how long is pro shop gonna take to get fed ramp? And then also when are you trying to get compliant by, do you have an assessment coming up all? All those things?
+Jake and Rick: So we are working with
+Jake and Rick: Sales center that I have a relationship with multiple accessories a conversation with assessor that probably would be available to look at the company to summer.
+Robin Barrow: Okay. And
+Jake and Rick: That would be an informal a gap analysis type. Okay. Review, just to kind of shape up the POS and to to to where it's more realistically central
+Robin Barrow: Yes. Yes. So more of like a mock assessment.
+Jake and Rick: Is a mock completely that goes well, I guess 6 months. I mean, I would love to see this company certified in like a year year and a half.
+Robin Barrow: Yeah. No, and I think that's more than a reasonable. You're going to do mock assessment.
+Jake and Rick: Then step one. We have a lot of things down. They have inside response in place, the creation management, the training is in place. I mean, it's everything is the biggest processes is access control of chorus and vendors and all that there. There's just
+Jake and Rick: Yeah. That's the challenge.
+Robin Barrow: Yeah. And you're not alone there. I would say do you know where to book time with the compliance team?
+Jake and Rick: So I think one of the emails that Chris sent
+Robin Barrow: I
+Jake and Rick: Had his I mean it probably would work miracle if you can send it to me separately, just so I have it separately.
+Robin Barrow: Yeah, I'll definitely send a follow up email.
+Jake and Rick: Also, right.
+Robin Barrow: Yeah. You all with the compliance accelerator, you get 6 30 minute sessions with the compliance team. So you can book time with them right through the accelerator under additional compliance resources. You just click here, it brings them to their calendar and book right on their calendar. You also have access to their email and you can ask any one off questions though. Those don't count against your time. I always say you have 3 contacts here at PreVeil. You will have one specific one that is me. I'm your customer success manager. I kind of sit in the middle. I if I don't know the answer, I help find it. And then you have the compliance team, which won't be specific. But you get you have access to the team if you have any questions that fun stuff. And then you also have the support team unlimited support when you need it. If we go we work through ticket base. If you have something that's on fire or there's a major issue you reach out to me. Because then I can light something under them and get them to pay attention to more. Quickly, but that is your all your communications that are available to you people I should say.
+Jake and Rick: Create. So to create a ticket you just send an email to the compliance edge.
+Robin Barrow: To create a ticket you go to you can there's 2 things you can do. You can email support at PreVeil.com or you can go to PreVeil.com slash support. And we have OOP if I could spell support, right? we have a support bot, but if you don't want to deal with AI, you can just go to just file support ticket right through here and I'll share this link in my follow up email, but it's a typical we work through JIRA. It just goes right through. Okay.
+Jake and Rick: Yeah, yeah. Yeah, sure. Is great.
+Robin Barrow: Sometimes it likes to work.
+Robin Barrow: Yeah. So
+Robin Barrow: And then honestly, I schedule more time for us to connect in 90 days. That can just be a quick check in to make sure you all are feeling good up and running. I know you Craig had mentioned that you all might have more people you want to bring on and you had mentioned as well. I always say get comfortable with PreVeil. Get used to it and then trickle it out to the team. Let's get your Sam connector setup. Let's get your email gateway going. And then at 90 days or so, we can chat about adding more seats, if that makes sense.
+Jake and Rick: So it does for so for the CM connector I will need to speak with Chris and he's on the 14th. So that's next week.
+Robin Barrow: Right. He is I can see if Phil from our support side. I can get out because you're meeting with nectar when again, I'm sorry?
+Jake and Rick: Meeting on Tuesday. I don't think there's a rush. Okay.
+Jake and Rick: I know it's done and I actually know nectar initially got us introduced. Yeah, I know.
+Robin Barrow: Yeah.
+Jake and Rick: Let's see.
+Jake and Rick: Get points. Yeah. I know I think you I mean, you want to join on the call so I was next or a meeting on on Monday, at 1 15 with pat?
+Robin Barrow: Oh, I can see if Phil can I wouldn't be helpful at all, but my field to
+Robin Barrow: To
+Jake and Rick: Be run on because you'll be there and I mean, we'll talk about the weather catch up and stuff, but
+Robin Barrow: Yeah.
+Robin Barrow: But so Phil does have availability, you said Monday the 12th at 1:00 o'clock eastern?
+Jake and Rick: On 1:15 eastern. Yeah. And it's they usually do google meets. I mean, I can probably invite someone
+Robin Barrow: To that. Yeah, I'll here I'll give you.
+Robin Barrow: Well, Chris, might be back then. Let me connect with Chris and or Phil and see if they can. Either of them can join if you find it necessary or they'll schedule a separate call with. Yeah, all 3 of you.
+Jake and Rick: Yeah. I don't know if it's what's required. There's a required us to be altogether with this and I was thinking that because
+Jake and Rick: Nate would not have access to to the to the appliance because it's a new and we have to in right next. Also is that this company accurate on the server right now? And that server is coming to end of life. So they're looking to to move. They want to be cloud based completely. Okay. The setup is never has to change. So okay. It's like this. They're variables.
+Robin Barrow: Yeah. There's a lot of moving parts for sure. Yeah. I would say in that case, let's hold off and then you have a conversation with nectar. Okay. Nectar set up with us before. So honestly, I don't even know if you would need to be involved because we probably might just communicate with nectar. Unless there's an issue, then we'll connect to. But I think well, let's hold off the email gateway though. Chris will most likely reach out separately to set that up. That did Craig mentioned, it requires a LS certification.
+Jake and Rick: No.
+Robin Barrow: Okay. It does. And Chris will be able to share companies that we work with, but that certification I don't know if you purchased them before. There can be anywhere from 100 bucks a year to 300
+Jake and Rick: S
+Robin Barrow: PS. Yeah.
+Jake and Rick: Oh, so
+Jake and Rick: You might have.
+Robin Barrow: I was gonna say, you might already have one probably do. Yeah.
+Jake and Rick: It's set up when they set up the internet is for the I think they have it up, Craig. Yeah, Greg would know. But it's a minor thing. Yeah. Yeah.
+Jake and Rick: Can you just just because of the team here just explaining what the benefit, the email gateway?
+Robin Barrow: What it does. So a lot of our customers will purchase email gateway if they're communicating with third parties that don't necessarily want to sign up for PreVeil express or aren't allowed to use to some security blockage that they have. So for instance the Navy is a big one. If you communicate with the Navy, they're not gonna sign up for PreVeil express and PreVeil express is our free version of PreVeil that our customers use for third party communication email gateway sends email securely through a sub domain. And it goes directly to the third party you're communicating with to the commercial account, but it's still secure.
+Jake and Rick: Tool to actually look at stuff and open the e mails. And so
+Robin Barrow: Yeah, they'll be able to open it. They'll be able to communicate back to you all, but it will go directly to PreVeil. So you won't have to worry about it. Hitting your commercial account. It's still secure. And the way it works is that we do whitelist those domains. So if you're communicating with someone frequently, you just whitelist the whole domain. And then you'll always get those emails. Even if you're communicating with multiple people at one company, you just whitelist that whole domain and it will go directly to your PreVeil account.
+Jake and Rick: And you might be shared this way, yeah.
+Robin Barrow: Yeah. It's directly to it's only email. It won't work specifically for the drive, but as long as this file size, I think it's I want to say
+Robin Barrow: I'm not even take a guess the file size for emails is pretty big. I can't imagine you're sending huge.
+Jake and Rick: No.
+Robin Barrow: It depends. But I want to say
+Jake and Rick: Yeah, they can break it down.
+Robin Barrow: Yeah. But again, it just it stops a lot of friction when you're trying to communicate third parties. So they don't have to sign up for pro express. Yeah.
+Jake and Rick: Yeah. No, that's that's what they as a company, has something the experience in the past problems to stay long time, the API rate, people don't partner of things.
+Robin Barrow: Yeah. I get it's already hard to get someone to do one thing rather than take another couple of steps, you know. So that's why the email gateway came into play. Okay. Everyone wants everything instantaneously. So
+Jake and Rick: So to set that up. We so so that is also Chris will help
+Robin Barrow: With this that will be Chris. Yeah, he will reach out separately for that meeting. Again, our goal is to get you your setup in PreVeil. Now you're trained up. Next step would be set up email gateway and set up the same connector.
+Jake and Rick: So I have a question about gateway e mail. So if we send a drawing and it's co drawing so will they be able to actually download it created? Or it can be somehow controlled?
+Robin Barrow: That is a good question. So they will be able because it's gonna be sent through an email, they will be able to download it if they need it.
+Jake and Rick: So they don't have view only options there.
+Robin Barrow: Not within gateway. No.
+Jake and Rick: Right. So pretty much the company needs to be compliant for us to use gateway that.
+Robin Barrow: Yes. Yeah.
+Robin Barrow: I would say that's a standard even for the drive to you have to whenever you're sharing cut out, you have to be under the insult on that. They're meeting the security requirements.
+Jake and Rick: No. We kind of on the
+Jake and Rick: Because not both companies would go
+Robin Barrow: Right.
+Jake and Rick: That and I think my understanding PreVeil actually offers option where you can share a drawing, but it's gonna be your only title think
+Robin Barrow: Yes. Yeah.
+Jake and Rick: Download it and like, printed it, you know.
+Robin Barrow: So yeah.
+Robin Barrow: No, that makes sense. That you do lose those permission based when you're sharing through the gateway because it's going as an email versus sharing through the drive.
+Jake and Rick: Yeah, they will have to be trained to use it for stresses and maybe listed providers. So that
+Jake and Rick: Was a customers by the way to have to be compliant. Yeah. Well, everybody could say it doesn't matter how you share it. They cannot receive a document unless they're in compliance. So it's completely separate issue.
+Robin Barrow: And I think that's why the gateway whitelist is traceable because it's like, considered trusted group.
+Jake and Rick: Yes. Yeah. Yeah. Well, it makes sense. You guys work a lot of the suppliers. Same suppliers should work with. So you'll have to have an a post supplier list for email way. Just like you have for quality assurance. So that's probably how we want to structure it is so they will have to have an approval process, which they do have a separate approval, the whitelist approval process for preferred supplier, Madison critical suppliers, material providers, and all that. And I mean, we'll have to get them certified somehow to in a separate fashion so you can trace it.
+Robin Barrow: Yeah, that makes sense. Yeah. Policies are put in place for this to
+Jake and Rick: Exactly. So it will just have to be a discrete policy for that and procedure.
+Robin Barrow: Correct. Great. I mean, I will schedule like I mentioned more time for us to connect in April as a check in, but again, I'm here as a resource if you all need it. If you need additional training, reach out to me, but yeah, that's kind of all I had to cover today. What other questions do you all have?
+Jake and Rick: To just be getting Greg, man, see as an admin seat.
+Robin Barrow: Okay. Yeah, I think have you invited them to PreVeil or yet? Okay. And you should be able to if you go into his username, has he accepted it? The invite? Yeah. Okay.
+Jake and Rick: So do you need to know his username or it's irrelevant?
+Robin Barrow: It's irrelevant. You can just add changes role to an admin and he's good to go. Yeah, you don't I'm sorry. Yeah, you don't need to let me know. Yeah, your user count is your user count. All right.
+Jake and Rick: Okay. I send you is that a concern?
+Robin Barrow: I'm gonna tell you the PreVeil system doesn't stop you from routing users. It really doesn't because it's designed in that way. So if you have any emergency situation where you need to some some send something securely and you're outside your license count, we're not gonna stop you. I will say if you get over like 5 users or maybe even three, I'm going to ping you and be like, hey, you're outside of your user account, let's update your terms, but other than that, we don't have access that much access to your account. I can see how many licenses you're using and that spot it. Yeah.
+Jake and Rick: Very cool.
+Robin Barrow: Great. Awesome. Any, anything else I can help out with?
+Jake and Rick: I don't have anything else at the moment. I mean, administratively, if you have any if you need to, if you have any questions for the company or whatever, I mean, I'll be coordinating that on my end.
+Robin Barrow: Okay.
+Jake and Rick: They are the people and I I kind of wanted them to hear things. I mean, I think PreVeil went along far from where I last looked at it. Yeah. But I just want to tell you there's a lot of residents and ecosystem that people have been talking about PreVeil. So that makes
+Robin Barrow: That's great to hear. I mean, I think we have a lot of enhancements coming down, even this quarter. One of them being cloud drive which you'll probably be spared with once it comes out. So cool. And Craig probably already mentioned it, but yeah, that's our biggest one. That's our big. I and I think the drive will get a new face lift and work even better than it does. So
+Robin Barrow: Great. Aweme I'll send a follow up email. There's no other questions. Other than that. I look forward to working with you. All, expect e mails from Chris and team. And let me know, again, if you have any issues or anything is on fire, just reach out to me and I'll take care of.
+Jake and Rick: Super. Cool. One one last thing really quickly. I when I met with Chris. So that was me Tom and myself. And we met we record I've recorded that meeting. So I have a recording of it. He said you're gonna send us, you probably forgot.
+Robin Barrow: Yes.
+Jake and Rick: But I have my own path. It's recorded. We have no problem with that. Okay. But if you can send us a copy of this recording that I just just so guys can have it be visited it. Whatever I forget something. Yeah, but I appreciate that.
+Robin Barrow: Sure. I'll send a follow up email, like I said to everyone and I'll just include this link. Do you want me to send everyone that was invited to this meeting? Is that everyone in this room?
+Jake and Rick: Yeah. No, no. I think it will be good if I get it, maybe.
+Robin Barrow: And then forward it on.
+Jake and Rick: Yeah. Yeah.
+Robin Barrow: Okay. That works. Yeah, I'll just include everything that we chatted about and also the recording.
+Jake and Rick: Thank you. Well, thank you very much.
+Robin Barrow: Guys, of course. No, thank you all enjoy the rest of your day and I look forward to working with you.
+Jake and Rick: Thanks Robin.
+Robin Barrow: Thank you. Alright, bye. Bye.

@@ -1,0 +1,66 @@
+Account: Barkens Hard Chrome, Inc.
+Call Date: 2025-12-19
+Duration: 00:14:27
+Participants: Andrew Meggs, Gary Barken, Hedyeh Afshar, Dae Han
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello.
+Hedyeh Afshar: Hey, how are you?
+Hedyeh Afshar: Doing
+Andrew Meggs: I'm doing well. Hi, Daniel, hi. How are you? Hi.
+Andrew Meggs: Is uh
+Hedyeh Afshar: Gary is going to join.
+Andrew Meggs: Shortly Gary also going to be hopping on yes. That was my question.
+Andrew Meggs: Okay. We'll give Gary some time then.
+Hedyeh Afshar: Maybe during this time, would you mind giving Daniel a little background about PreVeil? Because he wasn't on the initial call when we had it?
+Andrew Meggs: Oh, sure. Yeah. I guess do you know anything about PreVeil or should I just start from zero?
+Andrew Meggs: You can just start from 0. I was just doing a quick, like a google search on it. But yeah. Okay. Yeah. So PreVeil the 32nd version of this secure email and file storage for sensitive information. Usually cy in this particular instance. That is encrypted in the gov cloud is the Amazon gov cloud. Is the 22nd version of this. Parkins hard chrome. I assume is handling what's known as CIO, controlled on classified information and needs to be what's known as cms level 2 compliant, which is AI don't know if you know much about that series of government regulations for people that handle. So PreVeil is the place to store and transfer UI. And also, we provide guidance on how to become cms level 2 compliant. So kind of a double double action there and there's Gary
+Andrew Meggs: So I'll wait for the rest until Gary.
+Andrew Meggs: Hi Gary. Hello. How are you? Doing well, how are you? Good. I was just giving Daniel the 2 second version of why he's even on this call. So yeah. I appreciate everyone taking the time to meet with me. Hopefully, this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context, I'm the customer success manager for your account. So what that means is I'm your general main point of contact and account manager here at PreVeil. So this call is to let you know, I exist. But be also gonna go over the onboarding process and make sure you don't have any initial questions.
+Gary Barken: Yeah. And Daniel and kitty are um
+Gary Barken: More computer friendly than I am, but I'm doing the best I can
+Andrew Meggs: Okay. Hit then I apologize for mounting your name earlier. No worries.
+Hedyeh Afshar: No worries.
+Andrew Meggs: Yes. Getting started with PreVeil. There's kind of 2 separate pillars. There is the technical implementation and setup of PreVeil and then there is the compliance side of things. So getting into the compliance documentation and the GRC tool and whatnot. For the technical implementation of PreVeil, there's gonna need to be one person who will be the initial setup person who goes through the process of creating the organization and is set up as the initial administrator who is that person going to be?
+Gary Barken: I guess it would be idea.
+Andrew Meggs: Okay. It can be anyone it doesn't necessarily happen, but yeah. I don't know.
+Gary Barken: I do you want Daniel or yourself? I don't know fine with me.
+Hedyeh Afshar: I mean, it can be me and then I'll work on it with Daniel.
+Hedyeh Afshar: Because Daniel, it's more like it and tech savvy, as that's his background. But I can be the person is since I am here every day compared to Daniel.
+Andrew Meggs: Sure. So yeah, I sent some instructions in that initial email. But I'll resend them in my follow up e mail and CC Daniel on that. The next steps for the technical setup. It's fairly straightforward. The video is like an hour long because it goes over how to use PreVeil and whatnot, but it's basically just download PreVeil. Create a PreVeil account. And then there's a specific IP address to go to that while you're if you're logged into PreVeil will prompt you to create the organization. The whole process takes maybe 5 minutes and then once that's done you or whomever will be set up as the initial administrator. And then they would be able to add all the other users to the organization. And it goes over details of that in the in the instructions, but that's kind of the general 30 you
+Gary Barken: Said you already mail, is that instructions once before or no?
+Andrew Meggs: Yeah. In in my initial email, there's is the step 2 of that, but I'll resend it. So it's fresh in your inbox. But yeah. So basically just like I say download PreVeil create an account and go to the IP address that's in the instructions. And it'll prompt you to create the org. And then after the organization is created you'll be able to add people like I said. But then the next step after that would be to schedule the actual technical onboarding with our support team. So that'll be like an hourlong training and info session on admin roles and responsibilities and how to use PreVeil that'll be with the support team and they handle all those training sessions. And then in terms of technical setup, that's kind of it that's you know, honestly, you're able to use PreVeil as soon as you create the organization. But the onboarding session, we just recommend it since it's the training part of things. Separate from that completely separate from that separate website, separate login is all of our compliance content. So in addition to the preVeil licenses which you'll be setting up. We also have what we call the compliance accelerator, which is a video doc series on CMC compliance as well as a repository of documentation templates as well as the GRC tool, which is a kind of cms project management tool for tracking your compliance.
+Andrew Meggs: And Gary actually, right before this call, I added you to both of those you should see email invitations to those shortly. Should I also add the other 2 people? Okay. Let me make sure.
+Andrew Meggs: I have their email addresses. Meant.
+Andrew Meggs: And
+Andrew Meggs: Just okay. I have had Daniel, what's your email address?
+Andrew Meggs: Yeah. I'm gonna put that in the chat right now. Okay.
+Andrew Meggs: Okay.
+Andrew Meggs: Okay. Dan at U.S.C. Dot D U I assume that's not the university of South Carolina.
+Andrew Meggs: Southern California close close the same thing.
+Andrew Meggs: Complete, I'm from South Carolina originally. So and I see us I always think it means South Carolina, but literally no one else on planet earth does. So that's just me. Okay. I will add you to that as well. The both of you all will see in the invites to that after this call. So
+Andrew Meggs: Somewhat annoying. But basically you're gonna have your per Val which the actual PreVeil app itself login. And then it's 2 separate logins for the accelerator and the G tool. So that'll be the video doc series and the project management tool there. So a couple of different things to track there. But you'll see all the information that and I'll also provide direct links to that in my follow up email. So you won't have to guess where it is. But in terms of the initial setup, that's kind of it is creating the PreVeil org and then getting into the accelerator and the GRC tool. Do you have or do you all have any initial questions about PreVeil or points of clarification you need here at the beginning of the process?
+Gary Barken: I do not.
+Hedyeh Afshar: I do not either, but I think the question is. Once we create this account and we set up the process with PreVeil what do you think? what steps are we in as in getting closer to the cms certification? Because the whole point of doing this is for us to obtain that cms certification?
+Andrew Meggs: Sure. Yeah. That's actually a great set way to my next point. Thank you. So so with the accelerator comes access to our own internal compliance team. So they're the people who wrote all the documentation and everything. So they're available to you as a resource. If you have any compliance related questions, they're available at compliance at PreVeil.com. There's also a link to their calendar in the accelerator if you wanted to schedule a meeting with them kind of go over where you're at. But in terms of compliance next steps, the next steps would be once I get you both access to the accelerator, this might make more sense if I just showed you one second. Let me pull this up.
+Andrew Meggs: Okay. Basically we've made this fake company and we've done a step by step walkthrough, walking it through becoming compliant. So the idea is, in terms of next steps you're asking. This the step by step, walkthrough of compliance and theoretically, if you were to do all of these steps and were to do them as instructed, you would nominally be ready for an assessment at the end of this. So there's step zero, step one, step two, step, three, etc. And then in each of these steps, there is a video going over that step. And then any relevant documentation that you need to fill out is below that step. But all of this documentation is actually pre loaded into the GRC tool. So you'll see that there too. But but yeah. The next steps visa compliance would be to get into the accelerator and start going through these videos, some guidance on on how to do that. And then while you're going through that, it like I was saying if you had any compliance related questions there's a link here under additional compliance resources. There's a link to the compliance teams schedule if you wanted to schedule some time with them. They're available through to through this link to um
+Andrew Meggs: Yeah. As you see and if you wanted to schedule like an initial meeting with them, just kind of go over where you're at and you don't haven't gone through any of the documentation yet. That's fine too. You can just schedule an initial setup meeting, obviously. What were the holidays and everything? It doesn't look like there's any availability this month. But but yeah. So that would be kind of the next steps on the compliance side of things.
+Andrew Meggs: And then, like I said, you'll see invites to that after this call. Um
+Andrew Meggs: Yeah. And then the support team will be doing your onboarding your technical onboarding. They're also generally available at support at PreVeil.com for bugs and technical issues that hopefully that won't be relevant. And then I am kind of the general main point of contact if you're not sure who to talk to if something needs to get escalated. Or if you have any account related questions like needed at a license subscription renewal, that sort of thing would be me.
+Andrew Meggs: But
+Andrew Meggs: Yeah. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients, just to make sure things are going smoothly. Obviously you can reach out to me before then, but do you mind if I put some time on the calendar for
+Andrew Meggs: March is 90 days from now. That's fine.
+Andrew Meggs: Yeah.
+Andrew Meggs: Put that on the calendar. And then yeah, while I'm doing that. Any other questions or anything else you all wanted to discuss?
+Gary Barken: Is just received an email saying new account has been set up. Please follow this link, is that for all 3 of us to the to do this? Or is it just the administrator?
+Andrew Meggs: That would be just for you each each of your individual invitations. Okay.
+Andrew Meggs: And then yeah. Is that from well, you should actually be getting 2 separate invitations, one for the accelerator and one for the GRC tool. So whichever one that is if it's from is that's GRC if it's from talent LMS, it's the accelerator.
+Andrew Meggs: I don't know if it says in the email domain.
+Gary Barken: No. It just says non reply.
+Gary Barken: Talent. Yeah. Okay. So
+Andrew Meggs: That's the accelerators. The talent LMS not talent is those are just the software we use to build our tools on top of. But okay. I'm putting this 90 day check in call on the calendar. I will send a follow up email with the instructions on how to set up the organization and also direct links to the accelerator and the GRC tool and both. But you'll also see separate invitations to that too. And then yeah, you'll have my contact information. So if you do have any questions or if you need anything le you can let me know.
+Gary Barken: Thank you. Okay. Thank you. Yeah, thank you all for your time.
+Andrew Meggs: And I appreciate especially on a Friday afternoon does, I guess maybe Friday noon for you all but still never fun to be have meetings on Fridays, but I still appreciate you all time and hope you'll have a great weekend and happy holidays, you as well.
+Andrew Meggs: Have a good one. Bye, bye.

@@ -1,0 +1,81 @@
+Account: Advanced Mission Partners
+Call Date: 2026-02-10
+Duration: 00:14:18
+Participants: Robin Barrow, Danielle Zacherl
+
+======================================================================
+
+Jerry: Okay. Floating hello. How are you?
+Robin Barrow: Good. How are you?
+Jerry: Figure out. There we go. Start video.
+Robin Barrow: I was gonna say, no pressure, I just always start it.
+Jerry: Yeah. No, no, it's fine.
+Robin Barrow: Great. Well, thanks for joining. Hi.
+Robin Barrow: So
+Robin Barrow: I think this call was originally for your welcome call, maybe, but I okay. Yeah, that's why I figured I see that you all did meet with Robert from our support team, which is the most important. So it's good that you met with him already.
+Jerry: No, I don't think so. No, no, no. I would think communication with him in regards to the onboarding because I received the all the welcome.
+Robin Barrow: Yeah. Call and the onboarding link, as I explained to him.
+Jerry: I am actually not going to be one of the users just Jerry's assistant. So I was unsure why I received the information and he did not. And I was like I can of course facilitate and pass that information along to those who will be users. But yes, I was just like and then you had said oh, well, let's just we'll talk about that on the welcome call. So I was like, okay. That's the only issue that I have obviously, Jerry will be a user. So this is good for him as well, yeah.
+Robin Barrow: Okay. Great. So I'll just kind of take it from the top here and you all are you still working with p and p solutions? Yes. Yes. Okay. Great. And who is your main contact over there?
+Jerry: Sam Walton.
+Robin Barrow: Okay. Great. So I'll connect with Sam, but are they assisting with just the compliance side for you all? Or are they assisting with setting up PreVeil? I know, obviously they were part of the process of bringing PreVeil to you all, but I'm just curious if they are going to take the ownership.
+Jerry: Yeah. Likely so they are it solution provider. We don't do anything in house. We outsource everything just to ensure compliance. So
+Robin Barrow: Okay. Great. So I'll let Sam know that we met today. Regardless but typically on these calls, we we just go over what you all sign up for and I just want to learn a little bit more about you all and why you need PreVeil. From what I can see you signed up for 5 users, 2 of those being admin. You also got the email gateway solution. Does that all sound accurate?
+Jerry: Yeah, that sounds accurate.
+Robin Barrow: Okay. Great. So yeah, if you don't mind sharing. And this is my assumption you all are working with the dot and or a prime and you need to be CMC level 2.
+Jerry: Yeah, we are. Yeah, we are working with multiple customers and CMC level 2 is not just a recommendation anymore.
+Robin Barrow: Okay. Yeah. Okay. Great. And assuming you'll be one of the admins who else from your team will be an admin for the problem?
+Jerry: We're gonna have 2 admin roles. It'll be me. And then one of the admin roles, my understanding will reside with p solutions.
+Robin Barrow: Yeah. Okay. That works. If you ever need another one from your team, feel free to add them. Typically we add we do 2 admins and then we also provide D P solutions with a partner admin as well. If they need another individual from their side, they can
+Jerry: Join. That's really funny. What are the ads? It you said. If you ever need another one, feel free to add them. And the only other person in the building that I would make an admin is Adam a gl and our team that I said, Adam
+Robin Barrow: Yeah. There you go. That's also probably like my Boston accent. I don't know sometimes likes to pop out.
+Robin Barrow: Great. Okay. That's easy enough. Really the next step. And again, because D solutions, your it provider and they manage all this. They just need to download PreVeil on at least one of your devices and send out the invitation. So again, I can work with Sam. I'm gonna send the follow up e mail to Sam. So he's aware that we chatted and everything like that. And give me one
+Robin Barrow: And yeah. And then from there after you all download prevalent devices, that's when you meet with Robert and team. So you just we always encourage to have PreVeil at least set up before you meet with support team. Just so when you do train, you're able to train out of your own org. You can click along, we'll have you share your screen and just make sure everything's set up appropriately. Um
+Robin Barrow: After that, really for the email gateway setup, we'll work with p solutions most likely, but we'll reach out to them directly once you all have the platform installed, but given you all signed up with us back in December, I'm kind of eager to get you all up and running sooner rather than later. I'm sure you all maybe too. But yeah, I'm gonna connect with ADP solution today. We've been in chats anyways already today and I will send this follow up email, but just based on the support team's calendar, they could probably get you in for the end of this week for a training. And I'll send over the links for you all to book on your own when you can get the team together and select a time.
+Jerry: Yeah. That works for us and I'll work with Sam. Because the idea behind it is our UI laptops are going to exist in a controlled area. So it'll be a completely separate laptop than the one I use on a daily basis.
+Jerry: And it will set in a controlled area. So setting that laptop up assigning an account to it, all of that stuff will have 0 impact to our day to day cadence because those particular laptops exist in a different area.
+Robin Barrow: As I should, could you want to segment the network and everything like that for if you're working directly with the UI? So that makes sense. That actually leads me to another question. Do you all have any data today that you need to put in PreVeil? Whether it be C UI? No. Okay.
+Jerry: Yeah. No, we've done a very good job of keeping everything commercial. So
+Robin Barrow: Yeah. I mean
+Robin Barrow: That's pretty straightforward. Then. I always say if you have over 100 gigabytes worth of data that you need to put into PreVeil at once. We'll set up a file transfer because you can imagine 100 gigs worth of data. It would just take a bit. So we want to make sure it's smooth process. But for your case it doesn't sound like it will be
+Jerry: Necessary. Yeah, we'll be going from 0 data to whatever our customer sends.
+Robin Barrow: Love it. Yeah. Great. Yeah. You're and I'm assuming p solutions assisting with the compliance side. We do have a compliance portion of PreVeil. But
+Jerry: At A P solutions, did a really good job. So big part of the PreVeil relationship for us was as we were working through our level 2 compliance. Solutions came to me and said, well, I can introduce you to PreVeil and get you all of these points. And I was like, yes, please.
+Robin Barrow: Yeah. Great. So yeah, they're I'm actually chatting with them right now as another customers going through an assessment. They've been great and they're super on the ball. So you're in good hands, not only with that, but also with us.
+Jerry: Great. I actually PreVeil is. So we are a Holly on subsidiary of AI. So our parent company who were completely independent of from an operations perspective. They also use PreVeil.
+Robin Barrow: Oh, great. Okay. So
+Robin Barrow: You're awesome. So you're already well aware and the email gateway. That typically takes around 2 weeks to set up. But once you have that up and running, you're gonna start communicating with your customers. Really, seamlessly the emails will go directly to PreVeil. And it's very easy platform. I'm not even just saying that it's fairly simple to use.
+Jerry: Yeah. And I think the one question I had and our it director at the at our parent company was explaining. So these emails are basically a separate instance of our current email.
+Robin Barrow: Perfect. Yeah, you'll see
+Jerry: Yeah. But am I going to those emails are not gonna come in on my standard machine.
+Robin Barrow: Right. Right. If the sender sends it to. So with the email gateway, you set up a secure sub domain. Yes. So 9 times out of 10 will be secure dot Advanced Mission Partners.com. And we'll work with VP solutions to set up your certificate certificate. Okay. And depending on the customers you work with, right? If you are aware that you have the domain of the customers that you're working with and we whitelist that within the PreVeil system, those e mails will just go directly to PreVeil. And you'll most likely set up some sort of banner that will say this e mail contains UI. Please send it to secure dot blah, blah, blah. And that's just the seamless process. So you won't have any email hitting your commercial account. It will just go PreVeil or commercial inbox. I should say. We'll just go directly to. Okay. Yeah. Um
+Robin Barrow: Yeah, it will be and it's once it gets up and running. It's it works very well. So
+Jerry: Yeah. No.
+Jerry: I was hoping that there was gonna be a way for me to avoid. So like in another I have 2 email accounts. Technically, I have 4 email accounts.
+Robin Barrow: Oh, wow.
+Jerry: Yeah. And one is here at my desk. One exists in a room where only that one can exist. The other one exists in a room where other that, right, you it makes Danny's job really, really hard. Because I'm gonna have 4 calendars for email accounts. She's gonna know about 25% of the things on my day to day, but not the other 75%.
+Robin Barrow: Yeah. And how many of these emails are you intending to set up within PreVeil?
+Jerry: Oh, no. None of them will be inside of PreVeil. PreVeil will be another instance of an email account that rides on a completely separate network. We're completely
+Robin Barrow: Yeah. Okay. I just want to make sure because if you were to set up, that would be 4 different setups with those. Okay. That
+Jerry: Yeah. I don't have control over those other email accounts. I'm told what room they exist in and what my email is.
+Robin Barrow: Oh, okay. You all you're well aware you've already scope your boundary and segmented the workout for all projects. It sounds like.
+Jerry: Most everything else is customer provided, right? We don't even I can't even check my some of my customer emails. I can't check here in my building. I have to physically go to a different building.
+Robin Barrow: Oh. Well, there we go. And this is so this is the first time you're doing it on your own as far as
+Jerry: Well, yeah. And again, so I come from one of those worlds where UI is the lowest level of information. We don't even worry about, okay. It's integrating that into our standard cadence where cus now going to be treated almost like what secret information used to be treated, like
+Robin Barrow: More like classified.
+Jerry: Okay. Yeah. Yeah, yeah. So
+Jerry: I think the rules and the cadence and rules will make perfect sense to us. I think just integrating it into. You now have 2 email accounts and 2 ways to communicate with the customer and going back and forth. That'll get a little. And then establishing our own rules for how when we get all of those requirements in that room. And we now need to integrate them into a separate area. And we've talked to p solutions about this. So our manufacturing network is air gap. So it doesn't connect to anything. So are we going to integrate our red network into our policies and procedures to allow UI to go from those laptops into that red network? Because we have total control over it and it's figuring that out as we move forward.
+Robin Barrow: It sounds like though the workflow you all already understand the needs in the process, you understand the workflow from a certain standpoint where some of my customers are we've never dealt with any kind of information like this and they're starting from scratch. So I feel like from that standpoint, just being able to wrap your head and yeah, your staff knows what to do.
+Jerry: Yeah. And I think what makes this difficult and what will make it difficult now is we're now rolling out these rules and regulations to people that aren't accustomed to it, right? Okay. The easy thing to do is to take my 500 page document and put a UI.
+Jerry: Right on the first page, which now makes the whole document controlled on classified information. When in actuality there's only 2 things and the whole document that need A C UI marking. The rest of it just be disseminated freely. So it's also getting people to understand how to appropriately portion mark information so that you're not creating a ton of cost around that document when in actuality there's only 2 little things in there that need to be protected.
+Robin Barrow: Yeah.
+Robin Barrow: Yeah. There's a lot of gray area. Unfortunately, when do you think it's the do it should be black and white. It's not yeah. Okay. Great. I mean, as far as next steps, I'm like I said I'm gonna send a follow up email. I'm gonna include Sam onto this communication, but Sam just needs to or anyone at p solutions just needs to get PreVeil on those laptops in that protected room. And then you just book time in the support team.
+Robin Barrow: Go ahead.
+Jerry: We're gonna start with just one.
+Jerry: Take one laptop. Let Sam know my laptop is ready to go for a PreVeil setup and we'll take it from there.
+Robin Barrow: Okay. Great. And I'll set up more time for us to connect in. I'm gonna call it 60 days just to make sure we're on track everyone's feeling good. Again, just a placeholder meeting and yeah, and then we'll just take it from there.
+Jerry: Sounds good.
+Robin Barrow: Any other questions or anything else I can help out with today?
+Jerry: No. I think we got everything covered. Thank you for your time.
+Robin Barrow: All right. Thank you. Both and look forward to working with you.
+Jerry: Sounds good. Take care. Bye, bye. Bye.

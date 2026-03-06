@@ -1,0 +1,83 @@
+Account: Activu Corporation
+Call Date: 2026-02-05
+Duration: 00:11:59
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+AlbertPark: You but that could very much
+Robin Barrow: Ben. Hello, can you hear me all right? Yeah.
+AlbertPark: I can hear you. How are you doing? I can't hello. Hear. Hi.
+Robin Barrow: All right. Let's try this out. Can you hear me?
+AlbertPark: Yeah. No.
+Robin Barrow: We're good now.
+AlbertPark: Hi, everybody. Hi.
+Robin Barrow: Thank you all for joining. Is everyone here new to the company as well? Or is it just you Albert?
+AlbertPark: Um
+AlbertPark: New one month. Oh, okay. She has been here what 6 months now. 7 months, yeah. Yeah.
+AlbertPark: But he's new to the department within it's a year now.
+Robin Barrow: Okay. Yeah, I was just making sure I haven't met any of you yet because I didn't really recognize all the names. Alex, I'm sorry if we've met before. But yeah. No, thank you all for jumping on and I'm more than get at is Nate still with the company?
+ShaylaShaddinger: No, no.
+Robin Barrow: Okay. Okay. Great. So yeah, that's who I had communicated with in the past. But I guess Albert, I saw your email. If you don't mind sharing. What do you what is your the company's goal, forgetting CC compliant? how can I help you from a PreVeil standpoint to get you back on track? So yeah, I guess I'll let you kick it off.
+AlbertPark: Yeah. I basically took a position after you left. Okay. Yeah, we're still on track to BC certified. So we need PreVeil. We got this email that says we need to it's good renew to to continue to service and we're like, how do we do this? Oh. Okay.
+Robin Barrow: That's well, you're at the right place. That's when I come into play. Really what we would do, we just confirm what you all have as far as license count and the users in it. And then you can either auto renew, which means no changes are to be made. We just auto renew and you get an invoice. This your renewal is not up for, I believe June of this year. So it's 6 6 20 26. And yeah, we can chat about it now get pricing together or we can wait till we get closer. It's completely up to you all.
+AlbertPark: It's per user. I'm guessing, right?
+Robin Barrow: It is. Yep. So right now I see that you all have a 15 users.
+ShaylaShaddinger: We should actually have less than that, but I have an issue with removing.
+Robin Barrow: Them okay. Tied to like a group and then
+ShaylaShaddinger: And then we need to want to approve it, but Nate was one of the admin.
+Robin Barrow: But he's on here. So we're kind of like in a pickle
+ShaylaShaddinger: With this full admin console, I don't know if you're able to help with that or
+Robin Barrow: Yeah. That would be our support team really. It's because you all have an approval group. So you need to create a new approval group and then delete out the old one. But I'm gonna what I can do from my end, I'll create a support ticket right now. And the support team will reach out and assist with that process because this is a little finicky and I just want to make sure you all get it right the first. That's great.
+ShaylaShaddinger: Thank you.
+Robin Barrow: Of course. But yeah, I see that. You're currently contracted to. Let me just confirm your contracted to 15 and I'm seeing 15 currently. If you intend to have less than that come the renewal time, we can always decrease that number.
+AlbertPark: And what happens is
+AlbertPark: What happens, let's say was we renewed and we need more licenses. What happens to that?
+Robin Barrow: So you would just reach out to me and we would just co term your contract. So say if you come up to me 6 months after the renewal and you're like, oh, Robin turns out we need more licenses. We would just give you a license a number of licenses for 6 months. Got it.
+Robin Barrow: Yeah. Um
+Robin Barrow: Were you able to at the very least, disable any of the devices for the users that are not?
+Robin Barrow: Using are I know, Alex, you're one of the admins. And so are you sale? But were you all able to at least disable the devices? It looks like I only get the
+ShaylaShaddinger: Option to lock or delete the devices under the user.
+Robin Barrow: Yeah. So could you lock them? Were you able to do that?
+Robin Barrow: Says
+Robin Barrow: Oh, so that yeah, it's triggering the approval group.
+Robin Barrow: Okay. I'm just gonna make that note.
+Robin Barrow: Um
+Robin Barrow: Okay. And then also part of your contract was and still is the compliance accelerator? Have you all had access to that yet?
+AlbertPark: What is that?
+Robin Barrow: I can show you
+AlbertPark: Um
+Robin Barrow: So this is already included within your current contract. This is our 10 step guide to get in compliance. So it includes documentation, billable, documentation, and then it also includes assistance from the compliance team. And I can show you have you how far down the road are you all on your compliance journey?
+AlbertPark: My best guess is that we'll probably be ready for an assessment in a couple of months, maybe like 3 months.
+Robin Barrow: Okay. And do you have A C 3 Pao wind up? Yeah. Okay. Who are you all using if you don't mind me asking?
+AlbertPark: Is it it looks like we're probably gonna go with a line
+Robin Barrow: Line, okay.
+AlbertPark: Yeah.
+Robin Barrow: They I'm familiar with them. Okay. Great. I'm just gonna make a note of that. Obviously, when you all go through the actual assessment process, we're gonna want to be involved. We're gonna want to provide our body of evidence, make sure you all score well. Because honestly, if you score well, we score well we want you all to do well. But yes, you all have access to this is a compliance accelerator. It sounds like you're pretty in deep in the whole process. So again, this might not be when you come to the renewal time and say your assessments over and done with, you might not renew this and that's okay. But it's just all the updated documentation for CMC level 2 when rev 3 comes out. We'll complete that as well. We'll have we'll update all the these documents, but I can just show you real quick. So what we've done, we created a fake company called Acme.
+Robin Barrow: Alex, have you seen these before?
+AlbertPark: I have not. Okay.
+Robin Barrow: So we create a fake company called Acme and they have been all this documentation has been fully assessed by C 3 PO. So we took this fake company through a full on assessment and they scored a 1 10. So all these templates are available to you, really. It's just a great resource. Not only to have the PreVeil language because you're using PreVeil, but it's a good tool to compare unlike what you all have written out today and see if it's going to be enough. So
+AlbertPark: How do we access this?
+Robin Barrow: I will add you all to it after this call. So you will have access to all these templates.
+AlbertPark: Great.
+Robin Barrow: Yeah. And with this you also get compliance help. So you have 6 30 minute sessions with our compliance team and you can book with them. But I just want to show you real quick. This is the SP for instance, the UI flow. It might be really similar to what you all have in place today. And it also it's all built around Microsoft products, the most part. And um
+Robin Barrow: Again, it takes you through the whole compliance journey like scoping, your boundary, protecting your endpoints points, segmenting your network. But if you want to book time with the compliance team, you can do that right through here under additional compliance resources. And it just brings you right to their calendar. You can also email them. So if you have any one of questions example of customers that take the team up on these meetings, if they have a strange process for UI flow. I had a call yesterday, how the team wanted to have a lock box for physical assets and just point a camera at it and how to make that compliant and what policies put in place. So it's just really unique situations. And even basic situations if you're just looking for advice on. So they're a great resource. They've done it a lot.
+AlbertPark: That sounds good. I didn't even though we had this
+Robin Barrow: Well, now you do I'm sorry, you weren't aware. Yeah, I'll make sure you all are added to this. Probably a little late in the process. Now we do have it would be an additional purchase. We have a GRC tool. We I call it a really project management specifically for CMC level 2. It helps track your documentation, helps you track risk and it also submits a spits out a score. So it's a good tool for everyone to collaborate on the documents together.
+AlbertPark: Great.
+Robin Barrow: Aweme yeah. I'll make sure I add you all to that. And I'm gonna submit the ticket to remove the users. And what I can do on my part, I can send you all over a quote for the number of users you have in the system today just to get an idea of what it would cost for your upcoming renewal in June and then as we get closer to that day, we can obviously change things around.
+AlbertPark: Yeah, yeah. I'd appreciate that.
+Robin Barrow: Yeah. Great. What other questions do you all have for me?
+AlbertPark: I think that's it. You just answered a couple questions. We didn't even know had a question before. Okay.
+Robin Barrow: And the other piece, if you all need additional training especially because the you all are new to the team that's available to you. We have standard user training. If you feel as though there's some folks in your team that don't really understand PreVeil and could use some guidance, we can set that up with a team. And we also have standard user guides I can send over as well.
+AlbertPark: Yeah. Actually that might not be a bad idea for us to even if you kind of know, I'll just get a refresher.
+Robin Barrow: Yeah. Yeah, absolutely. So yeah, I can I'll give you both the link for the admin training refresher and then the standard user training, refresher the admin training refresher. It's an hour long. I mean, the it's pretty tedious, but the platform is pretty easy to use. So if you jump on with the team and you're like, hey, we know how to do these 3 things. We just need more on the specific area. They're happy to walk through it.
+AlbertPark: Great. Yeah. Awesome.
+Robin Barrow: But yeah, I'll like I said, I'll send over all these resources. Do you care if I put a check in for you all sometime in April, just to touch base? See where you all for the assessment goes and again, we don't have to meet it's more of just like a reminder that
+AlbertPark: Yeah, yeah.
+Robin Barrow: To communicate. Yeah. Okay. I'll do that. I'll just make this meeting out for April around the same time. And then yeah. Thank you so much for reaching out.
+AlbertPark: Or anything else?
+Robin Barrow: All right. Great. Anything else I can help out with before we jump? No, that was it. All right. Great. That was extremely helpful, of course. And I'll make sure you all are CC'd on that ticket for the admin approval group just because you're all the admin. So just keep an eye out for that as well. So thank you. All right. Thank you. All. Enjoy the
+AlbertPark: Rest of your day. All right. Have a good day.
+Robin Barrow: Bye.

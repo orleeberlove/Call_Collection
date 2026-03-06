@@ -1,0 +1,122 @@
+Account: Central Pattern and Machine
+Call Date: 2026-01-27
+Duration: 00:14:53
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+pcollaer: On Robin, I also have hi branded Taylor with hi, me, Terry. How are you, both?
+Robin Barrow: Morning you're getting some feedback Taylor. I think I'm not sure if it's just my end.
+Taylor Otto Phone: I was hearing it too. I think it might be Perry.
+Robin Barrow: Oh, it is Perry. Sorry, you're right.
+pcollaer: Or
+pcollaer: You still
+Taylor Otto Phone: Getting it, yes. Yeah. It gets really static.
+pcollaer: How's that? Is it any better?
+Robin Barrow: It's still there, but a little better.
+Taylor Otto Phone: Yeah. Okay.
+pcollaer: Um
+Robin Barrow: Let me just see.
+Robin Barrow: Okay. And you all can hear me. All right?
+pcollaer: Perfect.
+Robin Barrow: Okay. Great. Excellent. So we'll go ahead and get started. Is there anybody else you're expecting to join today?
+pcollaer: No, that's all for us.
+Robin Barrow: Okay. Great. And now it's much better Perry. You don't have any feedback. So that's good.
+pcollaer: I think we're getting it from the TV for some reason.
+Robin Barrow: Oh, that's
+pcollaer: Whatever.
+Robin Barrow: It's called
+Robin Barrow: Excellent. So this call should be fairly quick. Honestly, it's just an intro to me. I'm your customer success manager. I'll turn my camera on. I will be your main point of contact moving forward here at PreVeil. And really, I just want to cover what you all signed up for. Talk about next steps and get it started, but also learn a little bit more about why you need PreVeil and yeah. And what you're hoping to get out of it. So to confirm I see that you have 8 users, one of them being the admin. I also see the compliance accelerator as well as the same connector. Does that all sound accurate?
+pcollaer: Correct.
+Robin Barrow: Great. So yeah. If you all don't mind doing just a quick round of introductions and then tell me why you need PreVeil.
+pcollaer: Okay. I'm here. And I'm looking for PreVeil to canal our UI information. So it's redundant, but it's pretty much it. Yeah.
+pcollaer: Yeah.
+pcollaer: I'm Brandon. I work with Perry, obviously, and I'm looking for the file transfer, what I'm most interested in.
+Robin Barrow: So all right. Excellent.
+Taylor Otto Phone: And I'm Taylor I do their it and work with their compliance needs. So I'm doing the PreVeil set up on my end too.
+Robin Barrow: Excellent. Okay. So just make sure this goes through. So I always say we separate PreVeil into 2 worlds. We have the compliance side, which includes the compliance accelerator also assistance with the compliance team. So and then you get the PreVeil platform, which is the email and drive capabilities and who the team that supports that is our support team. I fall in the middle. So if you have a question, not sure where to go reach out to me, I'll either provide the answer or find you someone that can. So just to talk about the actual compliance side of PreVeil.
+Robin Barrow: Taylor, you had mentioned that you're assisting with compliance. I'm assuming you would like access to the accelerator, correct? Yeah. Okay. And did Marco go over what is in the accelerator and how to operate it at all? It's okay. If you didn't
+pcollaer: No, we did not asking them stupid questions.
+Robin Barrow: They are probably important. Okay. I'll share my screen. I can go over that real quick. Let me just I'm gonna add you right now Taylor and then you all get up to 3 users in the accelerator. So I can add 2 more individuals. Oh, actually Taylor. Do you already have access to it?
+Taylor Otto Phone: I have access to mine. I haven't dug too deep into it yet because I'm still go through the rest of the setup.
+Robin Barrow: Okay. That's fine. As far as if you already have access to it through your email. If you have a central pattern e mail, then we can set it up with that if you'd like to separate the world. But they all look the same and it's not much collaboration. You can do within the accelerator. It's more of just a learning management system.
+Robin Barrow: But here you are. So this is a compliance accelerator. We call it our 10 step guide to getting compliant. It is pretty it takes really green. What ACS why is it important all the way through? How do you score one ten? Taylor, you probably heard the spiel before. So if you go through here most important courses are step 6. This is where you're going to find all our documentation. And this is where the Acme docs package lives. The Acme docs a package is meant to be a great example of what a 1 10 company looks like. It has all the documentation necessary for level 2 and with the biggest piece of document being the SP. So it starts there and then brings you through all the controls and the corresponding docs.
+Robin Barrow: So that is available to you to download and mark up as you need.
+pcollaer: Is this meant to go through sequentially?
+pcollaer: It is a number. So we should just start with step one. I mean, for a person like me. I just start step one and then work your way through.
+Robin Barrow: Yes. It's a ton of content. It's really great for educational purposes, but it also lays out the framework of what you need for level 2. Um
+Robin Barrow: The step zero, I would say is more additional information. Okay. For instance endpoints a lot of our customers wanted to learn what they needed to put in place on their end points or their devices and their network. So that's why we created this course. That's actually a good question. Who are you all using for a team solution?
+Robin Barrow: Andres. Okay. Perfect. So I can make a note to the support team. And then yeah, I would say step one is probably the easiest, but definitely watch the video that yells at you to watch. So
+pcollaer: Okay. Definitely.
+Robin Barrow: And I'll add you, Perry. And then if Brandon wants access, I just need Brandon's email. And I can share that as well.
+pcollaer: Okay. Yeah. For sure.
+Robin Barrow: Great. And then the this is just where you book time with the compliance team. They're also available to you get 6 30 minute sessions with them and you can also email them. So any one off questions you have that you don't want to jump on a call and you feel like it requires a short answer, just email them doesn't count against your time. Okay.
+Robin Barrow: So yeah. Any questions on the accelerator?
+pcollaer: So like, there's a lot of
+Robin Barrow: There there's a ton of content. It's a lot of information. We really wanted. Like I said, keep if you knew nothing about you come out of it, knowing almost everything.
+pcollaer: Okay. Very complete.
+Robin Barrow: Great. Okay. I'll make sure I add you, Perry. And again, Brandon, if I don't know if you have access to the zoom chat, if you could just drop that your email in the zoom chat.
+Robin Barrow: That would be great. Let me just see. Do I have it?
+pcollaer: Zoom versus
+pcollaer: That one out a chat or
+Robin Barrow: If not, you can just email me.
+pcollaer: After that?
+Robin Barrow: Okay. Great.
+pcollaer: Couple of more engineers in here to help, you know.
+Robin Barrow: Awesome. So then for the actual PreVeil platform, who will be the admin on the account?
+pcollaer: I think that's you Taylor is it or
+Taylor Otto Phone: Yeah. And then Perry as well.
+pcollaer: Yeah. Okay. It would be both of us.
+Robin Barrow: Okay. Great. So I don't know, Taylor, if you're gonna be downloading the tenant for them or whoever whoever has the device that PreVeil is gonna be mainly used on. Thank you, Brandon. Um
+Robin Barrow: We just need you to download PreVeil and invite the other user sales before you actually have the technical onboarding. The directions were sent over in the welcome call, but I'll resend them in my next steps email as well.
+Taylor Otto Phone: Okay. Okay. And I have the one from mine, I'm assuming it's probably just the same, just the domain?
+Robin Barrow: Yeah, exactly. Yeah. Just with their domain. Yeah. I
+Taylor Otto Phone: Will I need to use his account because since I'm a reseller, I sign up with my account. Well, I need to walk Perry through inviting people because we'll want to do it under the central pattern to invite them. But if I'm doing it on my user, which is not a central pattern user then, I don't know if that matters.
+Robin Barrow: Yeah. No. It does. I would have I would have Perry or if you could have Harry walk through it with you to download on his device unless you have a central pattern email because obviously the system is gonna recognize your existing account.
+Taylor Otto Phone: Yeah. But if we did it with a central pattern email, then we'd have to pay for a second admin account, right?
+Robin Barrow: As a reseller, you get a free admin.
+Taylor Otto Phone: So you get oh, it doesn't matter what email I use for that reseller one?
+Robin Barrow: It doesn't.
+Taylor Otto Phone: I had to
+Taylor Otto Phone: Be under my domain for it to be a free one.
+Robin Barrow: Oh, no, no, no. No, we'll recognize it. That it's you and your assisting it. That's just on me, right? Like the system is never gonna stop you from adding additional users. It's just me I going back and I track to make sure you are within your license count. So um
+Robin Barrow: I'm saying it's okay.
+Taylor Otto Phone: Gotcha. Yeah.
+pcollaer: We can add you Taylor. I mean, easy about
+pcollaer: Right as a central pattern email.
+Taylor Otto Phone: Yeah. I'll just have to create myself an actual central pattern email. I don't have one right now.
+pcollaer: That's fine. We can have it.
+Robin Barrow: Okay. Yeah, that's Taylor, you've gone through the process. It's the same exact way. And then you just schedule a time less support team once that tenants set up. The reason why they have you set it up beforehand as you have experience. They just want you to train out of your org rather than you just watching them click through because they do it all the time and it's easier if you set it up to your liking. Yep.
+Robin Barrow: Great. And then lastly, for me I have 2 more questions. One on a question. It's more of a statement. I'm gonna book time for us to connect in 90 days just as a check in. I'm not going anywhere. It's just to make sure that you all are up and running feeling good. And we don't forget about each other. If you'd like to meet before then just reach out, it's just a placeholder meeting. And then do you all have any data today that you need to put into PreVeil, whether it be UI or anything you would just want to start protecting?
+pcollaer: Um
+Taylor Otto Phone: They have to go through all of your shares and start just picking them out and uploading them to PreVeil once we get everybody set up.
+pcollaer: Yeah, exactly. We'd have to go back and look. Right now we're using our customers PreVeil. So
+Robin Barrow: Oh, okay.
+pcollaer: Question for you. Sure. Well, we can wait till the end.
+Robin Barrow: No. I'm done. That was my whole spiel. I did in 11 minutes. So you what questions do you all have?
+pcollaer: Is it and Taylor might even know his from his stuff, but when we use PreVeil, can we have our PreVeil like hook up to other PreVeil? So when we pull the information, it would go right into the our cur folder? Or is that something we do manually?
+Robin Barrow: It would be say if someone sent share something with you via PreVeil, you would still need to put it in your PreVeil drive because e mail driver separate. Yeah.
+pcollaer: It makes sense. I just thought maybe we could have a shortcut.
+Robin Barrow: Unless they're sharing. Yeah, I would still need if you want to have it organized in your way unless they're
+Robin Barrow: Sharing something via drive, you'll see their folder automatically in your drive that they shared with you. But um
+pcollaer: We should share with the drive and we also share with through emails email. Okay.
+Robin Barrow: So yeah. You're if they share through the drive, you're gonna see that drive folder that they shared with you. If they shared through email, you have to drag and put into your CI folder, but either way, it won't go to your folder structure.
+pcollaer: Okay. Good there.
+Robin Barrow: All right. What other questions?
+pcollaer: That's it for now. I just like there's a lot of stuff.
+pcollaer: Yeah, that's kind of. Got it. Yeah.
+Robin Barrow: I added you, Brandon, you should see an invite here. You should see an invite to the accelerator as well. Do you all have a goal of one you're looking to get a compliant by?
+Robin Barrow: That's a loaded question, yeah.
+pcollaer: I'd like to say yeah. Next week. If this looks like take a lot longer on average take
+Robin Barrow: We say 4 to 6 months.
+pcollaer: Okay.
+Robin Barrow: And that's if you know, you have the time. I'm sure you're trying to run a business at the same time, too. So yeah. We say 4 to 6 months and it looks like from my experience in Taylor, you might know differently, but we're seeing C 3 PO book out till Q2 and AQ 2. So if you wanted to get fully assessed it's gonna be some time.
+Taylor Otto Phone: As well, yeah. It's probably gonna be at least a year. Yeah. Okay.
+Robin Barrow: But at least you have a secure way to manage and source UI. So the compliance side. Yeah, we'll get there.
+pcollaer: Okay. Great.
+Robin Barrow: Great. I'll send a follow up email if there's no other questions. And then yeah, just keep an eye out for that invite in 90 days. And yeah, you all are off to the races.
+pcollaer: All right. Thank you for everything. I appreciate it.
+Robin Barrow: Yeah, of course. No, thank you, all. And again, feel free to reach out with any questions that come up.
+pcollaer: We'll do. Thanks.
+Robin Barrow: Bye. All right. Thank you. Bye. Bye.

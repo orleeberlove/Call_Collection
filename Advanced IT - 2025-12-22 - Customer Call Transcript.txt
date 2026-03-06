@@ -1,0 +1,130 @@
+Account: Advanced IT
+Call Date: 2025-12-22
+Duration: 00:25:01
+Participants: Andrew Meggs, Ben Holley
+
+======================================================================
+
+Ben Holley: So
+Andrew Meggs: Hello? Hello.
+Andrew Meggs: Hello, Ben?
+Ben Holley: Hello Marty. How are you?
+Andrew Meggs: Doing pretty good. Yeah. Just the 2 of you all today, right?
+Marty Mackes: Correct.
+Andrew Meggs: Okay. Awesome. Well, hopefully this won't take too terribly long. This is mostly supposed to be just sort of like an informal check in call. There's I don't really have a presentation or anything like that. I do have a couple of points that I normally go over as check in points. But before I get into it how are things with PreVeil or just in general?
+Ben Holley: I haven't run into really too many issues. Things have been going good, not sure. In terms of usage levels, right? I haven't really talked to too many of the people who are currently using as well. I haven't heard anything back, at least, right from them saying, hey, I'm having this issue, or I don't know how to do this or that. Really, the only thing that I've run into regarding kind of the onboarding is a couple times. Um
+Ben Holley: One it was a little bit more weird. But when going through the kind of onboarding creating the account at some point in there, it asks, hey, do you want to add the email integration to outlook? and I find that if they add it during that kind of onboarding process. Sometimes it likes to break. I had one individual. Yeah, it was very odd. He. He clicked the button. It said. Hey, installed, no. No issues. And then after we're all done, I had him open outlook to see if he had that kind of separate mail. Encrypted mailbox and it showed up. But whenever he would click it basically wouldn't open the actual inbox. It just was empty and then I couldn't get him to delete it. So when he right clicked it, there was no remove mailbox or anything like that. So I was like it's very odd. I had him restart kind of all the basic things. What fixed it was. I ended up having him. I think going into outlook itself and the settings, you can go like your mailboxes, remove it from there. And then install it through the actual PreVeil, like a portal where you're actually in your mailbox on the web, you hit the settings button and then add to mail client and then that works. Perfect. That was the only thing I've run into regarding kind of just a weird glitch or issue. Um
+Andrew Meggs: Yeah, I have not heard of it. Yeah, I've never heard of it. Yeah.
+Ben Holley: And it could've been a couple of just one off. Just random could've been an issue with outlook itself instead. But yeah, just an odd one. Um
+Andrew Meggs: Well, that happens again, definitely put in a support ticket, if for no other reason that we have like a record and okay. Obviously we want our stuff to work. So if that does come up again, definitely put it in a ticket and we'll investigate because if it is some sort of larger problem, we want to be able to fix that, but I personally have not heard of that ever happening. So yeah.
+Ben Holley: And then the other kind of main question I had actually that's on the top of my head is is there any because I know the at the very beginning, we kind of talked about PreVeil for like, the web client outlook or the new outlook. Do you know if there's any headway on that or if that's going to be a thing at all?
+Andrew Meggs: Yeah. So
+Andrew Meggs: Short answer, it keeps getting pushed back because our next big product update is taking much longer to implement than we expected. Cloud drive. We basically are in the process of completely re rewriting how our drive works from the ground up.
+Ben Holley: And it was supposed to be released.
+Andrew Meggs: By now, like end of December and it's now looking to be February and then the new outlook integration was planned to be after that was released. So that was planned to be released January and now it's looking more like march, April. And once again, these are don't quote quote me on even these dates, but nominally, we had our product. We had a monthly product meeting last month and those are the nominal dates of when these things are going to be released. It is something we're working on is on the docket. But the main focus right now for our engineering lift is the cloud drive. And so pretty much everything else is on the back burner until that's done. Gotcha.
+Ben Holley: I'm assuming that the cloud driver you work, is that mainly just backend stuff? Is there any difference? any changes that you can, I guess say um
+Andrew Meggs: Yeah. It's a lot of backend stuff. So nominally syncing moving stuff uploading files, downloading files will be much much faster. Um
+Andrew Meggs: Biggest noticeable change is right now, if you sync your drive down to your local device those files are actually like sync to your device. Whereas with this rework, you'll instead merely be seeing a like representation of what's on the cloud and the files are will no longer be touching the endpoints at all. To your end points will still be in scope because of reasons. But there's much less thread of leakage or anything like that. So that's like the and obviously I think they're doing some like, UI changes too. And some like, quality of life improvements, but the big changes are efficiency and that sync changes.
+Ben Holley: Cool.
+Andrew Meggs: But once again, yeah. You know how these things work. Yeah, the beta was supposed to start in November and now the beta is starting in like mid January. So with full release planned for February. And I'm sure once it's actually released there will be a big marketing push and you'll see some more information about exactly. Because yeah, I mean, you now know as much as I do, I you know, I don't have a list of all the features involved, but once it's released, I'll get that. And then once again, to answer your original question, the outlook integration is planned for the new outlook integration is planned for after that.
+Ben Holley: Cool.
+Marty Mackes: But the but it
+Andrew Meggs: Is on the roadmap, yes.
+Marty Mackes: Ben, did you get did you get PreVeil installed for an on his Mac?
+Ben Holley: Not yet. I haven't gotten a hold of him. Okay. To to sit there and do that. Yeah, that is a good one though. Because that is like, I think our only Mac person at the moment. Right? Because I know when I looked it up, it was like, compatible with outlook for Mac. I believe. Because I think outlook for Mac is I'm assuming the well I don't think it's its own outlook because I don't think it's the old outlook.
+Ben Holley: But yeah. When I last looked at said it was compatible. I'm hoping to not have any issues, but yeah, I'll I'll see if I can get him maybe this week at some point before the big break, just to see if we can get that done.
+Marty Mackes: Ben any any questions, comments on?
+Marty Mackes: I don't know where I want to go with this, but you did the you went through the self assessment tool came up with a result. As you told me, there's still some what the heck does this actually mean? Um
+Marty Mackes: Any any comments questions anything there you can bring up to with Andrew?
+Ben Holley: Um
+Ben Holley: I and I'm I don't think there's much in terms of exact ones. I might have to even pull it up, but that's okay.
+Andrew Meggs: To be perfectly Frank, the compliance team would probably be able to better answer your questions than I would.
+Andrew Meggs: Have you met with them yet?
+Marty Mackes: No. And maybe that's part of my question. Andrew is
+Marty Mackes: When we run into that. Yeah. Is there some into PreVeil we can chat with because the risk or the concern that I have is that
+Marty Mackes: We're going through this, right? And we're Ben is pulling together the documentation based on his understanding and he's going through all the training and reading everything. But yet we may be far left or right of what an order is actually looking for. So so there's a risk, right? There's a risk of getting through that audit because of misinterpretation. Yeah. And so so the question and then follow up with one comment is there a folks we can talk to on that? Because on the other side, I mean, what we're looking at to minimize our risk is to get an outside consultant and have them come in and help us drive through this because they're currently certified. They have a relationship with auditors, they understand the meeting, right? They put other people through. So that lowers our risk because we have somebody better understands, but of course, that cost me money. Yeah.
+Andrew Meggs: Sounds good. So long story short, yes. So with the accelerator comes access to our own internal compliance team as a resource, they are available. There's people who wrote all the documentation and everything. They're available at compliance at PreVeil.com if you have any one off questions. But if you wanted to meet with them and kind of like, go over where you're at and show them what you have and kind of run run them through things. There's a direct link to their calendar in the accelerator under additional compliance resources. So you can schedule a meeting with them directly as well.
+Marty Mackes: Okay. Oh, that's good to know. And
+Marty Mackes: Yeah. The
+Andrew Meggs: Asterisk here is a couple of asterisk minor asterisk no matter what you know what we say or what's in the documentation ultimately it's always up to the assessor on the day of the assessment or how he interprets things yeah you know that's asked risk one asked risk 2 they are
+Andrew Meggs: I like to refer to as Consultative services. So they are able to answer any questions and provide feedback and guidance, but they're not actually able to do anything for you. So we're not actually able to do any official consulting services because that'd be a contact like of interest. Sure. A couple of those stress and it could be. And they have done this in the past though. It's rare that they look at a situation and say you do need to hire a consultant and like, come in and do a gap analysis.
+Marty Mackes: You guys are so messed up and you don't know which
+Andrew Meggs: Right. Well, I mean, I'm not saying that would happen with you all. I'm saying that sometimes these clients will come to them and they like, can't even read it. Like there's something in there. And our team is like this is beyond being able to answer questions or guidance, you need someone to come in and do this for you really can't do this yourself, yeah.
+Marty Mackes: I understand that. So that's helpful. I guess we probably heard that because now that you mentioned, I do remember you saying the compliance team and then we could I remember that now. I do my memory and maybe that. Maybe that's an avenue we need to explore Ben that hasn't been really explored yet, right? Um
+Andrew Meggs: And it is part of your subscription. So I mean, you're paying for it.
+Marty Mackes: And that's my thought, right? We you know, we spent the extra money to to get the accelerator and all the documentation, which makes complete sense. Because if you go with the consultant, they're just gonna go. We got all the own and we'll you know, so so you sort of throw money away over here to throw some money at somebody else over here. So so we're weighing that we haven't tied into a consultant yet. We got a couple of quotes and are considering it, but haven't haven't made that decision to to in fact do that. And again, that's one of the reasons we would PreVeil. Because of
+Marty Mackes: I would just call it the simplicity effort and I hopefully you take that as a good term, not a bad term. The simplicity of it because it's a little more focused for what we want to do versus the Microsoft, right, which is kind of everything. And and you have the accelerator portal, which which has documentation that's been used to actually get other companies and yourself the fake company certified. So again advantage, which is why we bought into the solution. So
+Andrew Meggs: Yeah. No, we just I think we just had our 57th client pass assessment, 50 eight, something like that, 57 58 and yeah. Definitely the the documentation does work. But in the event I mean, I guess let me take a couple of steps back here.
+Andrew Meggs: Where are you all at in terms of? Do you have like a timeline of when you think you'll be wanting an assessment? Or are you still in the pretty early stages?
+Marty Mackes: Let me tell you what our goal is, right? Our goal is to be certified by
+Marty Mackes: I've been saying October of 20 26. Okay. Now maybe that slipped in November, but October 20 26. So by the end of the year, let's just say that. Um
+Marty Mackes: Which which puts us into probably an audit. Maybe the end of calendar year Q. Two, if we're shooting for October. Obviously we've got to get ourselves in line and we want to do that as quickly as you can. But that's the general timeline we're working against.
+Andrew Meggs: Sure. No, that's very reason why I have clients that started. We need to get assessed next month and like, that's
+Marty Mackes: Not gonna happen. Yeah. Because you know, a lot of
+Andrew Meggs: These assessors are booked out months and months in advance. And getting to the point here when it does get to the point where you're going to start shopping for assessors, definitely you can utilize the compliance team as a resource as well for recommendation, right? Like a whole partner and you have your
+Marty Mackes: Whole list of yeah. We have
+Andrew Meggs: Our whole list on the website.
+Marty Mackes: Which which is super helpful. And we've actually talked to a couple of those as well.
+Andrew Meggs: Sure. Yeah. Um
+Marty Mackes: I know the question Andrew. Um
+Marty Mackes: It'll come back to me in a moment.
+Andrew Meggs: Um
+Marty Mackes: Oh, I know what it was. I know what it was. So of those 50 seven, do you have any idea of who use consultants who did percentage wise or number wise? So do you have any idea?
+Andrew Meggs: No. Who use consultants? No, I have an idea of which so they use for the actual assessment. Okay. I don't know off hand who use
+Marty Mackes: You don't know who's hey, we're gonna go chop down this force on our own versus those who brought in a logging company.
+Andrew Meggs: No. No, I mean, not the raw numbers. I mean, I know of a couple that I know did use a consultant, but I don't know who did
+Marty Mackes: Fair enough. Yeah, that's fine.
+Andrew Meggs: They normally the clients don't always give us all the information. Sure. A lot of times it's just like, oh yeah, we passed and like, that's the only information.
+Marty Mackes: That's the only important thing in the yeah. Yeah.
+Andrew Meggs: Yeah. So other let's see other check in points. You're talking about adding users just I assume there haven't been any problems with that. And do you anticipate needing any more than 12 going forward?
+Marty Mackes: Yes. And I'm waiting for the answer on that. Because we've got some additional folks on our growth team that I'll need to add. Actually Ben I meant to get back to you. Who in the growth team, did we put on the list? let me see. I got Kevin.
+Ben Holley: Yeah. Um
+Marty Mackes: Susan, but she's contracts, but we don't have Jade or Colby or Susan Hudson, right?
+Ben Holley: Nope.
+Marty Mackes: Okay. Yeah. I don't have the total numbers yet Andrew. But yeah, the my expectations were gonna add more. And by the way, what I put in the budget for next year and we do the renewal. So we bought it at 12. I put the renewal in at 20. Okay. My budget anticipating that we'll add some more along the way, but those growth ones would be sooner than later. I'm just waiting for Kevin to give me the final number of who he wants to add in there.
+Marty Mackes: He's our CEO, by the way, is just why I'm waiting on him. It's his team.
+Andrew Meggs: Yeah. I guess just if you do need to add any users throughout the year, just it's pretty in elegant process. He just e mail me and put together an order form for however month however many months are left. Yeah. 0 pressure at all here. License pricing is expected to increase next year. A little bit by $2 per user per month. If you wanted to go ahead and add licenses now and lock in 20 25 pricing, you can
+Marty Mackes: Obviously, do before the end of the year.
+Andrew Meggs: If you do it before the end of the year once again you have 2 days left before everybody's off for the holidays, but just bringing it up since we're talking about it. But I
+Marty Mackes: Appreciate it, no. I appreciate it. Yeah, I mean, I was talking to Kevin about this a little a week ago, so I was expecting to have the number. So I'll ping him again 2 bucks of 2 bucks, right? Yeah.
+Andrew Meggs: So I mean, it's not the hugest deal, obviously. And then also, since we're talking about compliance Ben I don't know if you saw in the accelerator, we've recently added a course about our GRC tool. We recently launched A G R C tool. I don't know if you guys have seen any of that or if that's something that
+Marty Mackes: And for governance.
+Andrew Meggs: Risk and compliance. So basically it is a project management tool. So right now, how it works is with the accelerator we have this documentation in the cloud and you download it and you edit it and you keep it all on your desktop or one drive or wherever you keep all the documentation and this would be a
+Andrew Meggs: I guess the easiest way to it is yeah, project management tool where it's basically a giant checklist of everything and all the controls and everything and basically manages the entire compliance journey. Like in the cloud. So instead of having to download it and do it all and keep it on some folder, this is all your repository of documentation and there's checklists and you can add contacts or if you click the checklist and email goes to that person and say, hey, you need to fill this part out or something like that. Um
+Marty Mackes: Ben, that sounds very similar. One vendor was going oh, we got this thing and you guys got a subscribe. Sounds good. Yeah.
+Ben Holley: No, that's the exact same thing. Yeah, that the one that they're using is just a different C tool.
+Marty Mackes: Yeah. Yeah. Cool. So yeah, we have our own now. We that's launched.
+Andrew Meggs: Like last month. Um
+Andrew Meggs: And so
+Ben Holley: Yeah. There is a course on it in the accelerator.
+Andrew Meggs: That kind of is a walkthrough of it.
+Ben Holley: I was curious if that's included or if that's an additional
+Andrew Meggs: Yeah. That's kind of the that's the rub, right? is that would it would be an additional product? and this is I do not want to do a hard sell here because obviously, this is just a kind of quality of life tool. You don't need it and a lot of people that pass assessment don't have a GRC tool. But I wanted to bring it up since we're talking and if you had seen that in the accelerator of that new course, that's what that's about.
+Ben Holley: Do you know, roughly how much that subscription is? If you can say? Or I
+Andrew Meggs: Think it's roughly $2,000 for 12 months.
+Ben Holley: Okay. Something like that. Maybe a little bit more
+Andrew Meggs: Okay. 20 20 22 20 four, something like that. It honestly it just released. So I have to go double check the pricing myself, but yeah, no worries. Cool.
+Ben Holley: That's good to know, actually. Yeah, yeah. I can.
+Andrew Meggs: Once again, this is 0 pressure. I can include some information about it in the in my follow up email and if you want to see a walkthrough of it, like I said, there's there's a video on the accelerator.
+Ben Holley: Yeah. I just popped up in the accelerator. I saw that there. Yeah. I was like, kind of the quick little walkthrough. It looks pretty pretty good actually. I mean, it looks like you're typically at GRC tool with the cms kind of 2 point o kind of plugin type thing. Where yeah, you have each, each control and then you can add like, evidence and all that fun stuff. So
+Andrew Meggs: Yeah. Definitely pretty once again, 0 pressure and it's just ease of quality of life or ease of use or however you want to phrase it. But that is something a lot of our clients are asking for it and so that we put some time into to putting our own together there. Cool. And
+Andrew Meggs: Drive for product updates. We're also looking into creating our own VDI solution for clients that want their endpoints completely out of scope. That's once again, once cloud drive is done. That's on the docket. Yeah, new outlook already mentioned what else any issues getting people to sign up for PreVeil express externally or have you encountered that much at all?
+Ben Holley: I don't think I've had anybody. Send it because that was one of the concerns individual brought up regarding some government locations and things like that. And whether their network or even their computer would even allow, right? The signing up and opening the clients even though it's all on the browser. So I would I wouldn't think they would have too many issues. Unless PreVeil s just blocked or external websites here is blocked, right? I've done internal testing on my side regarding just other email clients and everything's worked so far. I haven't had any issues. I found it very interesting that you kind of
+Ben Holley: Like once you're invited and you create that account and you log into it's almost like you just have PreVeil at that point. Are those individuals then they're able to even email other people using it?
+Andrew Meggs: Yeah. So
+Andrew Meggs: Yeah. It is a PreVeil account. Yeah. It's the browser only version, but yeah, it is a PreVeil account. It's not like there there are differences though between an express and what you're paying for
+Ben Holley: That's what I was gonna ask. Yeah. Because I think does the drive work on it too. I feel like when I was looking at the drive
+Andrew Meggs: So it has all the functionality of PreVeil, but the express accounts are on the Amazon business servers, not the gov cloud.
+Andrew Meggs: So they are not CC compliant accounts.
+Ben Holley: Gotcha. Yeah, that was very interesting. Because talking to Marty and I was like, man, it just seems like everybody can have PreVeil. It's kind of crazy, but that's cool. Interesting. Yeah, another thing
+Andrew Meggs: Is that the express accounts? Obviously, they're not a there's no structure. There's no organization or administrative functions there. That's honestly. I mean, even beyond the cloud, that's another big reason why they're not compliant is because to be compliant, you have to have the organizational structure and you have to have admins and be able to do log export and stuff like that. But yeah, it does not need to be downloaded. Sometimes there's some clients think they have to download something and they don't sign up for it, but obviously, like you're saying the express version doesn't need to be downloaded. If you know, I think I shared a one pager with you during our first call, however many months ago. That kind of goes over PreVeil. Yeah. And then yeah, I can resend it in my follow up email, but
+Marty Mackes: I do that. It's always good that way. I'll go digging for it. I know you said send it again. That'd be helpful. Yeah. I'll
+Andrew Meggs: Send I'll send to yeah, I get so let me
+Andrew Meggs: Yeah. And so other than that's kind of it in terms of my talking points. Was there anything else you wanted to go over or anything like that?
+Ben Holley: I can't think of anything at the moment.
+Ben Holley: I think I'm pretty good.
+Andrew Meggs: Okay. Well, I will send a follow up email going over all this. And as per usual, if you do have any questions or if you need anything else you have my number so well between Christmas and new years, you I won't answer it, but anytime outside of that.
+Marty Mackes: Yeah, we're Andrew we're all doing the same thing after tomorrow. Our corporate staff are off until basically the whatever that following Monday is after the holiday. So we're all gonna be out to so yeah. Yeah. Trying to enjoy the time.
+Andrew Meggs: Yeah. Yeah. Yeah. I will send all this over and I appreciate you all taking the time to meet with me and yeah, I hope you'll have a great rest of the day and happy holidays.
+Marty Mackes: Same to you, Andrew, thanks. Very helpful. Today. I appreciate it. Yeah, you'll have a good one.
+Ben Holley: All right. Andrew, bye.

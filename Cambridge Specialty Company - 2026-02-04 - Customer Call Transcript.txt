@@ -1,0 +1,45 @@
+Account: Cambridge Specialty Company
+Call Date: 2026-02-04
+Duration: 00:08:52
+Participants: Andrew Meggs, Owen Jacobs, Eric Frick, Jacquelyn Motsinger
+
+======================================================================
+
+t . mele: So
+t . mele: Hello? Hello. Happy hump.
+Andrew Meggs: Can day you hear me? Yeah. Yes. Hello. Hi Andrew. How are you doing? Good living the is dream it. I know that I guess when I made this meeting, I didn't actually include the actual zoom link. I know that was somewhat last minute there. Do you know if anyone else is going to be joining us today?
+t . mele: No. I think Billy hops on. That's fine, but I think it's just me for now. Jacqueline is on vacation. So yeah. We can go over and start
+Andrew Meggs: Okay. Yeah. I mean, to be perfectly honest, there's not like a formal presentation or anything like that. Yeah. This is mostly supposed to be just sort of like an informal check in. I do have a couple of points that I normally go over. But before I get into it just in general, how are things with PreVeil or yeah, just in general.
+t . mele: Yeah, in general. Because I'm pretty much delete that the site we've been just installing the software on each of the users setting it up for each of the users, like an estimating engineering myself. So everyone has PreVeil installed. They have the add in included in their outlook. But as far as going through the accelerator program, the training getting the shared responsibility matrix looking at the gaps. We're kind of in maintenance mode right now, a meeting with red spend bi weekly just for an hour. And it's not gonna be until after March the 1st week of March that I'll be fully engaged with
+t . mele: Implementation and onboarding including with our subcontractors. Because I have an a 9,100 audit to prepare for. So we're kind of in cruise control right now. And we really haven't gone in depth with most of the tools PreVeil offering. So
+Andrew Meggs: Okay. That makes sense. And I guess that was kind of my follow up. That was going to be one of my points with the compliance accelerator. Is do you have AI guess the timeline there for your for your assessment? Um
+Andrew Meggs: Yeah. What general what's your compliance journey looking like? Yeah. Yeah.
+t . mele: I understand. Um
+t . mele: So realistically, I think we have our scope of our boundary. We have our full nest, 800 one, seven, one assessment completed right now, we've gone through half of the controls and half of the objectives assessment objectives. So I don't see us getting through a full assessment and getting pm in place until
+t . mele: End of March April timeframe and really going hard with compliance, updating our documentation or CSP like April may timeframe and potentially getting to full compliance from a self assessment standpoint. Towards like, November timeframe. We're really not sure if we're gonna be audited by C 3 PO or if the flow down that we're gonna get is just gonna be like, level 2 self assessment reporting at this point. So
+Andrew Meggs: Right. I guess do you anticipate I guess that was gonna be my follow up thing is working with the video. So for right now, you're not even sure if you're gonna need that or if it's just gonna be we're
+t . mele: Assuming that we are, we just haven't gotten the official fill down from our prime yet. So so we're planning for it. But we haven't actually reached out to see through PR scheduled an onsite audit.
+Andrew Meggs: Sure. That makes sense.
+t . mele: Yeah. Um
+Andrew Meggs: Yeah. I guess when you do
+Andrew Meggs: If you do feel like that you're going to need A C 3 PO definitely let us know and we can provide some recommendations there. Okay. For potential tapes?
+t . mele: Yeah. And so can you remind me again what our package includes for compliance? Because I know there's a compliance team that we can schedule sessions with. But I didn't know if there was a limit to that like 2 15 minute sessions per month kind of situation.
+Andrew Meggs: Well, nominally it's. It's what does it. They say it's like up to 6 meetings per month or what have you. But no one actually ever checks to the best of my knowledge. Okay. Yeah.
+t . mele: Yeah, because I think I want to set up a system after my my priority audit is done in my march with red spend. And then going back and forth with PreVeil and then potentially having PreVeil. And it's been on the same call with my MSP in case we do have like, deeper questions. But yeah, I could see myself meeting with the compliance team that PreVeil more frequently starting in march.
+Andrew Meggs: Sure. Yeah. I mean, whenever you do feel like you want to meet with them, they're always available at compliance at PreVeil.com or through the link in there in the accelerator. To what is that? Like it's under additional compliance resources the course. So if you ever need to have a meeting with them, you can schedule a meeting with them there. Okay.
+t . mele: Okay. Yeah. Because there are certain things that I have questions on. Like basic things like marking just the visual aspect of marketing and an email. Because on the demo presentation, there are certain add ons where if my estimators are engineers are emailing a snapshot of data. The email itself has the header, the footer for a marking, that kind of thing. And then once we do get our subcontractors set up how much access do they have for storage? could I potentially have a subcontractor store all their data on our shared server system? Because I know we have like a terabyte or more of storage. Um
+t . mele: So I haven't quite gotten there yet as far as
+Andrew Meggs: Yeah, you have 10 terabytes of storage, you've got plenty of storage there.
+t . mele: Okay. Okay. Cool. Cool. But yeah, that's really it. For now, Andrew. So it's kind of where we're at
+Andrew Meggs: Okay. Yeah. Uh, I guess the other thing is I guess speaking of contacting people outside your org. Have you
+Andrew Meggs: Done much of that or had people sign up for PreVeil express or anything like that?
+t . mele: No, very minimal. So I do have that one pager to kind of help them get set up with the PreVeil account. And then I also noticed in the compliance accelerator, you guys have some compliance questionnaires with at a station sign offs that can be sent to our subcontractors too. So I'm definitely gonna push hard to go through all of our subcontractors. We have probably 200 of them that I need to deal with. So
+Andrew Meggs: Yeah.
+t . mele: Not there yet.
+Andrew Meggs: Sure. Okay. That makes sense. And yeah. So just sometimes there's what's the word I'm looking for? Sometimes there's like, push back on signing up for PreVeil express. So we that's why we like to check.
+t . mele: Yeah. I would say we have maybe one or 2 situations where there is push back, but we've always had push back with the suppliers because it's an old mom and pop shop their it structures kind of old school. So when we cross that bridge we're gonna have to figure out how to deal with them, whether it's helping them going on site and helping them set it up or at some point just making the decision that we can't provide any contracts that are can use
+Andrew Meggs: Sure. Okay. Okay. Well, that makes sense. And yeah, honestly, there's not much else for me to go over. That's kind of it for my talking points. Was there any other questions you had or anything else you wanted to discuss?
+t . mele: No. No. No, I'm good for now, so. I appreciate it.
+Andrew Meggs: Yeah. Okay. Well, I appreciate your time. Toby. And as per usual, you have my contact information. So if you do have any questions, you can let me know. And yeah, I hope you have a great rest of your day.
+t . mele: You too, Andrew, talk soon.
+Andrew Meggs: Bye. Have a good one. Bye.

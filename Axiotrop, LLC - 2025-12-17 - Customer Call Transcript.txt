@@ -1,0 +1,123 @@
+Account: Axiotrop, LLC
+Call Date: 2025-12-17
+Duration: 00:16:30
+Participants: Robin Barrow, Venessa Sherwood
+
+======================================================================
+
+Robin Barrow: Hello.
+VenessaSherwood: How are you?
+Robin Barrow: I'm good. How are you?
+VenessaSherwood: Nice to meet you.
+Robin Barrow: Nice to meet you. It is a little muffled. I can't hear. Okay.
+VenessaSherwood: Can you hear me now?
+Robin Barrow: That's a little better. Yeah. Okay. Yeah.
+VenessaSherwood: Sorry, I'm on blue or sometimes a little finicky.
+Robin Barrow: That's okay. No worries. Let me just make sure I got everything pulled up. Yeah. You had mentioned that you just want to learn a little bit about give me one second. How a typical customer onboarding works. This is I'm assuming for Olympic engineering.
+VenessaSherwood: It is. And the other goal of this call that I want is for any other future clients that do want to use PreVeil as an option. Just want to see because I'll be managing this process going forward. So I just want to see how that's gonna look and also to help us. When we're creating statement of work for our clients, we can because I'm looking at the pricing sheet that we have as a partner with you.
+Robin Barrow: And I'm trying to compare
+VenessaSherwood: It to the invoice that we received and for me it's a little hard to see how you guys differentiate that how you do that. So if I have a better understanding so we know how to price it to the clients
+Robin Barrow: Sure. So you and Sam provided the pricing sheet, so you do have that. Yeah. Okay. Okay. Good. I just want to make sure. So, first, I'm gonna tackle the how we typically run a customer onboarding and what that would look like and then we can dive into invoicing and what the pricing looks like for Olympic engineering.
+Robin Barrow: Usually we have these welcome calls. We can sometimes end customer joins. Sometimes they don't it's completely up to you. They let me just double
+VenessaSherwood: Check
+Robin Barrow: I'm just confirming if they tried to reach out to me directly, they have not. Okay. So just to confirm what they signed up for, we see that they have 9 users in total. One of them being an admin. They also purchase a compliance accelerator. Does that all sound accurate?
+VenessaSherwood: Yes. And I believe we did get a new
+VenessaSherwood: You guys to add one other like
+VenessaSherwood: 9 in total or is it ten? Because all of them should have some connected?
+Robin Barrow: Yeah, the it's 9 users in total. That will cover all the users for the same as well.
+Robin Barrow: So
+Robin Barrow: Um
+Robin Barrow: Yeah. The way we price it out is the total number of users is nine, but one of them is an admin as well.
+Robin Barrow: Yeah. And I'm assuming typically what I ask is I'm assuming that Olympic engineering. They're doing some sort of government contract work and they're looking to get cms level two, correct? Okay. And will you all be managing their full setup? So will you be getting PreVeil installed on their devices and okay. We offer obviously support on that, but then we can we wouldn't obviously be able to install. So the way PreVeil works is encryption keys that are downloaded onto each computer, which I don't know if you all dove into this process yet or yeah.
+VenessaSherwood: We already did it. Yeah. We have a cyber security analyst and we kind of takes the reins on that. Once we purchase the PreVeil and he gets everything set up and then sends it over to the client. And okay. So all set up for the most part.
+Robin Barrow: Excellent. So they do have a technical onboarding available to them. It can be either a full on admin training that goes over with all the admin capabilities. And I don't see that they've done that yet, but I could be wrong. No. Okay. They haven't booked that yet. And they also if they'd like, they can get a standard user training too. So that's for the end users. The ones that are really going to be the admin. Stop me managing the platform, but need to know how to use it. Those are both available to them. If you were to purchase the same connector, excuse me. The same connector would be supported in help onboard by our technical support team. There's 2 individuals that handle that is up till rodrigues or Chris Vinita. They would assist with that if they all decide to move forward and yeah. That's I mean and then really it's fairly simple platform, which I'm sure you can see. If unless they have a ton of data they need to put into PreVeil, typically they just kind of off. The races. And then we can also schedule a 90 day check in. So I can just make sure they're still feeling good about the platform, everything's up and running. Um
+Robin Barrow: Lastly, so yeah, I would say next I just need to
+VenessaSherwood: Technical onboarding.
+VenessaSherwood: That technical onboarding for this demo, what you're describing earlier, kind of. Because I know I mentioned we have somebody on our team who is employing all of this. Yeah, obviously it's taking time. Is this something that only your team is able to do or is that something our team is able to do for the technical side of it?
+Robin Barrow: The sim, we'll have to assist in just the hosting part and then we can let you
+VenessaSherwood: Take over billing.
+VenessaSherwood: Um
+Robin Barrow: And okay. And then to dive into the actual billing portion
+Robin Barrow: I'm trying to see if I have a copy of your invoice and I don't believe I do.
+VenessaSherwood: I can share it. I have a
+Robin Barrow: That'd be super helpful. Thank you.
+VenessaSherwood: Do first. Okay.
+VenessaSherwood: Let me know. See my screen.
+Robin Barrow: Okay. I can. Okay. Yeah.
+Robin Barrow: So a quote that I sent over. Yeah.
+VenessaSherwood: And I will because I'm trying to compare this to so just to break it down for you because like I look at this quote because obviously this would be how much we're gonna be paying. And so I want to be able to kind of figure out this is gonna be the cost when I'm looking at let's just say we get a new client and we'll kind of discuss the things that like they need we don't show them this, but we just look at what they're looking at what they need. So it helps us kind of quote them for how much this is gonna cost them to go with you, right? When I'm comparing it, I'm just seeing a little bit of differences. And I was just trying to figure out.
+VenessaSherwood: We can start with the expansion really quick. Yeah.
+VenessaSherwood: I know the user license for the government commercial does that. I'm guessing that gets pulled from this section right here.
+Robin Barrow: So if you see the MSP that's what we that's our list pricing. That's what we bill our clients directly. That's a good standpoint for you all. This what it is at cost. But obviously because you guys are a partner, you get a partner discount of. I think it's 15%. That's why you'll see those 2 numbers. So yes, if you go to a standard user license and that is what I'm basing it off of. And if you look right above is data stored AWS gov cloud? oops, is that you or me? That might have been me. I always forget my screens. Touch screen, sorry. That
+Robin Barrow: Yes. That's probably where you're seeing the difference, but the AWS gov gov cloud.
+Robin Barrow: They're wording different, you're right.
+VenessaSherwood: Yeah. That's why I was like because I'm a very like I go by like the wording and for me I'm looking at the commercial account too. I'm like, which one is it?
+Robin Barrow: Yeah. No, that is confusing. I apologize. Yeah. And I'm sure you understand Gulf cloud means that they're in the government environment, fed ramp moderate in AWS. The commercial account is if they just need a business license and don't need a protected. So
+VenessaSherwood: Okay.
+Robin Barrow: And I apologize. Yes, it is. But rule thumb majority of our customers because they're in the space that will work with together are always going to be in the gut club.
+VenessaSherwood: And then for the original invoice. I was also looking at, obviously, this one because it's only one user. I can understand that for the standard users when you're compiling this invoice. Are you just taking is this amount? We'll just go with the partner cost right now since that's
+Robin Barrow: What we are right now
+VenessaSherwood: Just doing that $30 per month per person. Is that how that
+Robin Barrow: Yes. Yeah, exactly. So it will be
+Robin Barrow: 9 times 30.
+Robin Barrow: Dollars and 60 cents times 12.
+VenessaSherwood: Okay.
+VenessaSherwood: Users.
+VenessaSherwood: Times the partner.
+VenessaSherwood: Okay.
+VenessaSherwood: Times 12.
+VenessaSherwood: Perfect. Sorry, I know this might seem probably dumb question, but I'm just
+Robin Barrow: Not domina. To to be honest. The fact that we have 3 different wording on our across the 3 pieces of documentation is crazy. Yeah, we should be all they should be all the same, to be honest with you. And then also our invoicing is it goes through bill.com and it's they're not very customizable. So like, when we want to do a line item, for instance, like quantity in your head, you would say nine, right? But it says one because it's one quantity of that line item.
+VenessaSherwood: Okay. I was curious about that because I'm like that would help me to know how many users we have on your. Yeah, that's the only thing because it's just we're trying to track.
+Robin Barrow: Yeah, they do it by line item rather than quantity of
+Robin Barrow: Seats. Yeah, it's very silly.
+VenessaSherwood: Okay. Sounds good. And then next for the accelerator.
+VenessaSherwood: Where is that on here? Because I'm not sure, maybe.
+Robin Barrow: If you scroll down to the bottom, it's hidden. So it says right down there. It says core compliance docs and then the last sorry, it says PreVeil compliance documentation. And then if you go down here
+VenessaSherwood: Okay.
+Robin Barrow: So that work a little, you can see my finger, which is crazy, right?
+VenessaSherwood: Oh, okay. Here. Okay. Perfect. Good.
+VenessaSherwood: Question and then the onboarding service package is that for
+VenessaSherwood: Just the install services what it shows right here. Or is that
+Robin Barrow: That's install services. So that's exactly onboarding that technical onboarding. That's why I always say. And support ongoing support from our technical support team. So those onboarding are available to you. So definitely utilize them.
+VenessaSherwood: Yeah. And then I'm curious I'm not saying right now, but let's just say we're starting right now with 10 users and it'd be that 5 fifty, but what is like, they have to add another user a few months down the road. Would there be an extra cost added?
+Robin Barrow: No. No, we won't charge. It's one time. So we won't charge you again for the onboarding fee.
+VenessaSherwood: Perfect. Okay. And then
+VenessaSherwood: We
+VenessaSherwood: Or the connector. How does this work then?
+VenessaSherwood: Um
+Robin Barrow: You scroll down, it's tiered pricing based on the number of users. You are technically ten, so I did it.
+Robin Barrow: Oh, did our pricing go down?
+Robin Barrow: That's weird. I don't know. Did I priced you for the email gateway? I'm so sorry. That's what I did. It's if you scroll up, it's another add on service. Yeah. Wrong.
+VenessaSherwood: Good. I didn't pay yeah. I want a conversation first.
+Robin Barrow: So. Oh, my goodness. I'm so sorry.
+Robin Barrow: Glad.
+Robin Barrow: Okay. I'll correct that now and I'll send it over. But yeah, the cost would be like that does look high and it should be $85 so much. Okay.
+VenessaSherwood: $85 per person per month.
+Robin Barrow: $85 per per the tier one through 10 users.
+VenessaSherwood: Okay.
+Robin Barrow: So if you all add users, let's say like next month, right? If they decide they're gonna up, we won't hard you for the difference in the sub connector until the renewal time. If you're if they're at, like 30 users will be like, okay, you're well, even then it doesn't even go up. Let's say you're at 35 users will say, okay, the sim is now $170.
+VenessaSherwood: Okay. And so that 170 is just standard for up to 60 users that and then it's just really that 1 70 times 12 annual. Okay. Correct. That makes sense. Let me write that down.
+VenessaSherwood: A member
+Robin Barrow: And let me update your
+Robin Barrow: Quote
+Robin Barrow: Make a note to do that. And that won't take long. I'll send that right after this call.
+VenessaSherwood: Perfect.
+Robin Barrow: Are you all based out of road island too?
+VenessaSherwood: We our whole team is kind of all over the place mostly. Everyone's in road island, but me and my husband and we live in North Carolina.
+Robin Barrow: Oh, nice. Okay. Yeah, Maria. So we're close and that's why I was like, oh, I didn't know if you guys were close.
+VenessaSherwood: We do have someone in Massachusetts as well. We kind of a little spread out, which is
+Robin Barrow: We are to yeah. I have team members that are in Minnesota in Arizona, so there you go. My gosh.
+VenessaSherwood: Yeah. Oh, and that's what you just reminded me of one last.
+Robin Barrow: Thing, sure.
+VenessaSherwood: Because
+VenessaSherwood: Joe was looking at the fact that we have the road island state tax. When because it because we're paying is that why it would be rod island, because I'm not sure whether it's even allowed to put tax for where the sim is based.
+Robin Barrow: It's it's being tax based on the billing address. So I can ask to see if that's something how we typically handle with resellers, but I'm assuming it's going to be based on
+Robin Barrow: Your your because we're invoicing you not the client.
+VenessaSherwood: Exactly. Yeah. Okay. Sounds good. That makes sense. Okay. I think that makes sense. Now.
+Robin Barrow: Okay. Great.
+VenessaSherwood: Help me out.
+Robin Barrow: Yes. And I'll send over the quote. Like I said, but if there's anything else you just feel free to reach out.
+VenessaSherwood: Awesome. Well, thank you so much for your time. I really appreciate that.
+Robin Barrow: Of course. You have a great day. Thank you.
+VenessaSherwood: As well, take care, bye. Bye.

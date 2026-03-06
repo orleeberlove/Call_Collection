@@ -1,0 +1,96 @@
+Account: Aecon-Wachs Technical Services
+Call Date: 2025-12-12
+Duration: 00:11:14
+Participants: Robin Barrow, Joe Smith, David Gable
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hey, David.
+Robin Barrow: Sorry.
+David Gable: Yes, can you hear me? I can.
+Robin Barrow: Can you hear me excellent? All right. And we're waiting on Joe to join as well?
+David Gable: I'm really not sure. I thought Joe was on leave this week, so he might be stuck with me.
+Robin Barrow: That's okay.
+Robin Barrow: I know Joe had sent over some questions. I think to be honest, the question regarding the can I would probably be best bet for our compliance team, but if you had further questions on that, I would definitely loop them in. But I want to me regarding the usage on your current account because I'm just seeing a little over usage. I want to see if maybe it's a case where we just need to delete some users or maybe we just need to update terms. Yeah. I was hoping to cover that today. Does that sound good? Or was there something else you wanted to chat about today as well?
+David Gable: What was the previous question on one? Can you help me on and
+Robin Barrow: So Joe had sent over a question regarding PreVeil express and how it handles. You can I I don't believe you were on the email and I can forward it to you. He was just curious if it meets level 2 for third party communication and it does it just matters if obviously, the individual of receiving set information is adhering to CMC level 2.
+David Gable: Okay. Well, wait, I'm sorry. Wait, let me clarify.
+Robin Barrow: Yes.
+David Gable: Okay. You're saying the tool meets CMC level 2 certification?
+Robin Barrow: Correct. But
+David Gable: Once the information hits the user on their computer now
+David Gable: Right. Basically I guess what I'm hearing is that the person gets a free account. We pass them a document, just so long as they don't take that document and download it. Everything should be CC level. 2.
+David Gable: I guess a certain client.
+Robin Barrow: Yes. And Joe, I'm letting Joe in now. Yes. Exactly. That. So as long as they aren't and that's where the permission space come into play. So if you're doing view only they're not able to download or extract the set document from express. Hi, Joe, how are you?
+Robin Barrow: Can you hear us?
+Robin Barrow: Looks like is my microphone is not muted, but
+Robin Barrow: David, can you hear him?
+David Gable: No, Joe I can't hear you either.
+Robin Barrow: Okay.
+Robin Barrow: I'll just let them know in the chat.
+Robin Barrow: Um
+Robin Barrow: Just gonna make sure I pull everything up.
+Joe: Hmm.
+Robin Barrow: So yes. That's exactly right. What you mentioned was there any additional questions regarding that? And if so I probably want you all just to get in front of our compliance team to chat about that a little further, but that's pretty much the basic basis.
+David Gable: I'll pass this over to the federal side of the house and if they have additional questions I'll let them drive the train on whether or not they want to set up a meeting with the tech team.
+Robin Barrow: Sure.
+Robin Barrow: Okay. Um
+Robin Barrow: I don't know if Joe can hear us, but now he's muted. If I'm looking
+David Gable: Okay.
+Robin Barrow: To your current usage, the license you all are licensed to
+Robin Barrow: I believe.
+Robin Barrow: Currently 23 licenses and we are seeing
+Robin Barrow: More than that, we're seeing around 25
+David Gable: Okay.
+Robin Barrow: Well, let me confirm I'm gonna pull up the other. And again, this could just be a matter of, maybe there's some licenses that can be deleted, maybe. Um
+Robin Barrow: Maybe there's some duplicate license that I can't see the details on. So that's why I just like to point it out. Okay.
+Robin Barrow: Let me see it. And do you have access to your current license within PreVeil? That might be Joe?
+David Gable: Yeah. I'd assume Joe has that.
+Joe: Okay. You guys
+Robin Barrow: Yes, we can.
+Joe: Do not have uh
+Joe: In bill how many lessons we currently are assigned.
+Robin Barrow: Okay. That's right. It doesn't show the number, but I don't know if you can see who's in the system.
+Joe: I can see that.
+Robin Barrow: Okay. I actually I apologize. I have the wrong information. I'm seeing 32 licenses in total.
+Robin Barrow: Okay. And do you feel as though is there do you all need to update terms then? Is there any licenses? You can remove? Okay.
+Robin Barrow: Okay. What I can do from there, I'll just send over a quote to you Joe and yeah, we just need to update the count and then we'll send over a quote for the difference and co terminate with your contract that ends in April.
+Robin Barrow: We can do that. Um
+Robin Barrow: So I'll send that over today.
+Robin Barrow: And yeah. I mean, that's really all I wanted to cover. Was there any other additional questions or anything else I can help out with? Joe I know I answered your question regarding the express users and I had just mentioned to David, I don't know if you could hear. If you wanted additional help on that, I can loop in the compliance team, but that was pretty much the gist of how we handle you C and I on the express side.
+Joe: That works for us. Okay. Yeah, because our flow down
+Joe: To make sure that they have
+Robin Barrow: Okay.
+Robin Barrow: And you know, how to manage permission based for express accounts, correct? When you all share something out.
+Joe: Um
+Joe: To be honest, I do is your users license. Okay. I've seen
+Joe: I think there's a if it works similar to SharePoint or you can grant permissions where edit or that kind of thing.
+Robin Barrow: Yeah. That's it's very similar the permission space. So I can show you real quick and I can send over resources for your endusers. So they can see if they need any additional help. But again, it seems like they got it. Let me see. So if you share it out and you just select permissions. So we have edit edit and share read only view only. So view only they can only view they can't download the document read only, they can download the document.
+Robin Barrow: And it tells you right here. So it's very simple. Um
+Robin Barrow: Yeah.
+Robin Barrow: All right. I mean, if there's nothing else, we can make this a really short call. But yeah, that's all I really just wanted to address the license count and I can send over a quote for that and then yeah, we can take it from there.
+David Gable: So then if we need to add users in the future, how exactly do you all want that to work?
+Robin Barrow: If you could reach out to me prior to we that would be great just because so we can update terms. I know for instance, there might be a case where you just need to invite one or 2 users. I'm not gonna nickel and dime you for that. But it's with it being a good 10 over. Then we'll most likely want to update terms.
+David Gable: Okay. Got it.
+Robin Barrow: In the future, we're hoping to make this a lot easier within the system. We're creating a manage manager dashboard or an admin dashboard. You can see the your user account and hopefully we're gonna be able to just do a click to buy additional license. Yeah.
+Joe: And also the user?
+Robin Barrow: Sorry, Joe. I didn't hear you there.
+Joe: Yeah. If there were something in place that would block me from adding the user if we were out of the license
+Robin Barrow: Oh, yeah. I think that's gonna be it's gonna flag you. It's there's we're hoping to have like a banner that stays like, hey, you've reached your limit of number of licenses. Either contact customer, yeah.
+Joe: Right now that's not there. So I don't know, right? I don't know exactly when we're out.
+Robin Barrow: Right. Yeah. And that's on us, really I we do these checks every so often. But
+Robin Barrow: We at the same time because of the space we work in, we don't want to limit people from being able to add users for certain projects. That's why like we don't really say anything. If it's 3 users, I'm being completely candid, but if you go above that or it's for a long period of time, then we'll let, you know.
+Robin Barrow: How do we
+David Gable: Just curious. How do we delete a user? Let's say somebody's moved on from the organization.
+Robin Barrow: Yeah. So
+Robin Barrow: It's fairly simple. There's just a trash button you here. I can share my screen. It all depends. If they're not an admin admins, obviously take a couple of steps because they're part usually they're tied to recovery groups and there's a few steps you want to manage there. But regular users you would delete. It depends if you have some sort of approval group set up. The other thing you can do you delete here and then you can lock their device as well. So device settings and you can go ahead and select again. My demo environment is pretty light, but you can find the user lock their device. So say it's a situation where you had to remove access pretty quickly. You can do that as well within PreVeil. Okay. Hmm.
+Robin Barrow: Yeah.
+Robin Barrow: Again, I can add those instructions as well to all of you.
+Robin Barrow: Okay.
+Joe: Limit things.
+Joe: That I can pull that.
+Robin Barrow: Okay. Perfect. Excuse me. Okay. Yeah, if there's no other questions again, I'll I'll send over some resources. I'll send over a quote for additional users, but always again, feel free to reach out. Someone comes up. No. Thank you, both. I appreciate you for jumping on for this quick call.
+David Gable: Awesome. Thank you. I appreciate you setting this up.
+Robin Barrow: Of course. Have a great day.
+David Gable: You too. Bye.

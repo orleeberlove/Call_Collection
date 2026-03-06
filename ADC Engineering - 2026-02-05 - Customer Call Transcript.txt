@@ -1,0 +1,63 @@
+Account: ADC Engineering
+Call Date: 2026-02-05
+Duration: 00:11:02
+Participants: Michael Graham, Zackary Gilman, Christopher Cook
+
+======================================================================
+
+Zackary Gilman: So
+Zackary Gilman: Nothing much over here.
+Zach Hogeboom: A strong name, man. I like it.
+Zackary Gilman: Hey Zach, good. A afternoon little bit different. But what's going on Zach? I can't win them all.
+Zach Hogeboom: No, no, no. Well, I was the ask until kindergarten and then I was the ACH.
+Zackary Gilman: Really what changed?
+Zach Hogeboom: My mom was a teacher and we were in a very small community and then she so she knew the teacher and the teacher called her. And I was like, you're spelling, his name wrong and she went. Okay, whatever.
+Zach Hogeboom: Yeah. The matter.
+Zackary Gilman: I don't think I've met another Zack. It's always ACH, but good to know that you are a former
+Zach Hogeboom: Is your full name Zackary?
+Zackary Gilman: Yeah. Zackary with AK.
+Zach Hogeboom: Oh, see, I think that's why I was Zack, but my full name is Zackary with an a can choose like that silly. So I like the year full. Exactly. Okay.
+Zackary Gilman: I'm committed over here.
+Zach Hogeboom: Let's give them let's give Michael and Chris, just a minute to to join in.
+Zackary Gilman: Yeah. It looks like Michael is joining and then we can wait for Chris.
+Zach Hogeboom: Yeah. We'll give him just I'm not sure if crystal will be on or not. So we'll give him just a minute.
+Zackary Gilman: Sure. That works. Hey Michael. Good afternoon. How are you doing? Doing well, how are you? All
+Zach Hogeboom: Right. Hey, Michael, what's up? How to add?
+Zach Hogeboom: Zach, while we wait for Chris, I'll give you the 30,000 foot view of where we are. Yeah. Great. And hopefully that gets you positioned to kind of go the right direction for us Michael is the IT director for ADC Engineering. I leave the team at port side technology who very, very humbly serves the ADC team. So we support Michael. ADC has decided to go through cms compliance. I'm sure that's where a lot of your folks come from. We use ignite. And we kind of went down the path of doing our compliance with ignite and then shifted maybe not ninth inning, but maybe in the seventh ending to doing PreVeil for CI storage. We have about 10 users who will will route about 80 to 100 total users, but about 10 who will be working with UI. Just about all of those currently have a PreVeil account, the PreVeil desktop app. And the way we demoed this was the port side team set up a PreVeil account first created a folder called storage stuff here. And shared it out with everybody. Nothing super important in that folder. We don't have to continue with it, but it would be great if we can kind of convert those accounts into company. Managed company orchestrated.
+Zach Hogeboom: I'm hoping there's some ways that we can maybe either tie a single sign on with our 365 or at least recovery to an admin portal for Michael. And our team. What we did to start was we just archived everybody's recovery file, so we have those on file if we need them.
+Zackary Gilman: Okay. Perfect.
+Zach Hogeboom: And that's really where we are. We need to make sure we get our account provision correctly, do whatever we need to do to get those users moved over. And then we'll start using it. And then and then we haven't done a lot with email. But I think that'll be a little bit more straightforward. We'll just set that up with everybody's accounts. Outlook accounts.
+Zackary Gilman: Yeah. Definitely and hey Chris. Good afternoon. Welcome. But to answer your question, that first question real quick as soon as they do the PreVeil install, it'll ask them if they already have an existing account to convert. So that'll be super easy.
+Zach Hogeboom: Okay. You're gonna give us a new installer.
+Zackary Gilman: So yeah. With the or I guess it'll install onto your device. I'll send over the instructions for the full version of the PreVeil platform. Um
+Zach Hogeboom: So we're not we're just using the PreVeil desktop. There's another installer.
+Zackary Gilman: That well, yeah. There's like, yeah, there's a whole install. And then that will ask as soon as you pop in your email, say you already have an account, would you like to convert to express account?
+Zach Hogeboom: Beautiful.
+Zackary Gilman: So we can get things started here. This call should be relatively straightforward. Really just introduce you to myself. My name is Zack I'm from the PreVeil customer success team here. I'll be your point of contact moving forward here at PreVeil. We'll go over some resources, some next steps and be able to answer any questions as well. But I always like to kick off these calls. Zach, kind of told me a little bit about what brought you to us in terms of cms compliance. So that's great. But just wanted to hear from you guys. If there's anything else to to mention, I know Zack you kind of gave that high level view, but just want to make sure if there's anything else in terms of the story that we've got it covered.
+Zackary Gilman: Most probably exact. I'll point out. I'm thinking anyway. Perfect. Well, we could just dive into next steps. So the next step from here is just getting that PreVeil installed onto the device. So within my welcome email I'll resend this all as well as a follow up. So no need to go digging for that email. But the second link will take you to instructions for installing PreVeil, onto your device. From that standpoint, it's usually the initial admin that'll do the first install and then from there, you're able to invite users to the platform. So they'll start seeing some invites from from PreVeil and be able to to get it get onto the system that way. We just asked that you install PreVeil before booking your onboarding session just because it'll only take around 5 to 10 minutes. But that way you're not waiting on the on boarding for it to download. But the next step after getting that org setup is an onboarding session. There's a couple of different options. One would be a 30 minute session where some people like to self. On board and just ask questions. But there is an hour, long, more technical session where they'll take over the screen show you through things like recovery groups, be able to walk through the full admin dashboard with you as well. So a couple of different options there for onboarding. But those are the 2 next steps just getting that org setup. And then from there booking that onboarding session with our technical support team.
+Zackary Gilman: Some other resources just quickly to note. You do have support at PreVeil.com for any technical related issues that pop up, sending them an email would automatically create a ticket, so you're able to follow it along that way. We also do have a manual ticketing system that I'll share with you guys after this call as well.
+Zackary Gilman: And then for me the only other thing I have to do is just to schedule a 90 day check in call. So at this point, you're probably looking at that first week of May to connect. That'll just be a placeholder just to check in, see how you guys are doing, make sure that things are going smoothly. But like I said, I'll be your point of contact from here on out. So, if anything comes up, if you have any questions you're not sure where to go. Just feel free to shoot over an email. I'm happy to to loop in the right team here or jump on a call and figure things out with you guys.
+Zach Hogeboom: With some of the questions that we post kind of in the beginning around single sign on and admin recovery, that type of thing. That's more questions for the onboarding call.
+Zackary Gilman: Yeah. Those would be great. For the onboarding call, I can certainly do some digging on single sign on, but they'll have some very clear answers for you in terms of the technical side.
+Zach Hogeboom: If we can use 360 five, we'd like to. But if we can
+Zackary Gilman: Are you talking about Microsoft 360 five? Yeah. Yeah. You'll you'll be able to
+Zach Hogeboom: As your so
+Zackary Gilman: So might be a different thing entirely. I'll have to double check with them on that. I just don't want to tell you the wrong thing. Sure. But
+Zach Hogeboom: And we can ask the onboarding team. That's great. I mean, I'll we'll get on. We'll schedule that here in the next 30 minutes.
+Zackary Gilman: Perfect. So yeah, they'll be able to answer it a lot more technically than than I can in terms of single sign on just because I know there's some cms stuff around the single sign on as well.
+Zach Hogeboom: Do we need to have PreVeil installed on all users?
+Zackary Gilman: No, just the initial admin. Because they're gonna take over your screen to be able to kind of walk through it that way. That way you're not just waiting for it to to download on the meeting.
+Zach Hogeboom: Got it. So Michael on the call and actually probably all 3 imagine crystal want. We had can a standard user also be an admin user they can right?
+Zackary Gilman: So you're able to give admin you're able to upgrade give admin permissions to a standard user.
+Zach Hogeboom: So we have 10 and on our license, we have 10 standard users, 10 users. I assume one of them can be an admin to Chris on the call will likely be an admin, but also working in prove right? A user of it, Michael. And the port side team will need admin privileges for onboarding off boarding recovery, but won't be using content from PreVeil won't be users. So we there were 10 users and 2 admin only users in our license.
+Zackary Gilman: Correct. And for Chris, if you are gonna be using it for daily use. I will just say the cms recommendation is to use a dupe account for regular everyday use. That would be an extraccount. Just as a regular user that you'd use if you're planning on using it for daily use and you're able to add an extraccount at your discretion for that one. Okay. That's just just same.
+Zach Hogeboom: Well, and we can talk with Chris and see if he wants admin rights, you can have it, but he may be that he just wants to be the user and have Michael and I make the changes, if needed.
+Zackary Gilman: Yeah. Whatever works for you guys. But just wanted to to note that piece because it has come up a couple of times. Sure.
+Zackary Gilman: Any other questions I can help address. Like I said, this call is very straightforward. But happy to answer anything if you got some questions or anything around as you get started.
+Zackary Gilman: I'm good.
+Zach Hogeboom: Yeah. Zach, I don't have anything. Honestly, I'm just listening in. So yes, sir. I don't have anything. Yeah, sure. Cool. Then, Zach, we're set. If you want to shoot over those next steps we'll get PreVeil. I main Michael and somebody from the port side team will install this this afternoon and we'll schedule that next next step.
+Zackary Gilman: Perfect. So you receive an email from me just a follow up email as well as a 90 day check in call. The email. I will have the instructions for installing as well as booking the onboarding. But if anything comes up, happy to jump on a call. Happy to help with anything and
+Zach Hogeboom: Thanks for sending the CRM over. We've already got that to our compliance people so they were wanting that bad. So thank you for that.
+Zackary Gilman: Yeah, you can think Cory he was actually very quick to respond for that one. But big things to him. But yeah, I'll be your point of contact moving forward. So feel free to reach out. I'm always happy to help or jump on a call if you guys need it.
+Zach Hogeboom: Cool. Thank you, sir. Yeah.
+Zackary Gilman: Thank you, thanks. You guys. Have a great rest of your day. Thank you. Bye.

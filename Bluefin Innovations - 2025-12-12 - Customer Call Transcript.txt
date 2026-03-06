@@ -1,0 +1,161 @@
+Account: Bluefin Innovations
+Call Date: 2025-12-12
+Duration: 00:24:33
+Participants: Andrew Meggs, Ben Feldman, Tyler Miller, Tom Musman
+
+======================================================================
+
+Andrew Meggs: So Ben
+Ben Feldman: Hey, how are you doing?
+Andrew Meggs: I am doing well. How are you?
+Ben Feldman: Good, thanks. Hey, hang on just one second.
+Ben Feldman: Hello.
+Ben Feldman: Okay. I appreciate you checking in. PreVeil is working for us. So we are um
+Ben Feldman: We've got clients that have some interesting restrictions and this may be another business development area for PreVeil.
+Ben Feldman: Is that in addition to UI?
+Ben Feldman: And
+Ben Feldman: Kind of export controlled typical government regulation, that type of stuff.
+Ben Feldman: We had a non disclosure with general dynamics that included a specific provision that AI that any data that comes across under NDA will not be exposed to any AI enabled systems.
+Ben Feldman: So
+Ben Feldman: Are you working on like Microsoft word or excel or whatever?
+Andrew Meggs: I'm not I guess by working on. Do you mean do we use it? Yeah.
+Ben Feldman: Yeah. Right. So and it's now called copilot, right? We are too.
+Ben Feldman: Right. Like now and even Adobe acrobat.
+Ben Feldman: Is now AI enabled. So like, it used to be or the reason we got it was for export control and it and I you had to keep off of SharePoint.
+Ben Feldman: For
+Ben Feldman: Anything marked specifically C UI or export control.
+Ben Feldman: But now in a blanket non disclosure agreement, which is overall business to business company to company
+Ben Feldman: You do not. You're it's not just restricted to controlled files.
+Ben Feldman: It's anything that is covered under the non disclosure, which could be someone's excel. Spreadsheet that has
+Ben Feldman: Performance data or business plans or basically anything
+Ben Feldman: That now, Microsoft and Adobe are just buying into their product. And if you go online and you search and that specific term is AI tool. So if you go online and you search is Microsoft copilot 365 and AI tool and it's gonna say, yes. So now you can go sell PreVeil to clients who need to protect against storing their data on Microsoft whatsoever even if it's not C UI.
+Andrew Meggs: Because the AI will be looking into it, I guess.
+Ben Feldman: No. Because the non disclosure agreement specifically says you are not allowed to
+Ben Feldman: Expose our data.
+Ben Feldman: To any AI enabled tools.
+Ben Feldman: And now Microsoft has baked AI, whether you want it or not into their tools.
+Andrew Meggs: And if you store it on PreVeil, obviously they wouldn't be able to do that.
+Ben Feldman: You got it.
+Andrew Meggs: Yeah. I mean, that's we actually coincidentally, we just had our big annual company meeting a couple of days ago. I was out in Boston and we were talking about AI and we were talking about different possible use cases for PreVeil, but this sort of thing. Never came up. So I'll definitely pass that along.
+Ben Feldman: Yeah. Let me exert the language from the NDA so you can show it you can share it.
+Ben Feldman: As an example of like, hey
+Andrew Meggs: Yeah. I'm making this don't know.
+Ben Feldman: Yeah. Now it's like company to company beyond just government C UI. Now. Now it's like a commercial requirement and like, I mean, you can't even utter 10 sentences these days without without AI being in one of those 10 sentences. Yeah. Like now
+Andrew Meggs: Or all of this in this sometimes I get client emails or it's like clearly chat. A human never to this email. Yes. Yeah. And then she's like, interesting.
+Ben Feldman: Yeah. This could be even a broader way. For example, that's
+Andrew Meggs: That's why I don't that's why I'm always sure to put spelling mistakes in my e mails to make sure my clients know. I'm writing these emails.
+Ben Feldman: Oh, that's interesting. Yeah. I like
+Andrew Meggs: Somewhat joking here. But yeah. I feel like if if someone puts a spelling mistake in their email, that's a good indication. That chat get was not involved.
+Ben Feldman: Yeah. Right. That's a real good point. All right. I got an x or hold on one second.
+Ben Feldman: One
+Ben Feldman: I'm not allowed to share the whole
+Andrew Meggs: NDA, sure. Yeah.
+Ben Feldman: But I'm sure I can send you a the
+Andrew Meggs: The little clip of the some of the language. Yeah. Yeah.
+Ben Feldman: All right. Hold on. Just take a second.
+Ben Feldman: So like right then in there when you um
+Ben Feldman: Do your outlook plugin and you do your own cave on people's phones because like you look at a Samsung phone and apples rolling it out to. They all bury AI now in the phone too.
+Ben Feldman: So that's another thing you're protecting from when you enclave off into your PreVeil app on a phone.
+Ben Feldman: You're keeping it off the phones operating system, which is also executing AI. So it's your outlook plugin, your drive and your phone app that all
+Ben Feldman: Provide some protection against A. All right. Let's take it.
+Ben Feldman: All right. There we go.
+Andrew Meggs: To what no Ben there. So
+Ben Feldman: Yeah.
+Andrew Meggs: Hi, Tom.
+TomMusman: Hey Andrew. Hey.
+Andrew Meggs: I am doing well. How are you? Good, good.
+Ben Feldman: Yeah. There we go. Okay.
+Ben Feldman: So what we covered so far Tom was just that we're starting to use it. A little more broadly.
+Ben Feldman: Like I'm using it now to prevent AI systems including Microsoft 365 copilot, which has it baked in Adobe. Acrobat, has it baked in. My Samsung phone has it baked in. And we got a non disclosure from a large government contractor. That said, you shall not expose any of the proprietary data, anything covered under an NDA.
+Ben Feldman: Not just C UI or export controlled now.
+Ben Feldman: You shall not expose any of that data. You're storing to an AI enabled tool.
+Ben Feldman: And what I'm doing is accepting this.
+Ben Feldman: To I can't share the whole NDA, but I'm accepting the the provision.
+Andrew Meggs: I guess while while he's doing that generally on these calls, also look to check in and see how people are doing when they're with their compliance stuff too. The compliance journey writing the documentation, eventually, getting assessment, that sort of thing. Do you know Ben are you the person also in charge of that or is that someone else?
+Ben Feldman: It kind of falls on me, but it's the 3 guys here.
+Ben Feldman: That are going to implement Tyler is heavily involved in that as well. We're moving slower on that. There's migration of in house data up to the cloud.
+Ben Feldman: Of stuff that's stored on hardware in house that's moving up to the cloud and that's all wrapped up into that.
+Andrew Meggs: Okay.
+Ben Feldman: And it's beyond the scope of what we can put on PreVeil. It's like, gigs and gigs of data, right?
+TomMusman: Yeah. Like you said, moving slow. So
+Andrew Meggs: Do you have like AI mean, not that you need to do this is just for my own edification. Do you have a general timeline of when you'll think you might want to start looking at it in these or?
+Ben Feldman: No. I don't.
+Andrew Meggs: Okay. I guess when whenever you do get to that point, we do have assessors and such that we work with so definitely reach out for recommendations, there. Oh, looks like actually speaking of the devil. Here's Tyler also about to hop on.
+TomMusman: Yeah. I apologize. We were just on a prior call, logged.
+Andrew Meggs: That's okay.
+Andrew Meggs: That's we can ask it the same question.
+TomMusman: So that project Ben we're gonna start in maybe February or so.
+Ben Feldman: Yeah, I think so. We're trying to find a new cloud. Yeah, that provider.
+Andrew Meggs: Hi, Tyler.
+Tyler Miller: Hello. Sorry for being late.
+Tyler Miller: No worries.
+Tyler Miller: Is there a question I was supposed to answer?
+Andrew Meggs: Sorry. No, no. Not that you're supposed to answer per se. I was just asking which all are doing with regard to compliance and kind of like the timeline of when you think you would be prepared for an audit. But sounds like there's still kind of far down the road. And I was just saying once you do get to that point we partner with consultants and assessors and stuff that can help out with the audit there. And then the other normal check in point I normally go over is if you've used PreVeil much to communicate externally and have people sign up for PreVeil express to communicate with. And if there's been any issues with that
+Ben Feldman: No, not yet. We've been using it for correspondence with companies that are already compliant through their big systems.
+Andrew Meggs: Okay. Okay. Yeah, sometimes there's push back on sign up signing up for PreVeil express where they didn't want to don't know what it is. So check it. I'll make sure there aren't any problems. And then the only other thing I normally like to check in on is do you anticipate needing any more than 3 users?
+Ben Feldman: Not yet, but
+Andrew Meggs: But soon. Okay. And you know, we've got
+Ben Feldman: We got a couple of contracts that are in the hopper. And if those get awarded and they're talking about awarding them in first quarter, but we'll see if those get awarded. Yeah, I'll need to be prouder.
+Andrew Meggs: Sure. And then whenever it comes to that, if you do need any more users, you can just email me and I can put together an order form. So pretty in elegant process. Sounds good.
+Ben Feldman: What's what's the rate we're paying per user?
+TomMusman: Right now
+Andrew Meggs: Right now abandonment math, it's 4 32 for 12 months for a user. So it's $36 a month per user. Okay. Though I believe these decisions are made over my head. I believe the price is going to be increasing next year. It usually increases by $2 a month per user a year. So probably next year, it'll be $38 a month per user.
+Andrew Meggs: And then, yeah, the only other thing I like to do on these calls is I mean, I'd like to do is check in points, but then also just general product updates. We should have been coming in December, but coming in January or more likely February. We're launching our cloud drive initiatives. So so our engineering team has been working for the last 8 months, honestly, rewriting our drive from the ground up. That's gonna be our new big product launch. Basically it's gonna make it that files are uploaded way, faster, downloaded way faster. I'll be able to move stuff way better within the drive et cetera. We've been just every aspect of improvement. We've been making to the drive and that's been a big push and I was supposed to be released in December, but the beta is going to be starting in January and we believe it will be generally released in February. That's the next big product update. And we also recently launched a
+Andrew Meggs: GRC tool. So while you're working through compliance, I know you already have the accelerator, but we've recently launched. It's basically a project management tool for compliance that helps track all the goals and controls and preloaded documentation. And it's makes life to ease of use tool, I guess would probably be a way to phrase it for compliance. So that's a recent thing we've launched too.
+Ben Feldman: Nice. Yeah, that'd be a big benefit for us.
+Andrew Meggs: Well the complicated well, not complication the asterisk there. It would be an additional old product. So the cloud drive, that's we've we're rewriting rewriting. There we go. The drive and that's gonna be pushed out to everybody. But the GRC tool is a additional product that we've launched. So it would be if you if it is something you're interested in, it would be in addition to your subscription. If you want to know more about that, I can include some information in my follow up email. But yeah, that's our recent product that we launched.
+Ben Feldman: Nice.
+Andrew Meggs: But yeah, I can include some more information about that because we did just launch it. We are running a 25% off promotion until the end of the year. But yeah, I'll include that in my follow up email too. But basically yeah. So instead of right now with the accelerator, as you're aware, it's like you download the documentation, keep it locally in in a file or whatever you edit it locally versus this would be all, it'd be in the cloud and you'd be adding it, editing it and yeah. So slightly easier for tracking things. But um
+Andrew Meggs: Yeah. Have you managed to get the NDA language you're looking for?
+Ben Feldman: Yeah. I'm actually giving you a little write up.
+Andrew Meggs: Okay.
+Ben Feldman: At the beginning of the email that you can pass on to your product team.
+Andrew Meggs: Okay. Yeah, I can definitely include all this in my follow up e mail, everything that we talked about here. Um
+Andrew Meggs: Did anyone have any questions for me or anything else you wanted to go over?
+Tyler Miller: One question I have is in the updated cloud. Is there gonna be the ability to edit documents in the cloud or no?
+Andrew Meggs: So that's already a capability with PreVeil cloud edit. I will send some information about that in my follow up email.
+Tyler Miller: Okay. Thank you.
+Andrew Meggs: But you can technically already do that. It will be faster and better with this upgrade, but you can actually do that now.
+Tyler Miller: All right. I wasn't aware of that. I'll have to try that out. Yeah.
+Andrew Meggs: I you might need to download a plugin, but you can definitely do it now.
+Ben Feldman: Yeah. We Tom and I tried that.
+Ben Feldman: It's not perfect, but it's and it's not like the way Microsoft is pervasive about it, but it is pretty good. Um
+Ben Feldman: Another just general obvious thing that we noticed. And that differs differs a little bit from how we're using like, SharePoint is it? There's not actually a central
+Ben Feldman: File repository in the cloud that you give people access to. It's encrypted person a person sharing, right? Or did did I misspeak on that?
+Andrew Meggs: Yeah. So kind of the way and this is by design. Um
+Andrew Meggs: We've encrypted everything so heavily. There's not a way to have automatic shared communal space that someone automatically gets added to or anything without lowering the level of security of PreVeil in general. A sort of a similar of that with some of our clients is that they have one admin or one or 2 admins that they're the only people that create folders and then so they create all the folders and then share it out with whoever needs to get access.
+Ben Feldman: Yeah. That's how I would do it is like the pm on a job. Creates the shares. Other people can still add folders and files to it underneath the share. Yeah. But the share itself is from one person's account. Who, like you said is the is the admin.
+Andrew Meggs: Yeah. So so that's what a lot of our clients do, but now just the way that our system is set up and it's also the same reason that you can't simultaneous IP people working on the same document at the same time. Is, we just have set the system up to be very very secure and encrypted. So that there can't be too much overlap between users.
+Ben Feldman: Yeah. But the way you have it set you make it function. Like people are simultaneously editing it, right? You just have to trigger a sync to handle the
+Andrew Meggs: Changes, yeah.
+Andrew Meggs: Team with a with updating Bal and war has has created a facility of that you're saying, yes.
+Ben Feldman: Yeah. It's I mean, it's not perfect, but like Tom and I use it's fine for what we need at the moment. Yeah.
+Andrew Meggs: But I mean
+TomMusman: How many of your customers use that for like a data?
+TomMusman: In
+Andrew Meggs: PreVeil in general. I don't I mean, I don't have a good number hundreds. A couple of 100 I would say of our clients are using us CAD data. Okay. But yeah, we definitely have a lot of clients that do use it for get. I mean, I actually I was just I can't tell you who it was obviously. But my 90 as I can call right before this was another client that uses it for cat data. So it's pretty pretty common.
+TomMusman: Yeah. Okay.
+Ben Feldman: I think what we confirmed was it doesn't corrupt the CAD data or break links, which is what we were mainly concerned about
+Ben Feldman: And the sync is something you have to do, kind of deliberately
+Ben Feldman: But um
+Ben Feldman: It met our needs at that time and also the way we're
+Ben Feldman: The way we're storing CAD data right now on SharePoint, it's the same old thing. Same thing.
+Ben Feldman: It's not great.
+Ben Feldman: So SharePoint will try and do a sync and it'll rename files like you all well. So
+TomMusman: Yeah, I think we came to the collusion. It was functional.
+Ben Feldman: Work with
+Ben Feldman: And once you get a layer above that, you're into product data management systems and all this heavy duty stuff that's baked into CAD. And we're not ready to sync that kind of money into it anyway because we're not big enough. So were there alerts?
+TomMusman: I can't remember now.
+Ben Feldman: Yeah. You have the same badges on your
+Ben Feldman: Files like you do with SharePoint and it'll show that it's out of date. And you probably have to quit out of solid works and let it propagate like you do with SharePoint.
+Ben Feldman: Okay. But and it seemed to gag kind of the same way SharePoint does where it if it falls behind it has to rename or something. Yeah. I
+TomMusman: Was similar. I can't remember specifically, but I thought it was something. Yeah.
+TomMusman: Okay.
+Andrew Meggs: Yeah. I guess honestly, if you have more specific questions about how our users get compliant and use PreVeil with CAD. I would recommend scheduling some time with our compliance team because they work pretty closely with the like, the mechanics of being compliant with CAD files and everything. Have you met with them yet at all?
+Andrew Meggs: No.
+Andrew Meggs: Once again, you don't have to if you don't want to this, but a resource that's available to you is our internal compliance team because you have our compliance accelerator. So they're always available at compliance at PreVeil.com. And there's also a direct link to their calendar in the accelerator under additional compliance resources. So if at any point you have any compliance related questions or you'd like some maybe best practices or what have you, they'd be able to to help you with that as a resource. Yeah. If at any point you would like to meet with them, you can
+Ben Feldman: Sounds good. Yeah.
+Andrew Meggs: So they're the people who wrote all the documentation and they work with our clients during assessments and stuff. So they have a little bit more hands on knowledge if you will about how exactly the people do it.
+Ben Feldman: Sounds good. Jump onto my next call, but I appreciate your time.
+Andrew Meggs: Yeah. Thank you all for your time. Yeah, I hope you'll have a great weekend.
+Tyler Miller: Thanks. You too. Thanks, bye. Bye. Bye.

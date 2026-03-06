@@ -1,0 +1,106 @@
+Account: AFP Machine
+Call Date: 2026-02-16
+Duration: 00:18:09
+Participants: Andrew Meggs, Brady Madison
+
+======================================================================
+
+Andrew Meggs: Hello, Brady?
+Brady: Can you hear me now?
+Andrew Meggs: Yes. Hi.
+Brady: Awesome. How's it going?
+Andrew Meggs: It's going well. How are you?
+Brady: Good, good.
+Andrew Meggs: Just you today, right? Correct. Okay. Awesome. Yeah. So hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context, I am the customer success manager for your account. So what that means is I am going to be your general kind of main point of contact and account manager here at PreVeil. So this call is to let you know I exist as your main point of contact, but be kind of go over the onboarding process and make sure you don't have any initial questions. Okay. To that point hi, hi, Andrew. Nice to meet you. Part of what I would talk about on this call, it looks like you've already done. It looks like you've got your account created in the system and you got your organization created any problems with setting that up?
+Brady: No. I did have a couple of questions just since it'll be me initially. I wasn't sure about like the recovery groups and all that stuff if I need to set up groups or what or if I need to do anything different
+Andrew Meggs: Yeah. You do need 3 people in order to set up recovery groups. Right now, just you obviously can't set that up. What you could do in the short term if you wanted is you could just set up some dummy accounts or something like that. Just to like, have 3 people to create approval group and then later on down the line. Change that or if you just want to hold off on that until you have more people, you can the or I mean and also the recover groups is solely for. If you were to lose access to your account they'd be able to it would be able to recover it for you. So I mean, as long as you know, an alternative to that is just have also PreVeil on your phone or something like that. So if you lose your computer, you also have it on your phone to reinstall it somewhere.
+Brady: Else. Or
+Andrew Meggs: I guess more to the point downloading your recovery key and keeping that somewhere safe on a flash drive or something. If you have that, then you wouldn't even need a recovery group.
+Brady: I'll just do that then for right now. Sorry.
+Andrew Meggs: That the like 12 options. No, no. No, no. That's fine.
+Brady: Yeah. If I can just put that recovery key on a flash drive, I'll just put that in a safe and call it good.
+Andrew Meggs: Yeah. No, that's pretty much all you need, right. This is just you as long as you have that recovery key somewhere.
+Brady: Yeah, it's fun. Um
+Andrew Meggs: Unfortunately, it's going to be somewhat annoying. I think the system automatically like send you a health check if you don't have it set up but you can just ignore that for now. Okay. Okay. Yeah. Basically just make sure you have a key somewhere. Yeah. But it's great that you've got the org created. Have you scheduled the onboarding with our support team per chance yet?
+Brady: No. You're the only one I've scheduled or I've done.
+Andrew Meggs: Sure. Okay. Yeah. So basically now the next step is to schedule. It's like an hour long kind of training session on using PreVeil and like, admin roles and responsibilities. And also they make sure there's no issues in the back end, that sort of thing. Perfect. That's with our support team. And I'll include a link to that in. I want to send a follow up email with everything that we talked about.
+Brady: Perfect.
+Andrew Meggs: I'll include a link to that schedule to to schedule that. Completely separate from the actual PreVeil system itself and everything that we've just talked about is all the compliance stuff. So the compliance accelerator and the GRC tool. For that, I can add you to those 2 things. Then you can have up to 3 people in there, though. Should anyone else be added to that?
+Brady: No. Not right now.
+Andrew Meggs: Okay. It's just you yeah. Yeah. We built the accelerator on talent, LMS and the GRC tool on is so after this call, you'll see the invitations to those. But I'll also include direct links to to those in the in my follow up email too.
+Brady: Perfect. Perfect. So
+Andrew Meggs: Yeah. It's somewhat. Basically it's gonna be a few things to keep track of because there's the actual PreVeil app itself and then the accelerator in the DC or 2 separate logins. But but yeah, that's kind of how everything works is creating that actual PreVeil organization and then I add people to the compliance tools.
+Brady: Okay. Okay. All right. Yeah. The compliance tool, that's one thing. It's gonna I think it's gonna help me a ton and hopefully I can get started on that soon. Type of deal.
+Andrew Meggs: Yeah. Uh, I have you had a demo of that? Do you know how that works?
+Brady: Kind I mean, not, I mean, I might have seen a little bit, but I'm hoping to just I can input some stuff. It'll give me some path. I can follow and then implement on my end and stuff like that and hopefully answer a bunch of my questions, but
+Andrew Meggs: Yeah. It's kind of 2 different things like I was alluding to. So the accelerator is a video doc series on CMC compliance that has a series of videos going over, the steps that you need to go through to be compliant and everything like that. And the GRC tool, which is separate is the actual like, project management tool that you would actually use to get compliant, if that makes sense. It might make more let me just pull these up. It might make more sense if I just show them to you one second. Let me pull these up. Well, another reason I want to show it to you is with these also comes access to our internal compliance team as a resource. So while you're going through any of this, if you have any questions you can schedule some some time with them to go over where you're at or ask any questions or give any guidance. Okay. Let me pull this up. Yeah. So
+Andrew Meggs: Like I said, I'll send direct links to these in my follow up email, but this is the compliance accelerator. So for this as you can see, it's like a series of steps and it basically walks you through compliance. Perfect. And then and each of these steps is a video about this step for instance, addressing POS. And then any relevant documentation is also in there. But beneath while I have this up in this additional compliance resources course here is the link to the compliance teams calendar. So if at any point you need to schedule some time with them, you could do that here.
+Brady: Nice. Okay. Easy pay.
+Andrew Meggs: And then separate from that, is the G tool, which is the actual the accelerator is kind of the walkthrough and then the GRC tool is where you go to actually track all the steps and everything that you're doing related to compliance. Okay. For this this is the uh
+Andrew Meggs: Don don't want to share my login credentials. Sorry, a second. Um
+Brady: One thing I have a question. So when I was setting it up to I had a question. Um
+Brady: I could set it up on my phone, which I think is a smart way to do, right? And it doesn't add an extra user. It's just a single user if it's on my phone.
+Andrew Meggs: Yes, the licenses are per user, not per device.
+Brady: Okay. And then the other question if I put it on my phone
+Brady: If I go out of the country. So I go on vacation to some different country. Does that automatically make me out of compliance?
+Andrew Meggs: That's kind of a loaded question. And so much as just I mean, honestly long term, if you're needing to be C level to complaint, it might not be a good idea to have it on your phone in general. Because that phone would then be an endpoint and would need to be basically meeting all the requirements that your laptop would need to meet. So like factor authentication, ya a ya da. Um
+Andrew Meggs: And the reason I say it's a lot of questions because because like out of compliance technically because you don't have your policy set up and you haven't set everything up yet. You're technically not in compliance until all this stuff is done anyways. But in terms of visiting the just the specific question of visiting other countries. We do have a couple of countries that are on our PreVeil doesn't work with list, but it's North Korea and ER, probably not going.
+Brady: To go there. But yeah. So
+Andrew Meggs: Yeah. Like unless you're visiting North area or Ron or you know, the obvious ones should be fine. Is the short answer to the question?
+Brady: Yeah. Only thing I was thinking I was gonna put it on my phone just for backup. And I could if something happened, I could disable stuff blah, blah, blah. But then I was like, well, if I go to I don't know if I go to even just Mexico type of thing technically, especially with ITAR stuff, I guess I'm technically exporting it.
+Brady: If it's if the accounts well, I don't know. So that's the thing because the drive is not on my account, but the access is on the account. So I wasn't
+Andrew Meggs: Sure.
+Andrew Meggs: Getting a little bit in the weeds here. All the PreVeil data is in the cloud encrypted. So theoretically even if you were to bring your phone as long it's not synced to the phone, even if someone got a hold of, you know. But no, yeah.
+Brady: I don't know.
+Andrew Meggs: What I mean, once again, like at the end of the day, ultimately, if you want to permanently keep PreVeil on your phone would need to meet the same level of requirements that any in scope endpoint would need to meet. So it's doable long term. But it would need to you know, you would need to have extra encryption on your phone and fire walls, anti fires, multi factor authentication, everything like that. So I mean I have I mean, we have clients that have PreVeil on their phones and it's compliant, but it's like they you know, it's
+Andrew Meggs: You have to jump through.
+Brady: I'm after easy. That's one of the reasons why only one person right now is just for streamlining ease of use, you know.
+Andrew Meggs: Yeah. I mean, like the in terms of like easiest the easiest way to be compliant is if PreVeil was on like, one laptop disconnected from the network behind a log door. Like that's like the easiest to explain to an assessor and then anything more than that is going to become increasingly complex. Yeah. Obviously, that's like that's an unrealistic thing to have for most of our clients, but that's like the
+Andrew Meggs: Yeah. I do have some clients that's how they operate though. It's like it's on one. UI access is done through one computer and it's not a normal network. They have a separate network for it and it's like behind 3 locked doors and like, that's what they do. And it's like, okay.
+Brady: It works, I guess work.
+Andrew Meggs: Yeah. I mean if it works but yeah. That's
+Andrew Meggs: I say overkill because it does work, but seems a little excessive anyway, very briefly here for the GRC tool. This is what this looks like. You upload your system security plan and then it auto fills into all these controls. And then you go into these controls and you click if you've done it or not or if it needs to be maintained. And then kind of this kind of tracks everything that you're doing and tracks all your compliance.
+Brady: Now the system security plan, how do I upload that? Or what do I upload?
+Andrew Meggs: Yeah. There there's documentation in the accelerator, but for the GRC tool, all the documentation, it's just easier if you just download here. So there's a tab that has all the documentation. So basically you'll download the CSP and you will we've created this fake company, acne corp and you replace all the C corp information with AFP Machine information.
+Brady: Okay. Perfect. Okay. It's okay. I wasn't sure that you needed to do on the side that was separate.
+Andrew Meggs: I mean, it's slightly more complex than that because it's not just copy and paste the name. You'll need to change number of employees, you have like network diagrams and stuff like that. But that's the short answer. Is you basically just replace all the information with your information?
+Brady: Okay.
+Andrew Meggs: And then once and then you upload it here and then that's when you go to the controls and go to each individual control and say hey, yes, I've done it. No, I haven't done it. And the that sort of thing. And then once you have everything filled out this dashboard, kind of auto populates and like, what theoretically your port per score should be and like, where you're at in your assessment, things like that. And this is kind of the dashboard that gives you a snapshot of
+Andrew Meggs: Obviously it's all zeros because it's the test account. There's nothing uploaded, but
+Brady: Makes sense. Yeah.
+Andrew Meggs: And yeah. And like I said definitely you can utilize our compliance team as a resource at compliance at PreVeil.com or through the link to their calendar and the accelerator.
+Brady: Okay. Okay.
+Andrew Meggs: And you will get access to that right after this call. I'll add you uh, you sometimes they get caught by spam filters because it's from somewhat generic email addresses. Like I said, the accelerators from talent, LMS and the tool built on is. But I'll include direct links to them as well in my follow up. Okay.
+Brady: I'll look for all watch for if I don't get hit by the end of the day or something like that. Maybe I'll see something.
+Andrew Meggs: Once again, you'll have the direct link. So you can just go in there and say forgot password and reset it. Even if you don't see the
+Andrew Meggs: Action to your account, what will have been made or at least will have will be accessible. Okay. And then, yeah, in terms of getting started, that's kind of it's the creating the org, which you've already done and then scheduling the onboarding call and getting into the compliance accelerator and the GRC tool, which will add you right after this call. Um
+Andrew Meggs: Do you have any questions? Yeah.
+Brady: The call that's after this the support meeting type deal. What do I need for that and what exactly? I guess what specifically do they need me to implement?
+Andrew Meggs: Yeah. So honestly, that's more of just a training call. You don't need to do the only thing you would need to do is create that org, which you've already done. It's just and this will be much more relevant win slash if you have more users. But basically it's like, admin roles and responsibilities and how to use PreVeil and like, tracking logs, backing up files, recovering accounts that sorts.
+Brady: Of things. So perfect. Okay. Yeah, more technical side of it. Yeah.
+Andrew Meggs: Okay. But I mean, technically you can start using PreVeil now. You've got your account created. You can start sending stuff for storing stuff if you want, but the onboarding call is just to kind of cover all the bases and also they double check to make sure there are any issues with the org in the back end, like or anything like that. So
+Brady: Okay. Cool. All right. Yeah. Sounds easy enough then.
+Andrew Meggs: Yeah. We do try to make this as easy as possible. Yeah. I guess just to reiterate the different teams here. The support team is who does all the technical stuff they do, the onboarding. So they also do any bugs or technical issues. They're available support at PreVeil.com. The compliance team can answer any compliance related questions or provide guidance during your compliance stuff. Their compliance at PreVeil.com or through that link in the accelerator. And then I am kind of the general main point of contact if you're not sure to talk to if something needs to get escalated or account type questions. If you did need to add a user or subscription rule, that sort of thing would be me
+Brady: Okay. Okay. Simple enough.
+Andrew Meggs: Yeah. And for that down the road yeah. It's fairly in elegant process. You just email me and say, hey, can I have another license and I put together an order form for however many months are left in the subscription?
+Brady: Okay. That's simple too. Awesome. Yeah.
+Andrew Meggs: Yeah. I don't know. The only other thing I like to do on these calls is I like to set up a check in call just to make sure things are going smoothly. Um
+Brady: So yeah.
+Andrew Meggs: 90 days is my ad normal? Do you mind if I put something on the calendar for May 15th is roughly 90 days from now.
+Brady: Yeah. That works for me.
+Andrew Meggs: And what where are you located?
+Brady: I'm in Southern California, North San Diego county.
+Andrew Meggs: More specific. Yeah, especially more specifically. What time zone? nice. Yeah. My wife is from that area. Nice. She's she's from San Clemente if you know where that is.
+Brady: Okay. A little North here. North of us. Yeah.
+Andrew Meggs: So but we we live in Minnesota now.
+Brady: Oh, gosh.
+Andrew Meggs: And we try to go back as often as we can for obvious reasons. Yeah. She's actually planning the trip this guy already.
+Brady: Oh, there you go. Yeah, we're getting rain today. We get some serious rain today. So
+Brady: Next couple of days. And then hopefully I'll be
+Brady: Back to Southern California weather.
+Andrew Meggs: After that, but yeah, it's hard to like because we go pretty much every year and it's hard to come back every time. It's I know it's rough out there. It's
+Brady: Nice. Most of the time, yeah.
+Andrew Meggs: Yeah. I will put this on the calendar for the check in call. I will add you to the accelerator and the GRC tool and I will send a follow up email kind of going over everything. And unless there was anything else you wanted to go over, I can let you get back to it.
+Brady: That's it. That's good for right now. I think, yeah.
+Andrew Meggs: Okay. Well, I appreciate your time Brady. It's a great to meet you and I hope you have a great rest of your day.
+Brady: All right. Thanks. You too. Have a good one. You too. Bye.
