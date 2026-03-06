@@ -1,0 +1,87 @@
+Account: Vision Corps
+Call Date: 2025-12-05
+Duration: 00:17:13
+Participants: Robin Barrow, Chuck Blair
+
+======================================================================
+
+Chuck Blair: So
+Robin Barrow: Hi, Robin. Hi, Chuck, how are you? Good. How are you doing? Excellent. Good. I see. We have Mike, this and call. Should Rick be fairly quick. Honestly, it's just an introduction to me. And I just want to learn a little bit more about you all. Jack told me a little bit why you need PreVeil, but I want to hear from you as well. And I would also love just to go over what you signed up for and then talk about next steps on how to get started. Okay. Great. I'll go ahead. I had it pulled up. Give me one second. Confirm.
+Robin Barrow: Your what you signed up for. And we can dive into introductions on your side. But yeah, I see 20 users, 3 of those being admin. You all purchase the compliance accelerator and also the scene connector. Does that all sound accurate?
+Chuck Blair: Right. Yes.
+Robin Barrow: Yeah. I'll turn it over to you all. If you don't mind doing a quick round of introductions and then tell me a little bit about why you need PreVeil or what you're hoping to get out of it.
+Chuck Blair: Sure. In Chuck I'm the CIO here at vision course. So we are
+Chuck Blair: A subcontractor for the do or the or whatever they're calling it, these days, and uh, we have to go through an audit for cms. And in the process of defining our scope, we found a handful of users that do handle UI. So were looking for a solution that would allow us to do that without moving our whole Microsoft implementation and the GCC High. Yeah. Space. So so we found PreVeil got signed up with you guys. That's kind of where we're at. We're looking to deploy this with a handful of users and then work on our policies and procedures around c._i as a result. That's why the um
+Chuck Blair: The cms templates and things I wanted to talk. One of the things I want to talk about today is how we get access to that. Yeah. I want to talk about that a little bit.
+Robin Barrow: That all makes sense to me. So you all have a couple of contracts that require the or have the this requirements and you have to get level to, right? great. So yeah.
+Robin Barrow: Sorry, go ahead.
+Chuck Blair: Yeah, I'll let the guys introduce themselves to
+Robin Barrow: Oh, yes. Please.
+Mike Emig: Okay. Hey, my name is Mike, Mike. For some reason, zoom does not like my camera. So unfortunately, I can't turn it off.
+Mike Emig: I keep so um
+Robin Barrow: Yeah. I am the infrastructure specialist here. So I will be working.
+Mike Emig: Closely with Chuck on getting this audit passed. And yeah. Yeah, I pretty much take care of a lot of the day to day stuff when it comes to the networking project management. Pretty much anything that
+Mike Emig: Involves it. I'm somewhat involved in it, so
+Robin Barrow: Great. That makes sense. And then, Rick, if you want to go ahead. Nice to meet you.
+Mike Emig: Nice to meet you.
+Mike Emig: Rick I'm the it support specialist here at vision core. So I tend to handle interactions with all.
+Chuck Blair: Of our employees when they have issues.
+Chuck Blair: Right. Yeah, we will be on the front lines of supporting the folks who have to use the tool. So
+Chuck Blair: You're looking at 3 quarters of our it team total. There's one other person that we have on our team. Leslie who is application support for our business applications, which really this does not apply to her. So she wasn't joining us today.
+Robin Barrow: No. That's okay. Great. And yeah, I believe I'll be speaking with all of you throughout this whole journey. I my role really. I just make sure you are happy. So I want to make sure you're up and running in PreVeil. You're feeling good about it, your teams trained up. I provide all the resources you need. You will for the technical side of implementing care, you'll work with our technical onboarding team. You'll have a one on one training with them all. We keep it with just the admins, but we do have a standard user training as well. So Rick, if while you're supporting your team and you feel as though they could benefit from a one on one training with our technical team, we can set that up too. And we have a ton of resources as well. The your next step as far as the PreVeil platform, the email and drive, you would just download PreVeil. Whoever is going to be the admins on the account and then schedule time with the technical support team. The reason why we have you download PreVeil beforehand and kind of set up the org is because when you train, you're gonna train out of your org and you're gonna click through the platform and make sure it's set up accurately.
+Chuck Blair: Already completed all the checklist for love that. We have to do before so we've already got the yeah, we got I had the instance set up and I was in but I got the guys in this morning and we went through kind of like the checklist of all the setup. So I have the recovery platform setup. Everything's ready to go for that at all. So I think we can do the quick 30 minute call with them. Yeah, sure. You know.
+Robin Barrow: It's typically an hour long, but like I said, you are pretty technical. You understand the platform. It's not a very difficult one to use. So you could say, hey, thank you, we understand the platform. These are the 3 areas we want to take a look at. But again, it's something you all paid for. You get the onboarding. So I highly take I would take advantage of it. Um
+Robin Barrow: But for the actual switching gears to the compliance side. So I will give you access to the compliance accelerator. This is what it looks like. This is what we call our 10 step guides, getting compliance. So the way the accelerated works. It brings you in really green. What is cms. Why is important? Why do you need it all the way to how to score 1 10 from chatting with you all. It sounds like this is something you've been working with for a while, so you have a pretty good understanding of what cms is.
+Chuck Blair: Yeah. We mostly focused on self base for the next 801 70 one, which is level 2 for us. So it should be fairly similar. But yeah, like just for your benefit, this is what I was gonna use this accelerator once we got access to it as our guideline for you and I to work through together. So this is kind of like our we've been waiting to get access to. So yeah.
+Robin Barrow: Okay. Sounds great. So I can add the 3 of you to this or yeah. Yeah. Okay. Great. So the 3 users so I'll add everyone on this call and then if you ever need to switch out users down the line, just let me know. How about you to do so? just to highlight a couple of areas of where to find everything. So this in step 6 is where you find the documentation. Each course it's based out of a learning management system. So they work through courses. Comes with the video explains what the most important documentation is where to start. But if you're like, just give me what I want. This the Ami docs package. This and again, jack might have explained this to you already.
+Chuck Blair: Just a vague term. So I haven't seen any of this. So this yeah.
+Robin Barrow: Oh, oh. Okay. That might be the SP. There we go. Okay. This is what we did. We took a fake company called me and brought them through a full assessment. This is the documentation package for that paid company. So these have been approved by C 3 PO. This isn't a great example of what a 1 10 company would look like. Each I love that. We call them templates because they're completely filled out. You'll have to replace it with your information. I guess it is a template, but they're not blank. They're completely filled out with detailed information, right? for instance, the SP we have is 185 pages.
+Robin Barrow: It's a beast of a document. Yeah. It's it's completely detailed. We base it off a midsized company that's in the Microsoft environment using PreVeil and has some endpoint setup that I can go into as well. Yeah, this is all these you just click them and you get access to them all the standard operating procedure. Templates are within here, the policies, everything. You'll need to get a 1 10. You'll have an example document for it at all is here. Again, are you all still in the self assessment state? Are you looking to get audited soon?
+Chuck Blair: We have a schedule for the spring. So
+Robin Barrow: Oh, okay.
+Chuck Blair: We'll be submitting our documentation like in February. So yeah. We've got we got to get on this.
+Robin Barrow: Yes. Do you who are you using for a 3 pl?
+Chuck Blair: It's a money and Ashbury they're a local company. They also do our financial audits. So. Okay.
+Robin Barrow: Oh, yeah. That's great. Are you doing any kind of mock assessment?
+Chuck Blair: Beforehand or they're gonna do a mock assessment for. Okay. Yeah.
+Robin Barrow: Excellent. Okay. So
+Robin Barrow: I told you we have a GRC tool. Have you all use any of those before? Do you have your own?
+Chuck Blair: No. We don't have one that we looked into one from no before previously, but it was just cost wise wasn't worth it.
+Robin Barrow: We do have one
+Robin Barrow: For you all. I think it would be like, 1,800 bucks for the year. Okay. Something to keep in mind. But yeah, it does make the whole documentation side and organizing it. Much better. Especially all the Acme docs are already pre loaded in the library there. So a lot of our customers will it's mandatory that you have the accelerator and the C. So you just let me know if that's something you're interested in. But either way, you do get access to the compliance team. You get 6 30 minute sessions with them, you can book time with them here. That's any questions you have around compliance or say you have a question on the documentation or there's a policy that might be a little different for you all. I'm wondering how it should work within the cms process. They're a great resource. They work with all our customers on this. Majority of our customers are working towards level two, so definitely utilize them. And we also you can email them. So any one off questions don't count against your time. Feel free to shoot a question over if it requires a long answer, they'll probably ask for a meeting. But yeah, that's available to you.
+Robin Barrow: Another areas I'd like to point out that. How do I secure my endpoints again? This might be something you already have pretty well set up, but I just want to point it out. Are you on your Microsoft environment? Correct. Yeah. Yeah. Okay. This is I always say that with PreVeil.
+Robin Barrow: You have a come on. Of course. I'm not logged into my SharePoint or anything, which is always a pain. Okay. With PreVeil you. We share 102 of the controls, right? The remaining 8 controls are based around your endpoints and how you secure them. So a lot of our customers are like, great. Thanks for the encryption platform. Now, what this guide tells you what controls out of the remaining, let's say 8.
+Robin Barrow: What you will need to meet those requirements and it points to the controls and the sub controls underneath. Again, you might already have this you probably do, but it
+Chuck Blair: Just no, that's very helpful. Actually know what's left. That we yeah.
+Robin Barrow: Also in the accelerator, we have a shared responsibility matrix, which I can share with you via email as well. It breaks out exactly what controls we share and what controls we fully meet. So um
+Chuck Blair: That's great. Yeah.
+Robin Barrow: Okay. Great. Aweme, I'll add you to this immediately. And then
+Robin Barrow: You're it sounds like you're good to go for the technical onboarding. I'll send over more resources for the standard users. I'm gonna schedule a check in for us. I usually do 90 days, but because you have an assessment coming up, I'm gonna do 60 to 30. Let's do 45 days, yeah.
+Chuck Blair: Yeah. Okay.
+Robin Barrow: We'll do 45 days. Right after the holidays. It sounds like my brain is working.
+Chuck Blair: Early January, that'd be fine.
+Robin Barrow: Yeah, we'll do that. We can connect and then yeah. Other than that you are pretty much.
+Chuck Blair: I have one other thing. I probably should have talked to jack about this because I didn't realize until we started getting in here and using the platform. But the email workflow is a little
+Chuck Blair: I'm not quite sure how people use it without the email gateway. I think we're going to need the email gateway. You know what I'm talking about. In order to e mail in and out from the PreVeil encrypted accounts. I mean, does that is that something you usually sell together with the service?
+Robin Barrow: We have a lot of customers that do both. We have a lot of customers that will use the express version for external communication. So they just send an invite out to their third parties that they're communicating with. They'll sign up, PreVeil express. It's fully free.
+Chuck Blair: Oh, okay.
+Robin Barrow: Yeah. They'll and once they do it one time, you're able to communicate back and forth for the customers that work directly with the do or for whatever reason, the Navy there's a couple of them out there. They're like, no, we're not gonna use PreVeil. We're gonna use our own stuff. So that's where the email gateway come into play. Because in the gate it they don't have to sign up for PreVeil express. It only works for email, obviously. That's why it's called email gateway. If you were to share anything out of the drive, they would still need to get PreVeil express. But we
+Chuck Blair: Need the gateway if we're gonna send any messages containing I to anyone at the government or vice versa?
+Robin Barrow: If you think they won't sign up for PreVeil express or use PreVeil express, then I would say yes. Yeah, I tell my customers starting out. Try it. See what happens. Okay. Because sometimes honestly people in the government are like, oh, whatever, let me use these clicks and it gets bypass. But if you do get to email gate was definitely available to you. It is 2,100 so again, $1,800 upfront and then a $400 setup fee.
+Chuck Blair: Okay.
+Chuck Blair: All right. Yeah. We'll play around with it and start using it and we'll see if that becomes a problem. We'll look into the gateway then.
+Robin Barrow: Okay. That sounds good.
+Chuck Blair: So basically if anyone you send an email to out of PreVeil any encrypted PreVeil emails will go with an invite asking them to sign up if they don't have an account already.
+Robin Barrow: Yes. Yeah. Okay. It's usually out of a browser application. Like they don't yeah. It's like what was the other one that it was a barcode, but it would be like, yeah, it's stuff like that. I think that's what it's called. But it's similar to an FTP site, except you still have to
+Chuck Blair: Yeah. Signing up. That's the problem. Yeah, some people that so we'll see how it goes. I mean, most important thing is that we get our ca stored in PreVeil and get that going and then we'll tackle the email problems as they come up.
+Robin Barrow: Yes. I agree. That actually brings up a good question. You all get 10 terrified worth the storage in PreVeil. So I be concerned about running out of storage. But when it comes to putting information into PreVeil, do you have over 100 gigabytes worth of data that you need to put in PreVeil?
+Chuck Blair: I don't think so. I mean, I haven't quantified at all yet because it's sitting at like 5 places. So I gotta put that altogether, but I don't think it's gonna be that bad. I mean, the most word documents. It's
+Chuck Blair: Yeah.
+Robin Barrow: Yeah. Okay. Yeah. Usually it's AI would say it'd be a fine slow trickle of data over into PreVeil. I just if you want to do it all at once, you can imagine it has to encrypt and then sync down. So it takes some time. And we'll probably want to set up a file transfer with the support team on that. So let me know.
+Chuck Blair: Gotcha. Okay. All right. You will set up the the next orientation with the admin.
+Robin Barrow: I'll send over a calendar link. You all can book time just like you me today. Perfect. Okay.
+Chuck Blair: And I get that going and we'll get access to the accelerator and we'll talk like, right after new years maybe
+Robin Barrow: Yeah, yeah. I'll send some time over. You are east coast, right? Yes. Yeah. Okay. Great. So I yeah, I'll send over some time if it works. Great. If not, we can move things.
+Robin Barrow: All right. Well, thank you, all is really nice to meet you
+Chuck Blair: All right. Thank you.
+Robin Barrow: Bye. Bye.

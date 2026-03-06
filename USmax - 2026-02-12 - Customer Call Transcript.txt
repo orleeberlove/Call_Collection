@@ -1,0 +1,239 @@
+Account: USmax
+Call Date: 2026-02-12
+Duration: 00:33:02
+Participants: Robin Barrow, Sae Pak
+
+======================================================================
+
+Robin Barrow: Hello.
+Sae Pak: Oh, hey, Robin.
+Robin Barrow: Hi. Hello, there. You pronounce your name tag.
+Sae Pak: Yes.
+Robin Barrow: Okay. You is it you correct me if I'm wrong? It's your name. It's important.
+Sae Pak: Auto check spells it, sue and sometimes sea. So you pronounce it perfectly
+Robin Barrow: Okay. Great. Great. Awesome. And are we expecting anybody else to join today's calls or just us?
+Sae Pak: Just you and me. The just a bit of history. I was on the working group for cms for quite a number of years from. It's initial in lays 2.0 or point 4.6. And then when they created that point or one point o and then I guess now it's 2 point o. So a lot of the or some of the components and some of the sections where a lot of inputs where by myself and some of our team members and that you guys came up quite a few times back in the early days. And in 2,004 Peter lose purchase licenses from you guys.
+Robin Barrow: Yes. Yep.
+Sae Pak: And Peter and I was surprised, Eric. I guess he didn't want to speak with us today.
+Robin Barrow: Oh, I think it's because your current customers. So I don't know if it's regarding your current account or if it's regarding other folks, but
+Sae Pak: Sure, sure. Yeah. Peter is no longer with you organization. So it's been transitioned back to me and what all of our stuff is from point 6 and then 27,001 and so forth. So I'd like to go back to the
+Sae Pak: Well, they call it you guys, I guess call it do compliance bundle now or what's it called now?
+Robin Barrow: It's called the compliance accelerator.
+Sae Pak: Okay. Are we still license for that or is it something we have to buy a new license or subscription for the cms?
+Robin Barrow: Nope. You're still license to it. So I can give you access right at the end of this call. Originally Peter, I believe, had access. I don't know if you were added to it as well. And honestly, as far as like the upgrade goes, we were kind of waiting on customers just to ask us. And then we tried to move all the folks over to the accelerator. So it could be that the your account is outdated, but you do have access to this until next June of next year.
+Sae Pak: Copy that. Okay. Great. So
+Sae Pak: We have the UI. We have the 1 7 1 we're actually running at 53 801 53 because of our high side systems. Okay. I let David know. David was a little bit concerned, say, hey, where are we this so forth? We're fine. But then I mentioned PreVeil we once or the um
+Sae Pak: I was about ready to retire.
+Robin Barrow: A
+Robin Barrow: Lucky you.
+Sae Pak: Oh, geez. So
+Sae Pak: Unfortunately, with family Davis, my brother. I am still the VP technology. So I'm temporarily filling in until he can replace me again. Okay. Which is yeah, anyways. That's where we are and things. So I'm taking back over again and setting stuff up. I read a lot of your stuff PreVeil you guys come a long way. We have there's the main points are what I'd like to do is look at your documentation, see if we can map it out or transition to your staff. And I've been getting a lot of phone calls personally on cms assist other organizations.
+Sae Pak: Late to you. Yeah.
+Robin Barrow: Yeah.
+Sae Pak: Nobody thought it would happen under this administration because after one point o created, a lot of us spent a lot of money and and we were all mad because they created it. You guys kept at it, so to you guys. Let me I guess where do we go from here from a like a very high level perspective and how do I get access to it and if I have access to it
+Robin Barrow: And yeah, I will add access. That's a very simple for me to do. You'll get an invite via your email and you can log in the compliance accelerators based out of a learning management system. So if you've used an LMS before how to navigate this you all are pretty well versed. So I don't think a ton of this material will be super useful to you because you're already really deep in the weeds with everything. And you've done this before your you understand cms. You understand 2 point o, we're mention.
+Sae Pak: Mine was one point o just for awareness 5. Oh, yeah. I know there's a big change. Well, not too much. There's a rev 2 then rev 3. And then they created a few of the components and integrate it back in into the other. Pointing back. Yeah. Um
+Robin Barrow: So ours is gonna be mostly on rep to
+Sae Pak: Rule. So how are you gonna when are you gonna integrate it back? are you like to certain sections? Are they shoot? Is one is um
+Sae Pak: System, they
+Sae Pak: They were integrating. They got rid of a couple of the um
+Robin Barrow: The I know what you're talking about. So instead of like 20 20
+Robin Barrow: Are you talking about the 70 19 70 20 and how they're like, getting rid of those and combining?
+Sae Pak: Them into one. Yes, yes. Yes. Yes.
+Robin Barrow: Yeah. So there we're gonna update that, but we are aware of that and we're just working on updating everything. Really the it's like they didn't what did Greg who sits on our compliance team and our product team. He said it's like taking the manual and just like, getting rid of a couple of sections, but the combining them into other ones. So the manual is not so long. That's the way he described it. He's like just cutting things down. And that's why they got rid of some of those additional clauses.
+Sae Pak: But it was 600 3,640 or 639 line items that last I remember and then they chopped a bunch of. I shouldn't say they capped a bunch. They enter they cut a few and then pointed to other things because it was already overlapping from my understanding.
+Robin Barrow: Yes, exactly. That. Yeah, that's what we I understand again, I'm not an expert by any means. I lean on one of us for that, yeah.
+Sae Pak: It's after they went from a level 5 to 3 levels now. It's yeah, I don't want to go there. I'm sorry, we were still upset about it. We spent close to $80,000 on that system and they created the whole system.
+Robin Barrow: Oh, geez. Yeah, that is
+Sae Pak: You probably heard it many times before so
+Robin Barrow: I mean, honestly, I started at Al almost 2 years ago, like 2 years in march at the end of March.
+Sae Pak: So rev 2 and then 20 20 did rev 3 and people are catching up on rev 3. People are still using the rep to excel spreadsheet thing populate it because I'm coming across that and I say, hey, this is not correct and they're like uh
+Robin Barrow: Yeah. No, I mean and we're almost on rev three, but it's it's been a slow update.
+Robin Barrow: Or I don't even know if rev 3 is fully finalized yet. Is it
+Sae Pak: It is. It was if you go to the nest and then do route, it's rev 3 it finalized. When did it finalized stand by one?
+Robin Barrow: Uh
+Robin Barrow: Maybe I'm confusing grab 3 with 3 point o
+Sae Pak: September 20 24 version 2 dot 1 3
+Sae Pak: This is straight off the defense.gov site. Yeah.
+Robin Barrow: We are pretty up to date. So I'll follow up with the compliance team just get more clarification on that. But um
+Sae Pak: Yeah. This is alpha. Romeo 3. And then there to do was see version. Yeah. May 14th 20 24th was the last update.
+Robin Barrow: Okay.
+Sae Pak: It's okay. It's sorry. Yeah. It is what may publish date was May 24th Sara Papa, 800 dash, one seven, one alpha.
+Robin Barrow: Okay. This documentation came after that, so I'm sure it's up to date.
+Sae Pak: I'm pretty sure you guys are. It's either you or go GCC, High and spend a boatload of money per user for that can't communicate with anything else except for itself.
+Robin Barrow: Yes. Yeah.
+Sae Pak: A lot of people didn't know that either.
+Robin Barrow: No, they didn't no. We actually have customers that have moved to GCC High, but kept us for guest accounts in in communication outside of their environment.
+Sae Pak: Yeah. But your stuff, you can just send an email and then the link and come through the or I'm not sure if it's still possible. But our secure yeah, email system, whatever. Yeah.
+Robin Barrow: We have the gateway which keeps a secure sub domain, but we also have PreVeil express so they can communicate for a free version of PreVeil that will that most of our customers use.
+Sae Pak: Is that something new?
+Robin Barrow: Not new for me. It's been here for almost 2 years, but might be new for you since last time you've taken a look at.
+Sae Pak: PreVeil copy that. Okay. Let me be quiet here. Let me let you do your magic and see what I'm missing.
+Robin Barrow: Yeah, sure. So well, first off, this is the compliance etcetera. Like I mentioned. This is where the documentation lives it lives in step 6. If you scroll down here. Again, all these videos are gonna correspond. It's gonna tell you what's in in this step and how to navigate it. But what you really want is our Acme docs package. So what we've done here, we've taken a fake company called Acme, brought them through a full assessment. So these have all been approved by C 3 Pao. And it's a great example of what a 1 10 company looks like. You have access to all these documents. They're completely filled out. Let me just pull
+Robin Barrow: Let me see if my SP is pulled up.
+Sae Pak: So for like a let's say for a 30 user organization, this is a live question or real life situation. How long will it took me over 2 years to go through the process of evolving and tearing stuff apart and each time they change what's realistic for a 30 user company to get everything in play ready to go for, let's say UI, in your opinion, have you seen
+Robin Barrow: Like for an assessment or be able to manage
+Sae Pak: Let's say self assessment and get ready to manage prior right before the actual full.
+Robin Barrow: When we say 4 to 6 months and that's doing the di approach, which means like you're protecting your own end points, you're securing your well, I would say it's more of a
+Robin Barrow: Day, it's more of managing on your own because you're you have the resources we provide the secure on live. We share the and 2 controls or I should say we help address 102 of the controls. But the end points is where you are gonna come into play as well as completing the documentation in the policy. So we say 4 to 6 months.
+Sae Pak: So when you say the end points, are you talking about like the like the phones devices the laptops at that type?
+Robin Barrow: Yeah, exactly. That so we do have a course called how do I secure my endpoints and it goes over how you configure your endpoints and what's necessary for CMC level 2. It actually points to the controls and it's all based. Everything you'll see in the accelerator is based on Microsoft products because that's majority of our base uses Microsoft products. But here I can show you what it looks like.
+Robin Barrow: So you'll see here, you'll see the anti virus, anti Miller, we recommend Microsoft defender. These are all necessary and we point to the control slash objectives that they help me. And then we even go through and tell you how to configure them.
+Sae Pak: Did they ever fixed a bit locker? flaw, Microsoft?
+Robin Barrow: I don't know.
+Sae Pak: Okay. No problem.
+Robin Barrow: But
+Sae Pak: Can you go back to that? I'm sorry?
+Robin Barrow: Yeah. Sure.
+Sae Pak: So defender. So
+Sae Pak: This uh
+Sae Pak: Sentinel.
+Sae Pak: I've not used it. Sentinel, is that's a Microsoft product, yes. Yeah.
+Sae Pak: Okay. The Fis that's fine. Endpoint as normal D LP
+Sae Pak: Anything else just so 6
+Robin Barrow: That's yeah. That's based on what we've seen and then also, obviously, the policies that need to be in place.
+Sae Pak: And this is for L 2 level 2.
+Sae Pak: Okay.
+Sae Pak: So
+Sae Pak: Are you actually providing step by step? hmm.
+Robin Barrow: Yeah. It was like one of our number one asked questions from our customers. So we go through and like, this is how you configure your endpoints.
+Sae Pak: I don't see in tune here for the MDM um
+Robin Barrow: I again this was a that would I'm gonna default to the compliance team if that's necessary.
+Sae Pak: So you can reach out
+Sae Pak: For the compliance team to ask questions.
+Robin Barrow: Yes, you actually get
+Robin Barrow: 6 30 minute sessions with them. You can book time with them right through here under the compliance accelerator. So this brings you just how you booked with me today. I highly suggest doing that, just as you are coming back to this, especially you. Because we mainly talked to Peter. And then you can also email them here at compliance at par.com.
+Robin Barrow: They're all very knowledgeable on everything as far as, mm. And then also PreVeil
+Sae Pak: Are you in partnership with Matt security?
+Robin Barrow: We are yes.
+Sae Pak: Okay. Are those the guys you're speaking with or the customer speaking with?
+Robin Barrow: No, they're talking to our team. Okay.
+Sae Pak: So how does mad come into play? Or I I just full disclosure. I have a relationship with a secure trucks.
+Robin Barrow: Okay. I'm
+Sae Pak: Not sure if you're familiar with
+Robin Barrow: Them I haven't heard of them before no. But that doesn't mean we aren't a partner of them. We have a lot of partners.
+Sae Pak: So they're more department of state focused. Yeah. Because department state is one of our big customers. Actually former department of state people work for them. Oh
+Robin Barrow: There we go.
+Sae Pak: And I used to work with them. So we all know each other
+Robin Barrow: It's a small world, I have found.
+Sae Pak: Is a very small world, unfortunately, unfortunately.
+Robin Barrow: Yes.
+Sae Pak: So how much of this did Peter go through? Do you know
+Robin Barrow: I could probably find out. Give me one second.
+Sae Pak: That's these 30 minute sessions there are 6 of them. How much how many did he use?
+Robin Barrow: Well, I doubt we have because you all have been a customer since 20 20 four, we didn't state the 30 minute sessions until June of last year.
+Robin Barrow: So I would say let's restart the clock for you all. Yeah. Very
+Sae Pak: Kind of you yeah.
+Robin Barrow: Yeah. No, you're good. And I see that Peter completed one course.
+Sae Pak: Do you know which course he completed?
+Robin Barrow: Uh
+Robin Barrow: Probably the first one that says, please watch this video.
+Robin Barrow: Who is okay. I don't know why it doesn't tell me the last time he logged in was June of last year. He does have he did have access to yeah. He watched the here. I can show you his progress here.
+Sae Pak: There
+Sae Pak: So you go to the courses in this in sequential order. So you do the first one second one and just continue on down.
+Robin Barrow: Yes. Again, a lot of this information is gonna be something you already know. So you can skip down to step 6 and just grab the documentation if you'd like. But it's all great for educational purposes, I think
+Sae Pak: Years ago to date myself. There was a book called do this operating system by IBM. I read the whole thing from start to finish and I still utilize some of the obscure commands that these young folks don't know anymore. Never even heard of when they can't get a guy.
+Robin Barrow: How many pages was that manual? I'm gonna say
+Sae Pak: It was very thick. I still have the book around here somewhere. There's an editor called EDI. There's no back space on it. You can't make a mistake as soon as you hit the enter.
+Robin Barrow: And
+Sae Pak: To vi, which I don't know if you remember in the unique side. So
+Robin Barrow: Oh, no. I don't know. But that's that's crazy. I mean, it's funny. Yeah, no. I mean and then have at it, honestly, like that our compliance team did a great job putting these courses together. It's great content. Again, I'm biased.
+Sae Pak: So 9 hours. Okay. Looks like I'm going to data dump this week.
+Robin Barrow: So that's my training time. That's how much time I've spent in here, which is honestly kind of low. So that's like that means like I've been in and out of this platform that many times
+Sae Pak: Something your job is to sell as a marketing training. So as long as you're making your numbers or exceeding them, you're good. So what's the total number of hours in here in your opinion?
+Robin Barrow: In my opinion. Um
+Robin Barrow: Fixed courses or no, excuse me. 10 courses. Each video is probably around 20 minutes.
+Robin Barrow: Um
+Robin Barrow: Probably you could spend like, 30 hours in here.
+Sae Pak: Okay. Uh, 8 sixteen, 24.
+Sae Pak: 12 hour days. You can almost do a dump in a weekend starting Friday. Okay. Yeah.
+Robin Barrow: If you want to do that. Yeah, for sure.
+Sae Pak: I don't want to. But uh
+Robin Barrow: Yeah. No, I get it. But yeah, I mean, honestly, this is
+Robin Barrow: This is what where we've come from. The I think before we had an SP, but it was very basic. And we didn't we had a couple of policies, but this is our Acme docs are extremely detailed.
+Sae Pak: How much time we have left on this call you got 30 minutes set up.
+Robin Barrow: We have yes. Yeah. Okay. Sorry. The original meeting you booked overlapped with another meeting that it's
+Sae Pak: Fine. It's good. So how do I get access to this?
+Robin Barrow: I'll add you right after this call. So you'll be able to log in
+Sae Pak: Okay.
+Sae Pak: And then um
+Sae Pak: You and I will we be talking if I have any questions about this how to access some of this stuff in the portal or having issues or how does that work?
+Robin Barrow: Yeah, I'm your customer success manager. So my goal literally just make sure you're happy. So if you have issues okay. If you have issues, but if you have just like this if you're looking to access something if you're curious about another product, reach out to me we have a support team. You probably are aware of they're pretty responsive. They work through a ticketing system, but if having things on fire you need help immediately reach out to me. One big if you're working towards a compliant if you're working towards an actual assessment and have A C 3 Pao, mine or looking for A C 3 Pao reach out to us. If you book A C 3 Pao and you have a date for an assessment reach out to me. That's very important. I want to
+Sae Pak: You guys will align us with a the actual certified.
+Robin Barrow: Yes. Yeah. We have a preferred partner network that we work.
+Sae Pak: With what's that just from a high level percent? What's that cost approximately for a 10 10 device on cave?
+Robin Barrow: That's a million dollar question, I say 40 grand
+Sae Pak: 40 thousand? Okay. Yeah. Now, here's another question. Does that do you require a pen external pen test? in the old version? you required an external company to do pen testing? Is that still the case in the new 2 point o?
+Robin Barrow: I have not heard that. So I'm assuming not. But again, I'll double check. I doubt it. I mean, the assessment alone takes like a week. A couple couple of weeks in an onsite session. So if they're thrown a pen test in there too, I do not think so.
+Sae Pak: Okay. In the old version date that was added on requirements unfunded, of course.
+Robin Barrow: Yes. Yeah, that's I mean, I can't imagine they're like. And you have to get that pen testing. So I tested I don't think that's the so
+Sae Pak: Now. So estimated 40 K. We'll put that in a guest mate.
+Robin Barrow: That's a very hard guesstimate, yeah.
+Sae Pak: Yeah. The is it by device or is it by process? Is it how are they doing? Is it are they touching every single process? How are they doing that? Do you know?
+Robin Barrow: I think they're doing it.
+Robin Barrow: Based
+Robin Barrow: On company I'm not sure. I don't even want to pretend to guess, but
+Sae Pak: I guess it's a guess.
+Sae Pak: Guess guess guess.
+Robin Barrow: Yes. I'm assuming it's by company size. So it's not like project or hours. It's just based on your size.
+Robin Barrow: And then like obviously from what I've seen too is if you're looking for an assessment really quickly, they're gonna charge you. So if you're like, I want to be assessed by
+Robin Barrow: Let's call it Q2 of this end of Q2 this year. Obviously, the C 3 POS that are on board right now are gonna are probably gonna charge more.
+Sae Pak: Got it. But man. Yeah, that makes sense. Yeah. Uh, no, I appreciate you sticking at your neck there and doing like guest on it. So
+Robin Barrow: I've been wrong before.
+Sae Pak: I'm not holding you to it Robin. Just just a response. I don't know what you're talking about. I know nothing about it.
+Robin Barrow: Okay. All right. Great. Thank you. What you were going to mention, so have you worked with mad security before?
+Sae Pak: There there are risk adverse years ago. We were trying to do a us. Is that takes about a year to do? And it's a multi user, stand alone high side system for department of state, I contacted them and they were risk averse. And I already told them I've been been through this on the cap. And and then we're migrating from cap to risk management. The risk manager, m system and the person I spoke with was like, well it's gonna take this that there's no way we can do it. So I called up a secure trucks and they were like, how far along are you so this is what I do this with yadda, yadda. And then and I'm not afraid to work 7 7 days a week. That 10 12 for whatever hours. They thought I was kidding, I said no. So then they team me up with someone. I knew actually from my department date days. So she was like, oh, yeah, I remember you. Too.
+Sae Pak: And then she knows that I work. I do like I do work 7 days when you deploy out, you're running the deployment team. So you're out there in no. No, where you're running 7 days a week.
+Robin Barrow: Yeah.
+Sae Pak: So so something that took a year we did in less than 6 months?
+Robin Barrow: Oh, amazing. But they but so if I'm understanding mad kind of said that it wasn't possible.
+Sae Pak: Matt said it was not possible and okay. No problem. I'm not mad at them or anything like that. It's just that. There are some people that are risk averse. Some people are like you stick your neck out. So yeah. Okay. If you then you can do it. Let's try it.
+Robin Barrow: Yeah.
+Sae Pak: When you don't when you're when you don't have a failure as an option uh
+Robin Barrow: Yeah.
+Sae Pak: Just work until it's done. So you know, it is what it is. So that's where my interface with Matt was it was it's like okay. That means they may not have people that work at that level, right? and that's where a company called secure strokes. But I had a relationship unexpectedly with the person that was working there. She would contact me or we would communicate 11 12 one, two, 3 in the morning. And and one day I asked her how many work? So my type of hours, she said oh, I used to work here. And so did I were what groups we not sorry knowing each other pass over each other?
+Robin Barrow: Yeah. So she got it that um
+Sae Pak: Oh, yeah. Now she's the VP over there. The over at secure struck, but I don't know if they're they're an access or not. So I'm not sure.
+Robin Barrow: Yeah, I'm taking a look at them. Now, I'm gonna see if we can find them in our system because I love our partners team. Oh, yeah.
+Robin Barrow: They're a prospect. So it's looks like we're trying to get them on board, but
+Sae Pak: So their company president is risk averse. The their they're one of their sales leads is not
+Robin Barrow: So it's typically how that goes.
+Sae Pak: Oh, is that normal?
+Robin Barrow: Yeah, I would say so. I mean, that sales leader being
+Robin Barrow: You said a sales, the sales leader is not risk adverse. Is that what you said?
+Sae Pak: Yeah, yeah. Justin. Is Nathan Shay is he's yeah. If he when I spoke to her, I said this is the wrong guy when you talk with Justin. So yeah, this is the right guy.
+Robin Barrow: Oh, yeah. Yeah. No, so that's who we were been trying to reach out to is Nathan. But yeah, I'm curious.
+Sae Pak: If they come on board, go with Justin.
+Robin Barrow: Okay. That's actually a good point. And I was just looking at the about us. Um
+Robin Barrow: Yeah, I want to ask the team. I don't see.
+Robin Barrow: Yeah. Cyber cms certification. They are an authorized through a
+Sae Pak: Uh
+Sae Pak: So um
+Sae Pak: So, Rachel, I wonder if Rachel is still there?
+Robin Barrow: We have Jeff Parker.
+Sae Pak: Some of the guys are went to other places. So Justin is a security guy. And he knows his stuff, he's actually hands on. Um
+Robin Barrow: And then talk to Justin before
+Sae Pak: Okay. Mark hat, man.
+Sae Pak: Is he still there?
+Robin Barrow: I see.
+Sae Pak: Mark.
+Robin Barrow: Names are very familiar.
+Sae Pak: Okay. It's a small group. We all or we all run in the I don't know if mark would mark was the one that saved the contract I believe it or not. Oh, mark hate, men.
+Robin Barrow: I'm very curious. Now, all these folks look very familiar. I wonder if they've been
+Sae Pak: A lot of them are. It's a small group. Yeah. If you google search me, you'll see what I do. It's with a name like mine. I have to be nice to everybody because I don't want a Marine showing up at my doorstep.
+Robin Barrow: But I forget
+Sae Pak: What the Marines protect the the people, the not the people but the assets at every single embassy post and console it.
+Sae Pak: So they don't care about you, but if you have trouble it hits the fan. It's good to know of one or 2 they may help you. Yes, situation.
+Robin Barrow: Oh, goodness. Yeah, it's a time. Nick group.
+Sae Pak: Well, I've been to some pretty crazy places. I tell you.
+Robin Barrow: Yeah. I mean, I grew up in New England and I haven't really left New England too much. I haven't lived anywhere else, which is pretty
+Sae Pak: You're very smart.
+Sae Pak: Oh, you're 2 minutes over. I don't want you to be late for your next one, but
+Robin Barrow: I did just get a phone call. But no, I'm gonna add you to this. Now, I'm gonna take a look at secure struck just because I'm curious. We definitely have worked with them before. So I and I their faces and their names match up. But I like I said, we restarted the clock on your compliance sessions. I think honestly, you've been in this space for so long and I think our not only will our compliance team love to chat with you. But we're always looking for customers to when you get CC
+Sae Pak: Certified, you're in the right spot right now. Because of all the programs been created. The I can't talk about or what's happening internally, but they're positive. So you'll you'll probably see this on the news in a not in a bad way, but you know, in a good way soon. And um
+Sae Pak: Again I was retired they call me back and um
+Sae Pak: I don't know.
+Robin Barrow: Yeah. I mean, I know it's crazy out there, but yeah, no. Like I said, I'm gonna add you now and then let's keep in touch. I'm gonna schedule another check in. Let's call it in like 60 days. Is that okay?
+Sae Pak: That's fine. I'll put you on our. Well, you are actually on our approved vendor list so you can call us anytime. Okay. Okay. You need to get going
+Robin Barrow: Phone call, I'll talk to you. Thank you so much. Thank you. Bye. Bye.
+Sae Pak: Well, bye.

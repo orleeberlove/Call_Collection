@@ -1,0 +1,120 @@
+Account: Zeno OpCo LLC
+Call Date: 2026-01-05
+Duration: 00:20:15
+Participants: Robin Barrow, Iggy Javellana
+
+======================================================================
+
+Robin Barrow: So
+Iggy Javellana: About yourself Robin.
+Robin Barrow: I'm doing well, thank you.
+Robin Barrow: Um
+Robin Barrow: I did have hi Iggy. How are you? I hey we good. Were how kind of on I mean, I'm in CS and we had a close up the end of the year. So yeah, we were kind on for the most part. Yeah, it's all right.
+Iggy Javellana: Yeah. Actually all over your system on. So thank you for sharing that link. Yeah, I did leverage it. I went through some training and all that. So I kinda got ahead of it a little bit. Pull down required some of the required documentation. I just have a few quick questions and then just a general question, if that's okay.
+Robin Barrow: Yeah. Sure. I if I don't know the answer I point to the right direction, typically for these calls, we go over what you signed up for. It sounds like you've taken a deep dive in at least the compliance side of PreVeil. So yes.
+Robin Barrow: So
+Iggy Javellana: We went through right before the holidays. Just kind of give you the back up a bit. We did the it admin training. So myself, one of my partners are the IT admins within PreVeil. So I do see male drive and admin open to us, right? I excellent. We went through all that. I went through the compliance link you sent. So to some of the initial training, reviewing the videos the question I had for you on that one was more around to get to like, I call these accelerator templates. It seems like they're embedded within the training.
+Iggy Javellana: Portion, I mean, they're kind of I don't know if there's another site that says here's all policies you template policies procedures or if you have to go through the training site to get all that.
+Robin Barrow: We don't host them like an accessible drive, but we do have them in the training site. I can show you where they should be here. If you go to step 6 here, I'll share my screen in a second.
+Iggy Javellana: Okay. I'll let you drive and then I think I'll remember what I see.
+Robin Barrow: Yeah. If here's this is a homepage.
+Iggy Javellana: Yeah.
+Robin Barrow: I have too many tabs open my computer screaming at me. Hold on. Okay. So
+Iggy Javellana: I see is something like this, yeah.
+Robin Barrow: Yeah. If you go to step 6 and documentation, you scroll all the way down past the videos, you'll see the Acme docs package. Oh, that's where you're gonna find all the templates for cms level 2.
+Iggy Javellana: Oh, it's in the docs package. Oh, yeah.
+Robin Barrow: Yeah. What we do, we break it out into a structured docs package. And it has all the documents that you'll need linked, for instance, this is a SP you just triple click.
+Robin Barrow: Okay. Great. So you'll have that one. Let's
+Iggy Javellana: Pages
+Robin Barrow: Are all right in here? Got it. Yeah.
+Iggy Javellana: Downloading it and just modifying it to their heart's content, right?
+Robin Barrow: Correct. Yeah. So obviously I don't even call them templates because they're fully completed what we've done. We've taken this package and got them assessed by C 3 Pao. As if Acme was a real company. So there's no gaps. Everything's completely filled out. So most of our customers are just either. If they're starting from scratch, is copying exactly what Acme did or there's still gonna have to be some tweaking as far as parties involved, headcount, that fun stuff, but yeah.
+Iggy Javellana: That's exactly what everyone's technical particulars.
+Robin Barrow: Okay. Correct. Got it.
+Iggy Javellana: So that's I think that's what I was looking for because I was having to go through all the trainings to find documents. I can go in. So they're all embedded in here. Okay. That answers question number. One for me.
+Robin Barrow: Yeah. This the accelerator is really to take you green what a cms all the way through how you score 1 10. So if you're well versed, I always want my customers skip ahead to step 6. That's where the meat is gonna be. And that's where other documentation list. Okay.
+Iggy Javellana: The second question after you was actually on the C 3 Pao stuff. Sure. How do I access? Or how do we access, kind of like that partner network?
+Robin Barrow: Yeah. If you there's 2 things we can do. If you go to PreVeil.com and you go to partners and find a partner right through here and you just filter by type. So you're looking for see through too and if you want to filter by region, I didn't get a chance. Where are you all based out of
+Iggy Javellana: Well, right now we're northeast.
+Robin Barrow: Okay. And these are all the partners we work with that are C 3 POS in the northeast?
+Iggy Javellana: Okay. And we just do they know that it's a reference from you guys or do I just make that in the intro email?
+Robin Barrow: You could do in the intro email if you're more comfortable. I can connect you with our partners team and if you would prefer an introduction, that way, we can do that as well. Okay. Whatever you're comfortable with.
+Iggy Javellana: Okay. The only other question I have for you was in this compliance accelerator.
+Iggy Javellana: Other than the training, what other people or who else do I have access to yourself?
+Robin Barrow: Yeah. Well, for the compliance side, you have access to our compliance team. You get up to 6 30 minute sessions with them. You can book with them under additional compliance resources. You book a call right through here. That's any one of questions that you have regarding the whole CMC level 2 journey. You can also reach out to them via email. So if you have any one off questions that don't require a long answer, I always suggest shoot an email over doesn't count against your time.
+Iggy Javellana: Okay. That. So I'll just so it just that schedule for all call and I get how many of those
+Robin Barrow: 30 minute sessions. Yep.
+Iggy Javellana: Okay. And then the other question I had on on this was the it some of the training referred to a GRC tool. I reached out to my our sales guy Marco. Yeah, he says that. We don't have it in our subscription. So what is that?
+Robin Barrow: So it's a Jersey stands for governance, risk compliance tool. If I always say if you're collaborating with a team or you want a good way of tracking all your documentation as well as it will spit out a score for you. Gro tool is great, especially helps you get organized for A C 3 Pao assessment. So you have all you can pull your reports, you can have your SP generated. Yeah. It's really just extremely useful when you get further down the compliance journey and you're ready to start submitting your score and tracking it.
+Iggy Javellana: Because is that so I was that to get a demo of that, I'll just go back to Marco to to get
+Robin Barrow: I can I'll send you over some resources. We have a pretty helpful video online that goes through the whole platform, but if you want I can also send over a quote to you and yeah, if you have any additional questions, then we'll just jump on a call and we'll rip through them. Yeah. Can
+Iggy Javellana: You do that to send me what you have on the GRC tool. Yeah.
+Robin Barrow: Of course, yeah. Tool.
+Iggy Javellana: It sounds like. Can you buy that without buying PreVeil? I mean, can you just buy the tool? So a customer can just use it to manage their documentation to Travis and the like or no?
+Robin Barrow: Well, the PreVeil compliance accelerator language is all all the documents, the document library is pre loaded in the DC technically. Can you go to and by DC tool? Yeah, there's many of them out there. I like to say ours is pretty affordable amongst, yeah.
+Iggy Javellana: Everything else. Yeah, there are a lot of GRC tools out there. And I'm also but I'm trying to find. The reason I asked Robin is because of the role I play in the company I work for. So I'll give you kind of a little bit of the painful back back story. I'm the it technology partner for a consider us a private equity company. Yeah, we own a whole bunch of different government contractors, right? In different ages. Some or have finished their cms, level 2 compliance. Some are in the journey. Some are commercial companies that are now selling to the government, right? okay. I've got this whole. I mean, I'll probably 6 out of the all 8 use cases. We have it right? with you guys right now as a startup, right? Okay. Companies that are we've recently acquired that have no cyber security process. So a gro tool is helpful for them to start at least walking down the path.
+Robin Barrow: Sure. Yeah.
+Iggy Javellana: That's why I say that's a question I'm asking because I have different clients.
+Robin Barrow: Right now.
+Robin Barrow: I would say the combination of the 2 the accelerator and the G tool is super helpful. Are you saying if they're not gonna use PreVeil the actual email and drive platform that we can discuss? But the documentation is gonna be solely based on the use of PreVeil? So it's gonna be based on having that?
+Iggy Javellana: PreVeil over it on.
+Robin Barrow: Cave, yeah. Yeah.
+Iggy Javellana: Okay.
+Robin Barrow: So um
+Iggy Javellana: Which I'm kind of okay with because it's not overly expensive speaking, right?
+Robin Barrow: And I'm assuming all these have you talked to our partners team in regards? I don't know if you want to become a partner or if that would even work. But typically it sounds like for this for Zeno it's not technically you all purchased this company this as a private equity. So it technically it would go to you, right? Like that the billing and everything? Okay.
+Iggy Javellana: Yeah, but I'm not a semi employee, right? So but I have another company one company I 2 of them are on GCC High, right? I don't need but they may they might need a GRC tool.
+Robin Barrow: Right. Okay. I see.
+Iggy Javellana: So I have another company that is on a commercial tenant. That needs to be that would PreVeil would probably be their best solution, right, for a coo on cleave.
+Robin Barrow: Yes. Okay.
+Iggy Javellana: So I've got so I said I have a bunch of different use cases where yeah, startups. I have somewhat mature companies that are on commercial tenant and it's really hard to flip them over to GCC, High tenant, right? I might even say, hey, use I use PreVeil.
+Robin Barrow: Right. Right.
+Iggy Javellana: I actually have one company now. That's like that. I mean, they're actually are using not. No, but I have another company called do differ freight services in Maryland that's using PreVeil.
+Robin Barrow: Right. Oh, okay. Yeah. And they and remind me all the billing it just as far as like
+Iggy Javellana: How all those unique companies are all subscribed themselves? Okay. I am like a partner.
+Iggy Javellana: Okay. I am like a partner because I'm the one recommending you should use PreVeil or not use PreVeil.
+Robin Barrow: Yes. Okay. In that case, yeah, let me ask to see if you because we partnered with a company called is to get our Dr tool. We were like if a company is already doing it, doing a great job and it where the wheel type of deal. I let me just see if it would go through us. Or if you could just go to is directly for those other individuals that aren't PreVeil.
+Iggy Javellana: Because what I would just tell you just from a pure commercial perspective. There's a lot of us private equity types out there. That play the role I play, right? So right in technology partners. So we work for the investment company. We don't work for the company, but we do everything from the diligence. When we decide to buy the company or assess to buy, we do that upfront diligence work. Then if they become part of us, then we're the ones that help put together the whole it roadmap, right? right we should move you from James to delta, right? Or we're gonna keep keep you on sap, right? There's all kinds of different stories and part of that whole thing is I also have the cyber security partner for the firm.
+Iggy Javellana: I need to ensure a lot of all the ports are meeting their cyber security requirements, both externally audited like government contractors or even commercial companies. Like we have a company that sells mattresses, makes it sells mattresses. So if you want to macros you say Iggy what's that company name that? Yeah, we own a company that does that.
+Iggy Javellana: And that's why they could use a GRC tool.
+Robin Barrow: Okay. Yeah, I mean, in that case, I'm gonna talk to our team to see what we do as far as selling the CRC without having them be on PreVeil the other piece too. I think it'd be beneficial for you to talk to our partners team just because of how many hands you have within additional companies. Just to give you resources. So like, when you do talk to a new vendor and you're like here's PreVeil, here's all the documentation you need on PreVeil. This is how you use it. We're still gonna run through the welcome call would still run through training. The
+Iggy Javellana: Company would have a direct agreement with PreVeil.
+Robin Barrow: Okay. All right. Yeah. So but more like a referral partner.
+Iggy Javellana: Yeah. Then I become like a referral partner, exactly.
+Robin Barrow: Okay. Yeah. No, I think it would be if you're up to it. Yeah.
+Iggy Javellana: Because we have a bunch, right? Yeah. I have we bought a few old storage system supplies to the us government in Alaska, right? Who have thought
+Robin Barrow: Yeah. There you go. No, it's crazy out there. But no, I think that would be great and helpful, especially for the smaller guys, again, if they're on GCC High and they can afford GCC High. And if they've already moved over to it, we're not gonna
+Robin Barrow: It's such a beast. So the other thing is to we a lot of individuals that use GCC. High they use us for the third party communication. So if they need to share out so they don't have to subs the individual
+Iggy Javellana: Costs.
+Robin Barrow: Yeah. And the guest accounts is what they're called. So yeah. Yeah, that's
+Iggy Javellana: It you send me the quote on on the GRC tool and then the documentation or videos on it. So at least I can go through it. That would be super helpful.
+Robin Barrow: Yeah.
+Iggy Javellana: Yeah. If you want to talk to your partner team or you have them reach out to me or I can do if you give me their names, I'll reach out to them to see what they have.
+Robin Barrow: So I mean, I could even for the C 3 Pao too. I want to chat with them, so. I'll definitely connect you. Okay. The other piece I want to mention. So I know you're up and running in PreVeil, but have you actually gone through a training with our team?
+Iggy Javellana: You've only done the training with the it admin.
+Robin Barrow: Okay. I don't
+Iggy Javellana: Know. We did set up a call right before Christmas. Like on the 23rd with I forget the gentleman's name now. I mean, I think we got it. We understood. We actually had it he just went really fast, but that's okay. I
+Robin Barrow: Was in that was it Chris Vinita?
+Iggy Javellana: Yeah. Who did the training, but he speaks really fast. Oh, okay.
+Robin Barrow: Oh, you have a call with Jamie plan today too at two?
+Iggy Javellana: From yeah. Is that on your compliance team?
+Robin Barrow: That's he's compliance. He's our partner compliance team. So I would chat with him. Okay. As well. He's specific for the C 3 Pao, but even around the partner relationship. He'll he'll be able to chat with you about that. I'll bring that up. Okay. Great. And yes, you met with Chris Benito. He's been with PreVeil for 7 years. He talks. So fast, extremely fast. So I get he just knows the product inside it out. Great guy. I was telling Chris I got a slow down. You're the fast talker. But okay. I'll send over more resources. You are now. They have 20 standard users, which is a good amount. I'll if they would like I can set up a standard user training too. I'll send over the resources for you to have okay. We have like a standard user guide. And just yeah, I got
+Iggy Javellana: I listed name of users. We're not they're not in PreVeil, yes. Yet, because like, okay, the reason is they're using computers where they cannot install it.
+Robin Barrow: Oh, okay. Because
+Iggy Javellana: They're locked down.
+Robin Barrow: Oh, okay.
+Iggy Javellana: Right. Yeah. They're working for, they're not my computer and that's a whole different thing, right? Because I get my computers where I can control it, but they're using other companies computers which are locked down. So they can't like I just for my own use and I know I shouldn't have done this, but I did it because I'm not dealing with any data right now is actually out of my personal device, right? Which is okay. Good.
+Iggy Javellana: Okay. Yeah. But that's kinda why so I'm just going up this steep learning curve.
+Robin Barrow: Okay. I mean, that makes sense. We have customers that use government issues computers too and they're like we're gonna have to get bring your own device type of deal for this
+Iggy Javellana: Yeah. Bring your own device has managed.
+Robin Barrow: Yes. Yeah, yeah. It's a beast. Um
+Iggy Javellana: Which I have to do is just that. So I really don't have a lot of users in it because we're not handling right now. We're not handling any cut. The RFP we're responding to is a fairly public RFP.
+Iggy Javellana: Is on the public on a public department or site, right? It isn't like it's protected anyone could have been. Okay. So
+Robin Barrow: That does make sense to me. All right. That's fine. I'll schedule a call for us to connect 90 days or so we call it our 90 day check in. So if you get closer and you start seeing c,_i come across their desk and we need to get this up and running depending on what device device I can help out. Okay. Great. So honestly
+Iggy Javellana: Stuff.
+Robin Barrow: I'll send you the GRC stuff. I'm gonna wait to connect you with the partners because you're chatting with Jamie today.
+Iggy Javellana: With him.
+Robin Barrow: Yes. He's he's a good resource. He was the one I was going to loop you in with anyway. So I'm glad I took a look. And then yeah. Other than that, you're kind of off to the races. You already had the technical onboarding. If you need more help. Again, I'm your main point of contact. That's where I sit. So if you don't know who to reach out to when it comes to compliance or technical, go to me. Okay. And then I always just mentioned this if you need to add any additional users, the way we do it you reach out to me, let me know. The system will never stop you from adding users. Because we like, if you had an emergency situation, you need to sign something securely. We're just gonna let you Adam. We'll just co term your contract. You just let me know how many and we'll take it from there.
+Iggy Javellana: Okay.
+Robin Barrow: Anything else? Yeah. Good. Great. Awesome. I'll send a follow up just giving to the end of the day. Other than that. I look forward to working with you Iggy and I'm in a few. Okay.
+Iggy Javellana: Thanks, bye. Bye.

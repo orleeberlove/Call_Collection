@@ -1,0 +1,101 @@
+Account: Werner Electric Supply Company
+Call Date: 2026-01-22
+Duration: 00:16:23
+Participants: Andrew Meggs, Logan Wilson, Mitchell Conard, Randy Adamson
+
+======================================================================
+
+Andrew Meggs: Hello Mitchell.
+Mitchell: Hi there. How are you doing today?
+Andrew Meggs: I am cold actually. How are you?
+Mitchell: Cold.
+Andrew Meggs: Where are you all load again?
+Mitchell: Wisconsin
+Andrew Meggs: What part?
+Mitchell: Green Appleton I'm in Appleton.
+Andrew Meggs: Oh, okay. You're in Appleton. Okay. Yeah. Yeah, yeah. I'm in Minnesota myself.
+Mitchell: Gotcha.
+Andrew Meggs: I'm over in St, Paul.
+Mitchell: Yeah. It's supposed to be negative.
+Andrew Meggs: 40
+Mitchell: With the wind ship.
+Andrew Meggs: It's not as bad in the city, but it's still like a high of negative 20
+Mitchell: Yeah. It sucks. I haven't quite felt the wind chill yet. But I've been told it's come
+Andrew Meggs: Yeah. No, I um
+Andrew Meggs: My wife's whole family's from Wisconsin. So she's got cousins up there and yeah, it's uh
+Andrew Meggs: Yeah. I mean, it's bad enough here, but I really feel for you guys.
+Andrew Meggs: Um
+Andrew Meggs: Yeah. A few people were invited to this call though. Do you know if they're gonna be able to hop on?
+Mitchell: Let me see here. Um
+Mitchell: I would think so.
+Mitchell: But
+Mitchell: Just check their calendars quick.
+Mitchell: Oh, I don't know. I guess all I see on their calendars is
+Mitchell: This meeting Logan. Looks like he's got some travel later today, so he might not make it, but I would think Richie be on here for sure. Let me throw him a message quick.
+Andrew Meggs: I invited an m Connor r adamson grade and a Logan Wilson.
+Mitchell: Yeah. Or the or grade I would think would make it, but I'm not sure.
+Mitchell: Simple message.
+Mitchell: Oh, Richard's or our grade is he is on his way. He's gonna be joining here in a minute. So we'll just
+Mitchell: If you don't mind, wait another minute or 2 here. Sure.
+Andrew Meggs: So just to clarify, are you with Werner Electric or are you with Appleton?
+Mitchell: Everybody on this call should be with Werner Electric. I don't think the customer is on this call today.
+Andrew Meggs: But yeah, just just wanted to make sure.
+Mitchell: Yeah. Yeah.
+Andrew Meggs: So
+Andrew Meggs: Hello. Hello, there?
+Mitchell: Hey Eric. Hey.
+Mitchell: Randy.
+rgrajek: Said to record this meeting is being recorded. I know he will show he will be showing up late. So Randy will be here eventually.
+Randy Adamson: I'm here now. Just remind
+Randy Adamson: Good afternoon, everyone. Sorry about that.
+Andrew Meggs: Hello.
+Andrew Meggs: Is anyone else going to be on the way?
+Andrew Meggs: I don't think so.
+rgrajek: I don't see Logan software. I think he's gonna be traveling at the moment. So I think it's just off.
+Andrew Meggs: Okay. Well, I appreciate you hopping on a call with me. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. I know that you all are clients of PreVeil via heartland business systems, but this is for Appleton control systems via you guys. Is that correct? Just we're on the same page here.
+Mitchell: Yeah. That might be our internal it team that has that relationship with Harlan possibly. Yeah. That'd be my guess.
+Andrew Meggs: Okay. Okay. Most likely just but I just want to make sure we're all on the same page. So we're not no crossed wires here. So but I am also the customer success manager for your internal IT team. For context. Yeah, that is my role here is customer success manager. So I am the general main point of contact and account manager for both your account and any accounts that you bring to PreVeil going forward. So post sale account manager for any PreVeil accounts you have. And uh, this call is to introduce myself as the main point of contact and be kind of go over the onboarding process and make sure you don't have any initial questions.
+Andrew Meggs: Okay. That sounds good. So yeah, I guess for getting started with PreVeil, there's kind of 2 different pillars. There is the technical implementation of their PreVeil organization. And then there is the compliance implementation of getting them or whoever needed into the compliance portal, the compliance accelerator. So for the technical implementation of their of their organization, is that something that Werner Electric is going to be doing or are they going to be doing it and administering their own organization?
+Randy Adamson: My guess is doing that for the most part. Yeah, go ahead, Mitchell.
+Mitchell: In the same thing as you read it. I think doing that, yeah.
+Andrew Meggs: Okay. So basically you're going to be creating the organization being the administrator and then adding users to it and whatnot.
+Randy Adamson: Excellent.
+Andrew Meggs: Yes. And then who on all's end is actually going to be the person doing that.
+Randy Adamson: Probably the 3 of us and one more would be would have the responsibilities of doing that working with customers to get that done.
+Andrew Meggs: Sure. Well, I mean, there needs to be one specific person who actually creates the org. Do you know who that would be?
+Randy Adamson: We could put that under under an account Justin's account. Sure.
+Andrew Meggs: Sure. Okay. Uh, yeah. You'll need to basically each email address can only be tied to one organization. So you'll need to have an alias account.
+Randy Adamson: I got you.
+Andrew Meggs: So whoever is the person that does that they'll need have either be like Appleton control admin at Werner Electric or if you're able to get an email domain off them PreVeil admin at Appleton control systems.com, whatever their email domain is, but you would need to get an alias phase is you can do whatever you'd like. It's heavily recommended that you get an alias to to to create their organization. And so doing so fairly straightforward. Basically just you know, whenever you get that alias use that to download PreVeil, create a PreVeil account. And there's a specific local host address to go to that while you're logged in, will prompt you to create the organization. I sent the I sent those instructions over in the initial email that I sent. If I'm not mistaken, but I'll resend them after after this call. But yeah, basically there's there's like a video and there's instructions. The video is like an hour long, but the actual setup is only like 5 minutes. It's just downloading or creating an account and going to that specific email address or IP address. And then once that's done, you'll want to schedule the actual hour long onboarding training session with our support team. So if you want to include the end client in in that you can or if you want to just record it.
+Andrew Meggs: That is a hour long training session going over how to use PreVeil, as well as roles and responsibilities of an administrator. So that would be for definitely for the admins at the very least. But if you wanted to include the end users in that, you could
+Andrew Meggs: Okay. Yeah. That's kind of the technical setup at the very beginning is creating the organization and going through that onboarding session.
+Andrew Meggs: Separate from that is our compliance portal or so called compliance accelerator and our great do they have the GRC tool? Okay. They do it's the accelerator and the GRC bundle. So basically that's 2 separate sites. That so that's 2 separate logins. And I'm the person who adds people to that.
+Andrew Meggs: So for that, is that once again, kind of same question, are they going to be writing their documentation going through all this compliance stuff or is that something you're going to be doing?
+Randy Adamson: More than likely, it's something that we'll be doing. And cohorts are in conjunction with the customer, but I think we would be responsible for doing that.
+Andrew Meggs: Okay. For that, like I said, I add people to that who basically who all should be added to that they can have up to 3 people in there. And I guess who from them or from you all should be added to that.
+Randy Adamson: Andrew, can we get back to you on that one? Sure.
+Andrew Meggs: Yeah, basically. So I'll send a follow up email and you can just reply to that with whomever needs access. Also with the asterisk of specifically for the tool, that is once again, one e mail tied to one instance. So it might be a good idea to get an alias for that as well. If you're getting an alias for their PreVeil account, too. The accelerator I can add multiple people to that for the GRC tool. An alias is recommended for that too. If you plan on having multiple clients down the line with multiple different instances of the GRC tool. But whenever you can't or whenever you do decide who should get access to that just reach out to me and I can go ahead and add them.
+Andrew Meggs: Fantastic.
+Andrew Meggs: And then yeah. In terms of the very first steps that's kind of it is creating the org and going through the onboarding and then letting me know who should be added to the compliance portals the accelerator and the r tool. And then once you have both of those things kind of off to the races there. Okay. Yeah. So
+Andrew Meggs: I guess have you all use PreVeil much? I know your it team uses it, but do you have accounts?
+Randy Adamson: We have one customer that uses PreVeil industries.
+Randy Adamson: We work with them to get that instance stood up and get those. Well, use something different for a as A C tool at the time. But I believe we'll be migrating those those policies procedures, all the all that stuff over to PreVeil at some point.
+Andrew Meggs: Okay. I think is actually one of my clients as well. Um
+Mitchell: Okay. Cool.
+Andrew Meggs: No, that's Robin's client. Not mine. Do you to simplify things, would you want that transferred over to me.
+Randy Adamson: Mobile. It doesn't change it's everything under one yeah. Yeah. Yeah, it keeps everything under. You're familiar with it, but we're familiar with it, right? Yeah. Yeah, that'd be good.
+Andrew Meggs: Okay. Yeah. I'll I mean, I'll need approval to move that over, but it's not a big deal. Especially since I'm already Werner Electric actual customer success manager for your team as well. Um
+Andrew Meggs: I will move all that over. But yeah. I guess while I'm getting approval for that. Do you have any questions about PreVeil or any points of clarification here at the beginning of the process?
+Randy Adamson: I don't think so. Um
+Randy Adamson: I'm looking for more familiarity with the admin portion of it. And I think going through that onboarding process. So that one hour onboarding session would be will be where most of my questions on my end.
+Andrew Meggs: Yeah, sure. Probably that's the case. And then also, I guess just a delineate the different teams here. So the support team does the onboarding the technical support team. They also answer any bugs or technical issues. They're available to support at PreVeil.com. Are we have a separate compliance team that they are the people who wrote all the compliance accelerator, documentation and everything? they're available at compliance at PreVeil.com. If you have any questions about once you get into it, the compliance documentation or the GRC tool or anything. There's also a direct link to their calendar and the accelerator. And then I am kind of the general main point of contact. If you're not sure who to talk to. If something needs to get escalated or account type questions, like they need to add a license subscription, all that sort of thing.
+Andrew Meggs: So awesome. Yeah, the only other thing I like to do on these calls is I like to set up a 90 day check in call with everybody just to make sure things are going smoothly. Obviously, you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for April? 20 second? Is 90 days from now?
+Randy Adamson: Richard, do you have time?
+Randy Adamson: Sorry, I was muted. Sure.
+rgrajek: April 22nd.
+rgrajek: Yes, I have time on the 22nd.
+Andrew Meggs: Okay. I will add everybody then. And then obviously it's just a check in call. So if we need to move that or if you if everything is PCI keen and they don't need a call, it's fine. But yeah, I will send I will put this on the calendar. I will send this follow up email kind of going over everything that we talked about and including the instructions on how to set up their org and a link to the support team's calendar to schedule that onboarding session. And then if whenever you decide who should get access to the compliance portals just let me know their full names and email addresses and I can go ahead and add them.
+Randy Adamson: Sounds great. Sounds good. Thank you, Andrew.
+Andrew Meggs: Yeah. Thank you, all. And it's great to meet the 3 of you all. And stay warm out there. Yes, you as well?
+rgrajek: Thank you. Bye.
+Randy Adamson: Bye.

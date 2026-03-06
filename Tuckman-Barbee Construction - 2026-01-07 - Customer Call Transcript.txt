@@ -1,0 +1,89 @@
+Account: Tuckman-Barbee Construction
+Call Date: 2026-01-07
+Duration: 00:16:03
+Participants: Andrew Meggs, Daniel Holoski
+
+======================================================================
+
+Michelle S GSR Annapolis MD: So
+Michelle S GSR Annapolis MD: Hi, hi.
+Andrew Meggs: Hello. Hello, everyone. It's this is everybody, right?
+Michelle S GSR Annapolis MD: I think we're yes. Yes, this is everyone.
+Andrew Meggs: You don't have to turn your cameras on if you don't want to. There's no peer pressure, but but I guess we're all here. So thanks. Um
+Andrew Meggs: Honestly, hopefully, this won't take too terribly long, anyways. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. The bulk of what we would have talked about on this call. Looks like you've already done you've got your org setup of got you all on the accelerator and the DC tool. But I still wanted to have a quick chat just to walk in Vale introduce myself as your customer success manager and make sure you don't have any initial questions.
+Andrew Meggs: Okay. Yeah, I guess to that point. Hi, I'm Andrew. It's nice to meet you. I am the customer success manager for your account. So what that means is I'm your general main point of contact and account manager here at PreVeil going forward. So yeah, this call is kind of does just to make sure there isn't any initial problems. The yeah, just to double check that there aren't Michelle and Matt looks like. Yes, PreVeil accounts have been created and set up, right?
+Andrew Meggs: And did you have you all gone through onboarding with our support team yet? Have you scheduled that yet?
+Michelle S GSR Annapolis MD: Yeah, I scheduled it. We're on the 12th.
+Andrew Meggs: Okay.
+Michelle S GSR Annapolis MD: I'm kind of going through the video ahead of time and all that.
+Andrew Meggs: Sure. Sure. I mean, it'll be somewhat redundant. It is basically just like a training session and a lot of it is what's in the video. But but it's still good to get that live session to make sure you don't have any questions or anything. They'll be able to answer. So yeah, the support team kind of does that and I guess let me just start by kind of delineating duties here. A few different teams here at PreVeil. The support team, the technical support team will be doing that onboarding. They're also the people that handle any like, technical issues or bugs that. Hopefully that won't be relevant. Separate from that is our compliance team who has created all the compliance accelerator content and all the documentation and everything. They're yeah. They're a separate resource available to you at a compliance at PreVeil.com. And also there's a link to their calendar and the accelerator. So if you have any compliance or seen them see related questions they're available to you. And then I am kind of the general main point of contact. If you're not sure who to talk to. If something needs to get escalated or account type questions, like need to add a license subscription renewal. That sort of thing would be me.
+Michelle S GSR Annapolis MD: Okay. Okay.
+Andrew Meggs: But yeah. So considering you've already got it set up and you're already in the accelerator and the GRC tool. Any issues with getting into this or have you looked at it, much any of the videos or anything have you gotten into those much?
+Michelle S GSR Annapolis MD: In the this the tool um
+Andrew Meggs: Yeah. It's kind of 3 different things. So there's the app itself.
+Michelle S GSR Annapolis MD: Accelerator is what I'm kind of doing now. I've gone through most of that. Not quite yet. The GRC tool.
+Andrew Meggs: Sure.
+Andrew Meggs: Yeah. So so yeah, a lot of different things here at the start of the apologies. But this is this there's the PreVeil app itself, which is the actual secure file storage and sharing. And then there's the accelerator, which is the doc series or courses on compliance. And then there's the C tool which is like the project management tool for like, going actually doing the work of compliance. So a lot of different moving parts, 3 different websites, 3 different teams on our end as resources. But that's kind of why we like to have this call so that I can clearly delineate everything for you. I guess in the initial
+Andrew Meggs: Going through PreVeil and getting into the accelerator, have there been any issues or do you have any questions about anything here at the start of the process?
+Matt Bonzella: I had one question and I might have just jumped too far too quick, I guess, is when I did my registration. And I got into the app for the first time. And it asked me about um
+Matt Bonzella: I guess linking to outlook or creating a._i don't know what it actually asked me, but I said yes. And it. It paused for a little while and then it said it was done. And now, when I open up my outlook, my just my regular outlook on my desktop, I now get a question of 2 profiles.
+Matt Bonzella: It says outlook and then Matt.
+Matt Bonzella: And they look the same except they're not syncing. If I go to one or the other. So I have a feeling I might have done something. I probably shouldn't have done. Um
+Matt Bonzella: Or too early, I guess. Or maybe our outlook isn't configured properly or this might be a technical question. I'm not sure if you can answer.
+Andrew Meggs: I might be able to answer depending on what the situation is. Are you on outlook classic or new outlook?
+Matt Bonzella: Um
+Matt Bonzella: That's a good question. Are you talking about just the view most
+Daniel Holoski: Likely classic. If I had to guess that you tell them what the new outlook if it's if your outlook still looks like, it's looked like for years.
+Matt Bonzella: I'm still on the classic, correct?
+Andrew Meggs: Sure. Okay. It sounds like you've downloaded the or installed rather the outlook plugin for PreVeil. So what that basically does is create a separate inbox in your outlook. That is your that is a PreVeil inbox. So it connects to your actual PreVeil account. So it wouldn't sync to your normal outlook inbox because it's a completely separate
+Matt Bonzella: Inbox. I don't know what I'm saying is it isn't it didn't happen though. Okay. It's but what it did do, like I said, is when I open my outlook, I actually get to it says choose profile, profile name, outlook or Matt. And if I go to outlook, it's basically the same. It's the same email. Everything's the same or whatever if I go to if I do the same thing and I go to the Matt profile. Um
+Andrew Meggs: Yeah, unfortunately. I that's about the extent of my knowledge of how to fix this. So I would bring that up during the technical onboarding. They'd probably be able to give you a better answer about what might be happening there. Just offhand. I'm not really able to tell exactly what the issue might be.
+Matt Bonzella: No understanding.
+Daniel Holoski: Yeah. I guess that's probably good be a good point for me to jump in and granted. You might not know all of the answers. I'm Dan by the way. We handle the outsourced. IT support for tuckman. I just found out about you guys late yesterday and this is all brand new to me. Obviously we've you know, we've got a number of clients that are dealing with CMC compliance and it runs the gamut and we have we've had some clients that for better or worse have this process has pushed us out, which it I mean it happens, it's fine. We have a client that's going to full level 3 compliance and they were at least pulled by the company. They decided to go with that. Their IT support also has to be CC compliant and then they couldn't use us anymore. Whether or not it's true or not. I don't know it, but it is what it is. I know that there were a couple of firms that token is looking at. That looked like they would be taking over. Some of the it support because again, they had fed rep said ramp based solutions that we don't have access to. I'm not sure as far as from and I haven't had a chance to look from PreVeil perspective where I guess it seems like this is more of just kind of a front end service. It's not really gonna change what we have to do from an it support standpoint for tuckman. It doesn't seem like that role will change except that we might be doing some troubleshooting with them with their outlook profile example.
+Daniel Holoski: But I just wasn't sure because I don't really know the extent of what this solution is doing. And it might be that might be more appropriate for the onboarding call on Monday.
+Andrew Meggs: Sure. Answer there isn't much for IT support to do. It's kind of it's PreVeil is a because a black box app, it doesn't connect really to anything. It doesn't it wouldn't impact their back end systems or anything at all. All of our stuff is in the AWS gov cloud. The only thing that would connect to their systems would be the outlook plugin that. And then even then that's like, optional.
+Daniel Holoski: Gotcha. Um
+Andrew Meggs: But other than that
+Daniel Holoski: It does is basically creating a whole separate secure tenant that they're gonna be accessing all of this data from
+Andrew Meggs: Right. Basically. Well, I mean in
+Daniel Holoski: A high level area.
+Andrew Meggs: Sure. Yeah. The that's the very short answer. You could
+Andrew Meggs: It can also be synced down to local devices where synced to their windows explorer. It will like touch their endpoints and to be CC compliant. Their endpoints will need to be harden and secure for any any device that has PreVeil on it. But in terms of actually interacting with any other software or any servers or anything, it won't connect any of that.
+Daniel Holoski: Gotcha. Okay.
+Andrew Meggs: So yeah. The only things would be the integration with outlook, which is optional. And then any complications with syncing down to local devices, which is also optional. And then the only other other thing would be it does need to be downloaded. So I don't know if all end users have admin, abilities to download things on your computer or
+Daniel Holoski: Yeah. Like I said, mostly, I was just kind of we've kind of been in a holding pattern going through all of these, not quite sure where our role roles would land when it all ended. Sure. Which is understandable because the solutions run the gamut and so forth. So yeah, we've kind of just been waiting to see where things would land and I still wasn't quite sure when Michelle sent me these emails yesterday where the solution fits what with that and where I want to make sure we service them as best as we can. And you know, I wasn't sure where we would still be doing stuff and not doing stuff. So. Sure. But that might be more I'll that'll make a lot more sense on the on boarding. So yeah.
+Andrew Meggs: Yeah. They'll go through everything. And then but the short answer to your question is it's its own kind of it's its own thing and it won't really interact much as its own tenant. But yeah. Any other questions or anything else you all wanted to go over?
+Andrew Meggs: And by the way, I'll be sending all this in a follow up email too. So don't have to necessarily memorize everything. There won't be a pop quiz. But um
+Matt Bonzella: Is that what you recommend is going through the the onboarding videos and just starting to work through everything? Is that where we should be right now?
+Andrew Meggs: Or just waiting until you go through the actual on boarding session with the support team that's already been scheduled. And they'll go over everything and answer any questions you might have. Yeah.
+Matt Bonzella: Okay. All right.
+Andrew Meggs: You can go through the onboarding videos if you want. If you've got a burning desire to do so. I'm
+Matt Bonzella: Just trying to get ahead just trying to yeah. You certainly
+Andrew Meggs: Can or if you want to start on I don't Matt, did you get access to the accelerator? I know I had some okay. Yeah. If you wanted to get started on those videos or yeah, if you wanted to get started on the on boarding videos, you could. But yeah, it's up to you. Okay.
+Matt Bonzella: And because we're well, actually that's a good question about the accelerator. I know it kind of sets up like a report card. It's got all the different tasks and it's got completions and scores and stuff. Because that's not
+Andrew Meggs: Really anything that's kind of for your own?
+Matt Bonzella: Using it? Yeah. No, no, I understand. Well, I guess I was gonna ask my question is that so even though Michelle and I are both listed as admin, we'll have our own, right? if she's going through it herself, I can I'll be gone through it myself as well, correct? Yeah. That doesn't sync or whatever.
+Andrew Meggs: No, it's 2 separate accounts. Okay. Okay. Okay.
+Michelle S GSR Annapolis MD: All right. Good. In the agile. And it did have like, which I might have sent to you, Dan. But it did have like an it list, like the first 3 steps and it said give this to your IT administrator and I don't know you were you look
+Daniel Holoski: Yeah. That'll that's all my to do list for tomorrow. I haven't had a chance to read it yet. Oh, no, I will go through that.
+Michelle S GSR Annapolis MD: It's there. I know that there was something there.
+Daniel Holoski: Yeah, I'm sure it is. Like I said, I just yeah.
+Michelle S GSR Annapolis MD: Okay. Cool. Um
+Andrew Meggs: Yeah. And I guess now that I think about it, that would be something you'll need to be involved in. Dan is the some of the policies procedures writing that. Cool. Yeah. Awesome.
+Andrew Meggs: But yeah. The only other thing I'd like to do on these calls is I'd like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously you can reach out to me before then. But do you mind if I put some time on the calendar for April? Seventh is 90 days from now?
+Michelle S GSR Annapolis MD: Sure.
+Andrew Meggs: And what time zone are you all in?
+Michelle S GSR Annapolis MD: Zone. Yeah, eastern eastern. Okay.
+Andrew Meggs: Okay. I'm in central. So okay. A little bit earlier for me. So yeah. Yeah, I'll put this on the calendar and you know, once it gets closer to that data, obviously, if we need to change it, we can. And then while I'm doing that, did you have any other questions or anything else you wanted to go over?
+Matt Bonzella: Yeah. Andrew one more quick question. I know you mentioned there's like, 3 separate websites. I guess there's like the actual PreVeil application or website with the email and the drive and everything. And then there was the accelerator. What about this the GRC is or whatever. So that is what is and that's for actually that's actually tracking our status through cms, is that correct?
+Andrew Meggs: Correct. Okay. It's a the short version is it's a project management tool. So when you complete a task, you'll click the checkbox that says I've completed this task and it'll be recorded and everything and helps to fill out all the documentation.
+Matt Bonzella: Okay. Great. Great. So, okay.
+Andrew Meggs: Yeah. And then I'll include all the contact information I was mentioning earlier as well as the links to to the tool and accelerator in my follow up email.
+Michelle S GSR Annapolis MD: Okay. Okay. Sounds good.
+Andrew Meggs: Yeah. And then yeah, unless there's anything else you guys wanted to go over or any other questions you had? I can let's I'll get back to it.
+Matt Bonzella: Okay. No, I'm good.
+Michelle S GSR Annapolis MD: Yeah, I think we're good. Good.
+Andrew Meggs: All right. Well, I very much appreciate you all s time and it's great to meet the 3 of you and I hope you'll have a great rest of your day.
+Michelle S GSR Annapolis MD: All right. Thanks.
+Matt Bonzella: Daniel, Dan, can you call me in the office? Do you have another 5 minutes? Sure. Yeah. Okay. Thanks.
+Michelle S GSR Annapolis MD: All right. Bye.

@@ -1,0 +1,66 @@
+Account: TYPSA-Aztec Engineering
+Call Date: 2026-01-06
+Duration: 00:09:47
+Participants: Andrew Meggs, Alberto Sánchez, Mark Chase
+
+======================================================================
+
+Mark Chase: Hello, Andrew.
+Andrew Meggs: Hello, Jesse.
+Mark Chase: I'm actually Mark chase. It looks like Jesse join them too.
+Andrew Meggs: Yeah. Well, no, I was just saying hi of
+Mark Chase: Both high Mark. Okay. Gotcha. Gotcha. Hi.
+Andrew Meggs: Hi, how are you all doing?
+Mark Chase: Hey, good.
+Andrew Meggs: I appreciate it. Is it just and I think a couple of other people were invited to
+Mark Chase: Yeah, I don't Alberto is in Spain and today's a holiday in Spain. So I'm not sure if you accepted or not.
+Andrew Meggs: Sure. Yeah. I appreciate you hopping on. This is mostly supposed to be just sort of like a introductory call. Perfect. So this is not really it's okay if not everybody's on this call. Yeah. For context, I am the customer success manager for your account. So what that means is, I am kind of your general main point of contact here at PreVeil. It looks like you've already got your actual PreVeil organization itself created in the system. But I appreciate you all taking the time to to meet with me just to kind of say hi and let you know, I exist, but be make sure you don't have any initial questions or anything like that.
+Andrew Meggs: To that point. Hi, Andrew. Nice to meet you. Yeah. So so like I was saying it looks like Jesse you and Alberto. Do have the PreVeil organization itself set up with you as admins. Is that am I seeing that correctly?
+jesse: Yeah. It just Alberto and myself. Nobody else is set up yet.
+Andrew Meggs: Okay. Have you gone through the actual onboarding training session with our support team yet?
+jesse: No. We have not I thought that's what this was, but
+Andrew Meggs: No, yeah. A slight like a slight miscommunication there. Yeah, this is mostly like I said, just sort of an intro call the actual well, it's called an onboarding call technical. You can use PreVeil now that you have a set up. It's really more of a training session than anything. That's with our support team and I'll send you a link to schedule that after this call. I think I might have included in that email chain. Gosh, I feel like it's before holidays post holidays. It's always kind of a blurb exactly how long ago things were. But yeah, I'll resend that to you though. And so basically now that you've got the org setup, the next step would be to schedule that training session. So that will be how to use PreVeil and then also admin roles and responsibilities and stuff like that.
+jesse: Okay. Sounds good Andrew. So if we have any questions, we can reach out to you, but essentially we need to do that training. And that's what I thought. This was
+Andrew Meggs: So sure. Yeah.
+jesse: My apologies.
+Andrew Meggs: Yeah. No worries. So I mean, I guess just to clarify roles here the support team will be doing that training and they are the people who also do any have any if you have any technical problems which hopefully you won't. But in the event that there are any bugs or technical issues that would be with our support team at support at val.com. And then I'm kind of the general account manager. If you're not sure to talk to if something needs to get escalated or if you had any account related questions, like if you wanted to add a license subscription rule, that sort of thing would be me.
+jesse: Okay. Mark I did find that link. So what days are you available for the training?
+Mark Chase: Well, we can work that through offline. Okay. Okay. Yeah, yeah. I guess the as far as an introduction goes that's clear to me Andrew that you're are if I took down correctly, a customer success account manager or something like that and
+Andrew Meggs: Technical, the title is customer success, but for all intents and purposes.
+Mark Chase: Account manager. Yeah, yeah. So but technical issues will run to the support team and if we're not getting what we need from them, we're gonna come knock on your door.
+Andrew Meggs: Yeah. And I can metaphorically break some thumbs for you to make sure stuff like
+Mark Chase: Perfect. Yeah, that's no. But our
+Andrew Meggs: Our support team is great. They're very responsive. But you know how it is. Sometimes things that gotten spam filters are lost in the shuffle. So something or if the like something's on fire which not that never happens. But you know, in the theoretical event that something was on fire, you could come to me to escalate something.
+Mark Chase: For sure. All right. Yeah. No, that's it's a short call is a good call. Yeah.
+Andrew Meggs: Normally on these calls, I like, walk through how to create the org and that all stuff. So since you've already done that covers most of what we would have to
+Mark Chase: And Jesse, if I'm not mistaken, we probably were walked through how to do that by do.
+jesse: No. Alberto set it up himself.
+Mark Chase: Out.
+jesse: Yeah. I haven't even really touched it. So okay. Yeah. I haven't even had a chance to touch it yet, but yeah, that's I was kind of waiting on that training call Alberto Alberto what said. Just to let me know after.
+Mark Chase: Fair enough. Yeah. I mean, in all honesty, Andrew we're at the very infancy of this. And as far as where we're going with things and etc, that's we're just scratching the surface of what we're gonna gonna need and do and decide so.
+Andrew Meggs: Okay. Well, yeah, I mean, our support teams here is a resource and I'm always here as a resource. I was saying. Yeah. And then the only other thing I like to do on these calls is I'd like to set up a check in call a 90 day check in call just to make sure things are going smoothly. Obviously you can reach out to me before then. But do you mind if I put some time on the calendar for April? Sixth is 90 days from now?
+jesse: Yeah. I guess I'm fine with that. Yeah. And hopefully, Alberto be able to get on my call.
+Andrew Meggs: And where are you located or what time on Maryland?
+jesse: Phoenix Arizona. So our time zone never changes. So right now, it's 2:00 pm. There's no daylight, daylight time.
+Andrew Meggs: So I'm in Minnesota myself, so
+Andrew Meggs: Slightly colder. But but an hour ahead, so I'll okay.
+Mark Chase: Let's yeah. If you might um
+Mark Chase: Monday Mondays are pretty tight for me. And I would like to to be involved in that call.
+Andrew Meggs: Can be wherever you want. It's just that's what 90 days.
+Mark Chase: To the seventh if you don't mind. Sure. Yeah. I guarantee that I won't end up with a conflict, but there isn't anything there now.
+Andrew Meggs: Is 9:00 am to earlier, or would you prefer later than that? I can also do 10:00 a.m. That day your time.
+Mark Chase: 10:00 a.m. Would 9:00 a.m. Is not too early, but I have a meeting. So 10:00 a.m. Would work actually if you were looking at the morning on the sixth, I thought you're talking the same time.
+Andrew Meggs: No. No, no, that was in the morning. Yeah. The morning of the sixth.
+Mark Chase: Yeah. Now, Jesse and I start early. So and actually earlier would be better for Spain, especially in April. They're gonna probably be 9 hour. I can't remember I don't remember when time changes, they're 8 or 9 hours ahead of us. So 700 our time o 8 hundred, it's fine with us.
+Andrew Meggs: Sure. Yeah, I can put something on the calendar for a little bit early that time. And then I will be sure to invite Alberto as well. Yeah. Then I'll send a follow up email. Just see all of my contact information and then also with that link that I was talking about. Okay. Then um
+Andrew Meggs: Yeah. So also
+Andrew Meggs: Just so I'm pronouncing this correctly. What is the actual name of the company is it Typsa? Or AZTEC? Or who?
+Mark Chase: Typsa is pronounced Typsa or
+Mark Chase: Some people might call it Typsa, but it we just say Typsa. Okay. I Typsa is an acronym for some Spanish words. Technique per to say is the incorporated in Spain and I've butchered the Spanish accent. I
+Andrew Meggs: I took German. So I really have no idea.
+Mark Chase: Yeah. And as tech we may have started this when were called we as tech has been owned by Typsa.
+Mark Chase: Since 2,006. But we just recently have formally changed our name, but they're still gonna see as tech. So as tech and Typsa are the same thing.
+Andrew Meggs: Okay. Okay. Just making sure. We're on the same page and I don't want to miss anything or anything. But yeah, I just put that on the calendar for not January, six, April, sixth. And I will send this follow up email to everyone. And if you do like I was saying, I have any questions or if you need anything you'll have my contact information, so please don't hesitate to reach out. Perfect.
+jesse: Okay. Okay. Thanks Andrew.
+Andrew Meggs: Yeah. Thank you all. And yeah, I hope you'll have a good one.
+Mark Chase: All right. Bye.

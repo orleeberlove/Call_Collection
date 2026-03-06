@@ -1,0 +1,54 @@
+Account: Tactair Fluid Controls Inc.
+Call Date: 2026-01-13
+Duration: 00:06:28
+Participants: Andrew Meggs, Dan Tran
+
+======================================================================
+
+dtran: Hey, Andrew.
+Andrew Meggs: Hello Dan?
+dtran: How are you doing, happy?
+Andrew Meggs: New year, happy new year. How are you?
+dtran: I'm okay. I think
+Andrew Meggs: Well, as long as you think you're okay, that's the important thing.
+Andrew Meggs: Yeah. I appreciate you being flexible with the scheduling here and hop on a quick call. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like an informal check in call. So there's not really like a presentation or anything like that. I do have have a couple of things that I normally go over. But before I get into it how are things with PreVeil or just in general?
+dtran: I mean, like we we automate like a few months ago, but we haven't using it yet.
+Andrew Meggs: Sure.
+dtran: I'm still on the process to set up as usual and then we not really fully implemented yet, so
+Andrew Meggs: Okay. I guess is there are there any problems with using it or you just haven't set things up yet?
+dtran: It's not a problem. But I mean we set up a couple. We actually take up a workstation, we can stop client and we have like, the huge list. Yeah, to set up for them and that's not a problem. We will be using it, you know.
+Andrew Meggs: Sure. Yeah. No, that was actually gonna be one of the questions I was gonna ask. Is I have you managed to use it yet with getting the users in the system? Is there anything you need from our end for getting things set up or is it just a matter of, you know?
+dtran: So yeah. I just set up a couple of usually for them to test it out. So I'm sure process is simple it's not that hard. So I don't think any problem. So
+Andrew Meggs: Okay. In that case, if you haven't really used it much, there's not you know, most of the other questions I have are about using it. So if you haven't used it much there's not to I guess what little you have used it. Have there been any problems?
+Andrew Meggs: Or issues?
+dtran: I don't see any problem yet.
+Andrew Meggs: Okay. Okay. Well in that case, yeah. There's not a ton to talk about if you haven't used it, much if there are any problems or issues or if you need anything definitely reach out to me and I will I will help or at least to get you to somebody who can help.
+dtran: I believe maybe next month. Maybe next month, February or market 2 month. I have to everybody happy using it, so. Okay. I think that's we need to we have the we have to comply with the CRM cms level 2 and we don't have the the audit until September but we have one in may. So I think we've before may everybody have to using now, but we verify to to start the C documents. I think, like in the next couple of months. You very busy with the real
+Andrew Meggs: Yeah. If you are looking to get CC compliant by September are you already working with the consultant or stop or anything like that yet? Yeah.
+dtran: We were working with yeah, with some company to to do a certificate for us. So
+Andrew Meggs: Okay okay yeah I guess yeah if there are any issues or if they have any questions or anything let let us know
+dtran: They ask a couple of western they're asking about PreVeil they're asking me how to follow the log file to to to somewhere out. Do you have any in trucks on on how to do it?
+Andrew Meggs: Yeah. I guess just for starters, do you know? What are you able to share what company you're using?
+dtran: We're using cyber.
+Andrew Meggs: I'm not familiar with them. It's just there are some companies that are kind of already familiar with PreVeil and some that aren't. I'm not familiar with that one though. In terms of sharing sharing. Are you saying sharing a locked folder?
+dtran: Or no, no, no, no, fine. Whoever like not find it is usually something like that, you know?
+Andrew Meggs: Yeah. So basically how that would work is the admin would do a data export to export all the logs. And then you could share that with whomever after you've
+dtran: Set up a connection. So any log to to read.
+Andrew Meggs: Oh sure yeah I think I understand what you said I are you talking about like connecting it to seem to get
+dtran: Some yeah.
+Andrew Meggs: Sure. Yeah. Yeah. We do have a seem connector. So that is possible. Yeah.
+dtran: Yes. What I need if you have something for an about, can you let me know and then
+Andrew Meggs: Yeah. So unfortunately, it is like another product it would like cost money, but I can send you information.
+dtran: On that. What do you mean? Not a product cost money? That's a connection for probably were
+Andrew Meggs: Yeah. The thing is our logs are encrypted themselves. The logs are encrypted. So to de crypt them and send them to a scheme that needs like engineering work on our back end to set it up to be hosted. Any it's slightly more complicated than what it would be for like a normal firewall to connect to a sim or anything like that. Because PreVeil is so encrypted. Okay. That's so that's why it is. It would be an additional product on your subscription. It would be it would cost money to to set it up.
+dtran: How much cost. So maybe I can talk to management team maybe like a okay with that.
+Andrew Meggs: Sure. Yeah. It's like I don't remember off hand how much it is, but I can send a quote in a follow up email. Yes.
+dtran: Please. Okay. Um
+Andrew Meggs: But yeah, I can send that over for sure. And then we have like a little one page or 2 that I can share. Okay. About the same connector.
+Andrew Meggs: But
+Andrew Meggs: Yeah. Any other questions or anything else you wanted to go over?
+dtran: I think that's all I have for now.
+Andrew Meggs: Okay. I'll send this over and then as I was saying if you do have any questions or if you need anything else, let me know.
+dtran: Sure. Okay. All right.
+Andrew Meggs: Well, I will send this over and I appreciate your time Dan. And yeah, I hope you have a great rest of your day.
+dtran: You too. Thank you. Have a good one. Bye. Now

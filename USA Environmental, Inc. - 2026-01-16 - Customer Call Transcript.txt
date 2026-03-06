@@ -1,0 +1,133 @@
+Account: USA Environmental, Inc.
+Call Date: 2026-01-16
+Duration: 00:22:28
+Participants: Andrew Meggs, Robert Miller, David Conolly
+
+======================================================================
+
+Andrew Meggs: Hello, Robin?
+Andrew Meggs: Hello. Hello.
+Robin iPhone: This is Robin. How are you doing?
+Andrew Meggs: Hi, Robin, I am doing well. How are you?
+Robin iPhone: Good. I think Dave, coney and Brad. Spain should be joining us.
+Andrew Meggs: Yeah. I saw that a couple of other people were invited to the meeting.
+Andrew Meggs: Where where are you calling in from?
+Robin iPhone: Calling in from Tampa Florida area.
+Andrew Meggs: Okay.
+Robin iPhone: It's even cold here. Where are you?
+Andrew Meggs: I'm in Minnesota.
+Robin iPhone: Oh, so it's very cold where you are
+Andrew Meggs: Definitely not not cold.
+Andrew Meggs: Um
+Andrew Meggs: Yeah. Give them some more time though. Is everybody in Florida?
+Robin iPhone: Yeah, we're all in Florida. Typically, we work from home on Friday. So otherwise, we'd probably be joining you from one office. Sure.
+Brad Spain USAE: So
+Brad Spain USAE: Hi Brad. Hey, hey, how are you?
+Andrew Meggs: I'm doing well. How are you? Pretty good.
+Andrew Meggs: And I think we're waiting for one more, right?
+Robin iPhone: Yes.
+Robin iPhone: Hi Bradley. Hey Robin.
+Brad Spain USAE: Yeah. There's Dave
+David Conolly: Hi, Dave.
+David Conolly: How are you doing?
+Andrew Meggs: Doing well. Yeah. I think we're at the quorum now. I appreciate everyone hopping on a quick call. Hopefully, this won't take too terribly long, especially for a Friday afternoon. For context, I am the customer success manager for your account here at PreVeil. So what that means is I'm your general main point of contact and account manager going forward here at PreVeil. So this is sort of a welcome call intro call, to let you know why exist as your main point of contact, but also kind of go over the onboarding process and make sure you don't have any initial questions.
+David Conolly: Great.
+Andrew Meggs: Yeah, to that point. Hi, Amanda, it's nice to meet you. Getting started with PreVeil. There's kind of 2 separate pillars. There's the technical implementation and there is the compliance implementation, if you will. So for the technical implementation Brad, it looks like you have set up the Us, Environmental, PreVeil organization, is that correct?
+Brad Spain USAE: That is correct. Yes.
+Andrew Meggs: Okay. Great. Yeah, that's great. That's part of what I would have talked about on this call is setting that up. Have you per chance scheduled the onboarding session with our support team yet?
+Brad Spain USAE: Robin, did we do that yet?
+Robin iPhone: No. We haven't we were waiting for today's call. Yeah.
+Andrew Meggs: Yeah. So basically now that you've created the org technical, you can start using PreVeil. Now, you can start adding users if you'd like. But the next step there would be to schedule an hour long training and onboarding session with our technical support team. So that'll be how to use PreVeil, as well as admin roles and responsibilities and answering any technical questions and making sure there are any issues in the back end.
+Andrew Meggs: So for that, I will send a follow up email to everyone going over everything that we talked about. But for that I'll include a link to their schedule in my follow up email so that you can schedule a meeting with them.
+Andrew Meggs: Um
+Robin iPhone: Yeah.
+Robin iPhone: Yeah, that's great. I just say that we have a managed service provider company called metric that we work with as well. We'll definitely want to get them on that call along with Bradley.
+Andrew Meggs: Sure. Okay. And then separate from that is the compliance documentation, our compliance portal, what we call the compliance accelerator? that's a separate login. It's a separate site altogether. And I am the person who adds people to that. So for the compliance side of things, Robin, I added your account right before this call. But you can have up to 4 people in there at any one particular time and they don't have to be the same people that use PreVeil. Should I add anyone else to there as well?
+Robin iPhone: I would say definitely add Dave Conley. Dave, who else do you think should be in there?
+David Conolly: Well, what is the compliance? Accelerator, what's in that? What's what I mean, what's exactly is it for? I know it's the compliance implementation part of this, but what's the function? What do people like Robin and I once we're in there, what will we be doing?
+Andrew Meggs: So it is a video doc series and walkthrough of cms level 2 compliance as well as a repository of pre written compliance documentation templates. So the use case is for whomever is in charge of getting us a Environmental cms level 2 compliant. Those people would be the ones that would need to be involved in the accelerator.
+Andrew Meggs: And if it might I can I don't know if you guys
+David Conolly: Can yeah, if you got to have a recommendation, I mean certainly Robin and I Bradley is our in house it guy. But like, Robin said, we have this outside group. So metric how much would do you think they would be involved with this portion of it? I mean there's 110 Gates, I guess we've got to get through here. Is everyone needed? Or is this just Robin and I check in the Box?
+Andrew Meggs: Yeah. So basically there's I mean, I guess let me take a couple of steps first off. I've shared what this looks like on the screen, by the way. So you have kind of an idea. And basically we've taken a fake company and we've done a step by step walkthrough of becoming compliant. And then in each of these steps, is a video going over what to do in that step. And then beneath it is the pre written templates that you can download and edit. And this is for I guess whoever is going to be writing your SP would probably be the main person. Um
+Andrew Meggs: So whoever that is, but then you will need some
+Andrew Meggs: You're at some point in the process, you are going to need to involve an it person or an engineer that will be able to describe the actual your system infrastructure. Because you'll need to put that in your SP. But they don't necessarily need to have access to this. If all their if they don't need to go through all these courses or anything like that. But at one point you will need someone from IT involved, but it's up to you who you'd like to add.
+Robin iPhone: Okay. I guess we can discuss internally and decide
+David Conolly: Yeah. Yeah. But for now, I guess Robin and I should be in it. What do you think Bradley? Is this something you need right now? Or can we look at it a little bit later? Or we can wrote me in later?
+Brad Spain USAE: We'll just add individuals then I can be roped in later.
+David Conolly: Okay. Yeah, let's Robin, let's get into it and see what it's all about. And now this SSP I guess I was under the impression that PreVeil was gonna help us write this. Majority of it's written, we're just kind of filling in the blanks or
+Andrew Meggs: Yeah. So so this step 6 documentation includes the Acme docs package is what we've called it. So this is the master documentation package that has all the documents within it. So like the SP the podium, everything is in this. And we have basically like I was saying early we've created this fake company Acme corp and we have written an SP with it with PreVeil in mind. And you'll basically be going in and replacing all instances of Acme corp with Us a Environmental. And then putting in like your number of employees and your system infrastructure and stuff.
+Robin iPhone: Okay.
+David Conolly: Okay. Okay. That's good information. Thank you. Appreciate it. Okay. Good. Great.
+Andrew Meggs: And then with the accelerator comes access to our internal compliance team. So they're the people who wrote all this stuff and made made all these videos. So if you have any questions about the documentation or just any general compliance questions, they're also available as a resource at a compliance at PreVeil.com. And also here in the accelerator, under additional compliance resources, there is a direct link to their calendar. So if you want to schedule a meeting with them, you can to kind of go over where you're at or ask any questions about compliance you have
+David Conolly: But okay. I get I know there's more to come for sure. I just want to understand a little bit how PreVeil works. You said we can start using it now. Uh
+David Conolly: And I think that's a good thing because we are really under the crunch to get that level to certification, you know. So is everything going to start getting stored in the cloud with you guys right away or is it is there a conversion that's happening or has Bradley already done that?
+Brad Spain USAE: No. No. I'm waiting for the technical overview. So I can effectively have a tech person from PreVeil to ping questions off of
+David Conolly: Gotcha. Okay. All right.
+Andrew Meggs: When I say you can technically start using PreVeil, what I mean is Brad has set up the org. So technically we could start adding users and moving stuff into PreVeil. But like, he was saying you want it's probably a good idea to wait to go through the onboarding before you start doing that.
+David Conolly: Yeah, I agree. Okay. Great. Fantastic.
+Andrew Meggs: But yeah. Yeah. Brad could you could start emailing people right now if you wanted to Brad. But okay. Okay. Um
+David Conolly: Okay.
+Andrew Meggs: Yeah. And then this is a kind of as I was leading to earlier, this is a separate login. This is a separate site. The compliance portal is a separate thing altogether than the actual PreVeil app itself. But yeah. If you want to skip straight to the SPs, that's in the step 6 documentation. You don't have to go through all the steps if you don't want to. But the idea is we've taken this fake company and if you go through all these steps and you do exactly what it says to do in these steps it says to do them theoretically, you would be ready for an assessment at the end.
+Robin iPhone: Yeah. Okay. Great.
+Andrew Meggs: So that's kind of the idea behind that. And like I said, if you have any questions about that, the compliance team is a good resource for you. I guess that's a good segue to my next point about delineating. All the different teams here. So the support team will be doing that onboarding with Brad and they can answer any technical questions you might have. They also handle any bugs or technical problems that hopefully that won't be relevant. They're available at support at.com and then the compliance team can answer any compliance related questions at the compliance at PreVeil.com or through that link in the accelerator. I was showing you. And then I am kind of the general main point of contact. If you're not sure to talk to if something needs to get escalated. Or if you have any account type questions, like add a license subscription renewal, that sort of thing would be
+David Conolly: Okay. Okay. Wonderful. Yeah, wonderful.
+Andrew Meggs: Yeah. Yeah, that's kind of it in terms of my pre written spiel. Do you have any
+David Conolly: Okay.
+Andrew Meggs: Questions about PreVeil or any point any other points of clarification you need here at the beginning of the process?
+Brad Spain USAE: Um
+David Conolly: Well, I you have to excuse me. I'm not it at all. I'm probably the most technically challenged of all 3 of us on the phone. Okay. So is everybody clear how we get started with PreVeil? I mean, what's the next step? Uh
+Andrew Meggs: Yeah. The next step is for Brad to schedule an onboarding to kind of go through an hourlong training on how to use, PreVeil and be an admin. And then I don't want to speak for you Brad. But then after that, then you would start adding you and Robin on all the other users start moving. You basically the next step after that would be Brad would invite you to join PreVeil. You would create a PreVeil account and then you would start adding data into there and using it and stuff.
+David Conolly: Okay. Okay. Great. Well, that's what I want to how do we get started? So that's perfect. Thank you. Yeah.
+Andrew Meggs: So and Brad, if you want the onboarding will also be partly end user training. So if you want to invite a few end users to that, you can though part of it will be outside of the scope of end users because it'll be like admin roles and response, right? But right, yeah.
+Andrew Meggs: And then they can also record it too. So if you can record it and share it afterwards.
+Brad Spain USAE: Oh, yeah. No, definitely. Yeah.
+David Conolly: Wow. Well, we're excited and we're excited about working with PreVeil everything we've heard about you guys is amazing, you know? So you're hoping you guys can get us over over the line.
+Andrew Meggs: Yeah. No, it's all me. That's the only thing. That's I'm the sole source of why we're amazing.
+Andrew Meggs: No.
+David Conolly: We can see that.
+Andrew Meggs: But yeah. So no that's great. I'm excited to work with you as well. The only other thing I like to do on these calls is I'd like to set up a 90 day check in call with all my clients, just to make sure things are going smoothly. Obviously can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for April? 16th is 90 days from now?
+David Conolly: That'd be great. Sure. Yeah. I mean, I would hope we'd be talking to you before before that again.
+Andrew Meggs: Yeah. I mean, if you we can this is just a check in so we can schedule it for whenever or if you want to just email me. You can but 90 days is kind of the standard of when I normally put the check ins.
+David Conolly: And yeah. You know
+David Conolly: Are you who we contact say in in 2 or 3 weeks from now to see how we're doing? I mean, if somebody gonna say, hey, we're on track you guys are doing everything. You're supposed to to get this thing completed or you're not doing it. Is there somebody that's kind of gonna be guiding us here that says, yeah, you guys are doing everything, right? Or
+David Conolly: Here's what's right. Here's what's wrong, that kind of stuff.
+Andrew Meggs: Yeah. The issue is there's not really someone who can do that, because each client has weight and as many different use cases and way different speeds of how they set things up. I have some clients that need to wait a month before they can start doing anything because they have to order special hardware and things of that nature. Nominally after the onboarding Brad will then take the lead on making sure everyone's on boarded and then we do track and make sure like org are created and users are used. So if you know, 60 days from now, there, there's no users in the system that would I'd probably reach out and ask and make sure things are going okay. But that would kind of be the extent of it.
+David Conolly: Okay. I mean because so the level two, there's like 110 Gates, right? We've got to get through
+Andrew Meggs: Right. Secure the name, but
+David Conolly: Yeah, control points. Is there somebody guiding us through that? hey, you're through fifty, but you're not I mean, who gets us, who's driving that progress? You know what I mean?
+Andrew Meggs: That would ultimately be up to to you and Robin or whomever is in charge of it to to make sure that you all get compliant unless you were to hire a consultant or we do have a GRC tool, which is like a project management tool, which would show hey, you have met this control. Here's the next control, that sort of thing. But there's not a person that PreVeil that would I like I wouldn't know what controls you've met, because I'm not privy to your
+David Conolly: Internal systems.
+Andrew Meggs: At any point you can also well and let me take take take a couple of steps back there. At any point you can reach out to our compliance team instead of a meeting and say, hey, this is what we've implemented. What would you suggest for next steps? And they'd be able to more intelligently tell you that I would about about next steps on on what to do.
+David Conolly: Okay. And so 90 days from now or 120 days from now when we think we've done everything, is there a kind of a sanity check that we have with you guys that you guys look at it and go? Yep. You guys are ready to self attest that you're level 2 or yep. You're ready for the third party review.
+Andrew Meggs: Yeah. I mean, nominally the accelerator courses would be that where you'd walk through it. And but if you yeah, if you want to have a sanity check with me or the compliance team at any point, you can definitely reach out and we can schedule that, yeah.
+David Conolly: Okay. Okay. Great. Well, those are all my questions, Robin. Brad, do you have any other ones?
+Brad Spain USAE: I do not.
+Robin iPhone: Andrew it looks to me like from the checklist that you showed us. If we use the system as we go through each one of those points and maybe give our inputs as to what we've completed. It will kind of give us feedback on how we're coming. Is that correct?
+Andrew Meggs: Not really. No. The completion thing on the accelerator. That's more just if you've watched the video or not. It doesn't actually it doesn't know that you've done that step.
+Robin iPhone: Okay. I got you.
+Andrew Meggs: The only thing that would do that would be like a GRC tool. Like I was saying, okay.
+Robin iPhone: All right.
+Robin iPhone: Got it.
+Robin iPhone: Other thing that I would say I am actually going to be out of town on April 16th. So if there's any way you could maybe schedule it on the 15th, sure. That'd be great.
+Robin iPhone: Wonderful.
+Andrew Meggs: And then I was saying if if you want me to schedule this for 60 days instead of 90 days no skin off my nose, whatever, whatever you all want to do, whatever cadence you'd like.
+David Conolly: My only concern is I don't want to lose too much ground if we're not making progress. Okay.
+Robin iPhone: Yeah. I think 60 days would be good at least initially and then maybe as we move on, we could move it out to 90.
+David Conolly: Right. Right.
+Andrew Meggs: Yeah. I can I will set the 90 day check in, but I'll set myself a reminder at 60 days to just send you all an email and say, hey, how everything's going. And then if you'd like to meet, we can.
+David Conolly: All right. Okay. Great. That sounds wonderful. Thank you.
+Andrew Meggs: Yeah, I will put this on the calendar.
+Andrew Meggs: And then while I'm doing that. Did you have any other questions or anything else you wanted to go over?
+David Conolly: No. I don't either. I do not.
+Andrew Meggs: Okay. Then yeah. I like I said I will send I will be sending all this in a follow up email too. So you don't have to memorize anything. But yeah, the next steps on the technical side of things would be Brad to schedule that onboarding. And then on the compliance side of things Robin and Dave would be getting into the compliance portal and going through those steps if you'd like or at the very least, getting into the documentation and kind of comparing it to what you already have.
+David Conolly: Yeah. Robin, it sounds like that's where we'll start really understanding where we're what we're doing there, you know?
+Robin iPhone: Yeah, I think so too.
+Andrew Meggs: And I think once you get into there and maybe start going through some of the videos or we're asking the compliance teams, some questions that'll maybe make a little bit more sense.
+David Conolly: Right. Yeah. So perfect. Yeah. Well Andrew thank you so much. We really appreciate it.
+Andrew Meggs: Yeah. Thank you all for your time. And I very much enjoyed talking to 3 of you. It's great to meet you. And as I was saying, if you do have any questions, I actually I'm gonna be I'm leaving right after this to go home for the first time in like 6 years. But but I'll be back Tuesday. So if you have any questions, come Tuesday and onwards, let me know.
+David Conolly: Sounds good.
+David Conolly: Have a great weekend.
+Andrew Meggs: Yeah, thanks. You all have a
+Robin iPhone: Good one.
+David Conolly: Thank you, bye. Thank you.
+Robin iPhone: Bye, bye. Bye.

@@ -1,0 +1,67 @@
+Account: Smart Tech Networx
+Call Date: 2026-02-04
+Duration: 00:12:02
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+Sebastian Ghiurau: Hi, Sebastian. How are you?
+Sebastian Ghiurau: Yeah. Can you hear me?
+Robin Barrow: I can. Can you okay hear me now? I can great. Are we waiting on anybody else to join today's call?
+Sebastian Ghiurau: No, it's just me today.
+Robin Barrow: Okay. And you are with smart tech, correct?
+Sebastian Ghiurau: Correct. Yeah. Chris and I were the owners of smart tech.
+Robin Barrow: Love it. Okay. And this is our first customer together, right? WG?
+Robin Barrow: Correct. I'm gonna that name. Yeah.
+Sebastian Ghiurau: No. No, you nailed it's
+Robin Barrow: Okay. Great. Awesome. Well, thank you so much for joining. This call honestly, should be fairly quick in here. I can turn my screen on, so you don't think I'm AI or something. You don't have to share your video. But
+Sebastian Ghiurau: Yeah, you know.
+Robin Barrow: Great. Thank you.
+Sebastian Ghiurau: We're welcome.
+Robin Barrow: So yeah, this call like I mentioned should be fairly quick it really I'm just gonna go over what you all signed up for and then talk about next steps and what to do with when then I see that they got 10 users, 3 of them being admin, you also purchase the compliance accelerator email gateway and the same connector. Is that also accurate? You have everything but one product that PreVeil offers. So there you go.
+Robin Barrow: That's awesome. So great. And I guess I should ask why do they need PreVeil? I'm assuming CC standards or okay.
+Sebastian Ghiurau: Correct. Yep. Yes. Yep. Correct. So they're looking to they are a arrow space defense company. So they well, they manufacture and distributor. So they're looking to get their cms compliant and all that stuff. So yeah. Yeah. We're one of the vendors. Well, we're their it vendors their managed service provider. So correct?
+Robin Barrow: Yep. Great. All right. That all makes sense. So are you assisting with the efforts from not only a technical standpoint, but also helping with their documentation for cms?
+Sebastian Ghiurau: We assist with them so they have their internal it. Correct. So we kind of what we can with them, yeah.
+Robin Barrow: Okay. The reason why I ask is because for the accelerator it is we call it our 10 step guide getting compliant. I do always recommend that. Jack probably went over this, but I always recommend that the end customer also has access to this. So if you're working on their compliance together, they're aware of what you're looking at. They understand the process. But yeah, this is that I can add you to this as one of their licenses. But this is a 10 step guide. Probably where you're gonna come into play for them is going to be their endpoints, protecting their endpoints, making sure they're set up appropriately under SMS. So come on. My word has been the worst lately. There we go. Okay. For instance, you'll probably a system with endpoint compliance. These are all Microsoft products. Doesn't mean you have to use them, but it just helps you notify. Okay. What controls or object, yes. Control as sub controls, I like to say the same connector leads and it even goes as far as telling you how to configure them. Okay. Yeah. This is all available to you and the team. But the main reason why customers purchase the accelerator is for the any docs package which lives in here as well.
+Robin Barrow: So that's going to be the fully assessed documentation package for level 2. These are all template based, but I don't love using the word template because they are fully completed as if you took this company and brought them through a full assessment through PO. Did review them and give them a perfect score. So
+Robin Barrow: Those are also available to you.
+Robin Barrow: As a partner, I will like I said, I'll add you to the accelerator. You will just be prompted to click off on an NDA, just so you don't take them into ourselves, but yeah.
+Sebastian Ghiurau: I gotcha. Okay. Cool. Yeah.
+Robin Barrow: So those all live within there. And yeah. And then additionally, they get 6 30 minute sessions with our compliance team so they can book time right through here and they can also email the compliance team if they need any help. Again. If you feel the need or want to reach out to the compliance team, just make sure you CC the customer. So they understand which end customer this is for and if they in fact, have the accelerator um
+Robin Barrow: But that's the compliance stuff, which is important. But not the full on PreVeil platform for the PreVeil platform, have you gone through any of the onboarding steps or install anything on their computers yet?
+Sebastian Ghiurau: So not on the computers. I mean, so Chris and I have I've kind of went through that onboarding. The link you sent me 36 minutes, right? just to kind of. So when I had an install that on my Mac.
+Sebastian Ghiurau: When then as far as the organization. And now we're kind of at the point where we have to just add the admins and give them all the the groups and everything's set it up. So that's kind of where we're at right now. Like I said, this is just yeah, just the first step. So as far as once we Chris and I kind of have everybody or have it all kind of set up. Are we able to do kind of a onboarding with with you guys as well as far as just follow through everything? I mean, obviously we're gonna do it too on our end, right? But just more on the support on PreVeil side.
+Robin Barrow: Absolutely. Yeah. I suggest that in my follow up email. I'll send by the end of the day, today, you will receive a link to be onboarding with them. So it will be an hour long training. They'll go over mostly the admin functions, but if you want a separate standard user training, we can schedule that as well. That will be like 30 minutes opposed to an hour. But absolutely. Those are available to you. We suggest you take advantage of them there a good session.
+Sebastian Ghiurau: Yeah, we'll probably do that. Obviously once Chris and I kind of get up and set them up yeah, everything and then we'll probably do both, I think will be good.
+Sebastian Ghiurau: Obviously to do the admin training, an hour long and then the user side, especially with if we can try to get all depending on on how many can join the call that we do, have a good understanding depends. That's a conversation we'll have with with Hunter.
+Robin Barrow: Okay. Great. Yeah, you just like I said, I'll send it over you. Just let me know, but feel free to book as necessary and they're all recorded too. So say if you have new team members or anything that you can share with the recording, but um
+Robin Barrow: If they jump on the meeting and they don't touch PreVeil for like 3 months. I hope that's not the case and they completely forget everything. We can do a refresher training, too. So those are all available, right? lastly, from my side, do they have any data migration they need to do or anything like that into PreVeil?
+Sebastian Ghiurau: Not at this time. Not that I'm aware of. No. No, I don't think so.
+Robin Barrow: Okay. That's easy enough. Yeah, they're pretty much good to go to start using the platform. Okay. For the email gateway and the same, those are longer setups. So the email gateway requires, I think I'm saying this ATs certificate. Okay. That's usually purchased by you all or the customer directly just for the secure sub domain, but the support team after you all get up and running in PreVeil will reach out to you all directly and say, okay, let's set up a gateway and also the same. They'll probably do them at the same time. So bill you'll just wait for a reach out on that once you get the org going.
+Sebastian Ghiurau: Okay.
+Robin Barrow: Yeah. But yeah, that's lastly, all the scheduled time for us to connect again in 90 days. But any customers you bring on to PreVeil, you'll get me. So these will this is the typical talk track. I work through walk through, not only with customers, but partners. So if you ever want to bring a customer on board, obviously I won't mention pricing or anything like that to them. If it's a customer you all bring on, but it will be I'll go over what they signed up for and talk about how to access everything to
+Sebastian Ghiurau: Okay. Perfect. Yeah, I mean, we're kind of focusing on the marketing side. So I kind of do a lot of the on the sales and marketing and obviously some some networking and cyber security stuff too. But that's kind of my key area. Yeah. But okay. Cool. Yeah, like I said, I mean, I'll kind of go through the onboarding as well as far as through that link and just to kind of get Chris up to speed as well. He's working getting at the us open right now. So we got some work out there.
+Robin Barrow: Yeah, that's fine.
+Sebastian Ghiurau: Yeah. I'm stuck in the office and he stuck over there having a good time. Sure. Of course.
+Robin Barrow: Yeah. I always call it the waste management one. But yeah. It's the same my co worker Emily. She lives in Arizona. She took today off and I was like, oh, you're going in the us open just like yeah, I am. Makes sense.
+Sebastian Ghiurau: Earlier to Chris. So we have 21 cameras. So we have cameras set up over there. So just kind of monitoring all the venues and stuff like that. So he's just
+Robin Barrow: Oh, you. Yeah, that's so fun. I know it's a lot of work 20 21 cameras a lot to keep track of. But tell where are you all located?
+Sebastian Ghiurau: So we're based out of Arizona as well.
+Robin Barrow: You are. Okay. I've heard it's been beautiful. There. I'm in. Yeah. It's I'm jealous. I'm in Boston. It's a balmy 14 degrees. So
+Sebastian Ghiurau: I just left. I just got back from Boston. I was in Boston from this past Wednesday. I got back Monday yesterday.
+Robin Barrow: Oh, man.
+Sebastian Ghiurau: Yeah. Yeah. I was just there. I actually love Boston. I'm a big fan. So
+Robin Barrow: It's a fun. It's we I always say we suffer through the winters in the spring. That's kind of non existent for our beautiful summer and fall. I would try that. Yeah. Like I love that. We have seasons, but, man, this winter has been brutal. It's been I think because we've been so the last couple of years, but it's been yeah. It's it was freezing. You were here when it was real cold. So
+Sebastian Ghiurau: I got the right when you guys finished this the that the storm that you guys had. So I went to Cape Cod for a little bit. So I was in Boston for like 3 days and then the other 3 days I was in Cape Cod.
+Robin Barrow: Nice doing anything fun or
+Sebastian Ghiurau: No, yeah. Just friends. I've a friend out in the cape. So just kind of hung out with them a little bit. It wasn't supposed to be as cold when I booked it. But yeah. No, I like I said, I enjoyed it. We have fun.
+Robin Barrow: Come bother him in the summer time. That's more fun.
+Sebastian Ghiurau: I've done it originally from Detroit. So I was like I can take the winter, because in the end I know I'm coming back to 75 degree weather. So
+Robin Barrow: Yeah. But then you'll want to get away from the heat in Arizona come summer time anyways. So. Yeah, yeah. Awesome. The last thing I'll mention in the chat. I did drop our partner resource page. I'm sure the team has already shared that with you, but it's just more help from us. And if you're looking to help support your customers we have or you know, you want to learn what's happening with PreVeil. We always say for our partners to use that.
+Sebastian Ghiurau: Okay. Perfect. Cool. Great.
+Robin Barrow: Well, it's really nice to meet you, Sebastian. I'll like I said, I'll schedule some more time to connect in 90 days, but yeah, feel free to reach out. If anything else comes up.
+Sebastian Ghiurau: We'll do Robin. Thank you.
+Robin Barrow: Very much. Thank you. Bye. Bye.
+Sebastian Ghiurau: Bye.

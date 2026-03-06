@@ -1,0 +1,90 @@
+Account: WULCO, INC.
+Call Date: 2026-02-11
+Duration: 00:11:31
+Participants: Todd Hull, Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi, Todd, how are you? We expecting anybody else to join? Hello today?
+Todd Hull: Good. How are you no. I'm
+Robin Barrow: Doing okay. Well, let me just make sure I got everything pulled up here. So we are chatting about your upcoming renewal. So let me just right. That was the purpose of today's call. I just want to make sure we're on the same page.
+Todd Hull: Yeah.
+Robin Barrow: Okay. Great. So
+Robin Barrow: I see.
+Robin Barrow: This you all haven't changed from last year too much. Our pricing has changed a little bit. But I see that you still have 18 users, the email gateway and then 2 admin. So and 2 of those 18 users are admins, so it's a total of 10,788 for the year. So yeah, just kinda want to hear where you all stand. What I can do do you plan on renewing? I just want to cover all the bases
+Todd Hull: Gotcha. Yeah. So
+Todd Hull: Fairly recently. We actually migrated our 365 to the GCC High.
+Robin Barrow: Okay.
+Todd Hull: And we're
+Todd Hull: In the process of buying the
+Todd Hull: Per view and add ons.
+Robin Barrow: Okay.
+Todd Hull: We're not. So we're not expecting to need PreVeil.
+Robin Barrow: That makes sense. The one thing I will ask, do you all
+Robin Barrow: Some of our customers on do you think the migration is gonna be done by April? If not, we can probably offer some like, 6 month extension.
+Todd Hull: So we did the migration in December.
+Robin Barrow: Okay. That's done. And then the other pieces sometimes of our customers keep us on for a third party communication. But obviously for you all, it'd be a smaller stature. So I don't know if you wanted to consider that just for so you don't have to purchase
+Robin Barrow: Guest accounts or anything for anyone you're speaking to outside of your environment.
+Todd Hull: Gotcha.
+Robin Barrow: Yeah. So some of our customers keep us on for that. But I guess I'm also curious, why did you all make the switch?
+Todd Hull: Well, a few years back. When we were were looking into trying to decide which route to go. It was like, PreVeil was much, much cheaper.
+Todd Hull: And um
+Todd Hull: So then I think about a year ago, we looked at that again.
+Todd Hull: And saw that the gap had trunk.
+Todd Hull: Okay. Like the price difference, okay. And then just I think in November or December, they just started offering business premium licenses for GCC High.
+Todd Hull: Which you know
+Prospect: Brought it down more.
+Prospect: Okay. All right. I mean, yeah, that makes sense as far as the cost analysis. So it's it would GCC High is now.
+Todd Hull: Less than than 10,000 that we originally have no. I wouldn't say it's less. Okay. Definitely. Not less. Like the business premium is like, I think 400 bucks a year per person.
+Robin Barrow: Okay.
+Todd Hull: But um
+Todd Hull: Just said the difference we we originally chose PreVeil because we thought moving to GCC High would be way too expensive.
+Todd Hull: And the gap was a lot smaller than we thought plus we wanted some of the extra stuff that the licenses included in tune and social.
+Robin Barrow: I see. Okay. No and I remember our conversation last year. But all make sense. I knew this was probably eventually gonna come and I can definitely make a note on your account as far as closing out PreVeil in. Um
+Robin Barrow: Moving forward with
+Robin Barrow: That process, do you have any information in PreVeil? Have you removed the users yet? No, we're
+Prospect: Still using it. Okay. Currently. And then um
+Prospect: I think I believe our subscription goes till beginning of April, yeah. For the end of March, yeah.
+Todd Hull: Till March 31st. Gotcha. So that's what also what I want to ask. What do I need to do? I like, I guess
+Todd Hull: So I need to make sure all the data is exported and delete it out of there before then. Or
+Robin Barrow: When that time comes, I'll close out your account, I'll list you as a past customer and then it triggers the support team. They'll reach out to you within the day to do a migration off our system and you'll just work with them to do a full on export. They'll provide the instructions to do so. And then yeah, I would
+Prospect: Just say keep an eye on the data that you have in there. I think there's an export file, you can do on your own, but yeah, that's typically the process. Okay. Do I need to
+Prospect: Send an email to a certain address or anything like that on within a
+Robin Barrow: Certain time frame to avoid auto renewing. I've already made a note in your account. I'll send a follow up email just based on what we chatted about today. Typically, we just want to understand the reason why it sounds like it. I am a little confused. I know part of it was you always intended on kind of moving to GCC High just based on is it because of your endpoints and just kind of taken care of that piece or
+Robin Barrow: Was it just easier for you? Majority of your customers work in the GCC High environment? I guess that's where I'm a little lost, but
+Todd Hull: Over um
+Todd Hull: In some cases, customers in some cases, suppliers in sub situations where we're the subcontractor on a prime contract and they've got GCC, High, it's supposed to we're thinking it will make things a lot easier.
+Todd Hull: Since we since once now that we're on it, we can and they are on it already, we can do stuff in teams and SharePoint with the
+Robin Barrow: Oh, okay. It's more. That makes way more sense. Okay. No. Thank you so much. Yeah. And I'll just include that feedback. That's typically what our leadership looks for, but
+Todd Hull: Yeah. And then I'd say the only other thing would be the PreVeil model is like everything is written, assuming that just your endpoints and PreVeil is in scope. And we also like our ERP system is also in scope and it's like a file server.
+Robin Barrow: That makes sense. Yeah.
+Robin Barrow: No, that's helpful. Yeah. We're looking like, we're coming out with a VDI solution. Hopefully soon, we're working on that. We have a lot of customers that come to us regarding their ERP system and CAD system. So
+Todd Hull: Yeah. Yeah. And like in an inspection data and stuff like that.
+Todd Hull: Somewhat vague on what is and what isn't
+Robin Barrow: Yeah. No, I get that piece. I wish I had a better answer, but I don't
+Todd Hull: Expect you to have all the answers there?
+Robin Barrow: But no this like I said, this is super helpful. And your account will not auto renew because I've already marked it. You're good there.
+Todd Hull: Sounds good. No. I'd say overall we really liked PreVeil much better than before that we were using move it.
+Todd Hull: By progress, yeah.
+Todd Hull: Because like the whole do was using them and then they had a massive breach.
+Todd Hull: Love it. Yeah.
+Todd Hull: After we switched to PreVeil. So that was nice.
+Robin Barrow: No, that's good. Yeah. I was gonna say I've heard of them, but I haven't heard of them in a while. So that explains a lot.
+Todd Hull: Of yeah. And then like a lot of the other seems like the other popular platforms are like, extremely expensive.
+Todd Hull: Really nice and filling in that the like small business. Is there
+Robin Barrow: No. And that's really our goal, for instance. I well, first of all, thank you so much for saying that and I appreciate it. But I think a lot of our customers, if they're gonna outgrow us, it makes sense. Some of our customers if they're huge corporations and you know, they're working towards a GCC High model. Sometimes it just makes sense for them. And it sounds like that's your case right now, especially when it comes to like, teams and that collaboration piece. Do I hope in the future? We become that size. Yeah, absolutely. But then we'll probably price out the small business. So it all depends on what leadership wants to do.
+Todd Hull: And it makes sense.
+Robin Barrow: Yeah. Probably want to stay with them a small business. But is there anything else I can help you out with or help provide some clarity on leaving PreVeil? I would also just look into the guest accounts to see if you need that at all. And maybe keep PreVeil on like, a smaller once. But again, no pressure, just just some of our GCC High customers that they do keep us on for that purpose, but something
+Todd Hull: That makes sense. We haven't counted how many external users we'd be inviting yet. Um
+Robin Barrow: So yeah, if you don't need to with if you still just need the communication email piece, you could keep PreVeil for that aspect. But you don't have to add them to your environment. But yeah, up to you all. We're here to help if you need it.
+Todd Hull: Okay. I appreciate that. I'll let you know if we
+Todd Hull: Decide we need to keep some
+Robin Barrow: Yeah. No worries. But other than that, thank you, Todd I appreciate you jumping on with me and explaining everything and I'll go ahead and mark your account now.
+Todd Hull: Oh, yeah. No problem.
+Robin Barrow: Anything else?
+Todd Hull: No, I don't think so.
+Robin Barrow: Okay. Sounds good. So we'll let you your account won't close out fully until April 1st and then yeah, you just let me know if you need anything between them now and then
+Todd Hull: Okay. Sounds good.
+Robin Barrow: All right. Have a great day.
+Todd Hull: Thank you too. Bye. Bye.

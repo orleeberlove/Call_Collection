@@ -1,0 +1,68 @@
+Account: Strix Innovation
+Call Date: 2026-01-14
+Duration: 00:10:46
+Participants: Zackary Gilman
+
+======================================================================
+
+Jamie Andes I UMKC I Critical Materials Crossroads: Hey, Jamie today. Good afternoon.
+Zackary Gilman: Doing well, how are you? Good. Are we waiting for anybody else or is this it for this call?
+Jamie Andes I UMKC I Critical Materials Crossroads: Is for this call this how is are it you doing?
+Zackary Gilman: Okay. Great. Awesome. Well this call should be relatively straightforward. It's mostly just introduce you to myself. Some resources you have here as well as go into some next steps, if that sounds good to you. Yeah. Perfect. Well, my name is Zack from the customer success team here at PreVeil. I'll be your main point of contact from here on out.
+Zackary Gilman: Essentially, like I said, this call is very straightforward. Would just like to kind of kick things off and hear a little bit about what brought you to PreVeil and you know what you're looking to get out of. So I assume it's CMC requirements, but always good to hear from from you guys and what brought you to us.
+Jamie Andes I UMKC I Critical Materials Crossroads: Yeah. We're a small consulting firm and we have a
+Jamie Andes I UMKC I Critical Materials Crossroads: Government contract, we're working directly with the Navy and there's some I requirements on transferring information back and forth and it's really a contractual requirements to be compliant. So that's where 5 people so pretty small group.
+Zackary Gilman: Yeah. It looks like you guys have the 3 3 users with the 2 admin as well as the compliance accelerator, if that's correct.
+Jamie Andes I UMKC I Critical Materials Crossroads: That's correct. Awesome.
+Zackary Gilman: And then just sort of going to sort of next steps here. I know within that welcome email. And again, apologies for the whole schedule thing and my schedule got pretty congested there, but happy we're able to find this time at least. But within that welcome call email, the second link would be to set up your organization. Have you had a chance to set up the org and get into the PreVeil platform at all quite yet?
+Jamie Andes I UMKC I Critical Materials Crossroads: Nope. I was waiting to so I do have I have we have 2 free accounts that we're using. So do those transfer over? Yes, start over?
+Zackary Gilman: So those will transfer over as soon as you download the actual PreVeil platform, it'll ask if you want to transfer that account, which you would say yes. Okay.
+Jamie Andes I UMKC I Critical Materials Crossroads: And you say download the PreVeil platform. Is it not web based?
+Zackary Gilman: No. So this would be the apps. Cool. Application downloading onto your device, giving you know, the encryption keys that gives you the full compliant version of PreVeil. Okay. There is a web based version, but the app installation process takes around 5 to 10 minutes. Okay.
+Jamie Andes I UMKC I Critical Materials Crossroads: So that would be and so there are a couple of different computers. I use for this so. I could download onto one computer and so access to the web on another computer.
+Zackary Gilman: Yeah, exactly. So you'd be able to use the web dashboard and be able to to access it that way. Okay. Yeah. In terms of next steps, be first is getting that org setup is doing the download piece. And then what you're gonna want to do from there is schedule an onboarding call. So those are the hour long technical calls. They kind of show you the full admin console take over your screen, go through recovery groups with you, kind of give you the ins and outs. In terms of the technical side of things. Okay. So whenever you're ready, feel free to to get that org setup and get that onboarding call set up. Their schedule should be fairly open for next week. But it does fill up so if you're looking to get that or get a jump on that I'd probably schedule that whenever you get a chance.
+Jamie Andes I UMKC I Critical Materials Crossroads: And is that just for the admin or does that include the users as well?
+Zackary Gilman: So you can it's most likely. We do have some end user training. But those sessions are usually for the admins the ones that would be overseeing the entire system. But if you wanted to users to sit on that, feel free. I don't think our team would have a problem with that at all.
+Jamie Andes I UMKC I Critical Materials Crossroads: So, is there additional training for the end user?
+Zackary Gilman: Yeah. There's there's end user training available to you guys. If you wanted to do a session with our technical team and your end users feel free. I can get you in contact with our technical team to set that up as well. Is that
+Jamie Andes I UMKC I Critical Materials Crossroads: Really a watered down version of what you get as the admin. Is there additional information you get there that you don't get as an admin, I guess?
+Zackary Gilman: In the onboarding or in the end user training that you wouldn't get? Yeah. No, yeah. No. So it's just a more end user friendly training.
+Jamie Andes I UMKC I Critical Materials Crossroads: All right. Yeah. If I go ahead and just have those guys hang out for the admin since there's only 4 or 5 of us. I think that's what I'm gonna do.
+Zackary Gilman: Yeah, yeah. That'd be no problem. They'd get all of the information, right there at that session.
+Jamie Andes I UMKC I Critical Materials Crossroads: And it's one hour. Yeah, those are booked out for one hour. Okay.
+Zackary Gilman: Yeah. That'll be the third link on that welcome email. One other thing to notice is or a note that you guys obviously have the compliance accelerator. I'm able to add up to 3 people in there at a time. Or are you gonna be want to be are you gonna want to be inside the accelerator? I assume?
+Jamie Andes I UMKC I Critical Materials Crossroads: Yeah. And I've got your email here. Okay. Okay. First one is we're on one right now. 2 is
+Jamie Andes I UMKC I Critical Materials Crossroads: You can start using your own instructions when to get free. This is the scheduling the admin.
+Jamie Andes I UMKC I Critical Materials Crossroads: 3 is ensure your e mails reach it? Okay. Sorry say it again, what you're asking?
+Zackary Gilman: No. I was just gonna say I'll add you to the compliance accelerator. And then if you wanted to other people, whoever it is, feel free to shoot over an email. Just I'll just need their emails and their first and last name to add them to the accelerator.
+Jamie Andes I UMKC I Critical Materials Crossroads: And what does the accelerator do or I guess why is there a limited to those 3 for the accelerator or paying for five?
+Zackary Gilman: We just came with that number of logins. When you purchase the compliance, accelerate just limited to number 3 logins at a time. If you wanted to have somebody else, we could delete and add it that way. It's just packaged out that way.
+Jamie Andes I UMKC I Critical Materials Crossroads: When you say what does the access to the accelerator allow you to do?
+Zackary Gilman: So that's like the documentation like the system security plan the pm policies procedures, that's the access to the AI docs package. Okay.
+Jamie Andes I UMKC I Critical Materials Crossroads: And that documentation will give you give us guidance on requirements for storing docs and stuff like that.
+Zackary Gilman: Yeah. Exactly. So it'll kind of bring you through the whole PreVeil workflow and then how it ties into things that'll the control families within the system security plan. Okay.
+Zackary Gilman: So yeah, that's the accelerator. I'll add you to that. And then feel free to shoot over a couple of emails that you'd want added to that as well. Some other resources to available to you to note is just a couple of emails. This will be in a follow up email. So you need to write these down, but you have support at PreVeil.com for any technical related issues. Sending them an email also submits a ticket for you as well as compliance at PreVeil.com. In case any compliance issues come up that you want to just send over an email, it's super easy as well.
+Jamie Andes I UMKC I Critical Materials Crossroads: So I just sent to you. Let's start with adding Mitch here as one. The second person for the access to the accelerator and then I'll decide on the third one here a little bit later.
+Zackary Gilman: He said his first name is Mitch. Yep. Okay. Perfect.
+Zackary Gilman: His last name, maybe with an m
+Jamie Andes I UMKC I Critical Materials Crossroads: P M A B R E Y
+Zackary Gilman: Okay. Perfect. So Mitch and yourself will get emails to start with and then feel free to shoot over that third email whenever you decide okay. Yeah, you have those 2 emails the support at PreVeil.com and the compliance at PreVeil.com as well as within the accelerator. You have access to 6 30 minute sessions with our compliance team. Those are zoom calls like this be able to ask any questions about documentation or stuff that requires more in depth conversation than just an email. Okay.
+Zackary Gilman: And then the only other thing I have on my end is just to schedule a 90 day check in call. So probably looking at first or probably second week of April. Right now. I'll probably just throw in some time if it doesn't work when it gets closer to it, feel free to change it around. That'll be perfect. Yeah. That's kind of it for my spiel. Just want to open up make sure if there's any questions I can help answer them or any concerns right off the bat.
+Jamie Andes I UMKC I Critical Materials Crossroads: Any prep we need to do for the admin call?
+Zackary Gilman: No. The only prep is just get making sure that org setup, making sure PreVeil is downloaded, just because that'll take 5 to 10 minutes. And I probably just be a waste of your time to sit on that call and wait for it to download, but that's the only set up you need.
+Jamie Andes I UMKC I Critical Materials Crossroads: And so everybody that's on the call need the org set up before?
+Zackary Gilman: Not necessarily. You don't have to have everybody set up, but the initial admin should okay. Just because they'll take over your screen and kind of show you know, what the setup looks like and be able to go about it that way. Got it.
+Jamie Andes I UMKC I Critical Materials Crossroads: Okay.
+Jamie Andes I UMKC I Critical Materials Crossroads: What are the hours that they offer? That is 8 to 5.
+Zackary Gilman: It should be regular 9 to 5 with their schedule. Within that email, you should be able to kind of pull up an hour by hour schedule and see what they've got available as well.
+Jamie Andes I UMKC I Critical Materials Crossroads: Okay. Um
+Jamie Andes I UMKC I Critical Materials Crossroads: Let's see here.
+Zackary Gilman: And I'll resend it as well. If I've got it here. Okay. Perfect. So
+Jamie Andes I UMKC I Critical Materials Crossroads: So it's the PreVeil onboarding.
+Zackary Gilman: Yep. That's them.
+Jamie Andes I UMKC I Critical Materials Crossroads: Okay. And it's okay. Yeah, it's looking like 8 30 to three, 9 3
+Jamie Andes I UMKC I Critical Materials Crossroads: Okay.
+Zackary Gilman: Okay. Yeah. Whenever you have the org set up, feel free to book some time or you can even book some time before then make sure you have a time set. But yeah, that's really it. For me you'll get a couple of things for me. First will be that invite to the accelerator. That'll come from our learning management system. The second will be just a follow up email from myself detailing what we talked about, giving you those resources as well as the links for booking onboarding. Just in case you leave that one. But I think that's pretty much it on my end. If you have no more questions, I can give you some time back, but just rest everything.
+Jamie Andes I UMKC I Critical Materials Crossroads: I appreciate it.
+Zackary Gilman: Yeah. Thanks for the time Jamie. I'm sure we'll connect soon in April, but if anything comes up before then you've got my email as well. So always happy to help.
+Jamie Andes I UMKC I Critical Materials Crossroads: Thanks, Zack. Thank you. Have a good one. Bye.

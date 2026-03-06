@@ -1,0 +1,81 @@
+Account: Venturi Astrolab, Inc.
+Call Date: 2025-12-17
+Duration: 00:14:42
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello. Hello. Where this is coming from? Hello, good afternoon. Can okay. You. Okay.
+Ignacio Ramirez: I don't what know the here. We are.
+Andrew Meggs: I'm seeing it now. My computer is being quite slow. Hello there?
+Ignacio Ramirez: Hi, good afternoon. How are you? I am
+Andrew Meggs: Doing well, how are you?
+Ignacio Ramirez: Doing well. Doing a lot of um
+Ignacio Ramirez: A lot of reading a lot of meetings. Just trying to get acclimated with the lab here.
+Andrew Meggs: Exciting stuff.
+Ignacio Ramirez: Yes. Definitely. Well
+Andrew Meggs: In your exciting time getting to know Aster lab, here's a whole new software for you to learn about. So I'm Andrew. It's nice to meet you.
+Ignacio Ramirez: Nice to meet you Andrew.
+Andrew Meggs: Do you know anything about who I am or what PreVeil is
+Ignacio Ramirez: I haven't met you, but I am familiar with PreVeil. We were exploring that at my last job. Never I don't think we ever pulled the trigger on it, but it was just more conversation piece. One of our
+Ignacio Ramirez: R and D folks was super interested in proceeding with it. And I believe he was gonna run with it, but nothing on the technology side. Okay. Yeah, that's good that.
+Andrew Meggs: At least you have a passing knowledge. I'll get to the point here and then walk backwards. Sure. The reason IE mailed initially long story short, is that venturi has more users than currently licensed and they need to either delete some of those users or purchase those licenses.
+Ignacio Ramirez: Copy. So that's do you have an admin page? We could I could briefly look at yeah. From what very transparent from what I've been told there's not a lot of use from folks. I think the intent was that they were gonna share documents with NASA. But I don't think that it necessarily has materialized. So I have to assess where we are with the tool. See if it's gonna be part of our work or moving forward. But yeah, let's if we need to take care of the licensing stuff. Yeah, let's look at that. More likely we'll just delete a few users and then that'll bring us in compliance and then what is the renewal completed. So
+Andrew Meggs: That's kind of one of the comp. So initially the initial purchase of for vendor Aster lab was was was pretty small. And then more purchases were more licenses were purchased along the way as licenses for like a specific project. So there's actually 2 separate renewals there's the renewal for the initial purchase and then there's like the interim license purchase. The interim license purchase that end date is at the end of March 20 26. So 3 31 20 26 and the initial purchase was like a 3 year purchase and that much smaller renewal of those initial licenses. The end date is March 31st 20 27. So a year after that. In addition to the licenses, inventory, master lab also has our compliance accelerator and I'm maybe getting a little bit ahead of myself. I don't I guess I'm not sure how much info you have. The initial idea behind it is that ventures lab would need to be CC level 2 compliant we so in addition to the licenses, there's also some compliance products that have been purchased as well and are you it does not look like you yourself have a PreVeil account.
+Ignacio Ramirez: They gave me my first week here last week. They gave me some sort of boxes. I to be honest with you. I haven't played with it, so I haven't launched it. What are the things I wanted to do after this call is going to probably sit down with John from from the it team and just go over who has access. If I don't know if there's any usage reports that are native within the dashboard that we will be able to pull or is that something that you would be able to provide? Yes. So
+Andrew Meggs: That first one. So right now, the administrators of the vendor PreVeil organization are um
+Andrew Meggs: Sorry, my computer is being really slow. John. John C there's a reuse billing. There's actually a lot of admins. Do you actually have more admins than license to? But we can talk about that later. You have a lot of administrators in the organization who could get you an account. So that's John John is billing, Denise brown gram bag, Alex. Back, Justin cards, man and Mary Craig, who I don't even think is with the company anymore. Um
+Ignacio Ramirez: Correct.
+Andrew Meggs: But yeah. You all
+Andrew Meggs: There are 7 administrators. Is the end goal if you choose to to keep using PreVeil for you to be the main administrator of the account?
+Ignacio Ramirez: Yeah. More more than likely. How so how many uh
+Ignacio Ramirez: How many users are we licensed for?
+Ignacio Ramirez: Cancel
+Andrew Meggs: Okay. Here we go. You are currently licensed for
+Andrew Meggs: The interim licenses is 5 licenses and the general licenses is another 5 so 10 total.
+Ignacio Ramirez: Okay. We true up 10.
+Andrew Meggs: Yeah, but I'm seeing just for context, 23 users in the system. Including more admins than license to. You're right now 10 total licenses for users including 2 admin, licenses, copy. And I can send you we have an excel spreadsheet.
+Ignacio Ramirez: I can. Oh, perfect. Yeah, if you could send that over that way, I don't have to take all these notes. Yeah, does an admin license, consume an actual
+Ignacio Ramirez: License or is it just administrator? So it's a it's
+Andrew Meggs: Considered an add on to a user license.
+Ignacio Ramirez: Copy. So in order for me to be an admin, I have to have a user license, right? Okay. Okay. Yeah. I'll take a look at it usage reports. Is that something we'll be able to pull from the dashboard itself?
+Andrew Meggs: So that's something you as the admin would pull? Okay. We you know, kind of by design PreVeil does not has very limited access to any of your data or any of your information.
+Ignacio Ramirez: Or anything? Understood. Okay. I'll need to get to yeah, I'll probably just were over. I don't want to continue to just put my thumb on the scale. So what I'll do is I'll get together with John. We'll sit down and just do a quick overview of the system. Based on what I know today more unlikely, we'll just delete users that are not using the system just to remain in compliance. And then between now and march. At least for the first 5 licenses that we have. We'll see if we're gonna stay the course or we're gonna reduce the number of users there there there could be a use case for PreVeil. I just don't know right now until I'm done with all of my assessments. Sure. Yeah. What I can also
+Andrew Meggs: Do is I can go ahead and add you to our compliance portal as well. Okay. That so like I said, you have the 10 total licenses. You also have access to. We call it the compliance accelerator. That is basically a are you going to be involved with getting mentor? CC compliant?
+Andrew Meggs: Okay. That is a basically a video doc series on compliance as well as a repository of documentation templates. I can go ahead and add you to that as
+Ignacio Ramirez: Well, oh, that'd be great. Thank you.
+Andrew Meggs: And that why let's and that subscription is up in march of next year to copy just as a heads up?
+Andrew Meggs: So you should see an email invitation to that. And what I'm also going to send you is a link to our support team's calendar. So if you would like a kind of in person virtual in person training or walk through, you can put some time on our support team's calendar for a training as well. Like a technical training.
+Ignacio Ramirez: Yeah. I may end up taking you guys up on that just so I could get myself more familiar very familiar with the tool. Sure. And I'll also share what training
+Andrew Meggs: General training materials we have
+Ignacio Ramirez: Okay.
+Ignacio Ramirez: Um
+Ignacio Ramirez: You to this
+Andrew Meggs: I feel I swear I'm like, I must be on windows 95 or something. My computer is being
+Andrew Meggs: Dum dum right now. Let me quick show you what I just added you to this accelerator. Uh
+Ignacio Ramirez: Um
+Ignacio Ramirez: Share my screen.
+Ignacio Ramirez: There we go.
+Andrew Meggs: Well, it's loading right now, but do you see this?
+Ignacio Ramirez: Yes. I see that. It's it is loading.
+Andrew Meggs: Let me know when you see it.
+Andrew Meggs: Oh, yeah. Yeah. Yeah, this is basically we created a fake company and we've walked it through compliance and there's all these steps for compliance.
+Ignacio Ramirez: Yeah, there it is. Okay.
+Andrew Meggs: Step 0 to step 10. And then in each of these steps there's a video that goes over that step. For the documentation there's a video that explains the step. And then beneath it is all the relevant and summary documentation templates that are kind of pre written with PreVeil in mind that can be used for used for compliance.
+Ignacio Ramirez: Um
+Andrew Meggs: And yeah. And all this stuff has been vetted by A C 3 PO and we've had now 50 something companies past past an assessment with our documentation. So it is fairly fairly vetted at this point. Just as an aside because you have this subscription to the accelerator, you also have access to our own internal compliance team. So while you're in here if you want to or if you have any general compliance questions, they're available as a resource to you. They're the people that wrote all this stuff. They keep us compliant. They're available at compliance at PreVeil.com and there's actually a link to their calendar here and the accelerator under additional compliance resources. If you want to schedule a call with them, you can schedule a call with them as well. I know that everything I just said I threw a lot at you, but yeah. That's kind of the 2 second version of everything that vendor has as part of it. Proper PreVeil subscription.
+Ignacio Ramirez: Okay. Fair enough. Yeah, just give me time today. As more likely. I'll although I just started, I am planning to take up time off next next week. I would certainly hope so. Yes.
+Ignacio Ramirez: So yeah. So more than likely we'll try to connect back then, early January. I'll reach out to you and then yeah, we'll just take it from there. But for sure, I'll, before I leave on break I will try to at least bring compliance in order and then that way when we discuss next steps, I'll have a little bit more information. Sure, yeah.
+Andrew Meggs: Sounds good. And I will make a note that you're gonna attempt to delete those users. And then in the event that you do need maybe like, one or 2 extra licenses, it's just it's a fairly straightforward process. You just email me and I put together an order form. It's kind of in elegant process there. Um
+Ignacio Ramirez: Andrew, would you be able to send me any sign contracts? Or would I be able to find the dashboard to get any billing information?
+Andrew Meggs: I can send what previous contracts we have on file. Perfect. The actual PreVeil app itself doesn't have any of the account information.
+Ignacio Ramirez: Copy. Okay. So
+Andrew Meggs: I'll send the contracts for the initial that initial purchase and the the interim purchases. But and I guess just to clarify delineation of roles here on our end. I'm more on the account side of things. I'm the customer success manager. So I'm the general main point of contact. If you're not sure to talk to if something needs to get escalated or this account stuff. But the support team handles the bugs and technical issues and the compliance team handles any compliance issues. So kind of 3 different resources here.
+Ignacio Ramirez: But yeah. A lot to
+Andrew Meggs: A lot to take in, especially for some software. That's not even part of your real job. And I know you've only been here a couple of weeks. But from this initial meeting, any other questions or anything else you wanted to go over?
+Ignacio Ramirez: No. Not at this moment. Okay. Well, I
+Andrew Meggs: Will send all this over and I very much appreciate your time. And yeah, in January. Once hopefully after some relaxing vacation, we can reconnect to go over anything else you might need.
+Ignacio Ramirez: Okay. Copy. Thank you very much.
+Andrew Meggs: Thank you. And yeah, I hope you have a great rest of the week and
+Ignacio Ramirez: Happy holidays, likewise. Happy holidays, bye. Bye.

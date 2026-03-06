@@ -1,0 +1,82 @@
+Account: SMARTnet
+Call Date: 2026-02-06
+Duration: 00:10:17
+Participants: Robin Barrow, Christopher Austin, Eric S, Alexander Mullen, Alexander Mullen
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hello.
+Robin Barrow: Joined.
+EricS: Yeah, I'm joined. I see we have a Sydney.
+Chris Austin: And then hi Eric. Good afternoon joining.
+Robin Barrow: Or good afternoon. And are we waiting I believe in a Christopher and Alex as well?
+EricS: I don't know if Alex is coming, but Chris is for sure.
+Robin Barrow: Okay. No worries. We can give it a few minutes.
+Robin Barrow: So
+Robin Barrow: All right. I think we have everybody.
+Robin Barrow: Thank you all for joining.
+Chris Austin: Can you hear me?
+Robin Barrow: Yeah. I can.
+Chris Austin: Hi, Chris. Hi, Robin. Nice to meet you.
+Robin Barrow: Nice to meet you. This call should be fairly quick, honestly. It's just to go over what you all signed up for and then talk about next steps on getting started. And I also want to learn a little bit more about you all why you need PreVeil and what you're hoping to get out of it. But yeah, just to confirm, I see that you all have 5 users. 2 of them are admin. You also purchase the email gateway as well as a compliance accelerator accelerator, including the GRC yes. Okay. Great.
+Robin Barrow: Awesome. So if you all don't mind sharing, why do you need PreVeil?
+Chris Austin: We need to be better about having somewhere to store our data. We do we're most of our work is with the feds and we need a cms and then have a safe repository for cy stuff.
+Robin Barrow: Okay. That makes sense. So you have you been working towards for
+Chris Austin: A bit. Yeah. And this once we found out about PreVeil, we're like, wow, this is awesome, this is what we need to.
+Robin Barrow: Yeah. Happy to hear it. And let me just see. So Corey probably went over the PreVeil platform. I'm not sure. Did he dive into the accelerator at all?
+Chris Austin: Um
+EricS: He showed it to us. That's the dashboard, yeah. With a
+EricS: Sample company with all the documentation?
+Robin Barrow: Yes. Yep. So you get 3 users into the accelerator, that's and the GRC that's something I manage. So if you just let me know who you'd like to add, I can go ahead and do that after this call. And you'll receive an email invite. So they're not the systems aren't connected just yet, there. So it is 2 separate logins at the moment. But yeah, you'll so you'll have in total 3 logins for PreVeil. PreVeil the actual
+EricS: You have a piece of tape.
+Robin Barrow: Sorry.
+EricS: Do you have a piece of masking tape or painters tape, Patriots, logo?
+Robin Barrow: Oh, you're not a Patriots fan.
+EricS: I am. But I'm like okay. They've won so many times. Let's see.
+Robin Barrow: Hey, we suffered the last couple of years. So
+Chris Austin: I don't.
+EricS: I don't have a care either way. I just I noticed it, so I figured I'd say so.
+Robin Barrow: I actually forgot I was wearing this, but gonna represent. I'm located in Quincy Massachusetts.
+Chris Austin: So what will
+Robin Barrow: Okay. Thank you. Okay. Great. So yeah, I thought you're talking about taping the 2 systems together. I'm like I wish I could do that if it was that easy. But yeah, for the PreVeil email and drive, that won't be a log in. It's encryption keys that live on your device. And I'll send over instructions on how to do that. But yeah, like I said, just let me know who are the 3 users. You'd like me to add to the platform. And then for the actual PreVeil platform who will be the 2 admins. It's okay.
+Chris Austin: Cindy and I
+Robin Barrow: Okay. Great. So next steps on getting started would have you all downloaded PreVeil or do anything with the instructions yet?
+Chris Austin: No.
+Robin Barrow: Okay. That will be your next step. Just to download PreVeil on one of your devices and then whoever downloads PreVeil just invites the other one. And then you'll have an admin specific training. So you just booked up with our support team. I'll provide the link just like how you booked with me today. The reason why we have you to download PreVeil beforehand is really just so you can train out of it and you can click through as they go through it. Um
+Chris Austin: To your website to download it.
+Robin Barrow: I'll send over the link with the instructions so you can download it right from the website, but then also you need the url to create your organization. Got it.
+Robin Barrow: And then for you all have 5 standard users, you probably have seen the platform is fairly simple to use, but if you need additional training just reach out to me and I can provide the links to do set those up. But I'll send over standard user resources, okay. For the gateway, that's a separate set up in the support team after you get PreVeil up and running. We'll reach out to you separately for that. And we'll really hold your hand through that process.
+Robin Barrow: And what am I missing? Okay. You mentioned you have UI today that you need to start storing. How much would you say it is?
+Chris Austin: I mean it yeah. Okay.
+Robin Barrow: We always just say if it's over 100 gigabytes and you're trying to put in the system at once. Just set up a migration with our team, it's gonna be a lot easier than trying to dump that all in PreVeil at once.
+EricS: Okay. Yeah, yeah. It's mostly emails and documents for a single program.
+Robin Barrow: Okay. Easy enough. Yeah. If you want to do like a slow trickle and just make sure your folder structure set up correctly and then start putting stuff in, that's always the best recommendation. But if you're we do have that. We have a file migration tool that we would use, so both options are available to you.
+Chris Austin: Okay. Cool.
+Robin Barrow: What am I missing? Oh. And then lastly, for my
+Robin Barrow: List I should say. I'm just gonna schedule some time for us to connect in 90 days, just to make sure you are feeling good. You're up and running, but I'm not going anywhere. I'm your main point of contact. I'll be the one if you have any issues, if you need if something's on fire or your disarmed sure who to go to for help, just reach out to me. But you do have access to the support team. They work through a ticketing system and you also have access to our compliance team so that you get 6 30 minute sessions with them.
+Robin Barrow: And you can book time with them right through here under additional compliance resources and the accelerator and you can also email them. So any one off questions that you may have that don't require a long answer. I always say just e mail them because it doesn't count against your time.
+EricS: Oh, cool. So so then the setup within our office three?
+EricS: 65 will come from a different group and they'll reach out.
+Robin Barrow: So yeah, the gateway the email portion that will come from the support team. They'll reach out specifically for that.
+EricS: Okay. What's the timeline? Should we flag it if we don't hear from them in a certain period of time?
+Robin Barrow: I you're gonna want to set up PreVeil first and they'll probably put the same individual that's gonna help you set up PreVeil set up email gateway. So you can say, okay, now that we have PreVeil set up, we need to get email gateway set up. But if they don't reach out to you, I'll call like a week after. You have e mail. You have your domain setup then reach out to me, I would even say 3 days, honestly, if they don't reach out to you reach out to me.
+EricS: Right. And all these instructions will be in what you send us. Yes.
+Robin Barrow: Yeah. I'll send it right over in next steps. Yeah. Perfect. I'm not sure if Corey mentioned this, but the reason the gateway takes around 2 weeks to set up. But the reason why it takes a long set up is because you have to get ATS certification. Did he mention that to you?
+Chris Austin: No, but we're familiar with them.
+Robin Barrow: Cool. All right. If you already have one employees, you can that you're comfortable using. You can just share that with us as well. Okay.
+Robin Barrow: Great. That's all I got. What questions do you all have?
+Chris Austin: Awesome. My only question was going to be what the next steps are and how we get already started. So if you can just send us those instructions and we'll we'll start working it from our side.
+Robin Barrow: All right. That sounds good. Easy enough. This call selfish for me, just so I can meet you all and get an understanding of what you're looking to do.
+Robin Barrow: Yeah. Yeah, if there's nothing else. I'll let you all go. Enjoy your weekend and I'll send this over right after we hang up here.
+EricS: Very good. Thank you. And that'll be 2 different locations, right? One for the download the PreVeil and then the other will be the compliance dashboard, which that'll primarily be Cindy.
+Robin Barrow: Cindy. Okay. Yeah, I'll add Cindy.
+EricS: She's gonna be it.
+Robin Barrow: Yeah. So Cindy, you'll get an invite, not only from the compliance accelerator, but you also get one for the GRC so just keep an eye out for those.
+Chris Austin: Okay. Sounds good. Thank you.
+Chris Austin: Of
+Robin Barrow: Course. And again, you get 2 more users in both platforms, just so just let me know if there's anybody else you'd like to app for the accelerator and great.
+Chris Austin: Thanks.
+Robin Barrow: Thank you all. Enjoy your Friday.
+EricS: You
+Robin Barrow: Bye. Bye.

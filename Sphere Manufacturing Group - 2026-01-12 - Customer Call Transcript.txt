@@ -1,0 +1,193 @@
+Account: Sphere Manufacturing Group
+Call Date: 2026-01-12
+Duration: 00:25:27
+Participants: Robin Barrow, Jeffrey Sarno, Jeremy Heatherington
+
+======================================================================
+
+Robin Barrow: Hi, Jeffrey, how are you?
+Jeffrey De Sarno: I'm good, Robin. We have other people invited to this or just you and I
+Robin Barrow: We have Jeremy heatherington.
+Jeffrey De Sarno: As well. Yeah. He's the it guy. A contractor only and my contract ends January 15th.
+Robin Barrow: Oh, okay. You have 3 days.
+Jeffrey De Sarno: Pretty much now they've got me on a
+Jeffrey De Sarno: Retainer. Okay.
+Jeffrey De Sarno: And uh
+Jeffrey De Sarno: Yeah, you guys must be super busy right now. Like I just
+Jeffrey De Sarno: I will tell you I I do this lots for other companies and I speak with others. This is the first time I'm using PreVeil platform. Okay. I there's 3 others that your competitors. Yes.
+Jeffrey De Sarno: I can tell you that I was doing PreVeil just because of the what I thought was the simplicity of it and they haven't rolled your platform out. There's a couple of disappointing things I can tell you.
+Robin Barrow: Okay. Yeah, please share.
+Jeffrey De Sarno: All right. Well, the sales call was completely different than the product I purchased, to be honest.
+Robin Barrow: Because
+Jeffrey De Sarno: PreVeil does this thing where it presents it almost if you buy the app, you're gonna be 95% done being CC compliant. I don't buy PreVeil for nothing else. You can present yourself all you want, but you're buying it that you can meet the nest 801 71 compliance regulations, agreed.
+Robin Barrow: Agreed, yeah.
+Jeffrey De Sarno: So the original call I even said that the company purchased nectar.
+Jeffrey De Sarno: As its compliance tool.
+Jeffrey De Sarno: But I wanted to see what PreVeil was and you guys sent me a spreadsheet to fill in which by the way, your algorithm doesn't work in the spreadsheet properly.
+Robin Barrow: Oh, I would be curious to see the spreadsheet that was shared with you. So we we our marketing says we have we share 102 control. So it was probably the shared responsibility matrix that was shared with you. What that means it's exactly that they're shared. They're not fully
+Jeffrey De Sarno: Yeah, I'm good with that. I'm able to trust me. I've gotten 3 other larger companies already compliant. So in different formats some of them, some of your competitors actually only have 3 separate sheets to. So this PreVeil seemed really simple because the company I started with this year has 0. I when I first got there, they thought everything was cookie.
+Jeffrey De Sarno: One they don't have one purple sheet. They don't have nothing marked a as I had to go through all that. Okay. I thought the communication path working with PreVeil would work a little better. Especially with the one of the largest department of defense manufacturers here. I'm in Canada, by the way.
+Robin Barrow: Yeah. Yeah.
+Jeffrey De Sarno: And as you know, there's no C 3 Pao anywhere in Canada. Yes. I do know one that's coming close. It's the only one registered for Canada RPO and I'm talking to them quite a bit. They actually have a competitive product to yours.
+Jeffrey De Sarno: Okay. You should look them up. It's easy to look up now that I've given you that information in case you care. Yeah.
+Robin Barrow: No. No, of course. We do. We always want to know what our competitors are doing. Um
+Jeffrey De Sarno: And my own on plate before using pdf architecture with a pip compliance server and you know whether it's fed ramp. Well, I don't know if you know this, but I don't did you know, there's no CC or GCC High in Canada.
+Robin Barrow: Yes. We did know that, yes. We do have a lot of Canadian companies that have come to us. Yeah.
+Jeffrey De Sarno: So so the one thing I was looking for was that nectar connector. Yeah, I brought the but no one all of a sudden, it's gonna cost me money. Well, it wasn't when I talked to Patrick, originally there was no money anyway, so that frustrates me.
+Robin Barrow: Yeah.
+Jeffrey De Sarno: So that's a gap still because now I have to go back to the investment group and say, oh, I need more money because I overshot this with her Val when I should've went with the product, I knew.
+Jeffrey De Sarno: Frustrated with that.
+Robin Barrow: You're saying that you weren't aware that the same solution would cost additional?
+Jeffrey De Sarno: Correct.
+Robin Barrow: Okay. So whether it be the connector or the actual nectar solution was going to
+Jeffrey De Sarno: Come on. I bought nectar. Okay. Okay. And I have prevailed yeah. The reporting system for logging is nectar, right? Yes. Yeah, that's my set.
+Robin Barrow: Yeah.
+Jeffrey De Sarno: But I've shared that right in the beginning when I was going through the original discussions. Okay. Because nectar, excuse me, was the platform the company bought before you and started? Okay. Yeah, they got sold on there. Just every person out there, whether it be articles and everybody's got a turnkey solution, but not so turnkey.
+Robin Barrow: Okay. You were upset by the fact that the scene connector the additional $1,400 was going to
+Jeffrey De Sarno: Correct. I mean, I had to go back to the bank.
+Robin Barrow: Yeah. No, I get that.
+Jeffrey De Sarno: So it made my credibility, look bad. Okay. And then I used the so I built the shared matrix first filled out all in so that they had that because they had no UI. And then I took that same framework and through it inside the the nectar solution, which will do their compliance going forward. And I built it that
+Jeffrey De Sarno: This particular solution for sure so that they can come along and buy more licenses as they expand out their UI, right? So whether their QA department needs it or their design team needs it for now. It's just the leadership team and there that worked out well, but all I have of course, was was the fact that
+Jeffrey De Sarno: Um
+Robin Barrow: Pulling the logs from PreVeil.
+Jeffrey De Sarno: That's right. Totally. Yeah. Okay. And I'm gonna need that fixed. Okay. And I don't know what else I need from you guys to say M S M C compliant because I've written everything already.
+Robin Barrow: Okay. Yeah. We I'm trying to think
+Robin Barrow: I mean, if they're going to go get assessed once that rep comes on board, obviously we have our body of evidence.
+Jeffrey De Sarno: Next move is simply to get prepared for CC.
+Jeffrey De Sarno: Excuse me. The CPC
+Jeffrey De Sarno: Okay. Which
+Robin Barrow: Is so I yeah.
+Jeffrey De Sarno: I don't think there's gonna be any assessors in Canada. I think I will get assessed. There's for example Robin I know 3
+Jeffrey De Sarno: Companies that are developing.
+Jeffrey De Sarno: Obvious. They're building a salt real components and yet they don't have anything listed yet. Nothing. And I'm just I know that this
+Robin Barrow: Should make sense, yeah.
+Jeffrey De Sarno: Yeah, this year it'll be called as you probably know too.
+Robin Barrow: It
+Robin Barrow: Wait, sorry, say that again?
+Jeffrey De Sarno: It'll be called out in.
+Robin Barrow: That oh, yes. 100
+Jeffrey De Sarno: People like, oh, I don't know what you're supposed to be already. And sorry, I was fixing my monitor. I realize I was sitting on a table. That's okay. I don't know if there's something you want to share with me, but there there's me being transparent with you. No.
+Robin Barrow: No, I appreciate you sharing that feedback. And I can definitely go back to jack who is their original sales rep and get an understanding of what was discussed. Again, for safer. They do have access to our compliance team. I know your contract is up with them in 3 days, but
+Jeffrey De Sarno: They have access to what?
+Robin Barrow: The compliance team still. So they still have I know because you've done the majority of their work now, but
+Jeffrey De Sarno: Myself and Jeremy Jeremy is their MS. Okay. Right. The sphere manufacturing group, which is actually owned by the capital investment group has a whole bunch of different manufacturing arms. Okay, you can actually look up the owners here and you'll see him actually he owns a health component, then he owns a food one and now. And then he owns a
+Jeffrey De Sarno: Oh, they make defense stuff.
+Robin Barrow: Okay. But
+Jeffrey De Sarno: Yeah. Like for example I spent a lot of time in the beginning I don't know, you probably face the same things. The information went all over the place, look at the just the changes in January to how we handle printed yes.
+Robin Barrow: Yeah.
+Jeffrey De Sarno: Man. I thought we built anyways. The work that you're gonna keep changing it. Um
+Jeffrey De Sarno: And so
+Jeffrey De Sarno: So I like
+Jeffrey De Sarno: The simplicity of PreVeil. Yeah.
+Jeffrey De Sarno: I don't know if I find as much value and the problem is because we've only learned it that I've only had one client use per Vail once
+Robin Barrow: So it's just a matter of not having to have the need right now then?
+Jeffrey De Sarno: No, there's no need yeah. Right. It's not your like. So are you're us or Canadian? I'm
+Robin Barrow: Us, I'm based out of Boston.
+Jeffrey De Sarno: Area. All right. The large customer has a us and a Canadian and they manufacture large armored vehicles. There we go. And then we also make artillery shells. What have you not me. Just
+Jeffrey De Sarno: Because they have 5 very manufacturing things and not one of them is following
+Robin Barrow: Regulations done.
+Robin Barrow: That's shocking only because it's like why the rules are put in place where exactly.
+Jeffrey De Sarno: But I mean when I tell you the names, if I were to tell you the names, they're not little names. They're like, names been around since 1,800.
+Robin Barrow: Yeah. No, I know. Yeah.
+Jeffrey De Sarno: And they don't they think that they don't need. And quite frankly, technically neither does fear because it's so we fulfill the components.
+Jeffrey De Sarno: None of it's marked.
+Jeffrey De Sarno: We mark troll goods, which is another standard in Canada. Do you have that down in the us?
+Robin Barrow: I'm not sure. We most likely do.
+Jeffrey De Sarno: Is called the control goods. That's our original one and one standard way. For example, before I can work in the space for control goods, I had to be completely vetted fingerprinted the whole 9 yards and even when I was already moved to another company had to get it done all there too.
+Robin Barrow: Um
+Jeffrey De Sarno: And it goes to the Canadian government security thing. We have the
+Robin Barrow: Era. Ear, okay. Administration regulations, yeah.
+Jeffrey De Sarno: Same idea. It's that's why nobody anyways. I'm sharing this stuff with you, because
+Jeffrey De Sarno: Well, quite frankly, I think these gaps need to be identified. One of the things during your presentations. I think a big gap for all the presentation guys plumbing PreVeil that are missing is that every company I go to has to have the minimum understanding of the product model, you know? Okay.
+Robin Barrow: I don't even no, no.
+Jeffrey De Sarno: Problem. So you just can't plunk your solution into the network and automatically have it work. So you have a closed system, right? Yeah. But every network I've been playing with on the SMB side has been flat. We call it your google produce good for you. So basically it's for years you've always said oh, we have firewall with firewall blocked inbound and what hackers would do is called a reverse shell. So then we start blocking southbound well, in order to cms you got to block east and West. And what does that mean communication coming up? It's least privileged and what have you. And it's one of the very first steps that I recommend as a cyber compliance officer that people have to follow.
+Jeffrey De Sarno: Okay. The Perdue model and it's overlooked.
+Robin Barrow: Layered framework.
+Robin Barrow: Okay.
+Jeffrey De Sarno: So it prevents so here's one of the problems. So I just had a law office I'm working for and for a long time. So the basic fundamentals of cyber security is one, Patrick systems.
+Jeffrey De Sarno: Software updates, Microsoft windows, blah, blah, okay. Number 2 is besides patching system enable factor authentication. Like as part of the rules they are Box and the MA roles based access and stuff. MA and then the third of course, is a good password management on the front end of that. And then education for your staff by buddy at a law office just had his office attacked. And it was attacked through a printer.
+Robin Barrow: There you go.
+Jeffrey De Sarno: Printers are nothing more than large computers. It has a hard drive. And somebody just updated the firmware on the printer remotely. So I had new printer drivers and the moment somebody went to print it, gave it new printer drivers, which then gave the payload. Now my buddy's company is sending out payload emails payload being the malware.
+Jeffrey De Sarno: To all of his customers.
+Robin Barrow: Printers are the most archaic things in the world. They draw me nuts, but yet people are using them to hack.
+Jeffrey De Sarno: And they're old you think about it and most people will buy a printer with an m we call it C, right? Multi functioning system, right? Yeah. Sorry. And everything. Now, you don't upgrade those every year. You don't buy a new one every year. You can a lot of people. Have we
+Robin Barrow: Have because our printers stink but yes. Yeah. Well, most
+Jeffrey De Sarno: People have for example of my house, I just bought this 2 years ago, but I had the exact same model. Yeah. Just sorry, the exact same HP. And it only had like for wireless it only had web security, which is completely compromised, but the printer still printed, you still buy toner, but the communication system that's in the printer never changes. So how many people do you know that have a printer from well even 2010 that? Yeah, works.
+Jeffrey De Sarno: And then they never get updates.
+Robin Barrow: I want to know what kind of printer they bought though because that's good our print printers. I don't know what we're doing to them if they last like 2 years, max 5. Well
+Jeffrey De Sarno: These portable ones are good. When you work in an office environment, you get like a Rico or
+Robin Barrow: Oh, yeah. Yeah, yeah. Oh, no, this is for like our home use. It's we get like
+Jeffrey De Sarno: I only do HP because it's HP and you. It's like buying a Harley Davidson motorcycle. Yeah.
+Robin Barrow: I mean we use HP two, but we my husband always says he goes if I find out the secret code to crack on printers and make them work every single time you use him. He's like we'll be rich. That's
+Jeffrey De Sarno: That's what marks
+Robin Barrow: Ours works and it will work great for like 6 months and then it will crop the bed.
+Jeffrey De Sarno: How does it crop the bat? Do you know?
+Robin Barrow: James
+Robin Barrow: The Inc. If we go to replace it tells us the wrong link. It's always just like a mess.
+Jeffrey De Sarno: Yeah. You're buying laser though, right?
+Robin Barrow: Yes. Yeah.
+Jeffrey De Sarno: Okay. If you buy laser one of the problems in today's laser printers is a counter fit kind of fitting toner cartridges, okay. People don't realize these 200 cartridges.
+Robin Barrow: We probably just buy it off. Amazon, don't even think of we do. But
+Jeffrey De Sarno: Amazon has a bunch of toner cartridges that are better fit.
+Robin Barrow: Yeah, right.
+Jeffrey De Sarno: Yeah. The first thing you should know is inside the toner cartridge, right? Not only as a toner, but that's got the what's called a user. That's what melts it to the page on each one. A couple of things you always have to do is you have to shake your toner cartridges. Yeah, the toner isn't and then it gets you more like on them. But the other thing is when you buy the aftermarket ones or the counter fit ones, they tend to be made
+Jeffrey De Sarno: With crappy parts and thus printer yeah. Yes, anyways. Yeah, we're talking about PreVeil.
+Robin Barrow: I know we got but I will too, you're leaving. I'm going to make a point to reach out to the team regardless. I saw now that they were curious about third party communication with PreVeil. It is an additional product, but it sounds like they don't want to be sold an additional product. No, I
+Jeffrey De Sarno: Just I would have put that in as part of the budget before.
+Robin Barrow: Yes.
+Jeffrey De Sarno: Them spend a whole bunch of money on. They spent a whole bunch on nectar alone and then they now I got a same server. Yeah, I know. Um
+Jeffrey De Sarno: Unfortunately made it sound, very, very. Um
+Jeffrey De Sarno: Packaged, yeah.
+Robin Barrow: Okay.
+Jeffrey De Sarno: Right. And
+Robin Barrow: There's still a lot of work to be done, especially around the end points and the documentation. So
+Jeffrey De Sarno: Yeah. And so there are your competitor products, by the way, if you want to write these notes down are coming out now. So everybody wants everybody has a solution now for the on Clive, yes. But they're adding things like, ers, okay. Intrusion detection and response. And I wish I had their slide in front of me. Just so you know that there are products coming out that are being modeled off of you guys in the beginning, but has more connectors. Yeah.
+Robin Barrow: Yeah. That's what happens. When you're in early, but you get to adapt quickly too.
+Jeffrey De Sarno: Yeah. It's funny. Because when I was younger, right? It was like one of the marketing terms was better to be first than the first to be better.
+Robin Barrow: Yeah. Oh.
+Jeffrey De Sarno: I think that's wrong. I think people yeah. Your ideas show that you have success and then
+Jeffrey De Sarno: And then run
+Robin Barrow: Yeah. We are coming out with more solutions now. For instance, our biggest ask with the VDI solution that's very soon within the next couple of months, which will be great. And then yeah, we just can only get better.
+Jeffrey De Sarno: But yeah, that's all I have for you.
+Robin Barrow: Okay. Perfect.
+Jeffrey De Sarno: And I'm not like it's not like, I'm completely leaving the company. I'm just not working there Monday to Friday anymore. Okay. Yeah, LA have me on a retainer. Like I said. And they actually need to feel a little bit of pain Robin for a bit. Okay. Me not being there to be the finance person. Because I've put in so much stuff with it. Be an education system. I've written and revised all their policies and then built their SOPs. Then put the whole SOP together for them, right? Based on our non play. But the problem is that most companies can't just live within the on plate. No. So and the reason for that is when you get to the manufacturing side, right? There's the entire engineering side, which means design, diagrams have to leave the enclave potentially either.
+Robin Barrow: Probably using the ERP. Yeah.
+Jeffrey De Sarno: Right. Here's a hint. I've done this 3 times now. If you can make sure you have no coding your ER, ER, I know, right? Because job boss, although it was one of the biggest systems out there for small independent businesses, they're not compliant and they never not
+Robin Barrow: Federal, I don't know of one ERP that is well.
+Jeffrey De Sarno: Global shop is making a claim.
+Robin Barrow: They're getting there. Yeah, yeah.
+Jeffrey De Sarno: But they're not I took a look at that. They are because they're running on Amazon web services in the us.
+Robin Barrow: But yeah.
+Jeffrey De Sarno: Here's one of the problems Robin. I actually think we're going to see this year. Something come out of Canada, Canada. Actually I know this because I'm on the committee called the sovran. Sovran ty act. Okay. That's actually an impact your business.
+Robin Barrow: What is that?
+Jeffrey De Sarno: Well, it's where so today, 90% of all software purchased and used for candidate comes out of the us because our relationship was like, this, right? I don't know if you know that's been a road it.
+Jeffrey De Sarno: Yeah.
+Robin Barrow: Based on our chief yes. But I was going to say based on the lovely man, that's sitting in the seat that he has.
+Jeffrey De Sarno: Do whatever you want he's. But the us for years has and this is why we see it and the world sees it. And the I don't know if Trump sees it this way, what the us took and built global trade, the us, for example, us took over the postcard like years ago, right? Then sanctions on that sanction was if you want to leverage our coast guard, you have to make sure you weren't dealing with Russia or, you know. And so
+Jeffrey De Sarno: We had that kind of send tic relationship. And now the us doesn't want to be a global trade. They wanna so global political and what have you is all gone and now, Canada is actually looking, okay, how do we unwind from this from generations of this? And I can tell you on the cyber security side and on the software side, there's lots of talks happening in the federal government right now about how do we not use tools Microsoft or what have you
+Robin Barrow: Us based products.
+Jeffrey De Sarno: Any us based products. Okay. Well, I don't know if you heard there's a rumor today. That our PRI minister is actually saying how do we divorce from x?
+Jeffrey De Sarno: Twitter.
+Robin Barrow: I see. I've always I rarely use twitter, but yeah, I mean
+Jeffrey De Sarno: That's but that's just no, no.
+Robin Barrow: I mean that's it's a huge product. Everyone uses it. So it's uh
+Jeffrey De Sarno: That's but that's his first one. He's trying. He just posted it this last weekend. So it's like this is. So that's one of my concerns too. Because it would that's gonna be the
+Robin Barrow: Domino effect, yeah.
+Jeffrey De Sarno: Because one of the things you don't know is in the us, we probably do this. Do you know why there's no fed ramp? CC in Canada?
+Robin Barrow: Why is that now? I don't know this.
+Jeffrey De Sarno: There's only one server site for all of Microsoft in Canada. The restaurant in the us, Montreal the only Azure site.
+Jeffrey De Sarno: That's not enough 6 even is our or Toronto internet exchange is in Toronto, not Montreal.
+Robin Barrow: Yeah.
+Jeffrey De Sarno: And Microsoft only did it because Quebec is almost saver in itself and they wouldn't even let Microsoft play there unless they built their
+Robin Barrow: Man. Oh, man.
+Jeffrey De Sarno: So that
+Robin Barrow: Is I learned a lot today? That's for sure.
+Jeffrey De Sarno: Okay. Well, get me my connector.
+Robin Barrow: Okay. All right. I'll see what we can do there and then yeah. And I'll send
+Jeffrey De Sarno: Over a connector this week. Okay. Thank you. This.
+Robin Barrow: Week. Okay. I mean, it's still an additional product. So are you able to
+Jeffrey De Sarno: I don't know. Okay. I need some loving.
+Robin Barrow: Okay. I'll see what I can do.
+Jeffrey De Sarno: All right. Thanks. All right.
+Robin Barrow: Awesome. Thanks, Jeffrey.
+Jeffrey De Sarno: Bye.

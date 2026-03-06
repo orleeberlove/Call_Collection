@@ -1,0 +1,111 @@
+Account: Trenton Systems
+Call Date: 2025-12-12
+Duration: 00:17:19
+Participants: Vince Petrecca, Emily deBettencourt, JohnE Mullin, Yasmine Femia, Gregg Laroche
+
+======================================================================
+
+Emily deBettencourt: So
+Emily deBettencourt: Hello. All right. It looks like we've got good morning. Hi, yes. The whole how are group you here? Hi, I am Johnny. Good, how are you? Good, good.
+JohnE Mullin: Doing well. How about yourself?
+Emily deBettencourt: Doing great. Thanks. Also got we've got Greg are on the call. He's our head of product and compliance here at Val. And will quan who is the newest member of our compliance team as well? We've got a good group today.
+JohnE Mullin: All right. Sounds very good. Welcome. Everybody.
+Emily deBettencourt: Yeah. I wanted to get you on a call today to talk a little bit about your cms assessment and see how we can help with all of that. If you could just bring us up to speed, Johnny on on where you guys stand with everything. And what's most important to you at this moment in time?
+JohnE Mullin: Okay. Well, we we were actually scheduled to do our CMC audit end of September 1st of October. Okay. But right off the bat, they found some issues. So we ended up changing that to a mock draft. Okay. That's right. And one of the issues that came up in regards to PreVeil when I told them we were using PreVeil, they jumped right on it to show us that the files are actually being stored on our PC along within the cloud. So of course, I didn't have it lock or anything on the PCs and I didn't have them in the scope, but I've changed all of that. But one of the other big issues that came up and I reached out to your support group and they told me this is the case, but when a user sets up a device, the device name says John main PC.
+JohnE Mullin: And I have no way to tie that back to. Is that my work PC? Is that my personal PC? I can't tell them what that is and that was a big finding that they had is I have to be able to tell them hey, PreVeil is installed on this PC and yes, we are protecting it. And how can I prove that's not a personal PC?
+JohnE Mullin: So that was one of my main concerns about PreVeil is how are you answering that when others are going through the cms audit?
+Gregg Laroche: Sure. Yeah, that one. We handle that one. There's 2 there's basically 2 ways to handle it. One is more or less the path you're thinking. But what is more common is that our customers typically activate the the rule in their organization and the PreVeil admin console that does not allow users to add devices. Okay. I
+JohnE Mullin: Have done that now. Yeah. And then
+Gregg Laroche: So then you don't have to really worry because that page also allows you to get a list of generated report of a list of devices and you can look at it in the UI. You can see every device that every user has keys on. And and I know the naming of the devices the identification of those devices is not. Um
+Gregg Laroche: Specific to the hardware. It is in the audit log, but it's still not it's a you know, when you every every device in PreVeil gets an identification in our system, that doesn't correspond to anything. You can easily point out on the device, right? We do have plans in the future to make the device identifiers a little more useful in that use case. We don't today. There's still not particularly useful for identifying individual devices, but it does satisfy compliance to just not allow users to add devices. So then you can say it doesn't really matter, they're allowed to have one they're allow to have PreVeil on one computer. And as long as you have a process in place to do that in kind of a supervised way, then that satisfies the controls. It's not because they can't add their own computers at home, let's say they're not allowed to. So
+JohnE Mullin: Okay.
+Gregg Laroche: And if for some reason that rule, let's say, is not activated and they do add a home computer, it would show up in the admin console, they will show up as them having 2 devices.
+JohnE Mullin: And that's what I'm saying. A perfect example is I've got a user that he's got it on 3 devices. Yeah, and a phone and I know about his phone. I know about 2 of his devices, but we can't find where the third device is, right? It tells me it is it's not as personal one. And we think it's a laptop that an intern had, which just there's another issue of why he would install his email on that. But anyway, I can't see because all it tells me is PC 3.
+Gregg Laroche: Yeah. But you can also you can administratively remove that device. You can delete it. Well
+JohnE Mullin: At the time. I didn't know. Was it PC device one, 2 or three?
+Gregg Laroche: Right. Right. You don't want to delete the wrong one. I got you, right. Yeah. Yeah.
+JohnE Mullin: So that was the biggest thing that they came up with. That's
+Gregg Laroche: Still kind of a gray area, but you can get around it by activating that rule
+JohnE Mullin: Okay. What I've done now is I've activated that rule I've now put into my policy that we do not allow installation on personal devices. Yeah, that's
+Gregg Laroche: That's very common, very typical because you don't you can't manage the home computers, right, you correct? Yeah. You have to keep them out of scope if you can
+JohnE Mullin: Yeah. So that's what I've done. Like I said, it's kind of they got to take me at my word that none of those are personal. Because I you know, there's there's no way for me to prove it's not a personal PC and not a PC we've installed on. I'm trying to figure out how to go about doing that.
+Gregg Laroche: Yeah. It's a good question because we like we've had so many companies go through successful audits where this was not a problem. So there's gotta be a way through this one.
+JohnE Mullin: Yeah. I figured there's gotta be something that we're not the only company using PreVeil, but I
+Gregg Laroche: Suspect, it might be a process thing where you could say every user is signing an acceptable use policy and they're all agreeing acceptable use practices and those include not putting in PreVeil on an unauthorized device. You can I mean, at the extreme we do have a feature where you can only put PreVeil on devices that have a particular company sign certificate on board. So like you could create a cert and yeah available. I look for that on every device and it won't install otherwise. And so that's another feature we have, but that's rarely used and it's not required for compliance. That would be more just built in suspenders. If you want to say our process ensures that users install, PreVeil only on authorized devices. Like for example, if your computer oversight includes the notion of configuring an endpoint for a user, either through a managed service provider or through your own it team. That process could include like we install PreVeil for you. User doesn't do it admin does it and then that process ensures a user isn't gonna put it on the wrong machine.
+JohnE Mullin: Right. And that's kind of it is because I've taken the local admin account. So it requires the it group here to install it, right? they're just trying to find
+Gregg Laroche: That should be adequate. Yeah. If you have a process to say, look the PreVeil can only go on company devices. The it team supervises that we can run a report to show the PreVeil is only like one device per user and they're following the process. I don't know if an assessor is asking you to prove a negative. That's always a hard thing, right. Yeah. Um
+JohnE Mullin: Yes, it is. So
+JohnE Mullin: How was
+Gregg Laroche: Your C 3 PO? Like what
+JohnE Mullin: What company red spin?
+Gregg Laroche: Okay. And that's unusual because we have lots of good experiences with red spin. Yeah, yeah.
+JohnE Mullin: But I'm trying to the other thing that I was looking for. And I know somewhere on here. I have downloaded the devices that users have.
+JohnE Mullin: And I can't seem to find out. I looked under device settings, general settings. Isn't there a place I can
+Gregg Laroche: Yeah, you can generate that device list.
+JohnE Mullin: That's what I was looking for.
+Gregg Laroche: Yeah. Basically
+JohnE Mullin: Management
+Gregg Laroche: Yeah. Let me just bring it up. I'm waiting for my admin console, so I can get you directly there, but it's not wanting to look.
+JohnE Mullin: Like I said, I know I've seen it before.
+Gregg Laroche: There we go yeah if you go into
+Gregg Laroche: Where the heck is it?
+Gregg Laroche: Price.
+Gregg Laroche: Yeah. There's on the left nav in the admin console. There's a category called device settings. Yeah. And that's where you set up whether or not users are allowed to add devices. That's where that switch is. And that's also where the certificate feature is, if you decide to use that. But way down the bottom is the export device list.
+JohnE Mullin: On. There it is. Okay. I see it. Like I said, I know I've seen that before. Yeah, I find it.
+Gregg Laroche: It's down the bottom there. It should actually be a little more responsive than that. It should be
+JohnE Mullin: Maybe what happened on my screen? I see there's a big gap between trusted devices, devices. So okay. Absolutely. Because the other thing I thought about doing is exporting that. And then I've got a program where I can run a port of what Systems prevails installed on
+JohnE Mullin: So that if John Mullen has 2 Systems, I can show them, hey, these are the 2 systems I have control over them. Yeah, and they meet the requirement.
+Gregg Laroche: Yeah. I think that having an asset list is definitely required and you need that either way, but yeah, that sounds like the right approach to me. Okay.
+JohnE Mullin: All right. So so I think hopefully that will meet that requirement for them. Like I said, I just been trying and change to specifically say, okay, we don't allow personal computers.
+Gregg Laroche: Yeah, that's it. And users. And if users don't have admin rights on their machines, they can't install PreVeil anyway. So and then if they're not allowed to install PreVeil by rule, that's a secondary control, right? It's like, first that's 3 controls for the same thing. You have a policy that says don't do it, you restrict their admin rights, so they can't do it. And then you have a rule in PreVeil. That won't let them do it. So it's like yeah. That's so yeah, exactly.
+JohnE Mullin: Yeah. So but but yeah, I just like I said, I've just kind of updated some of my policies to take some of the verbiage that I'm guessing they were looking at. Is not covering it.
+Gregg Laroche: To yeah. They were probably seeing like if your users didn't have a specific prohibition and then then they're in the maybe category. I was like, well, maybe a user could try to do it wrong. And how do you know how can you prove but this is right, putting all those controls in place. The user can't make a mistake. So
+JohnE Mullin: Turning off that not allowing them to do multiple devices.
+Gregg Laroche: Yeah, that's the big one.
+JohnE Mullin: Why users are not allowed to add multiple devices that should be on, right?
+Gregg Laroche: Now users are allowed is
+JohnE Mullin: On on yeah. I want to be off. Yep. Just looked at it. I just want to make sure because I was I'm working with your support because we lost one of our PreVeil folders. I guess there was a bug and I'm trying to we've been working on it for 2 to 3 weeks to get it resolved and I had to turn it on because we had to allow somebody to log in and create another account real quick. Yeah, to see if we could do it.
+Gregg Laroche: Yeah. And you can also enable that per user so that if you're in the user's tab and you're in the user's devices, you actually can override a particular user saying like this one user can add devices. Yeah. Yeah.
+JohnE Mullin: Actually having you mentioned that's what we did is we went to the did it. So yeah, you can
+Gregg Laroche: Do it there, too. So you don't have to turn it off for everybody or on for everybody. Yep. Yep. All right.
+JohnE Mullin: So but other than that like I said, I'm hoping everything goes. Right now, I'm shooting for probably mid April to go through it again. Okay.
+Gregg Laroche: All right. Awesome.
+JohnE Mullin: So, like I said right now, the issue I'm having is trying to get this one folder recovered. So uh
+JohnE Mullin: I just got off the phone with them.
+JohnE Mullin: They had an 11:00 o'clock and I was 11 30 with Emily better finish up, but we got that completed quickly and done recovery, but I have users not seeing it yet. So I'm gonna have to figure out whether the recovery worked or what's going on.
+Emily deBettencourt: You're talking about a call with our support team, right?
+JohnE Mullin: Yes. Yeah. Okay.
+Emily deBettencourt: Okay. And I'm glad you're working with them on it. They're really communicative. So we'll stay in touch with you and definitely keep us posted on your assessment progress. And if there's anything we can do to help as you keep working through it. Yeah. Johnny, do you have our body of evidence or be yet?
+JohnE Mullin: I don't let me go back in.
+Emily deBettencourt: Yeah.
+Emily deBettencourt: I can check. Give me one second.
+Yasmine Femia: And I can tell you
+Gregg Laroche: Technically, you won't need it until march.
+JohnE Mullin: But right. But I think I do have it. Okay. I don't know why my PreVeil is running extremely slow this morning. It's just I'm spinning and spinning waiting for it to
+Gregg Laroche: Yeah. I had to reload that. I had to reload that admin tab to get it to run faster. Yeah. It did that work though because I couldn't get it to load a second ago. I just refreshed it and it popped right up.
+Yasmine Femia: It's a little slow on my end as well. I thought it was my internet, but let me just confirm if I've shared this with you in the past, let's go here share.
+Gregg Laroche: Decent
+JohnE Mullin: And it's just not coming up right now, but I believe I did receive that. Although
+Gregg Laroche: Well, you want to update it because the assessor will want to see that you. Reviewed it, let's say within 30 days of your assessment and yeah, you'll have to get back to and it's also changed. We got a new one in November. I was trying to figure out. Yeah, whenever
+Yasmine Femia: You need it again. John, just reach out to me and I can share the 20 26 folder with you again. Sounds good.
+JohnE Mullin: Yeah. Yeah. It's not coming up on my end. So oh, there it is. Was it under PreVeil customer material?
+Gregg Laroche: No. No, it's a folder are called um
+Gregg Laroche: It would be
+JohnE Mullin: Fed ramp moderate equivalent.
+JohnE Mullin: Yep. I do have that.
+Gregg Laroche: But you have the 20 25 one, right?
+JohnE Mullin: Correct. Yes. Yeah.
+Gregg Laroche: So that one has been replaced for 26
+JohnE Mullin: Okay. Yeah, this was 8 28 of this year.
+Gregg Laroche: Yeah. Well, that was fine for that time. But now it's we get assessed every single year. So you need to use the current one. Yeah.
+JohnE Mullin: Okay. Yeah, I'll reach out once we sounds good. Like I said, I'm working on a schedule right now for them to come back in and like I said, he said there was 2 dates open in April, so that's what I'm looking at. Okay.
+Emily deBettencourt: Okay. Good.
+JohnE Mullin: All right. But I think that's about it for right now.
+Emily deBettencourt: Awesome. Well, thank you for your time. Thanks for breaking all of that. Down for us. Glad we were able to help. And we'll stay in touch. We want to make sure your April assessment goes. Very very well.
+JohnE Mullin: Yeah, I'm hoping so
+Emily deBettencourt: Yeah, of course. And I'll be in touch with you, of course before April. But I always reach out to folks ahead of their assessments to as long as I know the date. So. Yeah, just to make
+JohnE Mullin: I'll shoot you the day once I get something finalized.
+Emily deBettencourt: Okay. Sounds good. Johnny
+JohnE Mullin: All right. Well, thank you very much.
+Emily deBettencourt: Thank you. Have a wonderful weekend. Thank you.
+Gregg Laroche: Thanks. Bye.

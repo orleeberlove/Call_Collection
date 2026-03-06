@@ -1,0 +1,81 @@
+Account: Summit Technologies & Solutions
+Call Date: 2026-02-04
+Duration: 00:15:03
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi Matt, how are you?
+Robin Barrow: You if you're talking
+Robin Barrow: I can't hear.
+Robin Barrow: Hello.
+Robin Barrow: I can hear you now.
+Matt Taylor Summit: Okay.
+Robin Barrow: Great. Awesome. Thank you so much for jumping on. This is your 90 day check in. So this is just the moment where you take a look see what's if you need any help or if you use the platform, it's okay if you haven't. Let's get you using it. So yeah.
+Matt Taylor Summit: Yeah. I'm somewhere in the middle of being derelict and getting this implementation going because of just operate day to day operational things which are kicking my right now.
+Robin Barrow: I get it.
+Matt Taylor Summit: I don't have anyone else on the platform, which has made it hard to get the kind of backup group set up, which I keep getting alerts about from the platform, which is fine. Totally fine.
+Matt Taylor Summit: A restore group, right? that to get set up and then plotting through some of the training as I start to build up the documentation stuff for the submit Al. So really I'm behind the curve on getting moving right now is the simple answer.
+Robin Barrow: Matt, you have a org and that makes me happy. So as long as you have something in there, it's good. But yeah, again, the system's gonna yell at you until you set up that recovery group just because we don't want you to lose your data. But I get it's a lot to go through especially with the compliance accelerator. But this I don't want to make this like, homework. This meeting is really just to help you out. So is there anything I can do to help you all get back in the platform and using it or do you need additional resources? Yeah, what can I do to help?
+Matt Taylor Summit: I don't have a clear answer on that. And every time I think a couple of days away from getting back into this, I get something else, correct? The play. So it's it's in that pattern of things. I don't know right now. I don't feel like there's any real gap. This is very doable. I can go do it just the time, right? I appreciate that. I started setting up folders and moving stuff in so I'd have a basis of
+Matt Taylor Summit: What I'm getting after. But I really need to get that recovery group set up, which means I need to pin down to other bubbles to get it on their computer to at least acknowledge it that things kind of, function behave appropriately. Um
+Robin Barrow: We do have folks that will use a great method, but like you the backup email. So if you have like an admin that you want to create for yourself at summit technologies, you can do that. But
+Robin Barrow: Again, if you're gone and you decide to win the lottery and run away. What's the purpose of recovery group if you're 2 of those people, but yeah, that's just like want so you can get the system stop bugging you, but it will bug you until it's set up.
+Matt Taylor Summit: That's not a horrible idea. Just to plug the gap on it. Yeah.
+Robin Barrow: I don't tell a support team and the compliance team I told you that, but yeah, you can do is
+Matt Taylor Summit: Inherently a bad idea.
+Robin Barrow: Compliance. Not great. But yeah. Um
+Robin Barrow: And yeah, I mean
+Robin Barrow: You're good. I just got off another call with a customer who's in the same boat as you. I don't think anyone got into the business because they're so excited about being compliant and working towards C level 2. I understand it's not really an after thought. You have to do it, but more of like, okay, my real job is the most important and then I'll get to the compliance piece, but just
+Matt Taylor Summit: Continue to fill out reps. Inserts asking me if I've got 801 71 program, if I've made a sisters. So I keep it's easy 2 or 3 times a week. I'm doing that. And feeling dumb for have it all this stuff here to be able to do it, but not then at the same time, we're C is kind of floating around and email even though it's misused pii or just some other nonsense from the government. We don't you know, we're not catching that in the right way. So it's the irony surrounding this is funny. Not to mention I'll get whatever emails kind of, business intelligence stuff and they'll have advertisement for like, si beyond I think. And it's you know, the their big special is $50,000 get you to CM CC package.
+Matt Taylor Summit: There's a racket, dude, you get out there.
+Robin Barrow: It's crazy. We do have the this world is created a lot of people that are like, oh, I like money grabbing. They've found an opportunity. They're like, all right. Let's get on it. Um
+Robin Barrow: Is it nice to hand over the keys to the kingdom and say get yeah, sure. Get me to see as but I don't think majority of small businesses have that kind of money to do so. So that's where we come into play. No.
+Matt Taylor Summit: I like what you all have. I looked at a dozen of them. Spent a lot of time on the phone with all kinds of different people. I really wanted just the Microsoft GCC High to come out of the box a lot easier to operate on this, but they are all their controls all over the place and that you don't know if you have the right package to do this or that or actually turned on. So now you all make a heck of a lot of sense in the market and I appreciate the opportunity.
+Robin Barrow: Yeah, of course. That's what we're here for. And again, I'm gonna send over resources just to bug you, but if you need anything else, just let me know. Use the compliance team. They're available to you. I believe that you can book time with them under additional compliance resources in the accelerator. So that's the courses course catalog, but yeah, I know it's a beast. We're just here to help. Yeah. I have
+Matt Taylor Summit: Oh, sorry.
+Robin Barrow: No, I was gonna say, I'm happy to reschedule push this meeting out just as a placeholder, but I don't want to bug you if you're like. I got it. Robin, it's gonna know I get I got to get going.
+Matt Taylor Summit: Well, I don't know what I don't know.
+Robin Barrow: Yeah.
+Matt Taylor Summit: Too. So if you push out month to month something like that and check in that's great.
+Robin Barrow: Okay. I'll do that.
+Matt Taylor Summit: I kind of feel like all the resources you've done well to put in front of there. But again, a black box, right? I don't know.
+Matt Taylor Summit: There's a couple of things that have scratched my head. I scratch my head about if I get ca in my email. My email is vulnerable, not I should not be getting that. So I've got to go write some the policy. If you know, that's kind of is stuff that. Yeah, I can't stop the bleed for someone sending me something they shouldn't because right. They can't they you know, they can and will do that.
+Robin Barrow: They do. Yeah. Then then that's exactly right. You have to put a policy in place in the states. Once we receive UI to our commercial account, we're dragging and dropping or whatever the compliant term would be into our PreVeil account and delete it. Yeah. But that's exactly right. I mean, I know do is sending things over to commercial accounts. So
+Matt Taylor Summit: It's NASA for some reason, that's doing that. All the procurement documents. They're marking them, UI, putting a CI cover sheet on them. There's not to me there's nothing in there's no pii in there. I don't know, I believe is sensitive, but there's no designs in there and there's really no requirements for anything in these documents. So I'm not sure why they feel it that way. Otherwise, other than they just don't know.
+Robin Barrow: Right.
+Robin Barrow: So, yeah.
+Matt Taylor Summit: We can break that problem when we get to it. But you know, inherently that we
+Matt Taylor Summit: We can't just I mean, we can't tell them. No, don't send it to us, right?
+Robin Barrow: Right. Yeah. It again, it has to be how you manage it once you receive it. Yeah, unfortunately. Um
+Matt Taylor Summit: I think that's our only gap.
+Matt Taylor Summit: I don't want to try to drag all our email in the cur stuff and that our goal was to solve it a bit more economically and efficiently and PreVeil fit that solution instead of dragging everything into a CI environment.
+Robin Barrow: There. I think there's a way to I think with Microsoft to automatically there's like, some flags or markers you can put in play. I'll find more on that. We also have email gateway, but that's an additional product. I want you using the product before I give you additional products. But email gateway helps you create a secure. So a sub domain. So if you're working with someone over at NASA and you it's a common domain that you use, you would just whitelist a domain and the emails would then flow to your PreVeil without them having to create an express account. And you could give them the secure sub domain. So they can know, okay, this is UI. I need to send it to this secure sub domain and it will automatically come to your PreVeil account.
+Matt Taylor Summit: So the gateway
+Matt Taylor Summit: We've got a very let's just call it economical email provider in yahoo.
+Matt Taylor Summit: Certify and they also own the DNS for email, right? Right.
+Robin Barrow: Right.
+Matt Taylor Summit: So a sub domain in this case, what are you doing with your gateway technology? I saw it on the site. And this is a good I'm just trying to understand what the scope of the services.
+Robin Barrow: For yeah, for us, we're hosting the gateway and creating I call like a portal secure portal from a commercial account to the PreVeil on late. What you all will have to do. You have to get that certification in your domain. So that's I think it's around like 120 to 300 bucks a year. Give or take depending on who you go with. You would purchase that and then we would set up your gateway. So you would whitelist domains in PreVeil. So the system then recognizes, once emails come to the sub domain. It flows to prevail again, I'm not super technical. So I'm probably doing a poor job describing this like the ins and outs, but it's a secure portal. That's what I say. Um
+Matt Taylor Summit: Any other kind of documentation on it beyond what's on the website?
+Robin Barrow: That yeah. Do we have stuff on from the knowledge base? If you reviewed that's pretty much what we got, but I'll send it over regardless. And I can give you price too. Because it does require setup from our team. And based on your license count, I think it will be like 2 2,200 for the year.
+Robin Barrow: That's the gateway. But again
+Matt Taylor Summit: Let's get I'm not running immediate down that road, right?
+Matt Taylor Summit: Policy paper dragging to start out with and
+Matt Taylor Summit: We can figure out what makes sense from there, but uh
+Matt Taylor Summit: It's an obvious whole to me otherwise that
+Matt Taylor Summit: People sending us stuff. Well, we just got to coach those folks to send it to the right to like the PreVeil drop. Yeah.
+Robin Barrow: It all depends if they're willing to get PreVeil express. If they're willing to get PreVeil express that solves your problem, they can communicate with you through PreVeil. You would invite them to join PreVeil express and they could then start communicating with you that way. But it all depends if they're going to
+Matt Taylor Summit: Okay. So then if that if not that
+Robin Barrow: Then the gateway
+Matt Taylor Summit: Yeah. That because there's no way we a user in like a government user in outlook would type in summit at PreVeil.com and send us whatever that doesn't work.
+Robin Barrow: Right. No. And it wouldn't be PreVeil it would be through like, an express portal and if there yeah, if there it would still be a domain. Yeah.
+Matt Taylor Summit: The right answer is just the point being that
+Matt Taylor Summit: There's not an email based delivery of UI. Right now, it's all they've got to get PreVeil express to be able to walk the document from computer to web screen.
+Robin Barrow: Yes. And I don't know if they will especially with the government issued device. I don't know if they're going to down or get PreVeil express. It all depends. But yeah, you just let me know if you experience that friction and if it's a large enough gap where you need to get a solution, we're here to help. Okay.
+Robin Barrow: Great. So I'll send over these resources. I'll send over a quote just so you have it and can keep it on hand. But again, you let me know where I can help as far as getting you in the system and yeah.
+Robin Barrow: Get you in compliant. Yeah. Of course. Anything else. Any other questions?
+Robin Barrow: No. Okay. Great. Well, thank you, Matt. Enjoy the rest of your day and I'll send a follow up shortly.
+Matt Taylor Summit: Yeah. Thank you.
+Robin Barrow: All right. Bye. Bye.

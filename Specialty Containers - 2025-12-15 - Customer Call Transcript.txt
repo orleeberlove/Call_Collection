@@ -1,0 +1,64 @@
+Account: Specialty Containers
+Call Date: 2025-12-15
+Duration: 00:12:10
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello, Michael?
+MRosa: I'm hello. Well, Andrew, how can are you things see with me? You
+Andrew Meggs: Yes. I can see my you allergies. How are you are acting up, but other than that, I am good.
+MRosa: Where are you based out in?
+Andrew Meggs: I'm in Minnesota myself. How about you?
+MRosa: We're just half 45 minutes, 40 minutes, North of Boston. Oh.
+Andrew Meggs: Okay. Nice. Nice. Yeah, most of the team is in the Boston area. But no, I'm over here. I'm over in Minnesota myself. Got it. I appreciate you hopping on a call with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like, a welcome intro call sort of thing. For context, I am the customer success manager for your account. So what that means is I am your general main point of contact and account manager here at PreVeil going forward. So this call is to let you know, I exist, but be kind of go over the onboarding process and make sure you don't have any initial questions.
+MRosa: Perfect. So
+Andrew Meggs: To that point. Hi, I'm Andrew nice to meet you. Getting started with PreVeil. There's kind of 2 different pillars. The first is the technical implementation and then the second is getting into the compliance documentation. So for the technical implementation, I think I sent some instructions in that initial email that I sent. Have you managed to take a look at that yet? There's instructions.
+MRosa: I have and I passed the material along to our it. Provide our IT consultant who does not work for us, but works with us. He's an independent it person. His name is David. And I need you know, anything that we do with you know, I've got to have David sort of engage it, understand it, bless it and sort of layman's term it for us. So we can navigate within your infrastructure. So to accomplish what our goals are. So there was a quick review on my end, David and I talked on Thursday. He has other clients. So he's kind of like a independent guy, but he has other class. He takes care of. I did ask David, are you familiar with PreVeil? He said yes. He has dealt with PreVeil for another client recently. I've asked David his familiarity with cms level one compliance because we are in the process of getting receiving a contract from a contractor who does business with the federal government, the logistics agency and not in the course of new requirements. Is that we have all these secure cyber security protocols in place and we cross it's date is I'm just dumbing it down for myself. Okay. So David said sure understood. I told him we have this package that we've engaged. I told him about Marco out of Alicia. He lives in the North. Am I know that area. Very, very well, I go to the North and Boston quite frequently my wife.
+MRosa: And ironically, I happen to know Marcos uncle who's a very very well known restaurant poor in the area. So we have that commonality to talk about. So but in talking to David, I told him I said we need an encrypted email campaign to start with. So as we communicate with this contractor he said well, Mike, you already have some encryption products. I said, well, I don't know what we have. If you can enlighten me in terms of what we've engaged in. That can help assist move this thing along with PreVeil. But I did tell David that the thrust of our requirements is this level one requirement and then the 17 Kyle, I'll use the word checkpoints. I know what is the best term to talk about those seventeen?
+Andrew Meggs: Controls
+MRosa: Controls. Thank you. And I said we have to have that in place. And then I have to provide documentation and verification to the contractor. They want to give us this purchase order and once we give them that documentation, they can give us the purchase order, then we can begin manufacturing. Does that make sense to you Andrew?
+Andrew Meggs: Yeah. For sure. And we do actually have a if I can find this we have a level a cms level, one shared responsibility, matrix that I can share with you after this call to that shares, which of those controls are PreVeil per view and what have you. Yeah. But I guess in terms of the nuts and bolts of actually getting started on the technical side of things. That involves one person going through the onboarding process. I mean, it's straight straightforward to just download PreVeil, create a PreVeil account. And there's a specific link to go to that. If you're logged in will prompt you to create the org. And then whoever does that will be set up as the initial administrator. Do you have a
+MRosa: I think I've set that up already as me as the administrator and we did it under sales at sci containers.com.
+Andrew Meggs: Okay. When you
+MRosa: When you have visibility to that, can you see it?
+Andrew Meggs: I see. I mean, I see that there is an account with that name. So so when you're logged into that account, you see like an admin tab like you see? you can add users and stuff when you're in that account?
+MRosa: Yeah. I'm gonna be adding David and probably adding one more representative here in our company. Primarily because I'm gonna be the primary contact with our customer on the contracts, pricing and so forth, but then I need our administrator, who will handle the billing and all that stuff. So it'll be 3 people minimum. That would have a relationship with your technology.
+Andrew Meggs: Sure. And then the next step after that if you've created the org is to schedule a onboarding session with our support team. Have you done that yet?
+MRosa: No. I we plugged in for you. Uh
+Andrew Meggs: That's
+MRosa: Okay. I just didn't know what the next steps were.
+Andrew Meggs: Yeah. So now that you've created the org the next step, yeah, would be to schedule that. The official onboarding training session. So that's like an hour long training session to kind of go over roles. Yeah. In my follow up email, I will include a link to the support team's calendar to schedule that.
+MRosa: Excellent. I mean
+Andrew Meggs: Technically you can use PreVeil. Now, you've got the org setup, but that's kind of the actual training session. But yeah, that's kind of in terms of the technical setup. The other side of getting started is getting into the compliance documentation on the our compliance portal, which is a separate website. It's a separate login and that is something I add people to. Okay. I added you to that right before this call. But you can have up to 3 people in there. So if anyone else needs to be added, I can go ahead and add them to
+MRosa: Okay. Great.
+Andrew Meggs: If at any point anyone else needs to be added, so you should see an email invitation to that soon. And I'll include a direct link to that in my follow up email. But if anyone else needs to be added to that, you can just let me know when I can add them.
+MRosa: Got it. Thank you.
+Andrew Meggs: And then yeah, that's kind of it in terms of getting started. Is just going through that onboarding and then getting into the accelerator what you I've already done for you. So beyond that. There's not really any other magic switches to pull or anything like that. So you're kind of good to go. But it I'll include the level one shared responsibility matrix to in my follow up email. But yeah, there's not much else. In terms of getting started. Do you have any questions about PreVeil or
+MRosa: Anything a couple of questions once we go through the onboarding and once we do the controls and through the accelerated, what is the official?
+MRosa: Paperwork program or authorization. I can give the contractor which validates that we are now in compliance. What is that? What does that look like Andrew?
+Andrew Meggs: I believe level one is search self certification and there's there's information on like, how to do that in the accelerator. But if you have any so so with the accelerator comes access to our own internal compliance team as a resource. So they are the people who wrote all of our documentation. They keep us compliant and they're much much more knowledgeable about all of this than I am. If you have any compliance related questions, they are available to you as a resource at compliance at PreVeil.com. And then there's also a link to their calendar in the accelerator. Once you get in there, you'd be able to schedule a meeting with them too. So certainly
+MRosa: A number 2. How often do we have to sort of recertify ourselves an annual basis or once we do it? We just maintain it and just the
+Andrew Meggs: Level 2 is every 3 years. I think level one is also every 3 years, but don't quote me on that. I will need to double check, but I believe it's every 3 years, but I'll ask the compliance team.
+MRosa: Okay. All right. Just we're just trying to get familiarity. So we you know, we can mark a calendar to say because it's like a driver's license or a car registration or all that. You got to do it your car. Well, here in New Hampshire, we got to do it every year. Sure. And renew your license every 5 years. So I went okay. How do we keep track of all of our timeline expirations which this is very much new to us and we obviously don't want to find ourselves expired or something where like, oops, how did that slip through the cracks? So we will put something on the calendar, but I'm sure sure available remind us.
+Andrew Meggs: Yeah, for sure. And then yeah, like I was saying earlier, if you do have any other questions about that. Our compliance team are aren't able to I'm gonna ask them about the research. They're able to give a more intelligent answer than me. I'm kind of I know a little bit or what's the phrase I know enough to be dangerous, but but generally I'm more on the account side of things. So if you needed to add a license or subscription renewal, that sort of thing would be me. And I do have some knowledge of all this, but they are able to give a much more in depth.
+MRosa: Answer, I appreciate that. All right. What else we got to go over before we we move into the the official onboarding. Anything else I need to know?
+Andrew Meggs: Asking this question to the compliance team really quick. Yeah, in terms of getting started, that's kind of it is going through that onboarding and getting into the accelerator. The only other thing I like to do on these calls is I like to set up a check in call a 90 day check in call with all my clients, just to make sure things are going smoothly. Obviously you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for march is 90 days?
+MRosa: Is March 90 days from now?
+Andrew Meggs: Or is it February? I feel like with the holidays.
+MRosa: In market or march? Yeah. Yeah.
+Andrew Meggs: Okay. Sorry. Yeah, time there. Um
+MRosa: January 15th would be 30 February 15th would be 60 March. 15th would be well, the 15th is obviously a Sunday. Yeah, you want to pencil the 16th march, sure.
+Andrew Meggs: And then you're on the east coast. So. Okay.
+MRosa: So you have central or eastern, yeah.
+Andrew Meggs: Yeah. I'll put that on the calendar and that'll be just like an informal check in. So if we need to change it if you're in or something in a cloud as we can move that around.
+MRosa: Okay.
+MRosa: Very cool.
+Andrew Meggs: All right. Like I said, I will send this follow up email, kind of going over over everything that we talked about. All the contact information and the all the links to the support team's calendar and everything. Okay.
+MRosa: That works. I appreciate it.
+Andrew Meggs: Yeah. And then yeah, that's kind of it on my end. So I'll send all this over and unless unless there's anything else you wanted to go over, I can let you get back to it.
+MRosa: I think we're good for now Andrew. I appreciate it.
+Andrew Meggs: Okay. Well, I appreciate your time very much Michael. It's great to meet you and happy holidays.
+MRosa: Thank you.
+Andrew Meggs: Bye.

@@ -1,0 +1,227 @@
+Account: Vision4ce
+Call Date: 2025-12-19
+Duration: 00:30:33
+Participants: Robin Barrow, Brad Zell
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi Brad. Hi, how are you?
+Robin Barrow: Oh, session. You hear me. All right.
+Brad Zell / Len Corasaniti: You can can you can copy me.
+Robin Barrow: Yeah, you're good.
+Brad Zell / Len Corasaniti: Oh, there you go. Magic technology.
+Robin Barrow: Awesome. Well, thank you so much for joining. This call should be fairly quick. Anyways. It's just to go over what you all signed up for. I want to get an understanding of what you're hoping to get out of PreVeil. Zach gave me a little bit of background, but yeah. And then I want to go over next steps and how to get started.
+Brad Zell / Len Corasaniti: Yeah. Well, it's your show Robin. So we'll let you do your thing. I have a ton of questions, but that's okay. Yeah. It's like you said, we you know, we need to um
+Brad Zell / Len Corasaniti: Need to understand where the roles and responsibilities fall. I mean, I have a general idea of a need to fill in the detail.
+Robin Barrow: Sure. No, yeah. Just to go over what you all signed up for I see that you have 2 admins, 2 standard users. So that's a total of 2 users. And then you'll also have the compliance accelerator. Let me and
+Robin Barrow: Yeah. It looks like your contract start date was back in November.
+Brad Zell / Len Corasaniti: So we're gonna talk to Eric about that, but regardless go ahead.
+Robin Barrow: Okay. And it was Eric. I'm sorry, I said Zach, but yeah. Tell me what's going on, why do you all need PreVeil? and then we can kind of go into
+Brad Zell / Len Corasaniti: Okay. Can I share my screen?
+Robin Barrow: For sure.
+Brad Zell / Len Corasaniti: You're out now.
+Robin Barrow: And I'm your customer success manager I should have started out with that. I will be your main point of contact moving forward here at PreVeil.
+Brad Zell / Len Corasaniti: Versus share, I'm not
+Robin Barrow: So it's it's right if you see the chat button, it's right next to that. It says share.
+Brad Zell / Len Corasaniti: Not there.
+Robin Barrow: Do you see you should be able to
+Brad Zell / Len Corasaniti: Participants, chat reactions, AI companion more. Under more. There's nothing.
+Robin Barrow: Yeah. I wouldn't be under more it'd be like in the middle of a green share button.
+Brad Zell / Len Corasaniti: I mean
+Brad Zell / Len Corasaniti: That's not it. That's a record that's some AI nonsense. What does that man?
+Robin Barrow: We can turn off core. The this call is recorded. Would you prefer? It wasn't
+Brad Zell / Len Corasaniti: I don't care.
+Brad Zell / Len Corasaniti: Okay.
+Brad Zell / Len Corasaniti: I shouldn't say that, of course, I care. But I mean, depends, what are you gonna do with the recording?
+Robin Barrow: No.
+Robin Barrow: Really just a note taker.
+Brad Zell / Len Corasaniti: Yeah, we do the same thing. Robin it's very useful to go back and make sure that you understand what what was said. Now, it was said. Yeah, exactly. Yeah. So anyway
+Brad Zell / Len Corasaniti: What I was trying to show you is our notional idea of what our segmented on cave would look like. Okay.
+Brad Zell / Len Corasaniti: I could send it to you via email.
+Robin Barrow: That'd be helpful. I don't know why you're not able to share. Do you want to try hitting?
+Robin Barrow: Or a LT plus s. That's another way to share.
+Brad Zell / Len Corasaniti: A_s, no change.
+Brad Zell / Len Corasaniti: So here
+Brad Zell / Len Corasaniti: That's all right. We'll get over.
+Robin Barrow: Okay.
+Robin Barrow: And I can definitely take a look at this. The compliance team will probably have a better answer than I do. You all get access to. But well, here's like
+Brad Zell / Len Corasaniti: Here's what we're thing. I'll send those to you and you can take a peek.
+Brad Zell / Len Corasaniti: I got to close it on my end. Hold on.
+Brad Zell / Len Corasaniti: So um
+Brad Zell / Len Corasaniti: We've been on this journey for a while. Robin, we actually started to build a CMC compliance starting in 2,020
+Brad Zell / Len Corasaniti: Obviously that would well kind of chasing your tail a bit. And we made a lot of strides towards that. There were some aspects of compliance that were not feasible due to budget constraints and we kind of stalled. Okay. We have a spare score of 99 currently.
+Robin Barrow: That's good. Um
+Brad Zell / Len Corasaniti: So we're looking to PreVeil and we've kind of changed our
+Brad Zell / Len Corasaniti: Our strategy or our model.
+Brad Zell / Len Corasaniti: We do a lot of developmental software and hardware work. We have remote engineers, we have a laboratory, we have business operations and our tactic or our strategy is to keep all of that out of scope. So the way we are the way we think we're gonna get that done is by using PreVeil and a segment and enclave here on prem. Does that make sense?
+Robin Barrow: Yeah, it does. Yeah.
+Brad Zell / Len Corasaniti: So what I'm not really clear on when it comes to PreVeil is the link between how we segment our network and equipment to, you know.
+Brad Zell / Len Corasaniti: Quarantine UI here on prem. What do we need on premises here? And what does PreVeil to supply to us in order to access the cloud so that we're compliant. Does that make sense?
+Robin Barrow: It
+Brad Zell / Len Corasaniti: And maybe
+Robin Barrow: Kind of. I mean, ER, Val is AE mail and drive encryption. So use install encryption keys on each device. You that's going to be using PreVeil or that's with inside your scope. So that's how PreVeil works it. You can't do like, you're not signing in directly to the cloud. You can we have a function called cloud block. So you don't have anything sync down locally. That is a function. You can edit within the cloud, would something called cloud at it, but PreVeil still needs to be installed on each device. Right.
+Brad Zell / Len Corasaniti: Okay. Can I ask a question about that? Sure. Um
+Brad Zell / Len Corasaniti: If we need to. How do we can we use PreVeil to collaborate with other authorized users? Or is you know, for example we do a lot of work with government agencies and government contractors. They may send to us or request from us something that they consider or something we consider UI. Yeah I get the functionality that we can store it in the PreVeil cloud and it'll meet the cms requirements for data at rest and that kind of thing. But how can we collaborate or can we allow access to collaborate to other people that we work with on a day to day basis?
+Robin Barrow: Absolutely. That function is called PreVeil express. So individuals are able to you would send them an email through PreVeil. They would get an invite to join PreVeil, the express version free. They would once they sign up one time, it shouldn't take them long at all. Maybe 4 clicks. They're able to then receive either e mails from you through 5 or if you share any documents with them. Okay.
+Brad Zell / Len Corasaniti: So do we or are the and I mean maybe this is for the compliance team or whomever. But our thought is that we'd have dedicated hardware within the arr on cleave. That is only doing this. It doesn't access wifi. It's all hardwired. There's no wifi on that part of the network. Um
+Brad Zell / Len Corasaniti: What do we need on those machines in order to maintain the compliance across across the inter webs?
+Robin Barrow: That is in depth question for the compliance team. But what um
+Brad Zell / Len Corasaniti: Give me a high level.
+Robin Barrow: Well, part of your package that you receive and I'm gonna share my screen here. You receive the compliance accelerator.
+Robin Barrow: The compliance accelerator, real quick overview, Eric might have mentioned this is what we call our 10 step guides getting compliant. You all have been working on this for a while. It does go over very green. What is cms, why is important, but the bulk of the content is within step 6. And then also what you're touching upon right here is how do I secure my end points and how do I segment my network? I just had it where did she go?
+Robin Barrow: There it is. This is our compliant endpoint configuration assuming you're in a Microsoft environment. There are a ton of other products out here that match these products. We just are recommending Microsoft products because that's what majority of our customers are in. This is how you protect your endpoints. And this is what the these are the controls that each of these endpoint configurations address.
+Brad Zell / Len Corasaniti: So I think what I'm hearing is that we're gonna have we have a Microsoft 365 kind of a basic version.
+Robin Barrow: Okay.
+Brad Zell / Len Corasaniti: Or we have we've got office stuff, we have outlook. We have it seems like we have a very limited version of teams is that I don't think that is gonna get us where we know where we need to be. Is it is that right? Or am I missing something?
+Robin Barrow: You may need to bump up your Microsoft subscription, not like you don't need to go to GCC High, obviously. Because that's where we are, right? what we're
+Brad Zell / Len Corasaniti: Employing you guys.
+Robin Barrow: Right. Right. You do not need to go that high, but you may need to get the enterprise level. So you have the data loss prevention and some of these additional tools if you'd like. Again, that these are offered by Microsoft, you can go with other products to that help meet the same.
+Brad Zell / Len Corasaniti: Yeah. I
+Brad Zell / Len Corasaniti: I don't know. It seems that if the PreVeil environment is pretty much. Windows are Microsoft based.
+Brad Zell / Len Corasaniti: What's the is it only financial the attraction going to some other vendor?
+Robin Barrow: Yeah, just shopping around really.
+Brad Zell / Len Corasaniti: Well, I guess we're gonna have to think about that a little bit, but
+Brad Zell / Len Corasaniti: Is it a significant factor? I mean, am I going to spend 10 hours trying to do this stuff and then figure out I'm sending save them 50 bucks a license. That doesn't make sense, maybe?
+Robin Barrow: Yeah. No. It all depends. Some people just, for instance, what I'm looking at Microsoft offender or what's another one? Microsoft Sentinel, it's a same solution. There's a lot of Sam solutions out there. There's Splunk there's Arctic wolf. There's it's just we like I said, we just recommend Microsoft because majority of our customers are Microsoft environment. They're familiar with these products.
+Brad Zell / Len Corasaniti: If you have 100 employees that starts to add up. Yes, exactly. I mean we're a super small organization, right? Right they're essentially
+Brad Zell / Len Corasaniti: Potentially maybe a few more users. But if we get to the point where we have 50 people doing this stuff, I'm gonna be as far away from it as I possibly can. I just I
+Robin Barrow: No, I know.
+Brad Zell / Len Corasaniti: Point being someone else is gonna have to deal with it. Not me.
+Robin Barrow: Right. Right.
+Brad Zell / Len Corasaniti: But to get us out of the gate because we I mean, our strategy is this we want to be able to self certify and put a
+Brad Zell / Len Corasaniti: 1 10 score in spurs and let the market settled because I
+Robin Barrow: I agree.
+Brad Zell / Len Corasaniti: Right. I mean, okay, great. We get certified, we get audited and everybody loves us. I don't know that it gets us any further along than if we wait eight, 10 12 months with a high spur score and go from there.
+Brad Zell / Len Corasaniti: I could be totally out of balance, but the way I read the landscape, I think that's gonna get us through the next year anyway.
+Robin Barrow: And I agree, honestly, I that's how majority of our customers are operating some of them, obviously, to be ahead on contracts and have that leg up to win specific contracts. They're getting assessed. They're going through the full assessment. But
+Robin Barrow: If you already have these contracts in place, they're not up for renewal. They're just asking for a score a self assessment. I think you're in a good spot.
+Brad Zell / Len Corasaniti: And I'll be honest with you. Most of the prime everybody asks the question a different way and it's at different levels, right? You know?
+Robin Barrow: I know with
+Brad Zell / Len Corasaniti: One of us checking a box, you know.
+Robin Barrow: Yeah. Some of them aren't
+Robin Barrow: It's yeah. Some of the prime aren't speaking the same language just yet.
+Brad Zell / Len Corasaniti: And that's okay. I mean, yeah from from a
+Brad Zell / Len Corasaniti: I don't know. From a business perspective, we want to make sure that we're compliant. We want to keep our customers happy and we don't want something that we do to to rain on them. But right, by the same token, I'm not gonna go broke doing it.
+Robin Barrow: I get it. The juice has to be worth to squeeze.
+Brad Zell / Len Corasaniti: So
+Brad Zell / Len Corasaniti: This is one of the things I really wanted to establish Robin. And that is we've got to look at upping our Microsoft package to an enterprise level.
+Brad Zell / Len Corasaniti: System so that we have access to those particular compliance things where you're just showing us the
+Robin Barrow: The endpoints.
+Brad Zell / Len Corasaniti: The endpoints
+Robin Barrow: Yeah. Yeah. Yeah. It's definitely one way to do it. I'm gonna add you both to this accelerator. I highly suggest going through the content. You probably have a good chunk of your documentation already completed. I don't know if over this
+Brad Zell / Len Corasaniti: I mean, because we're changing our strategy a bit and a lot of the documentation that we did, especially SSP and that kind of stuff. Yeah, is about isn't valid anymore. I mean, the the training, the all all the other kind of Eric stuff. I don't see that changing a lot. But the the SP is gonna change dramatically.
+Robin Barrow: Just based on your security infrastructure is gonna change.
+Brad Zell / Len Corasaniti: Right. We're doing something with you guys. We've got to add that in, which
+Brad Zell / Len Corasaniti: Compliance team will probably help us with that. But I mean, we've changed our local configuration such that. It's gonna be different. Yeah.
+Robin Barrow: That's exactly what this documentation is. It's a fully complete package of what a 1 10 customer looks like. This we created this fake company called Acme and brought them through a full assessment with A C 3 Pao. So for instance, the SP that we have obviously already has a PreVeil language preloaded. See if I got one opened, I usually do
+Robin Barrow: Maybe not it's a beast of a document, it's 185 pages. But it does what
+Brad Zell / Len Corasaniti: Walk in the park.
+Robin Barrow: Yeah. It's extremely detailed. It's completely filled out. You'll see this network diagram. The UI flow obviously gonna stay the same because you're using PreVeil. But it even has the file links that. Obviously, you are gonna have to update, but the they're like our file links. So it's it's very, very detailed, completely filled out. This is available to you as well as all the additional access controls. SOPs again, things that you might already have in place, but another example of
+Robin Barrow: So these are also available to you. And then the last piece I would say, as far as the accelerator goes. Again, all of its great content. I always highly suggest working your way through it, but you can book you have up to 6 30 minute sessions with the compliance team and you can book time with them right through here. You can also email them here and those don't that's unlimited. You can those
+Brad Zell / Len Corasaniti: Against your face time. Yeah.
+Robin Barrow: Yeah. So
+Robin Barrow: Yes. That's the accelerator. That's the compliance side of profile. Excuse me. No, you're good. I'm coughing as well. And for your actual PreVeil platform, I assume the both of you will be the admins, correct?
+Robin Barrow: And do you have the devices set up already that you're going? You intend to use?
+Brad Zell / Len Corasaniti: We do not okay. Early on in the new year. I think.
+Brad Zell / Len Corasaniti: We've got to do a little bit of network segmentation and I've kind of mapped it out in my head, but okay. But I still got a
+Brad Zell / Len Corasaniti: I got to we've got to get some devices. I want to get a different switch. We're gonna
+Brad Zell / Len Corasaniti: We're gonna run directly out of our firewall. So there's really not gonna be a router.
+Robin Barrow: Okay.
+Brad Zell / Len Corasaniti: Um
+Brad Zell / Len Corasaniti: So yeah. I've got to get all that physical stuff set up. Robin before we even think about loading software.
+Robin Barrow: Okay. That's okay. We're here. When you do need help and let me know.
+Robin Barrow: I don't know if we'll be able to push your start date, but we could probably push your end date. So you get an additional couple of months to give yourself on this. But yeah.
+Brad Zell / Len Corasaniti: Well, I love beating up. Eric, let me do that. I have fun with
+Robin Barrow: Okay.
+Robin Barrow: Probably bring you back to me, anyways. But I know
+Brad Zell / Len Corasaniti: Well, yeah. I mean, you get what we're saying, yeah.
+Brad Zell / Len Corasaniti: We would hope that PreVeil would work with us in some way. Then once we once we download the stuff, put the devices on on with access to your network, that would be some kind of de facto started. Yeah.
+Brad Zell / Len Corasaniti: Right now, you know how you work that out in your system.
+Robin Barrow: That I think it's going to be the latter. It's going to be Accenture, but you let me know and let's figure that out once you're ready to.
+Brad Zell / Len Corasaniti: Get started. Yeah, yeah. Yeah, yeah. Yeah. Yeah. Perfect. Okay.
+Robin Barrow: Okay. Great. You're
+Brad Zell / Len Corasaniti: Gonna send us links to that stuff you just showed us, I think, yes.
+Robin Barrow: Yeah. I thought I already did, but let me confirm because we chatted way back in like
+Brad Zell / Len Corasaniti: To think and I said there's you know, we've got enough that want to start another one.
+Robin Barrow: Yes. Okay. No.
+Brad Zell / Len Corasaniti: That stopped. But you know, again, we
+Brad Zell / Len Corasaniti: This is just another thing. We've got a
+Robin Barrow: You're good.
+Brad Zell / Len Corasaniti: Wrap our arms around and put behind us for the most part.
+Robin Barrow: No worries. I'm here. When you're ready, I'm gonna still send the next just a next steps follow up e mail. So you have it, but again and I'll schedule a check in for us in march. I hope you chat with me before them, but at least give us. It will give us a place holder. We can right check in, yeah.
+Brad Zell / Len Corasaniti: So um
+Robin Barrow: Let me just make sure I have the both of your emails.
+Robin Barrow: I do. Okay. Perfect. So I'll add the both the accelerator now. You'll have access to that. You can start diving in if you'd like. And then again, you don't need to download anything for the accelerator, that's all web based. But from there
+Brad Zell / Len Corasaniti: On our end, we've got to get our network setup and then
+Brad Zell / Len Corasaniti: Figure out.
+Brad Zell / Len Corasaniti: Or load
+Brad Zell / Len Corasaniti: Do we
+Brad Zell / Len Corasaniti: When we get I mean right now we have emails lend course need Brad dot all vision.net. We're not gonna use those email addresses, correct?
+Robin Barrow: You will for PreVeil.
+Brad Zell / Len Corasaniti: Yes. All right. Well, how do we how are you going to segment the the day to day traffic from UI traffic? Does that matter?
+Robin Barrow: Typically within are you using outlook?
+Brad Zell / Len Corasaniti: Yes. Yeah. Correct. Yeah.
+Robin Barrow: Outlook. You can set up some sort of tags that can flag the UI. But you will. So I'll show you
+Robin Barrow: Let me just get I have to I'm gonna
+Brad Zell / Len Corasaniti: Show you a little bit Robin. I'm not sure.
+Robin Barrow: I'll send over the instructions, but it's all our customers operate this way. How often are you getting to UI to your commercial account?
+Robin Barrow: E mail account.
+Brad Zell / Len Corasaniti: Not often at all. Okay. I mean and we've this is kind of been our all along and I apologize.
+Brad Zell / Len Corasaniti: We got a megabyte UI. That's how much data we have. All right. And we're going through this gyration to to be able to check a box. And okay. That's the cost of doing business. So the whole the whole thing in my mind in order to get a simple clean and complete assessment if we you know, if we totally
+Brad Zell / Len Corasaniti: Segregate.
+Brad Zell / Len Corasaniti: Business operations, r and D operations, all the other nonsense from the data. That whomever declares UI. It's easier for us and hopefully easier for an assessment.
+Robin Barrow: Um
+Brad Zell / Len Corasaniti: I might be dreaming I have no clue.
+Robin Barrow: I mean
+Robin Barrow: You should
+Robin Barrow: We always tell our customers when you're forming your scope.
+Robin Barrow: Do your best to make it as small as possible. So like that is the right, right? Thought process and the way to go about it. But it depends on if you're able to do so if you're able to fully segment your network and your devices to be that small, some customers I can't do that. It's there's too much crossover and they're
+Brad Zell / Len Corasaniti: The
+Brad Zell / Len Corasaniti: Right. And I imagine if you're a manufacturer and you're getting drawings or
+Brad Zell / Len Corasaniti: All that stuff on a daily basis. Yeah, that becomes laborious, right?
+Robin Barrow: It does. But yes, we have to
+Brad Zell / Len Corasaniti: Take this word PreVeil. We have the luxury of being able to do whatever the heck we want. And for us at this point in time, like I said in the 7 years, I've been with this organization, I think I've gotten 4 documents, maybe 5.
+Robin Barrow: Yeah, for you.
+Brad Zell / Len Corasaniti: And here to 4 before the last 12 18 months.
+Brad Zell / Len Corasaniti: None of it was identified.
+Robin Barrow: Yeah.
+Brad Zell / Len Corasaniti: But we knew from the nature of what the stuff was that it would if somebody looked at this and said, oh, you can't let this out in the world. And
+Brad Zell / Len Corasaniti: It's just from our own perspective. So I think we do have a little bit of a luxury in that we can
+Brad Zell / Len Corasaniti: Assign and segment out, all that traffic. And we're okay with lend a course and 2 at visual force.net as the and I'm just picking a
+Brad Zell / Len Corasaniti: Right. A separate email all that in order to to to segment out that stuff and keep the scope as small as possible.
+Robin Barrow: Yeah. And you definitely can do that. I was just saying that some some of our
+Robin Barrow: Sorry.
+Brad Zell / Len Corasaniti: So well, yeah. Unless we have a separate it'll if it if we're using the same e mail addresses or even modifications, those it's all gonna go through in motion. Well, I think that's the question. So who host if we go about that, who host the email?
+Robin Barrow: You all it's a plugin that sits on top of your commercial account. So PreVeil will sit will incorporate your commercial account. So that's what I was trying to show you. This is my regular gmail, this is my gmail that you all will email to me. This is where my PreVeil inbox lives. It's a separate inbox on top of your commercial account. So this is secure messages. If you want to compose a message, you can do so right out of your secure message inbox, this is your PreVeil that sits on top of your commercial account. So this will this is a secure message. If you want in now, this is where it's getting a little hairy because of course it's my actual inbox, but we'll just do draft. Don't read this stuff. This is where you'll you'll
+Robin Barrow: This is where you'll email like a regular email, but if you want to encrypt it. So I'm just gonna do this. If you want to encrypt it, you just hit it. Right here. And it will show you. Let me put an actual email. We'll do this one. It will say, okay, this recipient does not have per available. We're gonna send an invite for them to join say if I have an email that I received that guy, right? And give me one second. So I can send myself a fake email, right?
+Brad Zell / Len Corasaniti: Um
+Brad Zell / Len Corasaniti: Now, I'm starting to it's starting to
+Brad Zell / Len Corasaniti: The clouds are starting to part a little bit. Sorry.
+Robin Barrow: Oh, no, you're good. I want to try to be quick because I do have a call in a minute here, but and it will make more sense when you go through the onboarding, for sure. But okay. This is my test email. Let's say this is UI. I would and I got to my commercial account and I'm like, oh, shoot, like this isn't great. I'm gonna say, okay, I'm gonna send this to myself reply. All
+Robin Barrow: This is tough because this account does have and I'll encrypt it. So it encrypt the thread, you have that e mail encrypted, delete out the original
+Robin Barrow: And it's in it's therefore that thread is now in PreVeil and you have deleted the trail, right?
+Brad Zell / Len Corasaniti: Right. Right. So so that I'm sorry, go ahead.
+Robin Barrow: I was gonna say and I was gonna show you just to show you that it's in PreVeil now.
+Brad Zell / Len Corasaniti: Oh, gotcha. Right.
+Robin Barrow: Yeah. There it is. It's in PreVeil and it's also in my secure inbox as well. So now the threads in PreVeil, you're good. And you delete out the trace. That's how a majority of our customers are managing it. And there's a couple of tags. You can put into your commercial account, so it knows that you need to encrypt it for your outlook account. But um
+Brad Zell / Len Corasaniti: Yeah. You would just have some kind of um
+Robin Barrow: Policy in place, right? It's
+Brad Zell / Len Corasaniti: Policy and then a warning or something in the email. It says if you need to blah blah, blah.
+Brad Zell / Len Corasaniti: You need to use this secure thread or something like that?
+Robin Barrow: So it if you're communicating with someone via, if they send you something commercial account via their commercial account, you could send a message hey, we use PreVeil, here's how you link in. If you're sending to UI, please use your PreVeil express account to communicate with us.
+Brad Zell / Len Corasaniti: Okay. Yeah.
+Robin Barrow: Yeah. That's another way to
+Brad Zell / Len Corasaniti: Okay. Yeah.
+Robin Barrow: Again, this
+Brad Zell / Len Corasaniti: Yeah. The tools are there.
+Robin Barrow: They are.
+Brad Zell / Len Corasaniti: Okay. I know you got a split and we appreciate your time.
+Robin Barrow: Yeah, of course. We're gonna
+Brad Zell / Len Corasaniti: Look into the compliance accelerator and getting the devices that we're gonna use for our segmented network enterprise level.
+Brad Zell / Len Corasaniti: Office licenses.
+Robin Barrow: Right. Perfect. Yeah. And I will also send a follow up email just for next steps to take after after you all. Get ready and then I'm here to help. So please feel free to reach out if anything else comes
+Brad Zell / Len Corasaniti: Fantastic. Okay. Thanks a lot. Thanks. Happy new year.
+Robin Barrow: You too.
+Brad Zell / Len Corasaniti: Thank you. 20 20
+Robin Barrow: 6. Yes, thank you. Have a good one. Bye, bye. Bye. Bye.

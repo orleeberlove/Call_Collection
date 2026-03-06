@@ -1,0 +1,126 @@
+Account: Tessera
+Call Date: 2026-02-10
+Duration: 00:23:39
+Participants: Robin Barrow, Eddie Aquino, Joseph McAvoy, Brandon McGuire, Robert Potter, Brandon McGuire
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: In Brian, rob. Hi, Brandon, how are you? And Eddie?
+Brandon McGuire: Hello. Awesome, good. How are you doing? Good morning. Good. I
+Robin Barrow: Have let good morning.
+Brandon McGuire: I think I invited a few more, but they are on the road at a different location. So they probably won't have time to join.
+Robin Barrow: That's quite all right. Honestly, this call is just your intro call to me. And we're just gonna go over what you all signed up for and then talk about next steps.
+Brandon McGuire: Awesome. Perfect.
+Robin Barrow: Great. I'm just making sure I got everything pulled up here.
+Robin Barrow: Are we good to get started or should we wait for some more folks?
+Brandon McGuire: I think we're good.
+Robin Barrow: Okay. Great. So quick introduction to me, I'm your customer success manager. So I will be your main point of contact here at PreVeil. Some of you seem familiar, but I don't know if I've met you all before, but either way, I'm your main point of contact and I know you worked with mark previously and you still have support from our support team and then you also have let me just see. And you also have support from our compliance team as well. So just consider me. I sit in the middle. If you're not sure who to go to reach out to me and I'll find the right person or answer the question for you. If okay. With you all, do we mind just doing a quick round of introductions?
+Brandon McGuire: Sure. Yeah.
+Brandon McGuire: I'll go first Brandon. I'm the systems administrator. I do all the back end stuff and do a lot with CMC as well. So looking forward to getting this project started and getting our way onto compliance and audit in the future. So and I've been with the company for over 10 years, so been here a while, but crms is not brand new to us, but relatively new especially with the project like this. So I'll pass it over to you. Rob, had. Sure. Sure. Yeah, whenever I'm on.
+Rob Potter: I just I try to stay out of the way. We're anxious for non clay, be helpful force companywide a variety of areas where that level of scrutiny needs to be applied and where it just to complete our CMC 2 though.
+Brandon McGuire: Audit later this year or next year. So
+Rob Potter: I appreciate you helping us out and anxious to get the project moving. Thank you. I'm going out of the way.
+Robin Barrow: All right. Nice to meet
+Robin Barrow: I'm
+Brian Hall: In all the programmer analyst.
+Brian Hall: Action site for us and that's primarily where all our
+Brian Hall: I work most correctly with involved accessing CD data and I've been here about 6 years.
+Robin Barrow: Excellent. Brian, your Mike's a little quiet. I got most of that, but it is a little quiet. I just want to give you a heads up.
+Robin Barrow: In Eddie or next on my list.
+Robin Barrow: Oh, we can't hear you Eddie.
+Robin Barrow: Or I can it's me.
+Robin Barrow: It's okay. He's clicking through all the Mike. He's got.
+Rob Potter: Yeah.
+Brandon McGuire: I'll give you a little about it. He's our network guy. So he's the network guru and keeps us connected to everything and he's been here a few months longer than me. Yeah. Check check. Does that work?
+Brandon McGuire: To that with Brandon said and there we go.
+Robin Barrow: Great. Awesome. No, thank you, all. And again, majority of our customers are teams users. So if you're more comfortable with teams, just send me an invite, but I know that sounds good. All right. Great. So yeah. No, thank you all. And I kind of got the just based on your introduction you're looking for an on clay. That's where PreVeil comes to play, but you're also looking to get cms level 2 with a potential audit come or assessment come next year. Okay. Great. Awesome. So just to cover what you all signed up for. I see you see, you have 56 users, 2 admin email gateway the same connector and the compliance accelerator. Does that all sound accurate? I just want to cover that? Okay. Great. And yeah, I mean, I'm sure mark covered the accelerator. I'm happy to go over that today. And then I'll talk about next steps. The you all have pretty much everything PreVeil offers. I think you're missing one thing and that's the governance risk compliance tool. I say that can be added later or you might already have something you use. It's just great for project management when you start to get the evidence together for cms and collaborating together. So we can worry about that down the line, but you all are off to a great start with us. And just to cover the compliance accelerator with the accelerator, you get up to 3 people that can go into it. I want to share my screen here.
+Robin Barrow: Here we are.
+Robin Barrow: So it's based out of a learning management system. If you've done some online training, you've used them. All they're all pretty much operate the same. But the way we broken this out, it takes you really green. What is cms all the way through. How do you score one ten, based on what you all said, it sounds like you kind of sit in the middle you be aware of cms or you know, what needs to be done. You're just looking for help with documentation and guidance really. So
+Robin Barrow: All this content is really great. I think I'm biased obviously, because I work at PreVeil. But this the compliance team has worked really hard on this if anything just use it for educational purposes. But if you were just trying to find the documentation in the evidence you would scroll down to you go to step 6 and then scroll down to files. And this is where the acne docs package is listed and stop me if mark already went over this. But as a refresher if he did the Acme is a fake company that we created and brought them through a full on cms level to assessment. These have been assessed by C 3 Pao. I don't love to calm templates because they're fully completed. They are all the way down to the version history in the SP. Um
+Robin Barrow: If anything, it's a great example of what a 1 10 company looks like. You can see here, the version history is completed.
+Robin Barrow: If you scroll down
+Robin Barrow: There we go. So company network diagram. Obviously, the PreVeil one will stay the same for the most part depending on your workstations. But like I said, great example. Use our language, especially around the PreVeil system because that's what you're gonna be using. And then the UI flow. So 3 users, I can add to this today whenever you're ready. But you can start downloading this documentation and start either cut and pasting from your current SP or starting from scratch with our SP and working your current setup into it.
+Brandon McGuire: Yeah. I think we'll probably start with yours. We have a very very basic one and we were going through the process of updating it line by line, but when we heard you had basically this available, I think it'd make it a lot easier for us to start with this and move forward and you can add me and Eddie to it right away.
+Brandon McGuire: Because I know I will have his his network stuff to add and I'll take care of everything else.
+Robin Barrow: Great. Yeah, I can do that. And then the other nice piece with the compliance accelerator. You get access to our compliance team. So you can book time with them right through here under additional compliance resources, it brings you right to their calendar. And you also have access to their email. So any one off questions. If you have a very specific question on your documentation or anything like that, you can go ahead and reach out to them. The emails don't count against your time. Okay. Once you yeah. Once you get close to your assessment, we want to meet with you. If you have questions, we want you to score well, so just let us know. You're gonna need our body of evidence. You're gonna need our shared responsibility matrix. The C 3 Pao will most likely request that. So we want to be involved. We want to know when your assessment is. So please reach out. So don't worry about like, oh, I only have one meeting left. We're gonna meet with you when you're on a going through an assessment. We want to know how you're doing. Um
+Robin Barrow: That was mainly put in place because we had folks trying to meet with the team every single day and just blowing up their calendar. So
+Robin Barrow: If there's a special scenario where you need to meet with them, you let me know. Great. So that's the accelerator. I'll add you folks to that right after this call and then for the PreVeil setup. So you all have 2 admins. Do you have you established who's gonna be those the admins? Yes.
+Brandon McGuire: Me and probably Eddie.
+Robin Barrow: Okay. These are interchangeable. So if you change your mind down the line, you can if you need to add more, you can do that, too. So next steps for that, I would say you need to download PreVeil on the devices that you intend to use for your UI. Or I should say your pod contracted cms devices. That was a long way of saying you're protected devices that you intend to do this work on. From there you would whoever wants to download it first would then invite the other admin and create the organization. That's where you can stop. From there, you can meet with the support team. They're gonna train you through the whole system and all the admin functions with 56 users. That's a big chunk. We'll probably want to do. And I'm assuming for you all similar case you want to do a roll out. You don't you want to train folks you want to make them feel comfortable. I can provide documentation on that. I can provide a template email that you can send over to the team hey, we're using PreVeil now. Um we can set up trainings as well. We'll probably want to break it out a group or like, literally do 25 and 20 five, whatever you suggest to do.
+Robin Barrow: The standard user training, those are only 30 minutes. I would love it if we could do 56 individual trainings, but I don't think that would be best use of everyone's time. So, yeah, let's just do a group one. Again, PreVeil is really simple to use. They might not even need the training, but it's available if you need it. And we also have videos in help. But I always say if you know how to use e mail and you know, how to use some sort of drive function, you're gonna know how to use PreVeil.
+Brandon McGuire: Okay. Yeah. Brian, these will be mostly arrow space. People there's just a handful of other and the number of users that we have is based off of that the security groups that currently have access to CI. So
+Robin Barrow: And again, same thing with this admin users. If that number changes you can always go up you can't go down so you can add to your terms and we would just co term your contract. So you would say if you come to me in 6 months, we need 10 more licenses, you would just pay for 6 months of 10 licenses. Come your renewal time, if you overshot it. And this is in 20 27 and you're like, we didn't need that many license. We did meter scope, smaller. Happy to go down. It's all what works best for you all.
+Brandon McGuire: My guess is it'll probably just keep going up.
+Brandon McGuire: Different contracts and everything.
+Robin Barrow: Yeah. No, we've seen it, which is good. That means you guys are getting more work. But we're here to help and help train additional folks too.
+Brandon McGuire: Okay.
+Robin Barrow: So for the email gateway and the same connector, those setups are a little different. The support team will work with you directly on that specifically for the email gateway. It requires a lesser. I don't know if mark covered that with you on your initial calls, but that's necessary for this. It's okay. It's you probably have purchased them before.
+Brandon McGuire: We got regular. Usually we get our regular certificates from dig cert.
+Brandon McGuire: Okay. That
+Robin Barrow: Would work. It's just for secure sub domain that you could literally use probably I think we recommend dig search. So you're in good shape there. And that setup takes roughly 2 weeks to set up. And really, it's just setting up the white list of the domains that you communicate closely. So those emails flow to PreVeil and training and making sure that certificates in place. So that's the only reason why it takes a couple of weeks. Who are you all using for a team solution?
+Brandon McGuire: What solution?
+Robin Barrow: I mispronounce this every time to try again seem or sim solution for logging.
+Brandon McGuire: Oh. Right now we're using solar wins.
+Brandon McGuire: M that catches all the logs and everything.
+Robin Barrow: Okay. For the connector, I'm just gonna give the team the heads up to see how that you can pull the logs directly from PreVeil into your yeah.
+Brandon McGuire: Okay. And does PreVeil keep like, a separate area for logs if we wanted to keep them all in PreVeil and not have them go to our or we
+Robin Barrow: We do, but you all purchase the connector. So I would say utilize it, but yeah, you can export logs manually if needed.
+Brandon McGuire: Okay. Um
+Brandon McGuire: But we can
+Brandon McGuire: Go ahead, sorry, set up. We can get that set up.
+Robin Barrow: And again, our support team will reach out for and tell you how to do so as well. Our knowledge base and I'll send this in our follow up is pretty detailed on every setup that needs to happen. If you're curious or just want to know the setup before actually meeting the sport team, go ahead and dive in. But yeah, it they'll they'll definitely reach out. Again. These are things that you purchased onboarding for. We want to hold your hand through the process and make sure it's set up correctly. Um
+Robin Barrow: What help? Oh, that's the other thing for the email gateway.
+Robin Barrow: With your 56 users, maybe that's something the training will will be a little different than the regular standard users because they're using the gateway and they won't they'll be using that secure sub domain. So the documentation might not be as straightforward, but if anything will be easier for them. Okay, they'll be able to understand, but I will once we get there, I'll make a note to the support team and we can set up a specialized training for that.
+Robin Barrow: Um
+Robin Barrow: And my last thing, I have 2 more things on my list and then we can open up to questions. Okay. I know I've done a lot of talking. Sorry, the do you all have data today that you need to put into PreVeil?
+Brandon McGuire: Yes.
+Robin Barrow: Okay. And how much would that be if you had a guess? Gigabyte, twice?
+Brandon McGuire: Brian, do you know I
+Brandon McGuire: I don't know. I got my head. I thought I gave it to. I thought I scrounge that up during one of our calls, but I'm not sure off the top my head it's in gigabytes and not terabytes, but okay. Um
+Robin Barrow: That's okay. We can cross that bridge when we get there. If just as a heads up, if it's over 100, you can imagine we don't want to dump 100 gigabytes into a system at once. So we'll probably set up some sort of file transfer using a tool that we recommend. So and we'll, again, we'll assist you with that. I just wanna if you were eager to get it in immediately, that's typically the process.
+Brandon McGuire: Yeah. I want to do it, slow and steady and make sure we do everything, right? The when we're getting it set up. So I haven't haven't jumped ahead and done anything yet. I wanted to to make sure we just go step by step and make sure we don't rush anything.
+Robin Barrow: That makes sense. And honestly recommend that approach anyways. So that's good. But as mark probably mentioned, you get 10 terabytes worth of storage. I think we have like 2 customers even approaching that. So you got a ton of storage?
+Brandon McGuire: Yeah, I know we're not even close to that, yeah.
+Brandon McGuire: I think you're good close to a terabyte. So
+Robin Barrow: Okay. Yeah. No, then you're good. Um
+Robin Barrow: Great. And lastly, I will schedule more time for us to connect again. I know more meetings is more meetings. So if we get closer to this time, you're like we're good. Robin we don't need to meet. I won't be offended. But it's mainly just a check in. This will be in 90 days to make sure we're feeling good. Your teams trained up, you have all the resources you need. Just to really make sure. No stones were left unturned. So yeah. What questions do you all have?
+Brandon McGuire: I guess
+Brandon McGuire: Yeah.
+Rob Potter: Watch the normal timeline to get a usable on clean up and going.
+Robin Barrow: For you all the actual enclave just the email core products. It will take you could do it by the end of this week. Not long for the admin. Specifically 56 users again, they could start using it by the end of this week. Do we want to do that? Probably not we probably want to roll it up. Yeah.
+Robin Barrow: Cool. And some structure
+Rob Potter: To it. All that good stuff, yes. Thank you.
+Robin Barrow: Of course.
+Brandon McGuire: You said the so the next step is to like, for the admins to download you said there's a there's an app, right? Or something we're downloading.
+Robin Barrow: Yeah. I'll send over the instructions. It's right off our website and then I would assign this to one of you. And then okay. Great Brandon. And then once you create the org, the instructions will tell you the immediate next step. You can go ahead and add at Eddie and then whoever else. Yes. Because you said Eddie was going to be
+Brandon McGuire: The other one, right? Or we guys we could talk about this Thursday when we have a meeting, but it'll be Eddie or Brian or Joe. Okay. On the call, but one of them would be the yeah.
+Robin Barrow: Okay. That works. Yeah, then you would go ahead invite the other admin and then set up a call. Okay. Because it's with 56 users, we could probably do again, see if a CSV upload of the users and the accounts. This to send like a mass invite out, but it all depends on how you want to do that. Maybe you want to do it by department or group. It's up to you.
+Brandon McGuire: Okay. So after I get the
+Brandon McGuire: The first part set up in the instructions you send over. Does that say who I contact for to start the initial, I guess, project call or whatever or the next step call?
+Robin Barrow: Yes. Yes. You'll I'll provide you with a link just to book with the support team. I'm assuming it's gonna be Chris or Phil. Chris has been with PreVeil for a long time. He talks. So fast extremely fast. So down to slow down, I average 194 words a minute, I guess, and he blows me out of the water. So I don't know how he does it. So to to slow down, he's great. He's very knowledgeable, but he talks so fast.
+Robin Barrow: He's the reason why I think you're gonna get him or Phil is because they're more senior folks on the team. Everyone's great whoever you get. But I'm assuming it will be those folks.
+Brandon McGuire: I will say I did talk to a vendor the other day and he sounded like an auction air. I was like having to really focus and into everything he was saying because he was going fast. Yeah.
+Robin Barrow: I don't want like I'm from right outside of Boston and I think we all talk really fast up here, but
+Robin Barrow: I didn't realize it until I started working this job specifically. Everyone's like, oh, you talk fast.
+Robin Barrow: Where are you all located?
+Brandon McGuire: Emerton Washington state. It's about an hour West of Seattle.
+Robin Barrow: Okay. The exact opposite side. Yeah, the country.
+Brandon McGuire: So the team that beat the New England Patriots in the Super Bowl
+Robin Barrow: That's where I wasn't gonna bring that up. But you did
+Robin Barrow: It was a tough Sunday. It was actually I was I don't know, everyone else we had hosted not to go on too long. We hosted here at our house. Everyone was bummed. I was like, so happy you're here again. I can't believe we made it to the super again. Oh, that will be nice. The parade. Those are always fun. I've seen like 9 of them not to brag, but
+Robin Barrow: All the sports, but maybe 8. Yeah. But no, that's so fun. And I'm jealous. I wish that was our world, although it wouldn't be sunny. It would be
+Robin Barrow: It wouldn't be sunny. I have to I'm from New England. We have to brag even when we lose. But yeah, we I think we if we have the parade, it'd probably be
+Robin Barrow: Tomorrow and it's miserable so glad you got sunny weather.
+Brandon McGuire: As well. But oh yeah. Okay. Sunny usually it's rainy here, but yeah. So
+Robin Barrow: You guys taking work off that?
+Brandon McGuire: House trying to get there.
+Robin Barrow: Oh, I know. Yeah.
+Brandon McGuire: Take a fairy over and it'd be there's lines going down blocks to try and get on it's just crazy.
+Robin Barrow: You just see the tops of someone's head. That's about it.
+Brandon McGuire: Yeah. While I watch the highlights on TV.
+Robin Barrow: There you go. Awesome. All right. Well, it looks like rob jumped. But yeah. Was there anything else you need?
+Brandon McGuire: No. I think just getting started steps and then we'll go from there. Looking forward to it.
+Robin Barrow: All right. Great. It was really nice to meet you all. And again, reach out if anything else comes up.
+Brandon McGuire: All right. Thank you very much.
+Robin Barrow: All right. Bye. Bye.

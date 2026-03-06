@@ -1,0 +1,103 @@
+Account: Tribal-D
+Call Date: 2026-01-13
+Duration: 00:17:15
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Scot Penrod: Happy new year.
+Andrew Meggs: Happy new year. How are you?
+Scot Penrod: I'm doing all right. I am just hello, I Scott have been crazy busy and haven't done anything with cms yet. But something that we have to find a way to get to. So here we are. Yeah.
+Andrew Meggs: I appreciate you hopping on a call. Hopefully, this won't take too terribly long. This is mostly supposed to be just sort of like a informal check in call. It's not like there's a phone presentation or anything like that. I do have a couple of things that I normally go over on these calls, but before I get into it how are things with PreVeil or just in general?
+Scot Penrod: So
+Scot Penrod: I think they haven't yet moved the domain. So I haven't set up the the sub domain for the email.
+Scot Penrod: I sent the the 2 owners of the go daddy account. The instructions on here's what the sender needs to do. Here's what the receiver needs to do. I hadn't yet heard that they had done that yet. Obviously once we've got the domain pooled, then I can put in that DNS entry for the email. I set up my own PreVeil account. That's the only one that's been created so far. I don't yet even have a list of the employees who are accessing UI. That's one of the things on my to do list. What I did is I kind of created I took the that controls and objective spreadsheet that I got from you guys initially.
+Scot Penrod: And then I kind of broke that out into I've got another tab that's just for the customer responsibility items.
+Scot Penrod: And then kind of a work plan that I just started with showing the controls, whether they're shared a customer responsibility. I can put names and dates to it and just kind of start working through it. So it's um
+Scot Penrod: If you have suggestions and thoughts for the best way for small companies to get started on this process to actually make sure that we can get that certification and not just remain in this perpetual. State of partial implementation that'd be great. I could show you the work plan that I put together if you think that would be helpful. But basically um
+Scot Penrod: I don't see to try to get back to your question of well, do you know? Do I have any questions? I don't have any specific questions. They're all more general.
+Andrew Meggs: Yeah. So honestly in terms of recommendations for documentation, that would be more on our compliance team side, have you met with them yet?
+Scot Penrod: Just just initially a basic introduction. There was some questions that we had for a form that they were filling out. They had and they had a question about using accounting software. I had some interaction with them early on with that.
+Andrew Meggs: Okay. Yeah, I would definitely like while you're going through the documentation, if you have any questions or any, anything like that, I would definitely you can either email them at compliance at PreVeil.com or set up a meeting with them through the link in the accelerator under additional compliance resources. So I would say general, I mean, the idea behind the accelerator, you're asking how do companies do this? The idea behind is nominally if you were to go through each of these steps and do, you know what it says to do at the end of each of these steps then. Theoretically you'd be ready for an assessment by the end. But they can definitely help you out with any questions you might have or anything like that. I guess are you what do you have like a timeline of when you think you will want an assessment?
+Scot Penrod: Well we would like to be able to have this done by the end of March. And I know that a big part of how realistic that is gonna depend on what kind of resources we can put on things on our side. I'm meeting with
+Scot Penrod: We're having basically an internal meeting to talk more about it tomorrow afternoon. And I'm gonna go through this work plan that I put together and start asking them how we're gonna split stuff out. Um
+Scot Penrod: But I don't know. Is there even can can that question even be answered? can someone say yeah, by the end of March is realistic or or no? It isn't it seems like it's probably that answer is probably very subjective.
+Andrew Meggs: I mean, if you were to detail exactly what your situation was and exactly what you had written and everything, they'd be able to give you a pretty pretty good answer. But okay. But that being said march would be I mean, that would be a fairly I mean, depending on where you're at would be a fairly ambitious date. Because I mean, most C 3 POS are already booked out into march and April. Even if you were to contract with one today.
+Scot Penrod: Gotcha. Okay. There's like a lead time behind those. Um
+Scot Penrod: The organizations that can do the certification.
+Andrew Meggs: Right.
+Andrew Meggs: So yeah. I mean, anything's possible, right? I don't know what your exact situation is. Nominally could get it done. I know there's some so that might have availability in march. But yeah, even if you were to have everything ready right now, there's no guarantee that there'd be a so that would even have availability in march because they're all pretty booked out, but so that's kind of something to keep in mind as well.
+Scot Penrod: Okay. Got it. All right. Yeah. No, that's definitely good to know.
+Andrew Meggs: But yeah. Either way I would still recommend scheduling some time with our support team and making sure you don't have any questions or kind of just kind of going over your situation with them and they'd be able to help you out there.
+Andrew Meggs: Okay. But the other thing I wanted to go over is that I guess the because you said, they haven't set up the domain yet, right?
+Scot Penrod: Well, the sub domain so. I mean, it's like we don't have the domain name. We do have the domain name but it's not in a go daddy. It's not being held by go daddy account that I currently have access to, right? What I haven't been able to do is add the sub domain for the email portion of the installation for the setup rather
+Andrew Meggs: Sure. Okay. Because because the next thing I was gonna ask about was setting up the email gateway. But if you haven't gotten the domain for that, then it's a bit of a boot point.
+Scot Penrod: Yeah. The email gateway is definitely on my to do list is the next thing to do.
+Andrew Meggs: Yeah. Yeah. So do you I guess just making sure you're you have that email in front of you from from Chris to set that up. So you are ready whenever you're able to
+Scot Penrod: Yeah, I remember seeing the information. It looked like it was pretty straightforward. Yeah. Let's see. Let me see if I can go find it in my email real quick here.
+Andrew Meggs: I think Chris sent an email on November 10th.
+Scot Penrod: Where it is?
+Scot Penrod: Let's see. I've got Ryan, I've got Dennis.
+Scot Penrod: Yeah.
+Scot Penrod: Ryan, he the one who had let's see support contact support.
+Scot Penrod: No. That's not the one that had the email information in it.
+Scot Penrod: There it is.
+Scot Penrod: Chris.
+Andrew Meggs: Is the is
+Scot Penrod: This email from Chris, this email that I'm looking at is just a meeting invite. Let's see.
+Andrew Meggs: Should be 10th November three, 49 pm central time.
+Scot Penrod: This is saying 2 50. That's close enough. So that's got to be it email gateway.
+Scot Penrod: This is just talking about having admin access.
+Scot Penrod: To the DNS host. But I know somewhere I saw instructions of this specific DNS entry. I was supposed to add
+Scot Penrod: I remember seeing that, but yeah, it's been a while.
+Scot Penrod: Yeah. The one that I have
+Scot Penrod: It's basically a comment that was on a ticket. Thank you for subscribing to the email gateway system. I'll be guiding you through the project. Yeah.
+Andrew Meggs: So basically that is the one I'm referring to. So so whenever you're ready to set things up, then you would use that length that he sent.
+Scot Penrod: That link in there is just to set up a meeting with him. I cut a sworn somewhere. I saw these are the instructions or you know, this is the DNS entry you need to add, but anyway, um
+Scot Penrod: I'll but I'll reach out to them if I can't find. If I can't find the specific instructions.
+Andrew Meggs: Okay. Yeah. I guess he would be the person to reach out to if you can't find specific instructions.
+Scot Penrod: All right. Yeah. I just
+Scot Penrod: I'm just gonna craft a rep oh, wait a minute. The reply on that email doesn't go to him. It goes to support at PreVeil.com. Does that sound right? Or should I contact him directly?
+Andrew Meggs: If you just reply, you should get it. But yeah. So that should theoretically work.
+Andrew Meggs: If you just reply to him
+Scot Penrod: All right. Okay. I'll
+Scot Penrod: Yeah, I'll just make a note for myself to follow up here once I have access to the domain.
+Scot Penrod: Okay.
+Scot Penrod: All right.
+Scot Penrod: Okay. Anything built for now, then? What else did you want to cover on this call? I was I wasn't sure what all we were gonna cover other than that'd be good to talk about it because we need to start making progress on it.
+Andrew Meggs: Yeah. Honestly, the main things I was gonna discuss were the gateway and then your compliance cms journey, if you will. So that's mainly what I would go over. So there's not really much else. I mean, I assume that what use you have had with PreVeil or haven't been any like problems or issues or anything like that?
+Scot Penrod: No, I haven't had any problems. Really, I've gotten some emails that are talking about health checks with no recovery group set up. So I'll look at those in more detail and see what I need to do for those.
+Andrew Meggs: Yeah. That's just kind of like once you get things up and running, you'll want to set up a recovery group, you need 3 people for that. So you'll have to set everything up before you're able to implement that.
+Scot Penrod: Oh, yeah. It requires 3 people. Then I won't be able to do it yet because we do not yet have 3 people identified. Yeah. So
+Andrew Meggs: So, yeah. That's what that is about and uh
+Andrew Meggs: Yeah. But that's kind of it in terms of my talking points, if you will. Um
+Andrew Meggs: Was there anything else you wanted to go over or discuss?
+Scot Penrod: No. I mean, based on just based on what we said already. I think that the next thing that I need to do is talking with the the compliance team and getting some guidance from them. But I'll get I think I need to have that internal meeting tomorrow and you know where we kind of discuss stuff and what's gonna be you know, who's going to be accessing suit. And these are probably questions for the compliance team as well, because it's my understanding and this is what I'll clarify in the meeting tomorrow. Is that currently every employee that has access to C is on site with the on on site with the government like sitting at a desk on a base, we're in a skiff using government provided hardware and it in
+Scot Penrod: Theory should limit what we have to do on our side in terms of showing that we're controlling UI. Because we don't have any on our own systems. But yeah, that'll be just I think the compliance team will probably have a better idea on that.
+Andrew Meggs: Yeah. I think that would be more of a discussion for the compliance team than than would I'd be able to answer.
+Scot Penrod: Yeah. Yeah. Fair enough. Yeah.
+Andrew Meggs: Yeah. I would definitely recommend scheduling a meeting with them. And then yeah, was there unless there's anything else. Um
+Scot Penrod: Let's see. I just want to make sure I knew real quick, the quickest way to get to so I have Brazil running now. Yeah. And then let's see. You said there was like an
+Scot Penrod: Additional resources link or something. Let's see if there's a customer support link, account recovery this
+Andrew Meggs: Is I'm talking about in the accelerator? So it's a different different site than the
+Scot Penrod: Oh, okay.
+Scot Penrod: Um
+Scot Penrod: Do I have the link to the accelerator and then
+Andrew Meggs: Yeah, let me pull this up.
+Scot Penrod: If you just want to send me that link real quick, I'll just make sure that I have that bookmarked.
+Andrew Meggs: I'll send it my follow up email too, but I will include it in. I just put it in the chat.
+Scot Penrod: Oh, okay. Great. Grab that.
+Scot Penrod: All right. Ask me for a login. Would should it be the same as what I set up for the
+Scot Penrod: The PreVeil account. Well, the PreVeil account, I don't really have to log in. I just open it and it just runs. It takes me to my inbox. Um
+Scot Penrod: I've got that password set up somewhere though.
+Scot Penrod: I should be a login that's already been created though, is my point, right?
+Andrew Meggs: Yeah. If you don't remember, if you can um
+Andrew Meggs: Just do the forgot password, but it is your email address is your login. Yeah.
+Scot Penrod: Yeah. Got it.
+Andrew Meggs: So and yeah, I'll resend it in my follow up email, but um
+Scot Penrod: I just I grabbed the link that you sent and through an a a bookmark for it. But yeah. Okay. Great. Yeah, I think that's all you got for now then.
+Andrew Meggs: Okay. Well I appreciate you taking the time to meet with me Scott. And yeah. I'll just send a quick follow up email just kind of going over what we talked about. And then if you do have any questions or if you need anything else, let me know.
+Scot Penrod: Okay. Sounds good. Thanks Andrew. Appreciate it.
+Andrew Meggs: Thanks, Scott. Good one.
+Scot Penrod: You too. Bye. Bye.

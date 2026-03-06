@@ -1,0 +1,160 @@
+Account: Synergy Business Innovation & Solutions
+Call Date: 2025-12-18
+Duration: 00:28:57
+Participants: Andrew Meggs, Charles Irvin
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello Charles.
+CharlesIrvin: Hello. How are you?
+Andrew Meggs: I am doing well. How are
+CharlesIrvin: You
+CharlesIrvin: I'm trying to there we go.
+CharlesIrvin: Trying to get zoom to turn the camera on. Let me check on on my companion here.
+CharlesIrvin: See if he's gonna join.
+Andrew Meggs: Sean did just say that he would or not say but accepted the meeting, like a minute ago.
+CharlesIrvin: Okay. I give a few minutes here that he's he's green. So you should be in shortly.
+Andrew Meggs: I guess in the meantime, how are things going?
+Andrew Meggs: Good, good.
+CharlesIrvin: Um
+CharlesIrvin: We'll be able to officially announce your today or tomorrow, hopefully.
+Andrew Meggs: About your assessment.
+CharlesIrvin: Yes.
+Andrew Meggs: Okay. It hasn't been fully finished yet.
+CharlesIrvin: Yeah. And it needs to get into put into emails and then then we can publicly state it.
+Andrew Meggs: Private privately, can you let me know how it went?
+CharlesIrvin: It went good. I mean, we passed
+Andrew Meggs: Okay. Good, good. I mean, I won't tell I promise I won't tell anybody, but it's good to know who was yours assessor again.
+CharlesIrvin: So that was strategic it.
+Andrew Meggs: Oh, sure. Yeah.
+CharlesIrvin: Yeah. Yeah, man. So yeah. Yeah, yeah. And um
+CharlesIrvin: So yeah, the 11 solutions was the consultant. So
+Andrew Meggs: Yeah. Great. Well, congratulations.
+CharlesIrvin: Thank you. Um
+Andrew Meggs: It's never fun, I know. But
+Andrew Meggs: I hope at least some sort of relief that it's over.
+CharlesIrvin: Yeah. Yeah, we've got a got a few ideas to kind of okay. We implemented it and we followed, you know
+CharlesIrvin: The way we were doing it and then in mid mid implementation, the Acme package came out. So we got kind of a few things from that. So I'm sure whereas we iteration this over the next year. We'll probably look look back at ourselves and go, okay, why are we doing it like this and put a few things through the change control board. So sure. Hi, Sean.
+Andrew Meggs: Hello, good. Good. Charles was just telling me all past your assessment, which is exciting stuff. But yeah. No, that's the yeah, it's always a pain. But glad glad to hear that you passed and there were any big issues in that. Um
+Andrew Meggs: I will say I would say that well, over 95% of our clients that have gone through an assessment. I mean, I would say honestly 90 nine, I've only heard of one that hasn't like passed in the first go around without any issues or rescheduling. So then you all are that would make us, I think 50 eight, 59 59th customer that has passed assessment, so. Awesome. Congratulations and we always well, it's always that's why we're here. You know? So it's always always glad to hear that. I guess that being said now that you have past your assessment, the actual PreVeil subscription itself is coming up here for renewal. Just as a reminder of what you'll currently have. It's 25 total licenses including 2 admins, the compliance accelerator and our email gateway.
+CharlesIrvin: And 20 users
+CharlesIrvin: So 25 uh
+Andrew Meggs: Let me pull this up. I believe it's. Maybe you all added some I have in the system is 25. Let me quadruple. Check this just to make sure we're on the same page here. All right.
+Andrew Meggs: Yeah. So well, when I say 20 five, that's including the admins, okay. It's 23 users and 2 admins, but I guess 25 users, total 2 of which are admins.
+CharlesIrvin: Yeah. Okay. Yeah.
+Andrew Meggs: But but yeah, the 25 users, the gateway and the accelerator and it I mean, just to get to the point here, if you wanted to renew as is you would be for roughly $17,000. So 16,980. And then obviously this conversation is if you don't have fewer users, if you don't want to renew the accelerator, if you want to make any changes or have any questions, you can let me know.
+Sean Ebrahimi: Chuck was the intention 25 or twenty, including the admins.
+CharlesIrvin: So the I think the admins were um
+CharlesIrvin: Included in the 20. But for right now we actually have 4 admins, right? Because we found it
+CharlesIrvin: A lot easier to to go with 4 versus just 2 or 3. Because if you have two, you both have to be available and if you're not available, then somebody's stuck either for exporting data or for recovering a system. And we had such a challenge there at the beginning with systems. Not being able to get in because they needed to be recovered. We just had one last week and thank goodness he had multiple devices, he could remedy himself. We do have 4 users for users who are admins. And right now, we don't have 20 people, right? But the SP is scope to be 20 users, right? the 20 would include those 4 admins because well, like Shawn and I we will could potentially come across or sci, but likely or not responsible for acting upon that, right? So as an example, someone who comes in and does contracts. They're gonna be responsible for acting on the sci, right? Or someone who's doing a proposal, they're gonna be responsible for acting or developing against the UI, right? So
+CharlesIrvin: The other 2 admins outside of Shawn and I they would have the door role they would be. They could act on the si or the key. But they also are there to help us be the balance of being able to get a hold of someone for system recovery or data export? Sure, right. Somebody's on vacation. Go ahead, Shawn.
+Sean Ebrahimi: Yeah. Finish up. Yeah, yeah. Sorry.
+CharlesIrvin: Yes. 20 total, which includes the admin. So if that if we have to include the admins
+CharlesIrvin: Yeah. 16 and 4.
+Andrew Meggs: Okay. So
+Sean Ebrahimi: Yeah. So Andrew before you answer that let me get clear on something because our semantic kind of works that way a little bit. So we like for example we sign up for a contract and they say here's your price for 50 users $10,000, hypothetically, right? then they say here's your price per user $20 or $100 per user. What's this contract is about, but obviously we don't know if this 50 is gonna stay as 50. So what we have with some of our software is that they're saying if you sign up with this contract $50,000 a year for 50 users, $100, let's say $100 per user. But during the year before the contract is up, if you going to alter the number, from 50 to 55 that $100 per user will not be honored, it would be whatever the current rate is as a standalone. So it would be $150 or $200 per user. So high high is pre be working if we do 16 and 4 and let's say before our contract is up and we want to add more people, how is that being configured in pricing?
+Andrew Meggs: Sure. The price for a license, a standard user license is currently $36 a month per user. So $432 for 12 months. If you wanted to renew with 20 users now and then down the line you wanted to add one or 2 or 5 or whatever. It basically you just tell me and I would put together an order form for 2 users and it would be co termed or whatever however many months left or in the subscription. So 6 months from now you said you wanted to add 2 users, I put together an order form for 2 users for six?
+Sean Ebrahimi: Months. Okay. So rate per user will not change then throughout the year if you want to add more people.
+Andrew Meggs: Well, that's kind of my second. He wasn't quite finished yet, unfortunately. I have been this is not technically official yet, but I have been told that rates are actually going to increase next year to $38 a user a month. So if you were to add users next year, it would be at whatever the rate is next year, which I believe will be $38 a
+Sean Ebrahimi: User a month. What is it now again?
+CharlesIrvin: 30 four, 30 six, 36. It's going up
+Andrew Meggs: To $2 a month per user. Yeah. Yeah.
+Sean Ebrahimi: Yeah. That's not super. I was just wondering how your policy is for adding people. It would not like, for example, if we have something that if you add more people that extra that you add generates a new contract. So you're saying when we add more people that contract that is ongoing and let's say expires February of 20 27. The date will stay would still stay the same. We're just adding more people.
+Andrew Meggs: Right. Yeah. The so that there won't be 2 or 3 year of however many renewals. That's just okay. So nobody wants to deal with that. But yeah, it's just co term with however many months left or in your contract.
+Sean Ebrahimi: Yeah. I just want to make sure adding more people will not alter the contract itself. The expiration date on the contract. No, no.
+Andrew Meggs: Yeah. But yeah, if you and I can just quick do the math here. Uh
+Andrew Meggs: I'm sorry. I can't quite do the math. I'm bad at mental math. One second. So let's see if we change this from 25 to twenty, by the way. And when you see the order form, you'll see 20 and for basically the admin licenses are counted as add ons to a user license. So it will be 20 users and then for admin console access licenses just as an but it'll be, but the total would be 20 users. But if you wanted to renew with 20 users and for admins, it'd be roughly $15,000.
+Andrew Meggs: And but I'll obviously I'll send an official order form after this with the exact pricing and what
+CharlesIrvin: Was it last year?
+Andrew Meggs: Last year. So for the initial purchase, it was $17,480.
+CharlesIrvin: But that included the um
+CharlesIrvin: That
+Andrew Meggs: That was for 25 licenses and that also included an onboarding fee.
+CharlesIrvin: Okay.
+Andrew Meggs: And you don't have to I mean once again, that so the price I just gave you the roughly 15,000 that's for 20 licenses and the accelerator and the gateway. So if you don't want to renew with the accelerator, that would obviously be less money.
+CharlesIrvin: The accelerator is just the packages and stuff for the forms and everything and the videos and everything. So I don't since we're certified now are assessed now, I don't know that we would need that, right?
+Andrew Meggs: No, no. We because I'm a bad salesman, but no, you would not need that. The only complication for that is if you wanted to use if you wanted to get our G tool, which I know that there was some interest in that at one point. But I assume since you've been assessed, you also don't need our GRC tool.
+CharlesIrvin: Right. I mean, yeah, we were curious about that and had that been there at the start. We probably would have worked with it. But that basically just links everything together where you're you can verify through that tool that everything is correct. Yeah, it makes it easier for us and assessor.
+Andrew Meggs: It's like a project management tool, yeah.
+CharlesIrvin: Essentially yeah. I think it's fine. I don't think we need that right now. What complication would it provide if we didn't have the accelerator?
+Andrew Meggs: Oh, you would need the accelerator to get the tool because it pulls in everything from the accelerator?
+CharlesIrvin: Oh, okay. It has all the templating that you need in the okay. All right. Fair enough.
+Andrew Meggs: But yeah. If you wanted to renew with 20 licenses and just our gateway and without the accelerator, that would be $11,000, $11,700.
+Andrew Meggs: Yeah, 1 1 7 0 0.
+Sean Ebrahimi: So since Chuck, I wasn't in the original sign up with the PreVeil and everything. I kinda miss something here. So is there a difference because it is with our other software, some of the other software's one year versus versus 3 years versus 5 years? So what's the is there a discount if you do more than one year or it doesn't matter?
+Andrew Meggs: Yeah, for multiyear it would a lock in the current pricing so that you could have 2 or 3 years of 20 25 pricing instead of the increase in pricing. Like I was mentioned and b, if it was paid upfront, there would be discounts involved for 24 months, that'd be 5%. And for 36 months, it'd be 7.5%.
+Sean Ebrahimi: Okay. And then what are the penalties of breaking the contract? Let's say we do 3 years and then we end up not meeting it for 3 years?
+Andrew Meggs: So there's not we don't have terms for breaking a contract so we would yeah. There there wouldn't be a way to
+Sean Ebrahimi: So if we pay in advance for 3 years, let's say roughly $50,000, let's say for 3 years. And then in a year and a half or 2 years, we break it. Do they prorate it and return the rest of the money to us? Or
+Andrew Meggs: No.
+Sean Ebrahimi: Okay. It's a lost.
+Andrew Meggs: Right. Which is why you get a discount for paying upfront, taking that risk.
+Sean Ebrahimi: It's good to know these things. Because a lot of times we speculate we'd like, oh, we just get a pro rate and then we end up finding out that. We're not I just want to know these things upfront. Uh
+Andrew Meggs: Sure. Yeah. No, no, that's fair. But yeah, the idea is you take the risk of locking in a contract for 3 years, but for the benefit of locking in your pricing and you get a discount on top of that.
+Sean Ebrahimi: Okay. You said 5% for 24 months and then for 36 months is 7 something?
+Andrew Meggs: For 7.5.
+Sean Ebrahimi: Percent. Yeah, 7.5.
+CharlesIrvin: Yeah. Because you have a point there showing with because I mean, truth be told if we were to come across the contract say and we needed to all of a sudden go to cms level 3. Sure, right. That I don't know that. PreVeil is not there yet, right? You're not you can only
+Andrew Meggs: Yeah. So so a couple of that's actually has never been a concern until a week or 2 ago. Multiple clients have asked about level 3. It's my understanding that level 3 is and correct me if I'm wrong here, that I'm hearing this kind of this water cooler talk like very rare scenarios in which someone would need to be level 3 compliant. Because it would take like, your own what did they call it? So like 24-7 sock, for threat management and cost millions of dollars to yeah. Set that up.
+Andrew Meggs: Yeah. Long story short. We're actually we actually are pursuing right now avenues for PreVeil to become level 3 compliant. But right now, it's just level 2.
+CharlesIrvin: Okay. Yeah, the answer. Your question we wouldn't want to to to that point. We wouldn't want to get locked into a 2 or 3 year contract. Yeah. If there's a potential that we may need to exceed that. I'm just, you know
+CharlesIrvin: There's probably want to check with executives to say, okay, here's a scenario that could happen if we came across something you guys wanted to pursue that was level 3. We may have to consider other avenues versus over PreVeil to meet those requirements.
+Sean Ebrahimi: But I think truck to to your point, I think right now with everything else that is going on and the way the upper management is going about doing other stuff, I think one year is where we want to be
+Sean Ebrahimi: Okay. With everything else, there. So but it's good to know when we say one year, just in case that question pops up. What are the other options for 2 or 3 that at least we have answers now to say, this is what's gonna happen. If we do two, this is what's gonna happen if we do 3. And then this is what's gonna happen if you guys thinking about level 3. So yeah. That's good to know. I just want to Andrew I just want to understand this one more time and if you don't know it, I don't expect you to know this, sure. But if you could find out from my understanding is that if we get one year and we end up adding more members, that will not alter our maturity date on the contract.
+Sean Ebrahimi: And also it would be the user cost within that contract. The term will stay the same unless it falls into the year after. And then of course, the prices will change. But for the contract we need the timeframe contract that we're in. If we add more users, the process will be the same.
+Andrew Meggs: So yeah, your current contract ends at the end of January and 20 26 and this discussion you your next subscription dates would be February 1st 20 26 to January 31st 20 27. If at any point during that year you were to add more than 20 users. So you need to say you need one to five, however many users. You it's a fairly in elegant process. You just email me and say, hey, can I add a license or however many licenses. Yeah, and I put together an order form for however many months are left in that contract. So if you were to email me in march of 20 20 six, I'd put together an order form for 11 months for one user or 2 users. So the end date would always be 1 31 20 27. Okay. But the price though would be at the 20 26 rate. So the so
+Andrew Meggs: Yeah. It would be at the $38 per user per month rate, if you were to add licenses throughout the year.
+Sean Ebrahimi: Chuck, I don't know if this is a discussion after this meeting. But you feel pretty confident on the numbers.
+CharlesIrvin: Yeah. I feel confident that 20 will be fine for now. Including the admins. So that gives us 16 for yeah. I think that for now, it'll be okay. Um
+CharlesIrvin: I think once we're still in this kind of phase, right? Where the acquisition officers haven't totally started to integrate it. But as we move down the road into 20 20 six, it's going to happen more, then we're going to we're gonna really see who all needs to be in there. And I think it wouldn't take long if we called Andrew up tomorrow and said, hey we need 10 more. It probably wouldn't take very long for that to happen once we got that approved and payments sent in
+CharlesIrvin: Okay.
+Sean Ebrahimi: So I guess we're getting a price code for 20 users, 16 users and for admins.
+Andrew Meggs: Yeah. I'll I can just go ahead and show you what that'll look like.
+CharlesIrvin: 20 users with 4 admin user add ons.
+Andrew Meggs: Yeah. Just just so we're extra clear here. Yeah. This what it'll be is 20 users including 4 with admin console access and the email gateway. Yeah.
+Sean Ebrahimi: So what's the number of total together would be 20
+CharlesIrvin: Yeah, 20 users.
+Sean Ebrahimi: On 20 20 to use it. Okay. That's
+CharlesIrvin: Yeah. Make sure the admin part is the ability to have the console yeah, login.
+Sean Ebrahimi: Extra twenty, okay. Yeah.
+Andrew Meggs: So yeah. Instead of
+Andrew Meggs: That was a recent change to our nomenclature. Instead of having it be a separate license now it's considered an add on, but that's why it's written like that. But yeah.
+Sean Ebrahimi: Okay. And you're saying next year it's going that 36 up there. It's gonna be 38.
+Andrew Meggs: Correct. Yes.
+Sean Ebrahimi: Okay. The price code that you're gonna give us is not gonna be this right here would be a little bit higher.
+Andrew Meggs: Yeah, yeah. If you were to add users down the road, yeah.
+CharlesIrvin: Would the admin console price change then as well, with no?
+Andrew Meggs: No. Just the users.
+Andrew Meggs: Well, let me phrase this nominally just the users, but you know, these decisions are made over my I don't anticipate any other changes being made.
+Sean Ebrahimi: Okay. So so I guess to be clear, you're saying that 11,700 is the contract that we sign up for that's the price. But we if we end up adding more users, then it's gonna be 38. But right now, the our cost for next contract is going to be $36 per user.
+Andrew Meggs: Correct. Yes.
+Sean Ebrahimi: Okay. If we sign up now before the year is up.
+Andrew Meggs: Right. Well, I mean
+Andrew Meggs: Technically, yes. But honestly, I've already shown this to you don't have to sign up until after the new year. But normally, I'm supposed to say yes, this is this pricing is for if you sign up before the new year. Okay. Okay.
+Andrew Meggs: But all right.
+Andrew Meggs: I'm willing to be flexible though. I mean, it's I'm not not that big of a stickler, but yeah, yeah. Yeah, this is what the price would be. And then like I was saying if down the road you need to add any licenses, we can just co term it with the current subscription. Okay. I guess one small asterisk. If you don't renew with the accelerator, you would also lose access to our compliance team as a resource and obviously you'd lose access to any changes made to the documentation. I can't imagine you would need it, but I figured I'd mentioned it since we're talking about it.
+CharlesIrvin: Yeah. Shawn and I can chat about that real quick and see if he feels if we needed it goes back to the 15 k._i think you said
+Andrew Meggs: Yeah. The accelerator that is $3,600 for 12 months. Okay. And
+Sean Ebrahimi: Andrew, can you show us that thing again? the pricing?
+Andrew Meggs: Sure. Yeah. And then also I mean, honestly, if the accelerator is a sticking point and especially since you've already been assessed I could get approval for the accelerator for half off for your renewal if you wanted to renew with it. So for whatever. So the
+Sean Ebrahimi: Accelerator. We do the discount that you may or may not get how much extra is this?
+Andrew Meggs: Yeah. So that would be
+Andrew Meggs: I can just
+Andrew Meggs: That would be $3,600, but I am 99% sure I could get a discount so be for
+Sean Ebrahimi: 1,700 or
+Andrew Meggs: Something yeah. $1,800.
+Andrew Meggs: So
+CharlesIrvin: Okay.
+CharlesIrvin: Yeah.
+Sean Ebrahimi: Yeah.
+Andrew Meggs: Yeah. If that obviously you'll need to have these conversations on your end, what you want to move forward with. But at the very least I can provide this I'll send obviously I'll send this order form over to you in a follow up email. And then you can let me know what you want to move forward with there.
+CharlesIrvin: All right. Sounds good.
+Sean Ebrahimi: All right. Thanks a lot Andrew. Yeah. Any other questions?
+CharlesIrvin: To go over.
+CharlesIrvin: Yeah, I think we're good on.
+Sean Ebrahimi: My end, yeah.
+Andrew Meggs: Okay. All right. Well, I will send all this over then and let me know what you move want to move forward with. And yeah, I hope you have a great rest of your day. Thank you.
+CharlesIrvin: I'll call you.
+Sean Ebrahimi: Yeah. Thank you.
+CharlesIrvin: Bye, bye.

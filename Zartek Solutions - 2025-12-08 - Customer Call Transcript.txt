@@ -1,0 +1,72 @@
+Account: Zartek Solutions
+Call Date: 2025-12-08
+Duration: 00:11:49
+Participants: Andrew Meggs, Harry Singh, Pooja Thakur
+
+======================================================================
+
+Andrew Meggs: So
+Michael Pease: How are you?
+Andrew Meggs: I'm doing well. How are you?
+Michael Pease: I'm doing. Okay.
+Andrew Meggs: Okay is it hello Michael just you today I think a hello lot of people some other people were invited as well
+Michael Pease: No no actually
+Michael Pease: I haven't heard from Harry but I can give you an update on where we're at because it looks like well I do have a meeting scheduled for tomorrow afternoon but we have run into a little bit of difficulty because I think you know like before we had originally started with the domain Zartek Solutions.com but I realized that we would not be able to implement the solution in that domain and we created a new one called Zartek solution dot us and we've set up the Microsoft 365 environment I've got the PreVeil application installed on one of the computers in that environment with my Zartek solution dot us account but I can't set up the organization in PreVeil so I don't think our account ever got updated to allow us to use the new domain and I'm not sure like I'm hoping I have a meeting with I guess I don't know who it is regarding like I think it's like setup and configuration
+Andrew Meggs: So do you do you have the computer that has the dark Zartek Solutions dot us in front of you?
+Michael Pease: Yes.
+Andrew Meggs: Okay. We could set up the word right now if you wanted.
+Michael Pease: Sure
+Andrew Meggs: Yeah. If you want to share your screen if you're logged into the
+Andrew Meggs: If you're logged into your Michael. That's our tech Solutions dot us account. Yeah, you just open up a new browser tab and you enter into it the local host ID thing. I just put in the chat.
+Michael Pease: Maybe
+Michael Pease: Oh, that's right. That was the step I was missing.
+Andrew Meggs: So
+Andrew Meggs: Hi Pooja, by the way, say here.
+Michael Pease: Andre. Hi, Mike.
+Michael Pease: This was supposed to be admin, correct?
+Andrew Meggs: It can be anything you want, but you know, admin is normally what we recommend. It's more for internal use, but yeah.
+Andrew Meggs: Great. So you've now created the star tech Solutions us. Uh
+Andrew Meggs: PreVeil organization.
+Michael Pease: I can go ahead and start setting up the other accounts.
+Andrew Meggs: Right. Yeah.
+Michael Pease: Excellent. Yeah, that's kind of where we're at. We kind of we've been spending the last couple of months, kind of working on all the documentation, all the procedures like using your templates to get all the procedure documentation set up in the Microsoft 365 environment. So yeah. It's been it's been busy.
+Andrew Meggs: Yeah. It's definitely it's a non 0 amount of work for sure. Um
+Andrew Meggs: I guess, do you have a timeline of when you'll think you're gonna want an assessment? Um
+Michael Pease: I'm not sure because let me well let me preface it with this like how much of the continuing processes like weekly and monthly activities do you want to see artifacts for before we do the pre assessment
+Andrew Meggs: Well
+Andrew Meggs: Short answer, I don't actually know offhand. Long answer, you can kind of do your pre assessment whenever but to get a smarter answer than what I'd be able to give you. I would schedule a meeting with our compliance team if you haven't done so yet. And kind of go over where you're at and see what they would say. Um
+Andrew Meggs: We yeah. We don't have our internal compliance team as part of the accelerator package. Have you met with them at all?
+Michael Pease: I believe we had an initial meeting with them and you know, they were they had us going through like the the training materials and the templates and things like that. But we haven't had a follow up meeting with them. Maybe what we should do is um
+Michael Pease: Yeah. I don't know if we want to try to do something with the holidays coming up or just wait till January.
+Andrew Meggs: Yeah. I mean, it's still
+Michael Pease: January.
+Andrew Meggs: Yeah. I mean, I can't speak for them, but I know my schedule is already pretty much fully packed until mid January, frankly. But yeah. See it.
+Andrew Meggs: But yeah. If you want to look at their calendar through the link in the accelerator you certainly can and or if you just have like, a one off question, you can email them at compliance at PreVeil.com, but probably you'd want to have like, a deeper conversation. Yeah. Yeah. Um
+Andrew Meggs: So I would recommend setting up a meeting with them?
+Michael Pease: Yeah I can schedule a meeting with them through the accelerator or
+Andrew Meggs: Yeah. In the course additional compliance resources, there's a link to their calendar.
+Michael Pease: Oh, okay. I will I will take a look then see if I can set up something with them in January.
+Andrew Meggs: Yeah.
+Andrew Meggs: And are you have you already I guess you haven't done your present yet? Have you already started working with A C 3 PO yet or anything?
+Michael Pease: No. We haven't started doing that yet. And we're yeah, I don't know if you know, but it's kind of like we're also doing the parallel effort with intellect. We're in the process of basically, doing the same thing with intellect Solutions. Okay. We'll probably try to. At some point we'll privately try to sync up their path. So that way we can kind of get them both through the process. Relatively, relatively the same same car. But yeah. We definitely need to what's the lead time now? Is it like 6 months to get a 3 pl?
+Andrew Meggs: It depends. Some of them are like 6 months. Some of them have I mean, the earliest is still like 3 or 4 months. And that's few and far between, I would say 6 months is more realistic. There are a few that sometimes somebody drops and they all have like last minute openings and things like that happens not infrequently. But generally, it's at the very least 3 or 4 months. Um
+Andrew Meggs: And of course that's gonna change over time as more and more people get approved to C 3 POS. But yeah, if you are looking for C 3 PO recommendations, we you know, our compliance team, they also work. We have like, those partners that we work with. They also are more aware of schedule. So if you were looking to get it at a specific date, they might be more aware of which partners have availability during that time.
+Michael Pease: If you wouldn't mind. I'm kind of like the admin support state support for the environments. But if you could send that list of recommended third party auditors to Harry, because he's he's he's the executive in in Zartek. So he'll he's probably going to be the one who makes those decisions. I'm just trying to get the environments and the documents. Sure.
+Andrew Meggs: So so yeah, we do have a list, but we also I mean, you can talk about it whenever you schedule your call with compliance team. But we do have a we call it specifically the partner compliance team, which is a subsection of the compliance team that handles all of our partner relationships. It's just one guy. It's just Jamie on the compliance team, but we call the partner compliance team, but I'll I'll share their information as well. If so I'll share the general partner with but if you want, like if Harry wants a specific recommendation, they would be able to provide that.
+Michael Pease: Okay. Yeah. Just let them know that. Because yeah, we definitely need to keep this moving forward because we got to get this third party auditor stuff out of the way. Yeah, the environment. Yeah, actually. There's just one more thing I need to do in Azure and then the 365 environment will be set up according to those guides. And yeah. And then we'll start creating the users and migrating people into the environment. Yeah. Yeah. Okay. Pretty close.
+Andrew Meggs: The only other thing that I normally like to check on here is if I guess you haven't really had the chance yet since you're just creating the org. I usually check to see if there are any issues communicating externally, like with like PreVeil express or having people sign up for that. Like your clients or sub vendors or what have you done that at all of you?
+Michael Pease: I have to check to see if I think we did some of that testing when it was still Zartek Solutions.com, but yeah, we haven't done anything since we switched to the U.S. Domain. Okay. I'll add that to the to do list to verify that and send out a few test messages and make sure that's working correctly.
+Andrew Meggs: I mean, there shouldn't be any issues. There shouldn't be any difference, but I just like to make sure that there are any problems. So that's what I wanted to reach out.
+Michael Pease: I appreciate that. Um
+Andrew Meggs: And then yeah, that's kind of it in terms of my normal check in point so seeing where you're at in the compliant or in the compliance process. Getting your users in the system and checking to make sure there are any issues communicating with PreVeil or anything. I will send you and Harry the list of our partners and that partner compliance contact info. And yeah, I would recommend scheduling some time with the compliance team and then as per usual, if you do have any problems or if you need anything else, you can let me know.
+Michael Pease: Good.
+Andrew Meggs: Okay. Was there anything else you wanted to talk about or go over?
+Michael Pease: It you might have saved me the meeting for tomorrow because yeah, I mean
+Andrew Meggs: You can still meet with them if you want just to make sure there aren't any like problems with the back end but you now have it set up so
+Michael Pease: Yeah. I will yeah. I can work on the setting up the recovery stuff tonight and yeah, maybe they can double check to make sure I did it correctly. Yeah.
+Andrew Meggs: So but one one last thing to worry about at the very least. But I'm glad I was able to help and I'll send all this over. And yeah, I hope you have a great rest of your day and happy holidays.
+Michael Pease: Yes, you as well. Thank you so much. Look forward to looking forward to really putting this through its paces.
+Andrew Meggs: Well, I don't know if you're the first client who's looking forward to to going through compliance, but you know
+Michael Pease: I just meant having this tool available.
+Andrew Meggs: But all right. Well, thank you again for your time and yeah, hope you have a great rest of your day.
+Michael Pease: Bye. Thank you. Bye.

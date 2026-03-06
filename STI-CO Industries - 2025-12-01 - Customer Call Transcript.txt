@@ -1,0 +1,68 @@
+Account: STI-CO Industries
+Call Date: 2025-12-01
+Duration: 00:09:41
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: I am doing well. How are you?
+james sajdak: Pretty good from Monday. Hello.
+Andrew Meggs: James. Yes, it is Monday. Hi there. How are though? it was kind of a long weekend. So
+james sajdak: Yeah, that was nice.
+Andrew Meggs: Could be worse. Yeah. I appreciate you hopping on a call with me since this Monday. I'll try to keep this short. Hopefully, this won't take too long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. For context, I am the customer success manager for your account. So I'm gonna be your general main point of contact and account manager going forward. So this call is to let you know, I exist but be kind of walk in PreVeil, go over the onboarding process and make sure you don't have any initial questions.
+james sajdak: Sounds good.
+Andrew Meggs: Okay. So to that point hi, I'm Andrew welcome to rail. I'm in Minnesota myself. Where are you calling in from?
+james sajdak: I'm near Buffalo New York south of Buffalo
+Andrew Meggs: Okay. I don't really know much about upstate New York or is that upstate?
+james sajdak: But yeah. Pretty much I guess anything is not New York City considered upstate. Sure. Like we're like western so like we're way on the other side of the state in the city New York City.
+Andrew Meggs: Okay. Yes. And we're like
+james sajdak: Right on lake geary. Okay.
+Andrew Meggs: The what this is my own ignorance here. Toronto is the Canadian city on the east side, right?
+james sajdak: Yeah. Okay. Maybe 2 hours on northwest here.
+Andrew Meggs: Okay. Sorry. Just trying to get my geography. Not that other matters. But um
+james sajdak: Yeah, that would be our closest Canadian counter price sending over here.
+Andrew Meggs: Sure. Yeah. Okay. So geography aside, I appreciate you hopping on a call with me. Honestly a big part of what I would talk about today. It looks like you've already done. Looks like you've got your organization created in the system and have you got your account set up. So that's kind of
+james sajdak: The basics I followed got my myself in there.
+Andrew Meggs: Yeah. And have you had a chance to schedule the technical onboarding yet?
+james sajdak: I have not I don't know if I saw LinkedIn. I don't know my only meeting I had for adding this. So
+Andrew Meggs: Far. Sure, sure. Yeah, that's fine. So technically you have your org created so you can use PreVeil now. But the next step on the technical side of things would be to schedule the actual hourlong training and onboarding session that our support team puts on. So that'll be end user training and an admin roles and responsibilities. That's what that isn't. I'll send a follow up email and I'll include a link to their schedule in that email to schedule that meeting. Yeah. There's kind of 2 Habs of getting started with PreVeil. There's the technical implementation of creating that org and going through the onboarding and then there's getting into the compliance documentation. So that's the compliance or compliance portal, the compliance.
+james sajdak: Accelerator you kind of a 2 part there and that's on both of them?
+Andrew Meggs: Yeah. For the onboarding, like I said, I'll send you that schedule for the compliance portal. It's a separate site. It's a separate login. And I added you to that actually right before this call.
+Andrew Meggs: So
+james sajdak: I think just came through just a second.
+james sajdak: I got an email.
+Andrew Meggs: Nice. Nice, nice. So yeah, that's gonna be a separate login. And you can have up to I think 4 people in there at any one time. If anyone else needs to be added to that, I can add them and they don't have to be the same people that use PreVeil because it's a separate site. Do you know if
+james sajdak: Our quality guide. I'll talk to my wants to because you can help with on my documentation and stuff. So sure.
+Andrew Meggs: Yeah. I guess when you if you want to talk to him, if he wants access to that, just e mail me and let me know. Is his email address and I can add
+james sajdak: All be one of the users to a range user in there too. Because yeah.
+Andrew Meggs: Sure. Yeah. I guess whenever whenever you confirm that let me know or if you want me to go ahead and add them, I can no.
+james sajdak: I don't want them to be
+james sajdak: Here today anyway.
+Andrew Meggs: Oh, sure. Okay. Yeah, yeah. Just email me or let me know and I can add them. And then yeah, honestly we try to keep things super straightforward here and simple that's kind of it in terms of getting started is creating the org and going through the onboarding and getting into the compliance accelerator, which I've already done for you. I guess just for my own curiosity, where are you all at in terms of compliance? Do you have anything written already or
+james sajdak: Not really. Not here. No. That was a huge selling point of your product and I didn't didn't even know you offered until you told like pretty much during the sales process. They said, okay, then that was like a no brainer that. Yeah.
+Andrew Meggs: Yeah. It'll definitely help with that. And then with that comes access to our own internal compliance team. So they are the people who wrote all the documentation and everything. So if you have any questions about the documentation or just your own compliance journey in general, they're available as a resource to you. They're available at compliance at PreVeil.com and there's also a link to their calendar and the accelerator. If yeah, like I was saying if you have any compliance related questions that you can help?
+james sajdak: Management was I'm excited to hear that at the time. It was like 42 of your customers have actually become fully compliant, like 50 now.
+Andrew Meggs: I think we just had our 52nd 53rd.
+james sajdak: Did you just hit fifty?
+Andrew Meggs: Yeah. What well, obviously I can't share who exactly, but yeah. Um
+Andrew Meggs: Yeah. They just no, they I think they put out a
+Andrew Meggs: Their own um
+Andrew Meggs: Oh, gosh, I don't remember. It was. Oh, yeah. Constellation energy. I can say that because they put out their own press release. Okay. But they I think they were 50 second or 53rd to to pass an assessment. So but yeah, uh, yeah. Kind of just to reiterate the resources here. So there's kind of 3 different groups of resources. Our support team will be handling that onboarding and they'll they're also the people that will be answering any compliance or not compliance technical questions. Our support team will be handling bugs technical issues that hopefully that won't be relevant, but they'll be doing the onboarding. They're available it support at PreVeil.com. The compliance team will handle any compliance related questions. They're compliance at PreVeil.com. And then I'm kind of the general main point of contact if you're not sure to talk to if something needs to get escalated or if you have any account related questions, like adding a license subscription, all that sort of thing.
+james sajdak: Actually because we have like a third this I did 2 companies that are together here under the one group now. We actually have a third company that actually already has prevailed, but I didn't even know about until I started signing up. So probably the time integrate all 3 under one account through you okay. I'm the one in charge me now. Yeah.
+Andrew Meggs: So
+Andrew Meggs: Not to make things too complicated. Technically, if it's a new company, that would be Zach who I think you've already worked with us all the new sales. And if it's a current client, that would be me. I'm kind of the post sale account management. So yeah, if it's a new if it's a brand new company that will be needing a separate organization, that would probably be Zach, but if it's like adding if you're gonna be adding to your organization, that would be
+james sajdak: Our existing organization, because we're all on the same account for save a little money. I think by putting them under one from a top level, I think they're all on by the same company. Sure. We're gonna be sharing some resources.
+Andrew Meggs: Yeah. I mean, whatever your preferences. I'm just letting you know when it gets down to that time. There's a slight delineation of uh
+Andrew Meggs: Sales versus my role, which is kind of current client management. But we're getting into the weeds here. We'll cross that bridge.
+james sajdak: I'm aligned. Um
+Andrew Meggs: Back to the point at hand of just getting started at the very least for St. Yeah. It's the creating the org, getting an accelerator. Those are the resources you have available to. By the way, I'll be sending all this in my follow up email as well. If you don't have there's don't be a pop quiz or anything. You don't have to memorize anything. And the only other thing I like to do on these calls is I like to set up a 90 day check in call. Just to make sure things are going smoothly. Obviously you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for March 2nd?
+james sajdak: I'm good with that's good for me. You're gonna be the first time out there that you're guaranteed to get an opening. Yeah.
+Andrew Meggs: I live kind of 90 days in the future. So my calendar is pretty much always booked. Um
+james sajdak: I'll be actually out of top of the end of that month.
+james sajdak: Yeah. The whole that whole first half of the month, I'll be
+james sajdak: Okay.
+Andrew Meggs: So I just put that on the calendar and I I will send this follow up email kind of going over everything. Do you yeah. Do you have any other questions about PreVeil or anything you wanted to discuss here at the beginning?
+james sajdak: No. I didn't know what to expect for today's Paul. I know I probably have already done most of what we've got today anyway. Yeah. Set up and not and thank you for the compliance. I'm actually I'm sorry dig into that too. Sure.
+Andrew Meggs: Okay. Well, in that case, I don't want to take up too much of your time here. I very much appreciate you hopping on a call with me. And yeah, you'll have my contact information. So if you do anything, let me know. Otherwise, yeah, I hope you have a great rest of your day. You do. Thank you very much. Yeah. Have a good one.
+james sajdak: Bye.

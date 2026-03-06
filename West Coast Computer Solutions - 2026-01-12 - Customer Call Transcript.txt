@@ -1,0 +1,177 @@
+Account: West Coast Computer Solutions
+Call Date: 2026-01-12
+Duration: 00:25:46
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: Um
+Robin Barrow: Hi, Matt. How are you?
+Mat Dalton: Good. Sorry about that. It was probably my fault.
+Robin Barrow: I know.
+Mat Dalton: Mondays, as you know, so
+Robin Barrow: Yes. Yeah, they're Harry. But no, that's honestly probably my fault. I was like, I wasn't sure and then I waited on the meeting. I was like, I don't I think this is maybe a mistake. So I must have missed something. Oh, yeah. Yeah, what's going on?
+Mat Dalton: Well, I thought we had had I thought we had already set up Sean Craig at Temecula precision.
+Robin Barrow: Yeah.
+Mat Dalton: And I don't I can you walk me through how to set them up again? I guess create new a new account?
+Mat Dalton: Sure.
+Mat Dalton: I'm sorry. Go ahead.
+Robin Barrow: No, I was gonna say, do you want to
+Robin Barrow: Well, does he have a device that you're gonna install PreVeil on?
+Mat Dalton: Yeah. Yeah. We don't have to have it installed though. Do we? Yes. Maybe that's where I got screwy.
+Mat Dalton: Okay. So
+Mat Dalton: Um
+Robin Barrow: I'm just trying to see if he has an express count or anything like that.
+Mat Dalton: Because I have the PreVeil I downloaded it before.
+Robin Barrow: Yeah. It needs to be installed on his device.
+Mat Dalton: Okay. But in theory, it has to be on the enclave that doesn't have internet access.
+Robin Barrow: It doesn't not not at all.
+Mat Dalton: Well, I mean, I'm sorry. Controlled access is what I should say.
+Robin Barrow: Yes. Yeah, it needs to be on the on live.
+Mat Dalton: Okay. We're not ready to do that because we did the first time we did it wrong turns out we put it on a desktop, a regular desktop. I don't know how we didn't under we screwed that up. Okay. Okay. So
+Mat Dalton: All right. We got to get at what we're calling it a jump box or something like that. Yeah. On the on live. Okay. The PreVeil is only gonna be on the on live. Can
+Mat Dalton: You. But can't you just access it through the web or you have it? Go ahead. I'm sorry. Yeah.
+Robin Barrow: No, I'm sorry. I interrupted you. There is an express version, but it's not compliant.
+Mat Dalton: Oh, I see. So you can access the express version through the web portal, but not the full version?
+Robin Barrow: There is a web browser application, but if you need it installed on the device still like, you can go through the web, but yeah, you still know it.
+Mat Dalton: Still needs to be there. Okay. This is where I was confused.
+Robin Barrow: Yes. The way per rail works is encryption keys that are installed on each device, right?
+Mat Dalton: Right. Right. But I kept thinking okay. Okay. No, this all makes sense. I just need to make sure that I'm doing it the right way.
+Robin Barrow: Did I'm trying to see if I sent you a follow up email from last week because I know you had
+Mat Dalton: I don't I hate to say I don't think you did, but I don't think you did.
+Robin Barrow: Here, I'll forward it over. Okay.
+Mat Dalton: It may be and it's probably did Philip jump on yet.
+Mat Dalton: Let me send him the link.
+Mat Dalton: I don't know why he doesn't have it, but
+Robin Barrow: I can forward it this to Philip to
+Mat Dalton: Yeah. I'll send him the link.
+Mat Dalton: Because we just have questions that we think we know what we're doing and then we turn around and we don't or at least that's me. Let's go with that.
+Robin Barrow: Okay. Cause I was on last call, correct? I think so. Yeah.
+Mat Dalton: Okay. So must have all right.
+Robin Barrow: Okay. I just re forwarded the follow up email I sent over.
+Robin Barrow: Okay.
+Mat Dalton: Give me just a second. I'm just taking notes. Device device.
+Mat Dalton: What about your phone? No, I guess you can uh
+Robin Barrow: Oh, here's Philip. Yeah. You can download there is a PreVeil app that you can use, but you need to it's it all depends if you're including that phone in scope. Hi Philip. How are you?
+Mat Dalton: He's muted. I'm great, thanks.
+Robin Barrow: Sorry about the confusion on the call. Were you so yeah. I think we talked about this on last Monday a little bit and I had sent over the instructions on how to download PreVeil and get it up and running you. Did you ever have a call with our support team? Well
+Mat Dalton: No, we didn't, but we've done it before at a different client. So we were somewhat familiar. They're on the PreVeil. Do I have to log into the express on my express to get to the download page or no?
+Robin Barrow: No. You shouldn't have to if you go to the email that I had sent you just a regular commercial mail. The setup instructions are right there.
+Mat Dalton: Okay. Perfect. Perfect. Okay. All right. There's that so I'm meeting with Marco today for the
+Robin Barrow: Go ahead. No, I keep doing that. I'm so sorry. You go ahead. This is regarding the new client that you bring on, right?
+Mat Dalton: Yes. And we're trying to get compliant as well. We can sell that as a package deal to say that we're compliant. And of course, Marco is like, we have to pay a $500 onboarding fee and like, this is not going well for us. I don't know. I mean, as a salesman, bless his heart, but he's driving me bananas. Yeah, we're trying to meet with him and then once we get that going
+Mat Dalton: Let me okay. If we have it installed on our computer and our computers.
+Mat Dalton: Locked down on the enclave at our office. So to speak. Then we can add the other PreVeil accounts. Like you were showing me the other last week is
+Robin Barrow: That right. Yes, yeah. You just have to make sure you have a separate email for each of those accounts. Yeah. For, right. Right.
+Mat Dalton: Okay. All right. Philip, what else were, what else challenges where we have and I'm kind of scattered brain this morning.
+Philip C: No worries. Yeah. I just need some clarity. So you're not talking about if you download the PreVeil app to your PC and you sign into a PreVeil cloud account, right? You wouldn't be able to interchange those, right?
+Robin Barrow: It would it's not here. I'm just gonna show you share my screen.
+Robin Barrow: Again, it's going to have to be a separate email. So you're it's technically as if you're logging into a full on separate account.
+Philip C: But right. But even with the app itself installed
+Mat Dalton: Show you too, man.
+Robin Barrow: Let me just show
+Robin Barrow: Is it are you saying just the app and not the full version the express account?
+Philip C: No. Like say we have a full version.
+Philip C: So for instance, like if we're I think is what you're talking about, Matt, but if we're admin in, we're helping admin for company. A. We basically just want to stay within the cloud. We don't want to download the hardware certificate to to PC to be because we don't want to pull
+Philip C: Basically them into scope, right? We don't want to be in their scope essentially.
+Philip C: Does that make sense?
+Robin Barrow: That makes sense to me. I just don't know if Matt's trying to be because if you did download PreVeil and have access to all their accounts, you would have to consider yourself within scope because you have your organization.
+Mat Dalton: Yeah, I haven't and I have installed everything. So yeah. We're not in that situation. We were at first, but I cleaned it all up.
+Mat Dalton: Does that make sense?
+Philip C: Yeah. Yeah. And then I guess the second part of that question for us to be CC or to have our own essentially on cave, we wouldn't want to put it on our day to day workstations map. We would want a separate correct workstation that is, yeah.
+Robin Barrow: Okay. If I'm understanding you most likely don't want to have the multiple accounts set up on your device because you just want to manage it completely separately.
+Robin Barrow: Okay. Okay. And you don't want are you gonna have a login for each of your clients? So you're gonna have a an encryption key installed for each of your clients? are you gonna be a full admin for every single one of them?
+Mat Dalton: I think at this point, it's gonna be too. I don't think we should do that right now, Philip. I think we're trying to get too far ahead of ourselves.
+Mat Dalton: Because the installs are gonna be on an enclave or AVM or in the on cave, they're gonna be on AVM of some sort or a PC. So we were to have remote access VP into it and we're not ready to have an enclave here. So I think it's I think we're jumping too far ahead.
+Robin Barrow: Okay. Yeah, in that case I would go
+Robin Barrow: For Tel Mika, yes. Temecula. Yeah, to me. How do you pronounce it? you would just follow these instructions, but the main link that you're gonna need is this create an org
+Robin Barrow: So then you can go ahead and create an organization.
+Robin Barrow: For them. If you have their device, you can have them go through this setup process, probably don't want to do that, but that's how you create the organization. Once you get them up and running, you can back out of the account. That's what a lot of our MS PS do. So it's completely up to you on how you want to manage it.
+Mat Dalton: Okay. Does that make sense to you or Philip? Because I just kind of got lost.
+Philip C: On that. Yeah, yeah. I think so.
+Philip C: These would be the authorized devices that we're gonna download the certificates to yes. Okay. And then I think the follow up from last week, can you have multiple certificates on one workstation? So if they have a physical device where multiple people are gonna remote into that system under separate profiles, can they all access their PreVeil app through that one workstation or is it one certificate per device?
+Robin Barrow: You can have multiple users share one workstation as long as the user has their own login.
+Philip C: User one, user 2 and of course. Yeah, no. Shared accounts. Yeah.
+Robin Barrow: Yeah. Okay. Yeah. And if you I think I followed up on that question at the bottom of the follow up email I sent over. But if you need if you want to walk through this or how it typically works, I'm happy to set up time with our team to
+Robin Barrow: Our product team
+Robin Barrow: But it is pretty straightforward if you have like you said, the OS logins.
+Philip C: Gotcha.
+Philip C: Yeah. I think the only thing Matt, that we really needed. I mean, that's the main question because I think a lot of our clients they don't want 5 workstations if only 3 people are accessing them.
+Philip C: Or 3 workstations. If it's you know, if it's just one person who's just transmitting the data one person's manipulating it and the other you know, they don't necessarily need different workstations in the enclave. And we want to keep their normal commercial PCs out of scope. So that's the whole purpose for like that the jump box scenario, I guess. Um
+Philip C: Yeah. As far as just setting up. So like who did we just try to do arrow space, no. Yeah.
+Mat Dalton: Up arrow space. So arrow space is screwed up.
+Philip C: Which also for time for Temecula precision, we say, hey, you guys are gonna use the jump box or the on cave architecture. You have these new workstations. How do we basically do you guys set up PreVeil or do we and it sounds like we do we just on the first computer or whatever. Go to that look like a loop back address, Colin, four, zero, 0 3
+Philip C: Is I mean, am I missing something that I don't know where
+Mat Dalton: No, I'm sorry, I was trying to read. I'm sorry. The management side of this company of my company is kicking the out of me. I can't keep track. Let's try this again. I'm sorry. What did you just say?
+Philip C: Do we know how to set up PreVeil? do because member Temecula precision, it's what's
+Mat Dalton: She just sent us the correct steps, the onboarding guide.
+Philip C: Okay. Gotcha. Because
+Robin Barrow: I'll send it in the zoom chat too. Yeah. Okay. We
+Mat Dalton: Do it. We just didn't I started out doing it wrong period. End of story. I need to get the enclave going first. He's blown my phone up about getting a score for one of the for coherent. And I'm just feeling like, I'm getting behind. I'm feeling. You usually do Philip like getting like, overwhelmed with this. Okay. I
+Robin Barrow: Go ahead. Sorry. Matt, just to answer Philips, question. Those you do need to install PreVeil for time. But Sean Craig has an express account that's out there right now. I don't know when he created it or what happened. That most likely needs to be deleted before he you can go ahead what his setup product says. So that might have been where you ran into issues. I do see he has an express.
+Mat Dalton: Is can you delete it for us?
+Robin Barrow: I just need permission. So if you could just submit a support ticket, I can let the team know that it needs to be deleted. Okay.
+Mat Dalton: Yeah. Bill, you have us. Can you do that real quick? It's what is it support at PreVeil.com or something? Yeah.
+Robin Barrow: I thought I linked it, but apparently I didn't hear. I'll send that over.
+Robin Barrow: It's PreVeil.com sport and there's a chat box, but there's okay.
+Mat Dalton: I'm sorry, Robin. I just we just were one of our main clients refuses to meet with us and I'm like, you're spending 8 grand a month, if you do not talk to me. And so finally in caps, I'm like, we must meet asap. You are spending money, you don't need to. I mean, it's the fourth time I've asked. So now when I tell them, they owe 16 thousand, they're gonna go well, why didn't you tell us?
+Robin Barrow: I have that.
+Mat Dalton: Right. You're like what the?
+Robin Barrow: You have customers that spend money by a product and then run away afterwards. So and I have to chase and that's literally my job chasing them down and saying, hey, remember me. Um
+Robin Barrow: Okay. Yeah. That's I would say. And like I mentioned a lot of our partners that we work with or like, MS PS that we work with. They sometimes just download PreVeil on their device, help them get set up, send over the user access to the admins and then back out. Um
+Mat Dalton: That's what we did the first.
+Robin Barrow: Time. Okay.
+Mat Dalton: Yeah.
+Robin Barrow: And and that's okay. That's the majority of set up. But any other questions or anything else I can help with?
+Robin Barrow: No. I
+Mat Dalton: Don't think but real quick just while you're on the phone, I just want to make sure so Philip, we can't really get PreVeil going until we get an on Clive and a firewall to VPN into that on lave. So PreVeil is gonna be further back on the to do list than I thought it was. Does that sound right to
+Philip C: You for that sounds accurate. Yeah. Okay.
+Mat Dalton: All right. We're getting our heads out of our app or I am. Yeah, I mean, one thing.
+Philip C: One thing we can do is we can at least get them cloud ready. So if let's just say it's my machine, I download PreVeil app. I create the accounts and things that authorized users for word cloud. You can at least access it via the cloud because you can still access your PreVeil account without the or no. Do you have to download a certificate to whatever?
+Robin Barrow: Workstation, I was. Yeah, you do um
+Philip C: Yeah. Then what you said holds true, man. Yeah, we need to get the on cave workstations. Okay. Deployed.
+Mat Dalton: Do you
+Mat Dalton: Keep we keep talking over each other. Do you have any? It's probably me I never shut up. Do you have another map that I'm looking for any kind of help? I can get. I mean, I will pay another MSP to show us how they are doing nurse in Texas or whatever. Is there anybody that that might be willing to throw us a bone on how they're doing it?
+Robin Barrow: I wouldn't say I can reach out to our partner network, for sure. But I would say just get on with the support team that have you met with them at all yet?
+Mat Dalton: A little bit, but I didn't think that they would help with the cms part. I thought they would just help with getting us PreVeil. Oh
+Robin Barrow: Oh, with like, oh, okay. I thought you meant for the actual PreVeil set up. I'm like, no, that's what they're there for. That's where the $500 comes in. But yeah, that mark I was mentioning for the actual CS side. I would reach out to and I'll send it in a follow up. Jamie who's our part of our partners, compliance team. I don't know if you met with him before.
+Mat Dalton: No.
+Robin Barrow: He heads up that team. I can here let me just I'll include his email in the chat. Okay. If you have access to that, he'll if he doesn't if he's not able to help you, he knows someone that can help you. But yes, he's been with PreVeil for a long time and he created our partner network.
+Mat Dalton: Okay. That might be somebody helpful for me because I've been struggling with the partner side of it. I just expected more of a partnership and it's and maybe I'm looking at wrong. It's I'm not saying, hey, this is I may be meeting with him later today. I'm meeting with Marco.
+Mat Dalton: I know it's just Marco, but
+Robin Barrow: Yeah. I'll reach. So what's yeah, what's going on with Marco? Is it just like you're trying to get a deal on the
+Mat Dalton: Well, I'm not trying to get a deal. I mean, well, I guess I am, but at the same time, we just don't want we want our clients to work with us. We want to have a contact and we're not
+Mat Dalton: Yeah, I don't know. We talked to it could've been Jamie before I don't know, we talked to somebody and he's like, oh, no, you don't have to worry about the $500 for everything and I was like, okay. Cool. And then I talked to Marco. He's like, oh, yeah, I still got to worry about that. And I'm like
+Robin Barrow: Not talking the same talk. That's probably met with Sam.
+Mat Dalton: I have met with the Sam, I think, yeah.
+Robin Barrow: Let me I'll send this back to Marco and I will let him know. So then when he talks to you today, he's prepared. We do have some the intention with the setup fee is obviously because of the technical onboarding. We offer, right? It's a support on the actual setup of the organization. Yeah, let me see what I can I'll chat with Marco and see if we can. Maybe that's something you can remove it. But are you all going to intend to still do the training or you had mentioned that you want to do the training eventually be? Yeah. Okay.
+Mat Dalton: Yeah. We just want to move it to where
+Mat Dalton: We're like we want to be a valid value added reseller, so to speak. So yeah, it's the you know, it's the same thing with office 360 five, we don't sell office 365 and then they're like, oh, I can't get my email to work. I'm like, well, you better call Microsoft? Yeah. No.
+Robin Barrow: They would never pick up the phone. So right. Yes.
+Mat Dalton: The goal, you know.
+Robin Barrow: Okay. No. And I'll I'm sure you said this to Marco, but I'll say it again. So
+Mat Dalton: Okay.
+Robin Barrow: Here from both sides.
+Mat Dalton: Yes. Sam was the one I talked to. He was helpful. So I'll get in touch with those guys as well. And I like I said, it could just be me getting frustrated with situation trying to get things the way I want them to work. That isn't the way I just thought we would have a partner portal. We log in and see all of our clients who paid what who owes what. And we did the other we did the I guess the reseller thing, which makes more money, but then I have to bill my client and if he doesn't pay me, then I get screwed. I'd rather you guys get screwed than me, you know. Yeah.
+Robin Barrow: I mean, I work with a lot of resellers, a lot of them wait to get paid before. We pay them to. So they like they'll they'll hold renewals until the last minute. Yeah. So so you're okay to do that, right? And I get it. I understand you don't want to be with the bill if the customer ran off?
+Mat Dalton: Yeah. Do you know what who's the bill from PreVeil? Do you know who sends it? I got to try to find it so I can get that paid today that
+Robin Barrow: It's come from bill.com.
+Mat Dalton: Oh, okay. That's funny. Yes. We use that as well. All right. Hmm.
+Robin Barrow: All right. Please let me know if you have any other questions. Feel free to call me my cell phones and my signature. And I'm always happy to meet. But yeah, let me know if you need anything else.
+Mat Dalton: All right. You good on it. I think we're good then. Yeah, I just found that since you said it was from bill.com. Okay.
+Robin Barrow: Perfect. All right.
+Mat Dalton: Perfect. I appreciate your help. We'll go from there.
+Robin Barrow: All right. You feeling good to help all set.
+Philip C: Yeah. Yeah, yeah. I just I'm trying to email technical support, but for me it's not maybe oh, there it goes. Wait. Oh, I can't do multiple addresses. So I'll just do my address. That's why it pop up.
+Robin Barrow: Does it create I'm
+Philip C: I'm good. Yeah, we just kind of got to spend some time setting up these uncles.
+Robin Barrow: Okay. Great.
+Robin Barrow: I just if it looks grayed out, just click it.
+Philip C: Got it. Yeah. That's what it was grayed out, but I still clicked it. Okay.
+Robin Barrow: I wanna ask the support team right now because it drives me insane, if it's just
+Philip C: Something you know? Yeah, yeah. Or something.
+Robin Barrow: All right. Well, thank you both.
+Robin Barrow: No, of course. And feel free to reach out. If anything else comes up.
+Mat Dalton: Awesome. Thank you so much. You are the best. We really appreciate your help of.
+Robin Barrow: Course. No worries. That's what I'm here for. All right. Bye. Bye.
+Mat Dalton: Thanks. Bye. Bye.

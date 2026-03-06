@@ -1,0 +1,169 @@
+Account: Spydar Sensors
+Call Date: 2026-01-20
+Duration: 00:28:02
+Participants: Robin Barrow, Liza Pierce
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi. Good morning, Robin. How are you? Good morning. I'm doing well. Thank you. Are we expecting anybody hello else to join today?
+Speaker 1: I'm going it was Omar. Let me check in with him and see he should be on soon. Okay. Let me here. Let me let him know.
+Robin Barrow: No worries.
+Speaker 1: So Robin, did you get the note when I asked for this meeting to get access to the compliance server. So Omar can start
+Robin Barrow: Let me see.
+Robin Barrow: Um
+Robin Barrow: I did not receive an email. Did you said?
+Speaker 1: Yeah. It was with the calendar calendar. I guess when you said, do you have any questions?
+Robin Barrow: Things like. Okay. Yes, it says please need access compliance system. Yes. I see that now. Yeah. I can provide that. I can add Omar and yourself to it right now. And I can go over it today as well.
+Speaker 1: Okay. Awesome. Thank you. Of course. Let me just I'm sorry. Good morning. Omar. Will you be able to join me with PreVeil? Okay. I just sent him a text. Let's give them a couple of minutes if that's okay Robin.
+Robin Barrow: Yeah. So
+Robin Barrow: Typically for go ahead, sorry, I do.
+Speaker 1: Have an admin question. Omar is our guru when it comes to the MS. I'm not as well versed as he is. I have a question. My question is this is support. This comes with the
+Robin Barrow: Content. This call actually is just your welcome call. So we're gonna go over what you all signed up for talk about next steps to get started and also cover the compliance accelerator. The following call will be with the support team. And that will be a full on admin training.
+Speaker 1: Okay. This is just a welcome back. A welcome.
+Speaker 1: Intro. Okay. Yeah. So maybe Omar doesn't need to be a part of this. But let me just let him know. This is just an intro. This is just the intro. But then you're saying next week or maybe sooner
+Robin Barrow: Yeah.
+Robin Barrow: Yeah. It'd be something you all scheduled. We provided a link in the welcome email that just states. You can schedule a welcome call with me. I'm your customer success manager. I'll be your main point of contact here at PreVeil. And then the following steps were you just have to download PreVeil on one device to schedule the technical onboarding.
+Speaker 1: Okay. Let me make sure I understand that.
+Robin Barrow: And we can go over that as well. Yeah. What's what's Omar 's last name?
+Speaker 1: Mary. Okay. Yeah.
+Robin Barrow: Would you mind spelling that just because I need to put in the accelerator?
+Speaker 1: Yeah, yeah. M A G
+Speaker 1: HR
+Speaker 1: ABI
+Robin Barrow: L Robby. Okay. Just how it's
+Robin Barrow: Pronounced. Okay.
+Speaker 1: Okay. Yeah, if I let me get my calendar up so that I know what I'm
+Speaker 1: Not doing
+Speaker 1: Thank you, Robin. I'm sorry. We're new to this. We're we're we're new to this is a requirement we need to have to go into the next phase of our project of our
+Robin Barrow: No, that's fine. Yeah. So just to confirm and I did add Omar to the compliance accelerator, so he will receive an invite for that. But just to go over what you all signed up for, I see that you still have 4 admins. I mean, excuse me, 4 standard users, one of those being an admin. You also purchase the compliance accelerator as well as the GRC platform. Does that all sound accurate?
+Speaker 1: B R C platform. Let me look at my notes real quick. I'm not sure what that is. I don't I mean, that terminology is something I'm not aware of. Let me look at the contract real quick, Robin. Sure. What does DC stand for?
+Robin Barrow: G R C P governance risk compliance.
+Speaker 1: Governance governance.
+Robin Barrow: Risk and compliance tool.
+Speaker 1: And compliance, thank you.
+Robin Barrow: No, of course. Yeah, that's it was it's part of a bundle that you purchased with the compliance accelerator. So a lot of our customers when they sign up for us, they're working towards cms level two, which sounds like you all are working towards. And then the GRC is a great way to track your progress to level 2. So a lot of our customers will purchase that as a bundle offering.
+Speaker 1: Yeah, that I think that's what we signed up for.
+Robin Barrow: Okay. Perfect.
+Robin Barrow: Yeah, go ahead. Sorry.
+Speaker 1: So it says PreVeil a compliance accelerator, yeah.
+Robin Barrow: Okay. I will I'm going to add Omar and yourself to the C tool. So you'll overall you'll have 3 logins with peril. You'll have the accelerate. You'll have the actual PreVeil e mail and drive platform. You'll have the accelerator and then you'll also have the GRC okay. You'll you'll see an invite for 2 of those the um
+Robin Barrow: The
+Robin Barrow: Excuse me. The actual rail platform. You have to go and download and I can show you where you can find the instructions on that. And again, I don't know if Omar will be owning this project or you will. Um
+Speaker 1: Mostly Omar because she is trained in the field. I'm basically I'm the person to make sure it goes it flows smoothly. So yeah.
+Robin Barrow: Okay. Yeah, I guess if you don't mind sharing why do you all need PreVeil?
+Speaker 1: Why in order to meet the government's cms to compliance. Okay. For was it C UI controlled on classified information?
+Robin Barrow: Okay. Yeah, though. That makes um
+Robin Barrow: Okay. Sorry. I was just trying to add. So
+Speaker 1: That's what we're dealing with and the government as you probably know, you have a lot of clients they are now wanting us to protect the data that goes between the 2 organizations and what gets put out there in the public.
+Robin Barrow: No. Yeah, that does make that makes plenty sense. So that's the majority of reasons why our customers sign up for us. They are working towards C level 2 they need a secure way to manage and store UI and that's where the platform comes in, but also they want the compliance side of PreVeil. So they want access to our templates and the accelerator. Okay. What I can show you
+Robin Barrow: Let me just make sure.
+Robin Barrow: I can pull up the accelerator just to kind of dive into what that is. Yeah. The compliance accelerator, we call it our 10 step guide to getting compliant. So what you're going to see here are 10 10 courses with a couple of additional courses. It's really gonna take you really green. What is CC why is it important all the way through how you scroll 1 10 alongside the accelerator, you get access to our compliance team. So you get 6 30 minute sessions with them. You can book time with them, right? Under additional compliance resources. Clicking this link here. You also get access to their email. So if you have any one off questions that don't require a long answer, you can email them right through here as well.
+Speaker 1: Okay. Do we get 6 30 minute support from you guys?
+Robin Barrow: Just for the compliance side, correct? The actual support the technical side of the rail unlimited they're available to you for anything as far as the email and drive platform.
+Speaker 1: Thank you, Robin.
+Robin Barrow: Of course. And I'll add you to this as well Liza. For the
+Robin Barrow: Actual documentation side. So if you're like, just give me the meat of the product, this is where you're gonna find it's under step 6. And you can scroll down to the Ami docs package. So this is where you're going to find all our templates the Acme doc package. This is this has been fully assessed by C 3 Pao. We created this course because we a lot of our customers are like, thank you. I need understanding of where to start where to begin as far as my documentation goes. And that's where this package comes in. So you'll see here, the most important piece of document is your SP that is going to be the one that. It's gonna take the longest, but also it's where you're gonna base all your other documents off of. So this is A S P template. Our SP is extremely detailed. It is 185 pages that is crazy. Not every company is gonna have SSP that's 185 pages, but again, we just wanted to make it as clear as possible. With the correct language, how do you why I want this open? Give me one second. How do you score?
+Robin Barrow: A 1 10.
+Speaker 1: 1 10. Hey, Robin, what does forgive me if I miss something here?
+Robin Barrow: But yeah. What
+Speaker 1: It does act me stand for
+Robin Barrow: Oh, Acme is just a fake name of a company that we created, if you watch Loni tunes. That's the name of the company that always pops up. It's a gotcha. So yeah, it's yeah, nothing of importance as far as CC goes. It's just the name we use for our company. Got it. Yeah, as you can see, this is the SSP template. You just triple click the link document links inside and you can open up the corresponding documents. This is 185 pages, as I mentioned. You'll see it right here, but it's fully completed. So this is a great example, like I mentioned of what a 1 10 company looks like. Wow. Yeah. Um
+Robin Barrow: Scroll here. So you'll see our company network diagram for Acme. You'll see the PreVeil UI on cleave, which is going to remain the same pretty much if you're using the on cleave approach. And you're also gonna see the UI flow, which will remain the same.
+Robin Barrow: So it's a beast of a document, but that's why you have not only this the compliance side to assist you and understand the documents and where to start. They won't complete the documents for you, but they're they'll be the guiding light and then yeah, and we always suggest go through the accelerator. The content is great and super helpful, especially if you're new to sense. Yes. Yes. Okay. Yeah, that's pretty much it. As far as the accelerator goes. I'm going to go ahead and add you to it. You can you'll see an invite come through and then I don't have unfortunately, a demo environment of the C. But there is a course in the accelerator because they're meant to be purchased as a bundle. So you can go through that course and you'll get a good understanding of the GRC is far more simpler. It's I don't know if I just that's a work, but it's a it's just like a checklist for the cms process.
+Speaker 1: Okay. I that's a lot of information and it is and could you walk me through like right now, we're for example, we're seeking level 2 a compliance, right? Um
+Speaker 1: Okay. We can you walk me through a successful cms compliance please? For small business? So for example, we go through this, we walk through all the documents, we try to achieve the 1 10 mark and then what happens?
+Robin Barrow: So once you complete your documentation, you have an SP in place. You have an understanding of where you all stand as far as compliance, especially when you use the GRC to help submit your score. You would or excuse me help generate your score. You would then reach out to A C 3 Pao when you're ready a certified third party assessor. Okay. And
+Speaker 1: Okay. And what did you call that?
+Robin Barrow: A C 3 P A O
+Speaker 1: C 3 P A O
+Speaker 1: Sort of bi or third party.
+Robin Barrow: Third party assessor officer.
+Speaker 1: Yeah. Gotcha. Third party assessor. Okay. And I thought my my contracts guy with PreVeil so that you guys offer that.
+Robin Barrow: We have partners we work with that we can help recommend. So yeah. Yeah. So once you're ready, just reach out to us and we have them on our partner page. It would in PreVeil. But if you would like to just be directly aligned and someone you can reach out to our partners, compliance team and I can show you. So this I'm gonna drop a link in the zoom chat. This is where our partners pages and I can show you to on the screen. Okay. It's right on our website, of course. Right on our website. If you go to type assessor C 3 Pao.
+Robin Barrow: And you can go by region. So where you will
+Robin Barrow: Find one within the area.
+Robin Barrow: Okay.
+Robin Barrow: Again, if you would rather be directly aligned with someone, you can reach out to our partners, compliance team. It's just partners compliance at PreVeil.com.
+Speaker 1: Okay. So so so once we finish our, what did you call it? What's that major step?
+Robin Barrow: What are the accelerator?
+Robin Barrow: Yeah. Once you work through the documentation, your system security plan feels up to snuff, you have your standard operating procedures in place. This is way far down the line. Then I would say, okay, let's reach out to A C 3 Pao. I always recommend if you have A C 3 PO that offers a mock assessment before the actual assessment. That's good too, because then you can do a practice.
+Speaker 1: Yeah. So so so for example, what you're saying is do a mock assessment first before you dive into these documents or dive into your compliance.
+Robin Barrow: No. I would dive into the compliance first then schedule the mock assessment prepare for the mock assessment as if you're going through the full on DC level 2 assessment.
+Robin Barrow: As if you were going okay. Got it. Yeah. It's just more of a practice. I don't know if you remember. I think we had like a pre sat test or the
+Robin Barrow: The us or whatever at a while it's been a while. But that's what I that's the example I use. It's like the pre test before the actual test.
+Speaker 1: Gotcha.
+Speaker 1: I like okay. All right. Let me make sure I understand that. Okay. And then once the assessor gives us the green light yeah. Our company's passed, then we get what
+Robin Barrow: Then you are good. You're, you don't have to renew for another 3 years. You have you meet the certification. You have to pass a score of 88 and above.
+Robin Barrow: Yeah. You then have time to reach that 1 10. I think it's 60 days with plan of actions in place.
+Speaker 1: Then you have once you score 80 I mean, okay, so so we go we dive through the documents once we finish that and we feel we're good there on the internal side. Then we reach out to see, we can get a third party assessor and then we'll schedule mock mock up assessment before we go to the actual assessment and they'll give us a certification.
+Robin Barrow: Yes. Yeah. Okay. Okay. The actual assessment at the certification.
+Speaker 1: Okay. And then we have 60 days to implement.
+Robin Barrow: If you missed any points.
+Speaker 1: Oh, okay. If I miss points. Okay. Got it. So the
+Robin Barrow: Goal with the mock assessment and the following assessment is to just score 1 10 and be done.
+Speaker 1: Got it. You said you really do need to score one ten?
+Robin Barrow: I mean again there is, but if you want to be competitive in regards to like bids on contract, yeah, one would be okay, the other we say this takes around 4 to 6 months to complete. Yeah.
+Speaker 1: Are you kidding me? This
+Robin Barrow: Yeah. Borders wait a month. To complete the full documentation to get up and ready get ready for an assessment and s 3 POS are booking out to the end of Q2 anyways. So they're hard to come by
+Speaker 1: Oh, my. So so like a small business ours, it will take 46 months to complete the full documentation.
+Robin Barrow: And to get everything in place your end points will take time. That's a whole other piece. We always say we share 102 of the controls that's you and a collaboration of the documentation as well as us in the platform. We provide, but the remaining at controls are all around your endpoints. So is your network secure? Do you have things like bit locker and defender on your computer again? The accelerator has all courses on this. It's gonna explain it all, but yeah, it definitely takes time for a small business, especially people that been in business for a while and need to get their security infrastructure.
+Speaker 1: Wow. Okay. And then now you just told me your C 3 Pao are behind how long so
+Robin Barrow: They're not. They're behind. The sense is that there's only I think there's only 75 assessors out there and think of how many defense contractors there are out there. So everyone's rushing to get assessed right now. So they're booking out. They're just yeah. There. There's a queue right now.
+Speaker 1: So in in other words even if we do get all of our you know, we feel we're gonna score we're ready to get an a sensor in there. We have to deal with the backlog meaning we got to get into the queue.
+Robin Barrow: Yes. Yeah. I always say if you got a good plan in place as far as how you're gonna complete your documentation to start talking to C 3 Pao to get in their queue.
+Speaker 1: Okay. And how long is their queue? How far back is their queue? Uh
+Robin Barrow: The end of Q2, so
+Robin Barrow: Like June July.
+Speaker 1: End of Q2 end of June July. Wow.
+Speaker 1: Wow. Okay. Yeah. All right. That's a big deal. Because
+Robin Barrow: Yeah. Oh, go ahead. Sorry.
+Speaker 1: No. Because we're supposed to have. We're locking we're supposed to lock a contract in by the end of February.
+Robin Barrow: Are they saying you need to be fully assessed or self assessed?
+Speaker 1: The question is fully versus self. That is a good question. I think I would the pack be the right person to ask that question?
+Robin Barrow: The whoever yeah, the contract officer. Whoever presented the contract to you all, maybe 2 primes.
+Speaker 1: Okay. I think you've answered my question on the fully. It takes 46 months if you have to be fully.
+Robin Barrow: So I would say to get reach level two, 4 to 6 months in general. It's just a beast of an undertaking. It's mainly because of the documentation. But once you get in the groove of the documentation, you'll have an understanding of the language starts to get repetitive, but it's just it's a documentation identifying your scope of individuals who are going to be doing the UI work, whether it's your whole company or a part of the company. And who's gonna work on it, right? You have another job. I don't know if it's just gonna be you and Omar. And this is your this is what you're doing until it's over. It's a lot. It's a decent amount of work.
+Speaker 1: Okay. If we were self asset, if we if the other version the other line is being self assess. How long will that take?
+Robin Barrow: With the documentation and everything in place, I would still say 3 to 4 months.
+Speaker 1: 3 to 4. Okay. Yeah. Okay. And you okay. You could
+Robin Barrow: Do it by February, but it would be a sprint
+Speaker 1: Yeah. Yeah, that would be a sprint and I see why Omar was concerned. Now, I see his concern and it's blinking red in my face right now. Um
+Robin Barrow: The other piece too. And I'll always mention this there are partners out there that help with this that will do the documentation for you. Give you a gap analysis to see where you all stand today. They're just expensive.
+Speaker 1: I know. And that's where that's why we work. We did not want to go that route as a small business Robin. We're not like a prime, you know. We don't have a lot of discretionary revenue to say, yeah, well, we can hire someone like that. Okay. Um
+Robin Barrow: If you don't mind me asking, is this an existing contract or a new one?
+Speaker 1: This is an existing follow on contract. Okay.
+Robin Barrow: Okay. It could be in a self assessment with the goal to get fully assessed. That's what I'm thinking. Yeah, just keep that in mind a self assessment. You can submit your SPs score anytime obviously, you want to make sure you have everything in in line in case they turn around and ask you for your evidence. But a self assessment is an easier process in a sense that you don't have to spend them on a ton of money on A C 3 Pao and your and you can go at your own pace. Yeah, yeah. That timeline too.
+Speaker 1: Right. So on average and I know you know, you're gonna you want me. We you want us to look at the documents on average? What would the cost be for a third party assessor?
+Robin Barrow: Oh, um
+Speaker 1: That you guys have worked with that PreVeil because I know Eric told me that you guys work with these third party Sensors and they don't they're not like the other where the others out there that are very expensive. On average, do you
+Robin Barrow: Have I don't have a number. But let me ask I can ask a partners compliance team and see what range they would. They would say just based on our partners, I know out there in the world, it's like 30 to 40 grand. I don't think that, yes. Yes, yes. Yeah, yeah. Let me let me ask and see what we can offer.
+Speaker 1: Okay. And then so one of my last question here Robin is what's the next step for us now? Now that this is the intro call, what's the next step?
+Robin Barrow: Next step would be to get PreVeil downloaded on the devices at least 2 devices for one device for the admins. I'll send over the instructions in the next steps email as well. And then you would book time with our support team. So you would get a full on training with them. Downloading, PreVeil, shouldn't and creating. The org shouldn't take longer than 20 minutes. It's very simple. But yeah, you that would be the immediate next step is just download PreVeil also down. Yeah. And then I was gonna say also just log into the accelerated because you will see the invite come through, it does expire, so just make sure you just click it.
+Speaker 1: That's it. Log into what was that log in to the
+Robin Barrow: Compliance accelerator.
+Speaker 1: Accelerator. Okay. Got it. Did did something come through my email or what am I supposed to be?
+Robin Barrow: It should have come through your email under it will say PreVeil dot talent lms.com.
+Speaker 1: I don't see it for some reason. Maybe it's in my junk.
+Robin Barrow: Oh, it might take a bit. Sometimes it takes. Oh
+Speaker 1: Okay. Okay. Okay. And then my very last question is, can I get a direct out? it looks like this is I'd like for Omar to listen in on this call.
+Robin Barrow: Yeah. Yeah. I can send over the recording.
+Speaker 1: Oh.
+Robin Barrow: Yes. Okay. Awesome. I'll send over like because it's recorded and I'll also send over the transcript as well, if he doesn't want to listen to the full recording, we've been chatting for 30 minutes. You can get the full recap.
+Speaker 1: Okay. Yes, that would be very, very helpful. Okay. Well, I think this is very wow. You've opened my eyes. Thank you. So
+Robin Barrow: Much. No, of course. And what I can do to I'll schedule another check in for us in 90 days just to make sure we're progressing, we're feeling good. You have the resources you need and then, I'll like I said, I'm your main point of contact here and I'll make sure or feed on the emails I sent over as well.
+Speaker 1: Okay. Okay. And we don't you know, once we get compliant, we don't have to do this for another 3 years.
+Robin Barrow: For another 3 years. The idea is that obviously you keep everything in place. You're maintaining your security infrastructure, you're staying compliant. But yes, that once you get a full assessed and you score that 1 10 with a third party assessor, you don't need to do it for another 3 years.
+Speaker 1: Okay. Okay. All right. Okay. And if I have any questions, do I go to my support team?
+Robin Barrow: You. If you I always say if you have any questions, whether it be compliance related, if it's compliance related go to the compliance team, it's support related to the support team. But if you don't know who to go to, just come to me and I'll point you in the right direction.
+Speaker 1: Okay. Okay. And we'll check in in 90 days.
+Robin Barrow: Yes. Yeah.
+Speaker 1: Check in again. Okay. That's so far out.
+Robin Barrow: I can let me schedule it for march then. We'll just push it up a little a month further.
+Speaker 1: Okay. So march end of March or something like that. Yeah.
+Robin Barrow: Yeah, we can do that.
+Speaker 1: End of March. Got it. Okay. Robin, thank you so much of
+Robin Barrow: Course, you're so welcome. Enjoy the rest of your day and I'll send a follow up email right now.
+Speaker 1: Okay. All right. Take care.
+Robin Barrow: Thank you again. Thank you. Have a great day.
+Speaker 1: Bye. Bye.

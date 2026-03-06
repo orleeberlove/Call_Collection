@@ -1,0 +1,71 @@
+Account: Source One Business Services
+Call Date: 2026-02-11
+Duration: 00:11:43
+Participants: Robin Barrow, Eric Alt, Mark Savelloni
+
+======================================================================
+
+Eric Alt: Hey, Eric.
+Eric Alt: Robin, how are you doing?
+Robin Barrow: I'm doing well, thank you. How are you doing?
+Eric Alt: Oh, not too bad.
+Robin Barrow: Having a good what's today, Wednesday?
+Eric Alt: Yeah. Alrighty, it's Wednesday.
+Robin Barrow: I know we kind of flied I kinda like that, not bad about that.
+Eric Alt: But they're talking about snow in the in in the mid Atlantic and northeast end of the weekend.
+Robin Barrow: Again, potentially.
+Eric Alt: Right.
+Robin Barrow: Let me I didn't even look I'm so sick of snow. I never like last year we got none and now, I'm so over it.
+Eric Alt: We're still digging out 2 weeks, 3 weeks later after the demo k day storm.
+Robin Barrow: Oh, geez. How much snow did you guys get there?
+Eric Alt: We probably had about 7 or 8 inches of snow and another 3 inches of sleet and then a blaze of freezing rain.
+Robin Barrow: Oh, geez. Yeah, you're just like it not only did it snow and then it just like. Ed it
+Robin Barrow: Yeah. And it's been cold, I'm sure. Correct. Yeah. Great. Yeah. All right. We got more than that. Let me see if I can pick you up so you can see now. I can't see I'm not gonna try to do that. But we got like 12 inches, but we don't we didn't get the ice. So we just got actually now we got 24 inches, what I'm talking about, so. Nice. Yeah. But it like it was light and fluffy fun snow. So it wasn't brutal and then we it did freeze, but it wasn't like, I don't know. It was a thin layer of ice, like it crunched when you stepped in. So, right?
+Eric Alt: Yeah. I mean, I waited to try and shovel till the next day and it was just it was painful. I mean, we pulled out the snow, blower and was able to do what we could. But I mean, it's just been it's been challenging to move it around, you know? Yeah. Because of the weight and the ice on that layer of ice on top so it's just it's been crazy. So and it's been cold. So it's not I mean, today's in the forties. So we've had a few days here in the forties, but then by the weekend, it gets really cold again. So the re freezes and then we've got we got water mains breaking here and there and it's yeah, it's been fun, no.
+Robin Barrow: Sorry.
+Eric Alt: Where are you located?
+Robin Barrow: I'm in Quincy Massachusetts.
+Eric Alt: Oh, okay. Okay. Was up there. Yeah, yeah.
+Robin Barrow: So we're used to this stuff. We just last year was we had like a really bad late January, early February of really cold and then it was fine, right? we're starting to warm up now. But last year, like our boiler said, I'm all done. We had to get a last year, how cold it was. But this year has been great and it's our new boiler is fantastic. But yeah, like it's been cold. It's been miserable, but
+Robin Barrow: I will take the light fluffy snow over I
+Eric Alt: I agree. And it was so and that setup was very unusual because we were already I mean, we were cold. It wasn't like we were hovering around freezing it was low low twenties high teens most of that weekend. So when that storm came, it was just because of the air that pulled off off the Atlantic. Yeah, the warmer air introduced into the into that system, just cause the sleet and the freezing rain. And it just I would prefer to have 24 inches of just snow. We would have been we've been a lot easier to clear out. Yeah.
+Robin Barrow: We have the like we had the call there's a long name for it. And I'm not even pretend pretend to know what it is, but there we had like the ocean effect similar to the lake effect. So I think that's why we got so much snow, but usually it causes rain, so I don't know.
+Eric Alt: Right.
+Robin Barrow: Yeah.
+Eric Alt: Yeah. And then what was it last weekend or weekend before the system? That came up the coast? Fortunately, I didn't I mean, I wish it was I mean, I do like the snow, so. But I didn't didn't really impact us. It mainly impacted North Carolina and southern Virginia.
+Robin Barrow: Yeah. So
+Eric Alt: They had a lot of snow.
+Robin Barrow: They did. I think we got another 6 inches with that. We had a surprise storm on Saturday. We got another 6 to 8 inches.
+Eric Alt: Oh, wow.
+Robin Barrow: We didn't know that was that one was happening. I my husband and I we went to go food shopping for the Super Bowl, which was sad anyways. And uh
+Eric Alt: I'm sorry for you guys.
+Robin Barrow: I mean, we were just happy to be there again. So it was
+Eric Alt: Fine. No, that's great. And Drake may just looked a little I mean, he's his first time 3 being there. So yeah. Yeah.
+Robin Barrow: Yeah, that he was that's what I mean, it was a little bit of a learning curve. He was scared. That I kept saying he looks so scared the whole time. But yeah. No, it was but when we went to go grocery shopping, we were like the roads are terrible. We can't even. Yeah, because it just hit the hit you weren't paying attention. But yeah.
+Eric Alt: Anyhow, but you guys get used to driving in that just take it easy. I mean, you get people around here in in the Maryland area that just want to ride. Oh, I've got 4 wheel drive all wheel drive. I can go faster and it's like, no, no. It doesn't matter.
+Robin Barrow: Right. We saw my dad was driving from you. Don't you probably don't know these towns, but it's south shore of Massachusetts. It is cohasset to hang them. It's town over and he said he saw 4 accidents. And those are people that are seasoned in New England. Grew up probably in sell shore driving the stuff, but this it just came out of nowhere. So people were just like there can't be that much ice and sleet on the ground yet. And they just spun out went into the woods and then One he said crash into another car. I was like, crazy. I'm assuming Rugo Stone. They're not joining now. Okay. Yeah.
+Eric Alt: Basically we're we haven't really made much progress. I don't think they've really had time to focus. So we haven't really reconvene and we got PreVeil deployed. Okay. To the 3 users that they want it deployed to. I don't know if they're really saving any data to it at the moment. Okay. And then as far as the cms and the documentation and all that just haven't had a chance to get there yet.
+Robin Barrow: Okay. What can I do to help you out? I can send over like the instructions again. I can do all that fun stuff. I know Robert from our support team has been bugging you all to get on a meeting. So yeah. What can I do?
+Eric Alt: I just need to get them to refocus. There's no, I don't think there's anything really that you can do at the moment. Just I'll get some time with them. It probably won't be this month. Maybe next month. I can get them to refocus and we could kind of figure out next steps from there. Sure. I did have a question about the available template documentation. Yeah. There's a the network diagram that's included in all that. Is it's a powerpoint. I wasn't sure if you have if there's a video diagram that would be available that I could use and doctor to my client's needs.
+Robin Barrow: Yeah. Let me I can ask for sure. Okay. See if we have a template. Perfect and see if we can get it. Yeah. I'll just I'll in the compliance team on that and see if they can send it on over.
+Eric Alt: Okay. Perfect. Yeah, I would think so that'd be great because you just can't really do much with the powerpoint and I both Rugo Stone and a tech industries who I'm trying to get get them wrapped up with their documentation. I've been sitting on this network diagram. I mean, what you guys provide is great, except a tech still has an on premise server that they run their financial programs from. So I need to incorporate that into the diagram. So yeah, it'll just be easier to do it. I have video. So it'll be great to do it that way versus having to go and re recreate the whole thing.
+Robin Barrow: Yeah. No, absolutely. I'll ask them. Happy to do that. You use. Um
+Robin Barrow: This might be do you like AI, do you use a
+Eric Alt: A little bit. I haven't really delved into it too much. As a firm Source One we're mainly using copilot, but yeah, we have a couple couple of people that are using chat t as well.
+Robin Barrow: Yeah. I was in in regards to presentation and diagrams and generating that I use game. It's really good at that stuff. Just just for what like the documentation and all that fun stuff. I just been helpful. Especially if I like, new customer presentations, I'll put it in game and I think that's what it's called. It's gonna drive me crazy.
+Robin Barrow: Yes. Yeah. Game, you, mainly does powerpoint, but
+Robin Barrow: Yeah. I don't know if that would be very helpful to you.
+Robin Barrow: But either way, it's been helpful, maybe you can
+Eric Alt: Keep that in mind.
+Robin Barrow: Yeah. And then yeah. I'll send that and maybe I'll just reschedule this check in out for another 90 days. Do you think that would be helpful just to track?
+Eric Alt: Yeah, 60 days to 60 that'll give us early April.
+Robin Barrow: Okay. I can do that. And yeah. We really that's all I wanted from this call just to get an understanding where they stand, how can I help? do any of them either customers? Do they have a any assessments I'm assuming obviously not
+Eric Alt: Stone. I've told I've encouraged a tech to try and get that scheduled. Okay. They haven't yet that I know of. We're trying to see. I mean, obviously it all comes down to the availability of the assessors, too. But I told them that would we should get that ball rolling. They do a lot with the dot so they have their we have to update their score in the system, but they have all the they've had a score in place and we update the score last year. So we got to do it again and just get this documentation wrapped up. So
+Robin Barrow: And Rugo they have access to the GRC have they use that and probably not no? No. Okay. All right. You let me know when they're ready for that. I don't know. Apex has it, but
+Eric Alt: The tech
+Robin Barrow: They have it, sorry.
+Eric Alt: It's okay. I had them they did sign up for that. We haven't done a whole lot with it. I've been mainly in the in all the the document stuff. So all the templates and such
+Robin Barrow: Okay. Yeah. You let me know when you I'll send this follow up shortly. Hopefully the snowstorm at the end of this week isn't bad and we'll chat soon. Yeah.
+Eric Alt: All right. Sounds good.
+Robin Barrow: All right. Thanks. Eric, have a great day.
+Eric Alt: Thanks. You too, Robin. Bye.

@@ -1,0 +1,112 @@
+Account: Silver Mountain Holdings LLC
+Call Date: 2025-12-02
+Duration: 00:19:49
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: You good.
+Manu Juyal: Can you hear me okay?
+Andrew Meggs: Yes, I can hear you.
+Andrew Meggs: Hello. Yeah. Hello, man. I how appreciate are you hopping on a quick call with me? hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. For context, I am your customer success manager here at PreVeil, what that means is on your general main point of contact going forward. So I just wanted to have a call with you to let you know exist, but be welcome to PreVeil make sure you don't have any initial questions, that sort of thing.
+Andrew Meggs: So to that point, hi, Amanda, it's nice to meet you welcome review. Honestly, most of what I would talk about on this call we've already done. It looks like you've got your organization set up already and you've already scheduled or onboarding meeting with the support team. Yes, yes. Yeah.
+Manu Juyal: I think
+Manu Juyal: The only thing I mean, I have a couple of questions and I don't know if this is the right meeting or it
+Manu Juyal: Is and drivers, because I am using
+Manu Juyal: But my like but I also have Microsoft e file.
+Manu Juyal: So I was just wondering that if I have a what would be the correct?
+Manu Juyal: Subscription for the Microsoft. Should I have because I don't want to go overboard with Microsoft if I have ever taken care of my endpoint protection and address to that?
+Andrew Meggs: Yeah. Short answer, you. If as long as you're keeping all your UI and sensitive information in PreVeil, you are fine with a commercial Microsoft license, you don't need anything more than that. Long answer is I got you access to the compliance accelerator, which has a bunch of courses in it. I think there's a course that goes into detail about that. Okay. But the short answer is
+Andrew Meggs: With the asterisk, of course, being as long as you keep your UI in PreVeil and not anywhere else then yeah. You're fine with just commercial Microsoft license.
+Manu Juyal: And then again I don't know if this is because the time I scheduled the meeting and now I have made a lot of progress in setting up PreVeil. The question I had is that because I have PreVeil on my computer, right? So once I settle, once install PreVeil, I'm assuming that it is going to be taken care of the endpoint protection?
+Manu Juyal: Right. And I do not have to configure defender and all that Microsoft stuff because Microsoft has that defender as well.
+Andrew Meggs: Yeah. The
+Andrew Meggs: Answer to that is no, PreVeil does not do that. And you would need something like Microsoft defense defender. So PreVeil does not actually provide endpoint device protection. It is just a secure storage and file transfer tool for holding your data and transferring your data. But it won't secure your actual endpoint. So you'll have PreVeil on your device, but that device would still need to be pardoned if you will. So you would still need firewall the spam blockers, yadda, yadda, yadda. Which would need to be other things besides PreVeil. And once again, there's a course that goes over that in more detail on the accelerator. But that's the short answer is you would still need to secure your device beyond just having PreVeil.
+Manu Juyal: Okay. So
+Andrew Meggs: It doesn't necessarily have to be in a Microsoft defender, it could be some other version of that. Yeah, yeah. But yeah.
+Manu Juyal: Yeah. I mean, yeah, I mean, I have my proposal defendant. I was asking that. The other question I had uh
+Manu Juyal: Because I see that a big chunk of my license. It comes from CMC compliance documentation, whatever. That David has. So my I mean, once I get myself CC compliant.
+Manu Juyal: The next would be in another clear 5 years that I have to so would I have to renew the same license again? Or would or can I take out the compliance as accelerated part of it? And then come back to it in my third year?
+Andrew Meggs: Yeah. I mean you don't have to you can renew with whatever you want. You don't, you know. Okay. I have to we're not gonna come to your house and find you and say you have to renew this now. You can renew with whatever you want.
+Manu Juyal: Yeah. Because I'm just trying to see because because that alone is about like 4,000 or something. I just just wanted to make sure that I am not overdoing the compliance part and because it that is mainly for the storage and emailing protection then. Yeah, then I just need to go
+Andrew Meggs: Yeah. Yeah. You can certainly renew adjust the licenses if you want. Obviously with the accelerator comes access to our own internal compliance team. So while you're working through that, if you have any compliance related questions, they're available as a resource to you a compliance at PreVeil.com. There's also a link to their calendar in the accelerator. They're able to answer any compliance related questions. And if you were to not renew with the accelerator, you would lose access to them, as well as any changes to the documentation or anything that
+Manu Juyal: We made
+Andrew Meggs: But you know, that it's ultimately up to you what you want to renew with.
+Manu Juyal: Okay.
+Andrew Meggs: Yeah. And the other question.
+Manu Juyal: Is that my does my license can be the email gateway. So because I set up the email gateway yesterday. So I was just wondering and I was able to set it up but somewhere I was reading that there's an additional purchase.
+Andrew Meggs: So you you're not actually able to set it up yourself. I know that there's like a button to to turn on on the admin page, but we actually need to do work on the back end to set it up. You do not currently have that as part of your subscription now.
+Manu Juyal: Oh, okay.
+Manu Juyal: Okay I turn it off or until I purchase it I will not be able to
+Andrew Meggs: I would turn it off. Yeah, I don't think turning it on. Does anything unless we actually set it up. But just to be sure, I would turn it off.
+Manu Juyal: Okay. So then what is the difference between the encryption that comes with the output? And
+Manu Juyal: Encryption. Because if I don't buy that separately and it's not part of my my license because I already paid like, I don't know, like 5 or something for this code. I something. If it is not part of my license then what is the point for? we can e mail encryption because every time I send an encrypted email by
+Manu Juyal: The whoever I'm working with, they will have to go and download subscribe to, not subscribed, but register themselves on pre day. So what is the difference how it is different than the Microsoft encryption data. So I'm trying to understand what I'm getting the PreVeil in terms of the compliance if it is only doing the
+Manu Juyal: The storage protection and this email protection and even e mail production is not like, full, right? Because what happens is that if I send I enter it with PreVeil, send it to somebody else, they don't have to register themselves then see create, right?
+Manu Juyal: Yeah. But in the Microsoft encryption it doesn't do that. So what so I'm just understanding like, what like what I'm paying for, basically in that.
+Andrew Meggs: Sure. For starters, Microsoft's, encryption is
+Andrew Meggs: The short handed to be much less encrypted than what PreVeil provides. And it's not the government approved encryption. So PreVeil is the short answer is everything in PreVeil is stored on the AWS gov cloud, which is fed ramp high. Encryption fits encrypted and when you email, someone via PreVeil actually emailing them. It's not actually on an e mail server or anything. It is staying solely in the AWS, go cloud and you're transferring that data and we have coded it to kind of look like email, but it's not actually e mail because it doesn't touch any mail servers anywhere. So everything stays on the fed ramp high encrypted AWS gov cloud which is CC compliant and much more secure than than Microsoft's. Normal e mail encryption. Okay. Yeah, it's not even technical email. It just looks like e mail.
+Manu Juyal: Okay.
+Manu Juyal: Okay. I mean, I'm just to understand like because if my and how much is the additional cost for that license? for the e mail server email gateway?
+Andrew Meggs: Yeah. So that I believe offhand is $1,800 for 12 months. And what that would do is, kind of what I was saying is when you e mail or when you e mail back and forth, you're not actually emailing them. You're transferring data into the cloud. And what the gateway does is it basically translates stuff from PreVeil into someone's email server. So it shows up in their normal email inbox without them, even knowing that you're using PreVeil. So they wouldn't have to sign up for a PreVeil express.
+Manu Juyal: Account, I mean, because without having the capability of
+Manu Juyal: My the receiver not have to register.
+Manu Juyal: For the PreVeil account, that particularly tenders this license. For me actually but I will not be able to do anything. Because I don't want somebody in government going in the dispute for like all the time, right? Because they are different people. No, nobody there. So essentially that it is useless for me encryption. And that is my concern is that I will not be able to use PreVeil beyond. The
+Manu Juyal: Beyond the drive price.
+Manu Juyal: Um
+Manu Juyal: And that is my main concern is like I'm just trying to see what is that. What I'm getting in terms of like say typing Microsoft uh
+Manu Juyal: Line
+Manu Juyal: Subscription.
+Manu Juyal: So, yeah, unfortunately.
+Manu Juyal: No.
+Andrew Meggs: Well, I will say we have we have a lot of clients and a lot of them do communicate with people in the government and those people are willing and able to sign up for PreVeil express. I mean, maybe your particular contact won't, but it does happen a lot that we have clients that communicate with the government and those government employees sign up for PreVeil express and they can communicate via PreVeil. So that does happen pretty frequently.
+Manu Juyal: Okay. People they are using the person.
+Andrew Meggs: And just your also is the audio your audio is kind of low. It's kind of difficult for me to hear you.
+Manu Juyal: On on
+Manu Juyal: Let me just
+Andrew Meggs: I mean, I can hear you well enough, but it's when you move away from the computer, it's very low volume.
+Andrew Meggs: Yeah, it's better.
+Manu Juyal: Okay. Yeah. Yeah. So
+Manu Juyal: Okay. I mean, yeah, that is my biggest concern.
+Manu Juyal: And making of uh
+Manu Juyal: Very
+Manu Juyal: Yeah.
+Manu Juyal: How it goes, yeah.
+Manu Juyal: I mean it just like, it's a cost. It comes with everything.
+Manu Juyal: So many features and in order to and it doesn't integrate into one drive, right? PreVeil, I guess I have to store UI in PreVeil?
+Andrew Meggs: Yeah as kind of as I was kind of alluding to everything in PreVeil is an AWS but it's sort of a it's a black box solution doesn't connect to anything else no
+Manu Juyal: Yeah. I mean, I think that's all I have.
+Manu Juyal: To discuss uh
+Manu Juyal: Looking at my question to to like on your side right now.
+Andrew Meggs: So but discussing the best use for PreVeil and communicating with communicating with your government customers, that would be something that you could discuss with our compliance team. They'd be able to go into a little bit more detail about about the best practices there. Good idea. So I would you know, I know you've already got your technical onboarding scheduled with the support team, but I would schedule a meeting with the compliance team to to kind of go over your situation and they'd be able to give you some best practices for using PreVeil. And also recommendations for endpoint device protection. But so so have you gotten into the accelerator yet? Have you looked at any of the courses or anything like that?
+Manu Juyal: Yes. I mean, I yeah, I looked at the introductory course that they have the introduction that they had. So I went through that and I think that is pretty much. I went as far as I go after the license. Sure. Now, I am mainly like I got busy with setting up period.
+Manu Juyal: On, like email because email, but also very funky, right? Sometimes that in for that appears sometimes it disappears. So I need to find out why it is doing so. Because that is that is like, another thing that I am in it with that in that. Just that was on and off. Yeah. Um
+Andrew Meggs: So so while you're in the accelerator under the course additional compliance resources, there is a link to the compliance teams calendar. So I would recommend scheduling some time with them.
+Manu Juyal: Yeah. Yeah, yeah. Yeah, I do that.
+Andrew Meggs: But, okay. The only other thing I like to do on these calls is I like to set up a 90 day check in call just to make sure things are going okay. Obviously you can reach out to me before then if there are any issues. But do you mind if I put some time on the calendar for march for a check in call?
+Manu Juyal: Yeah. Yeah.
+Andrew Meggs: And what time zone are you in?
+Manu Juyal: I am in mountain.
+Andrew Meggs: Okay.
+Manu Juyal: So let me just open
+Manu Juyal: One
+Manu Juyal: Yeah. March would work the march march.
+Manu Juyal: Anytime maybe same time. Um
+Manu Juyal: So that should be fine.
+Andrew Meggs: Sure. I put them on the calendar and I'll send you a follow up email to just kind of going over what we talked about and without everybody's contact information, the compliance team and the support team. And then yeah, unless there's anything, did you have any other questions or anything else you wanted to go over?
+Manu Juyal: No. No other questions. I know.
+Andrew Meggs: Okay. Well I will send this along then and if you do have any questions, let me know. Otherwise, yeah. I very much appreciate you taking the time to meet with me.
+Manu Juyal: Just one question I had. Because I set up and I haven't set up my mobile, so
+Manu Juyal: What like if it is not doing endpoint protection, so what all is doing on what is the what his previous role on mobile?
+Andrew Meggs: I'm not quite sure I understand you mentioned.
+Manu Juyal: Right. The que is it doesn't do endpoint protection. So
+Manu Juyal: But I was looking at is website and the admin center I have connect the device and like, you can onboard mobile also my laptop also. So what does that mean? vending in like onboarding mobile?
+Andrew Meggs: I mean, you can have PreVeil on your phone. Yeah, and it's the same encrypted file storage transferring
+Manu Juyal: Okay. It just just like is privacy PreVeil right on my query?
+Andrew Meggs: Right. Yeah. Okay.
+Manu Juyal: All right. Thank you.
+Andrew Meggs: Yeah. Thank you. And yeah, like I said, I'll send this all along and I appreciate your time and let me know if you need anything else. So
+Manu Juyal: Thank you.
+Andrew Meggs: Have a good one.
+Manu Juyal: Bye, bye. Bye.

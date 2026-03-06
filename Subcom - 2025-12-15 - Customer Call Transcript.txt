@@ -1,0 +1,36 @@
+Account: Subcom
+Call Date: 2025-12-15
+Duration: 00:05:01
+Participants: Andrew Meggs, Michael Schomacker
+
+======================================================================
+
+Andrew Meggs: Hello Mike
+Mike Schomacker SubCom: Hello. How are you doing? I am doing well.
+Andrew Meggs: How are you?
+Mike Schomacker SubCom: Doing good. Staying busy.
+Andrew Meggs: Yeah. I know someone said they couldn't make it today, Jeff that they couldn't make it, but do you know if anyone else is gonna be be showing up today?
+Mike Schomacker SubCom: So I'm trying to see who's invited. It looks like it was Jeff, me and possibly just Jacob. Yeah. See and I know Jacob was responding to an incident, but
+Mike Schomacker SubCom: I'll check to see if he's going to join. Overall. I haven't seen any issues with the setup and our 2 main, I guess power users. Got their account set up and they were able to work with it. I haven't heard anything besides that.
+Mike Schomacker SubCom: Okay. Yeah.
+Andrew Meggs: Um
+Andrew Meggs: Would it be more helpful to have someone else on the call though?
+Mike Schomacker SubCom: Yes. Either that or we could just have Jeff send you an email back because he's the project manager. He's the one who should have all the information, right? And I think it's pretty close to just close out. I don't think I think they're just working on their tutorial for new users and to get them onboarded. But yeah, I don't think he has anything else further to discuss. Okay. Yeah, I mean, if you if he's not able
+Andrew Meggs: To join us. But if he just wants to reach out if there are any issues or let me know if there's any problems that's fine too. This is mostly supposed to be just sort of informal check in anyway. So it's not like there's a presentation or anything like that. Yeah. So
+Mike Schomacker SubCom: And I've been trying to look at the view. Oh, so I do have some questions. I don't know if you have the answers to it is when they're trying to view a word document for instance or and it's being opened up and what kind of platforms are they getting access to like, are they using a SaaS product that you guys are hosting? Or are they open up a localized word? application and I need to know where that data is being moved to where it's being hosted. So I was looking into that. I have to look into that further.
+Mike Schomacker SubCom: I guess
+Andrew Meggs: Are you asking if I'm not quite sure what you're asking. When something stored in PreVeil and they open it up? Where is that located? What I
+Mike Schomacker SubCom: Think that's one of them. Because I see that there there were opened up a document and there was like a gray window. Like a so I think it was from the PreVeil storage platform and they were able to view it, like a document viewer and I just didn't know if that was within your SaaS product your storage there. Or was it open up on their word localized on their personal computer?
+Andrew Meggs: If they're using like the cloud edit functionality to view it inside PreVeil itself, that's all stored in the AWS gov cloud. Okay. If it's synced down to their local device and they're opening it up from their windows explorer, that will be touching their device. Okay. And it depends on where they're viewing it.
+Mike Schomacker SubCom: And what applications do they have in that cloud? Go, do they have like all of them the whole Microsoft suite?
+Mike Schomacker SubCom: So the applications
+Andrew Meggs: Are in the gov cloud. Basically you're seeing a representation of what's in the cloud, but Microsoft word itself isn't opening up or anything like that. We don't have Microsoft word in the gov cloud. Okay.
+Mike Schomacker SubCom: Yeah, because I'm one of my things is how do I get people to edit it, right? And they want to be able to edit the information. But currently I can't let it be downloaded to their devices yet until we make something secure. So right now it's kind of like view or view within the cloud, but if they want to pass it off on somebody to fill in some fields and then send it back then I have to really secure that in the alternative way.
+Mike Schomacker SubCom: No, we do have a cloud edit functionality.
+Andrew Meggs: To edit documents in PreVeil itself. Okay. I'll send you in my follow up email. I'll send a link to to how to set that up.
+Mike Schomacker SubCom: Okay. And I know you gave me access to the compliance portal. So I'll have to look at that further too. But besides that, it's more or less. I need to close up the gaps on our end to make sure everything's secure and but I don't see anything wrong with your guys' product. That's all. Okay. Yeah. I'll send that over and I'll just CC
+Andrew Meggs: The other 2 people and if there are any issues or if they need to let me know anything, they can definitely just reach out and let me know.
+Mike Schomacker SubCom: Sounds good.
+Andrew Meggs: Okay. Okay. Well, I I guess no one else is able to show up, but I still appreciate your time Mike. And like I said, I'll send all this over and if you do need anything, let me know.
+Mike Schomacker SubCom: Okay. Talk to you. Thank
+Andrew Meggs: You have a good one. Bye bye.

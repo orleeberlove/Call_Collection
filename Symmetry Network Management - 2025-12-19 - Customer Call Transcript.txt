@@ -1,0 +1,73 @@
+Account: Symmetry Network Management
+Call Date: 2025-12-19
+Duration: 00:13:28
+Participants: Robin Barrow, Michael Pedersen
+
+======================================================================
+
+Michael Pedersen: So Robin
+Robin Barrow: Hi, Michael, how are you?
+Michael Pedersen: Good. How are you today?
+Robin Barrow: I'm doing well. You are my last call of the day. So oh.
+Michael Pedersen: You hey, can make it quick. Hopefully, it'll be easy. And I get a little worried. I never heard anybody and I'm like, okay, I got a bill, but I
+Michael Pedersen: I didn't hear anything. Oh, really.
+Robin Barrow: Yeah. Go to the wrong email.
+Michael Pedersen: It was going to the wrong email.
+Robin Barrow: Oh, okay.
+Michael Pedersen: Okay.
+Robin Barrow: That's what oh, okay. Because it was going to your sales email. That's right. Yes. Okay. Well, I'm glad we got you on and this is regarding and Anna rock, is that what you saying? Okay. Yeah, perfect. Okay. Yeah. Honestly, this cost me fairly quick anyways. It's really just the intro call. I just want to go over what they signed up for talk about why they need it. And then we can talk about next steps and getting them up and running if you haven't done. So already. Yes, I see that they signed up for 4 users to those being admin and they also purchased a compliance accelerator. Does that all sound accurate?
+Michael Pedersen: That sounds accurate.
+Robin Barrow: Great. And for the accelerator, I can add yourself, but who else would like to have access?
+Michael Pedersen: I have an interesting relationship. So I like what they call and I everybody always says MSP but I'm really not an SP. I'm more of what pointing a term from the financial people. I'm more of our fractional it manager. Okay. They contract with me. I'm their it guy. I handle pretty much everything. And then I always like to stick the owner on. Just so they have visibility in case it happens to me. So it would be it would be uh
+Michael Pedersen: Friday. It is it'd be rock and savala savala at.com.
+Robin Barrow: Do you mind throwing that in the zoom chat? Yeah. Sorry. I can have the spelling and make sure it's all right.
+Michael Pedersen: I got to remember how it works zoom because everybody got cheap and went to teams and they're always in a different spot.
+Robin Barrow: It's always next to the share.
+Michael Pedersen: Yeah.
+Michael Pedersen: There we go.
+Robin Barrow: Okay. Perfect. So yeah, I'll add yourself and Roxanna. It's Roxana.
+Michael Pedersen: It's Roxanne.
+Robin Barrow: Roxanne. Okay. Yeah.
+Michael Pedersen: Perfect.
+Robin Barrow: Great. So I'm assuming they need some sort of level of cms compliance, whether it be one or two?
+Michael Pedersen: It'll be 2 they actually are a arrow space company that makes sheet model products for directly for the prime. So their customers are going their customers are North rep, their customers, general dynamics. So they're the first in line to really get the pressure to get okay. And when I've had them for a client for about a year and when I went in there, it was a complete mess. And I always try to be nice about things because like we have our it guy, but he's retiring and I go in there and I find things like three, 3 8 9 opened up directly to a computer that doesn't have a password into it. And I'm just like
+Robin Barrow: Okay. Yeah. Yeah.
+Michael Pedersen: Let's start getting these things cleaned up and she's like, yeah I used to be able to remote in, but then I got ransom where on my computer and I'm like, yeah, what I because anybody in the world could just connect to it. Install, whatever they want it exactly. So yeah, there were a lot of things I had to clean up first and document it. So I'm at that point now. Probably a little bit further behind than I want it to be, but they're getting calls from everybody. So I'm like we looked at quick track, but they're a small company. And quick track was a little bit too much for them too, pricey for them. Okay. I'm like, okay, PreVeil do the same thing. Kind of a different way. Yeah. And talking to Sam and talking to I forget the other guy's name.
+Michael Pedersen: Yeah. Craig we can get them done. We can get them, self scored, get that submitted and then when they start really pushing for audits, then we'll worry about getting audited. Okay. Yeah, he was pretty excited. He said a lot of people scored 180. I'm like I'd be afraid to put 180 I just missed a couple just on purpose just
+Robin Barrow: 180 and
+Michael Pedersen: 100 and ten, I'm sorry.
+Robin Barrow: Oh, I was like better. No, you're good. Um
+Michael Pedersen: And just like
+Robin Barrow: Yeah. Well, I mean, so he probably explained to you. That obviously PreVeil is just a fraction of the yeah. Yeah, yes. Yes. Okay. And with just installing PreVeil. So if they installed PreVeil and did nothing and ran away. They would score around like, a 35 to forty? Okay. That's just having PreVeil installed. We share 102 of control of the controls, which I'm sure. Sam and Craig mentioned. And shared is the key word there, because obviously we provide the software. But you're there's still work around like, policies training, that sort of thing. Yes. That's involved. And I just want to quickly just highlight the areas. I don't know if Craig showed you, but this is the accelerator. It's based out of a learning management system. It's extremely simple to use and where the it's going to bring you through really.
+Robin Barrow: Green. What is CC why isn't important all the way through how do I score a one ten? excuse me. And if you go to step 6 in the accelerator, this is where all the documentation is to go over.
+Michael Pedersen: What that is. We did, but it was a little while ago. So I'm sure. Yeah, I missed some of it.
+Robin Barrow: That's okay. The Acme docs are a fully assessed documentation package. So okay. It's a really great. I don't want to use word templates because they're completely filled out. It's a really great example of what a 1 10 company looks like. For instance, this is our system security plan. It's 185 pages. It is completely filled out all the way down to the version history example. It already has a PreVeil language already pre loaded in here. So you can obviously take these network diagrams. The UI flows in here. But again, this is extremely detailed because it's completely filled out and you could take this copy when you tell me that they don't have much in place right now. Yeah.
+Robin Barrow: You could base their security framework over this company, it would be compliant. Um
+Robin Barrow: The other piece I wanted to share to go
+Michael Pedersen: Pretty secure. So now that's good. But I'll still have to match everything up and do it. So I'm horrible at writing this stuff and this to me is worth a million dollars because I can read through it and kind of make my adjustments either, which way either to the documentation or to the to the system that I have.
+Robin Barrow: Right. The jargon is so
+Robin Barrow: It sounds like there's a ton of double negatives in here too. It's not intentional. It's just how the language should be written. But yes, it's already done this. I always find helpful in it. People usually love it. You can say now Robin that stinks. It's based off of Microsoft products. Obviously, this is the endpoint. So these are the remaining 8 controls outside of the one or 2 that we share. This is how they protect their devices. We go we recommend the products that are necessary. And again, they're all Microsoft based and then we actually list out the controls they point to and we go about even how to configure them.
+Michael Pedersen: Awesome.
+Robin Barrow: Yeah, this is available to you to. Lastly, you have 6 30 minute sessions with our compliance team. You can book time with them right through here. Since you're a partner, we always just suggest and clients involved in the communication. And you can also email them. So any one off questions that you may have, you can shoot them an email. That won't to your time.
+Robin Barrow: All right. Any questions on the accelerator?
+Michael Pedersen: How do I get to it?
+Robin Barrow: I just added you should link come to your email shortly.
+Michael Pedersen: Okay.
+Robin Barrow: And I use it the correct email this time.
+Michael Pedersen: Okay.
+Robin Barrow: Great. And then I just also sent one to Roxanne as well. She will receive an invite as well.
+Michael Pedersen: Yeah. I'll get with her and let her know it's coming.
+Robin Barrow: Okay. Great. And then moving on to the actual PreVeil platform I can send over the instructions on how to go about downloading it. Really, we just suggest that it's downloaded on your device and also the other individuals devices that will be need access to the platform. And you just create the org from there, you can stop and schedule time with our support team. They're gonna walk you through the whole product how to use it, what's important it's up to you. Some people ourselves like to teach themselves. You can run through the documentation, but again, that training is available to you. Okay. Yes. I'll send over the links on how to do that. It shouldn't take you more than 20 minutes to download PreVeil. So if it is taking a long time, that means we probably have an issue so reach out to me if you have any trouble. Okay.
+Michael Pedersen: Yeah, I already have my partner one installed. I have it on my laptop and I just put it on my desktop too. So I was able to get the second computer with the same login and do all the little steps I had. So it was pretty easy.
+Robin Barrow: Yeah. Yeah, it should be. Great. And then lastly, from my side, I'll schedule a time for us to connect again in march, but okay. Of course, I'm not going anywhere. I'm your main point of contact. I always say since you're a partner new business new customers that you bring on always go to Sam, Craig and team. Okay. Existing come to me. Any questions if you need additional users? That's easy. We just co term the contract and add them in but yeah.
+Michael Pedersen: Yeah. I actually have 2 more clients that probably will be bringing on in about march, so I love that. Yeah. It's just getting the small. I really kind of like this small arrow space companies. So I'm gonna try to keep getting them and this is a solution. And then one of my clients, one of the guys he just spent like 4 million dollars on a machine. So he's like I can't spend any more money right now.
+Robin Barrow: But yeah.
+Michael Pedersen: Yeah. He's like it's really not cool. We're being forced to spend so much money and being in Northrop they have all the money to spend, but then they come down to us and force us to do the same thing. And I said, well, there's ways around it because he's been getting prices like he's been looking around outside of me. And he's like, yeah, this gonna cost me like $250,000 and I don't have that kind of money to pay on this kind of stuff. At least with a machine, they can make money with soft. Well they can they'll keep their contracts, but
+Michael Pedersen: They don't see it that way.
+Robin Barrow: Yes. No, I know it's like these poor small businesses that are just being thrown at this. I mean that's literally why we're prevails in business for that. But yeah. Yeah. And I have a lot of customers are always like I don't know if the juice is for us to squeeze. That's our favorite favorite phrase. I'm like, I know
+Michael Pedersen: With Anna rock about 85 to 90% of their business is from being it's from Northrop it's fun, general dynamics, right? blue origin space. So they have to they don't have a choice like and say well only 5% of our business and you know it's gonna be yeah, we can do without it. So they're not so
+Robin Barrow: Yeah, it is.
+Michael Pedersen: Yeah. So awesome. Well, I'll get working on that stuff once I get everything coming over. And then at least I know where to go now. Yes. Yeah, I was a little lost there. I was just like and I finally reached out to Sam and like, am I gonna hear anything and he's like, oh, they've been trying to reach out to you at sales. I'm like, why well, why? And then I don't even know where they got that email address from.
+Robin Barrow: Me either. So I already changed in the system and I truly apologize. Usually they're sent out same day. So I was like, I don't know what happened, but well, I do know what happened. We have the one email. So we're good now. It's all it's switched out in the system. But yeah, I'll send a follow up now. I appreciate it. Sure. You're up and running. And then please feel free to reach out. Awesome. Do you have any issues? But other than that, have a happy holidays and I'm sure we'll chat soon.
+Michael Pedersen: Thanks a lot. Take care Robin.
+Robin Barrow: Thank you. Bye. Bye.

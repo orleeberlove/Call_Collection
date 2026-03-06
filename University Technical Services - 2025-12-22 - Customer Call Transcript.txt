@@ -1,0 +1,67 @@
+Account: University Technical Services
+Call Date: 2025-12-22
+Duration: 00:11:31
+Participants: Robin Barrow, Noelani Clark
+
+======================================================================
+
+Noelani Clark: Hello.
+Noelani Clark: Hello, can you hear me? Okay?
+Robin Barrow: I can good morning.
+Noelani Clark: Morning.
+Robin Barrow: One second. And do you pronounce your name Melanie?
+Noelani Clark: Yeah. Yeah, no. I to you though. Either one okay.
+Robin Barrow: Okay. Great. Thank you for joining. This call. Should be fairly quick. Honestly, it's just your intro call to PreVeil. We're just gonna go over what you signed up for talk about next steps to get started. Are we expecting anybody else to join today?
+Noelani Clark: Yes. Our vice president Natalie might be joining us. She said she would but we'll see if it happens.
+Robin Barrow: Okay. Do we want to give it a couple of minutes?
+Noelani Clark: No. It's okay. Okay. Okay. Great.
+Robin Barrow: Yeah. Just to I'm your customer success manager. So I'll be your main point of contact here at PreVeil. I know you worked with mark previously gave me a little bit of background, but I obviously want to hear from you all why you need PreVeil what you're hoping to get out of it and like I mentioned I just want to go over what you signed up for, right? I see that you have 13 users to them admin as well as the compliance accelerator. Does that all sound accurate?
+Noelani Clark: Yeah. Sounds sounds about
+Robin Barrow: Right. Great. So yeah, if you don't mind sharing, why do you all need PreVeil?
+Noelani Clark: Yeah. So first of all I'm the administrative assistant for us. And before signing up for PreVeil and everything me and Natalie, our vice president were kind of like spearheading the whole cms thing. Just doing as much research as we could on our end before going with a solution to help us get compliant. And yeah, we landed on PreVeil and thought it was a good way for us as a smaller business to become compliant without having to spend a bunch of money on GCC High and things like that. Yeah. We have a couple of contracts with UI and but like, not everyone touches it's just a very subset of people that do touch it. That's kind of why we went with kind of like the separate UI on cleave option. So it's kind of what led us here. So, yeah.
+Robin Barrow: No, that's I mean, that makes sense. Pretty straightforward. Use case with PreVeil. That's exactly why our customers come to us. But so you have a couple of contracts in place. Now, do you have a goal of one you're trying to get compliant by?
+Noelani Clark: Yeah. Our rough timeline is to try and get in with a CTO. By July. Okay. Or get audited by July, I should say.
+Robin Barrow: Okay. Great. And I'm gonna add you to the compliance accelerator. I don't believe I've added Natalie, but I'll add the both of you. Okay. Did mark go over the accelerator and what it includes?
+Noelani Clark: A little bit, yeah.
+Robin Barrow: Okay. I can go over to yeah. I'll just highlight the areas that most of our customers look forward to when they sign up for the compliance accelerator, right? Honestly, it's um
+Robin Barrow: All the content really great. There's a couple of areas. Obviously, that such as the templates are stored and how you get access to the compliance team. But I always suggest if you're new to the cms space or this is your first time really dabbling with it. Go through all the content. It's all really great. And let me just share my screen so you can see what it looks like. It's based out of a learning management system. So I don't know if you've used one of those before, but they all yeah, they all pretty operate, right? the same so it's really easy to navigate. So it's like I said, it's based out of a learning management system. It's we call it our 10 step guide to getting compliant. That brings you really green. What a CC why is an important all the way through. How do I score one 10th? if you go to step 6 this is where all the documentation is listed out. So I'm sure mark went over this, but the Acme docs package. This is a fully assess documentation package for level two, so it. It has all the documentation you need and all the templates. I don't love calling them templates because they're completely filled out.
+Noelani Clark: They are, right?
+Robin Barrow: Fully detailed. The SP is 185 pages even has a yeah. It even has a version history, like it is extremely detailed. So obviously there's gonna be some changes that you all need to make to to your current environment. But at least it's this is sorry. That's not that I'm trying to pull up the SP. But it is a really great example of what a 1 10 company looks.
+Noelani Clark: Like okay.
+Robin Barrow: And like I said, all the documentation has been approved by A C 3 Pao.
+Robin Barrow: See yeah. It's 100. Like I mentioned this is 185 pages, obviously. And this is what I meant by the version history. Like this is all made up, but it's completed.
+Noelani Clark: Right. The
+Robin Barrow: Per language, obviously, is gonna stay the same because you're gonna be using per Val as part as your C UI conclave. And this. So your the network diagram might change, obviously, depending on what you're using. Are you all in Microsoft environment? Yes. Okay. A lot of this is gonna remain the same. And so is your co flow, obviously, you're using PreVeil, so that will remain the same. Um
+Robin Barrow: Let me go back to this. So like I said, the other area is how do how would you access the compliance team? So you all get 6 30 minute sessions with the compliance team? You can book time with them right through here under additional compliance resources.
+Robin Barrow: And you can also email them. So any one off questions you have? They don't count against your time. You can email them at compliance at PreVeil.com.
+Noelani Clark: And I'm assuming they will let us know if like, say we have a question that really like requires a call, then they let us know that.
+Robin Barrow: Yes, they would. Yeah, if it requires like a long answer though, say, it probably be easier if we just jumped on the call and walk through it. Another thing is too so if you tell me Robin, we got A C 3 Pao. We're ready for assessment in June. We're gonna want to meet with you anyways. If you all score. Well, we score well, we want you to do so. So yeah, definitely. Let us know. The 6 30 minute session is more parameter because people were just trying to meet with them every single.
+Noelani Clark: Day, right. A lot of sense.
+Robin Barrow: Yeah. We had the stop on that, but you just let us know too. If it's an emergency or anything like that, we're always happy to meet. Great. So, like I said, you should see an email come through on this shortly. Okay. And you just log in it's separate from the PreVeil platform. It's a different login. So we just I always say separate the 2 worlds. We have compliance and then we have the product. Okay. So then, for the actual PreVeil product, were you able to go through the welcome email I sent over?
+Noelani Clark: At all. I did. And I briefly through the link with the onboarding links and all that good stuff.
+Robin Barrow: Okay. Yeah. Your next step would honestly just be booking time with the support team. Okay. We always suggest just having your org set up beforehand. So when you do train, you can train out of your organization. Okay. And you're able to click through. This first meeting is with admins only okay. For your additional users, we can set up a separate meeting and that will be a standard user training. It's much shorter. It's less detailed just I always say keep them separate because you don't confuse the standard users with all the admin functions, right?
+Robin Barrow: So that would be your first immediate. Next step. I'll send over a follow up email too. So you'll have all the links and everything I need. I'll provide a couple of standard user guides that you can use for your the additional staff using PreVeil.
+Noelani Clark: Um
+Robin Barrow: But like I said, you also have a training too.
+Noelani Clark: Okay.
+Robin Barrow: Let me just think what else. Another I'll schedule some more time for us to connect towards the end of March. This will be your 90 day check in. It's really just to make sure you guys are feeling good up and running. But like I mentioned, I'm your main point of contact. If you have anything comes up, just reach out to me. Got it. Especially if you're not sure which team to go to because you have a lot of people at your PreVeil. So I always say if you have a question regarding sport or compliance, I can always point you in the right direction.
+Noelani Clark: Okay. Perfect.
+Robin Barrow: The support team does work through tickets, but if something's on fire, let me know.
+Noelani Clark: Okay. Yeah. Got it.
+Robin Barrow: Hopefully that won't happen.
+Noelani Clark: If we do have something that like, I'm assuming there's like a page or something that we go to to submit a ticket.
+Robin Barrow: Yes. I'll include that in my follow up email as well. But yeah, it's just like a typical support ticket. If you're familiar with JIRA. That's what the right. Yeah, I'll definitely send that over. What questions do you have? This is really all I need to cover today.
+Noelani Clark: Right. I mean, I think pretty much covered.
+Noelani Clark: Because we obviously have lots of meetings about this. And
+Robin Barrow: Yeah.
+Noelani Clark: I think that was about it. I was just there. I mean the main concern right now is getting in contact with the compliance team because that's kind of like our main focus, right? Yes. But I do know that we plan on like I guess implementing everything and introducing PreVeil to everyone in January.
+Robin Barrow: Okay.
+Noelani Clark: So I'm sure either me or Natalie will be reaching out. Find that on it, but
+Robin Barrow: Okay.
+Noelani Clark: Um
+Robin Barrow: And I'll just make sure that both of you are added to the accelerator. You probably already have an e mail in your inbox. And Natalie will get one shortly as well. You all will both be in there. And then yeah, if you I know with the holidays coming up really quickly I tell everyone that I'm meeting with today. I wouldn't expect you to dive in until holidays anyway. So any any questions that come up afterwards? That's okay too. I'm happy to help. But I'll I will send a follow up e mail. So you'll have all the next steps and everything. But most importantly, you have access to the accelerator, you can get in there, right? And then yeah.
+Noelani Clark: Okay. Cool. Well, I appreciate you for introducing everything and yeah, of course, forward to all the next steps.
+Robin Barrow: Of course. Yeah. And like I said, feel free to reach out if you have any questions. I look forward to working with you both and then yeah. Let me know if anything else comes up, otherwise have a happy holidays.
+Noelani Clark: Thank you too.
+Robin Barrow: Awesome. Well, thank you so much and enjoy the rest of your day.
+Noelani Clark: Alright. You too. Bye. Bye.

@@ -1,0 +1,121 @@
+Account: TeamLogic IT Tarpon Springs
+Call Date: 2025-12-08
+Duration: 00:25:03
+Participants: Robin Barrow, David Hardy, Randall Wilson
+
+======================================================================
+
+Robin Barrow: So
+David Hardy: Hey, David, how are you?
+Robin Barrow: Doing well, how are you doing? I'm doing well. Thank you. And I'm gonna let Randall in as well. Great.
+Robin Barrow: Give him a second.
+Robin Barrow: To join with audio. We're this is regarding in Mars, technical onboarding, correct?
+David Hardy: Yeah. And you know, we're a new partner with you guys. And this is our first signed client that is ready to go. Awesome. We're starting the ball rolling for them. And I know one of the emails that I received is to book some time with you. So this is where we're at.
+Robin Barrow: Yeah. Perfect. And hi, Randall, how are you?
+Randall Wilson: Good. How are you?
+Robin Barrow: Good. Here I can if my camera on so you can
+Robin Barrow: See my face. Hi. Great. So honestly, this calls me fairly quick. We this is the intro call and this is what we do for all our clients. Typically the end client will join, but since you are a new partner, I'm glad you just book time with me first. But the purpose is really just go over what they signed up for top about next steps and getting started. I'd also just to love to learn a little bit more about time. And then also about you all how you like to operate, especially when it comes to our clients that we share just to confirm. So I can get this pulled up. So for time, they have 5 users to them being admin as well as the purchase the email gateway in the compliance. Accelerators, does that all sound accurate?
+David Hardy: Yeah, that sounds right.
+Robin Barrow: Perfect. Yeah, I guess I'll pass it over to you all. Tell me a little bit about Tim, mar. And then also how about yourself, if you don't mind?
+David Hardy: Yeah. So 10 mar is a small manufacturing company. They do a lot of can work for primes. And they usually pass that on to subcontractors as well. So they may create they have they handle, obviously and they create parts and then they hand those parts off to either the primes or to somebody else to process those parts. So they handle a lot of digital data. They have about 5 systems in scope for UI. They've been around for a long time, but they've they haven't had a very mature IT partner in the past. They have they don't have a very mature IT infrastructure and we started working with them a couple of months ago and started identifying some needs a cms and needs for them to be certified. And of course, with for 48 being passed, were like, hey, guys, this is time to get serious and we're starting to take it seriously now. So it's exciting. They finally said, hey, David are ready to go ahead and get an on Clive setup because we don't want to be uh you know, basically caught behind everybody else when everybody else is trying to get all this stuff going. So they're trying to be proactive, but like I said, they've been around for a while. They're kind of old school. They're used to the C and C machines and you're taking a USB drive from one system to another. And yeah so it's they've been around, but it's a family company. So it's been owned by the same family for a while and they're located in Huntsville.
+Robin Barrow: Great. Awesome. And you all where are you all located?
+David Hardy: Yeah. We're our home and Randall is our president and I'm just a sales guy, right? I like to call myself business development because it sounds fancier, but yeah. So our home office is indicator, Alabama. We do a lot of work in North Alabama. We also have offices in middle Tennessee. So Brentwood Murphy's bro and Nashville are our 3 territories and then also Knoxville Tennessee. We have some do and do work in Knoxville as well. For Ridge area that's kind of our space. But yeah, pretty much I would say all of middle, Tennessee, northeast, middle, northeast, Tennessee and then all of North Alabama is where we are. But yeah, I get to go and visit ramble every now and then indicators about an hour and a half drive for where I am, which is in Franklin Tennessee.
+Robin Barrow: Oh, okay. Great. Yeah, I'm in New England, area. So it's a lovely it feels like 2 degrees out today.
+Randall Wilson: So you're 2 degrees, we're 40 and you see I got long short another vast over top of office our office is freezing today. For some reason. I mean on Mondays, it seems like they turn the heat off in the building, right? And then on Mondays. It's like I have to give me a heater, you know.
+Robin Barrow: Eaters.
+Randall Wilson: Well, I used to have a lot of access body weight, so I was I didn't need it, but now
+Robin Barrow: Nice and cold. Yeah. No, I mean, our I live near the water here in New England. So the wind. I don't know what happened. Last night. I know the talking about the weather is boring, but it blew open our front door and our front door was open all last night. So I came downstairs, it was 45 degrees in my kitchen. I was like, yeah, I'm further than wake up. That's how it was freezing. But uh
+Robin Barrow: Good.
+Randall Wilson: Probably when it's cold you, I usually sleep well. Yeah. Blankets, right.
+Robin Barrow: Yeah. Yeah, exactly. Yeah. But awesome. No, thank you for sharing that about Tim and about yourselves. I believe we work with TeamLogic. I'm assuming you are like a big company, all across
+Randall Wilson: A franchise. So yeah. Yeah. There are other team objects you guys work with. I know you work with Scott. Scott wiles. He's the one I recommend. He's the one to recommend you guys to us. Perfect. He and I are on the Security Council team audit security counsel together. And he's got a lot of compliance clients and we've been doing compliance for years. We have not done on cave previously. We've put people in GCC High and yeah. And do on that would do isolation devices on the network, do it the other way would it's a lot more work to do it that way and it's a lot more. And with Steven and being really ramping up. We needed a partner that we can do and almost set it and forget it type of thing. And not have to has all the controls in place and not have to worry about it. If the level one text, they add a new user, if they set them up correctly in the office environment or whatever with this level one. Tech one gonna be going to be able to go into the
+Randall Wilson: The level 2 and above techs are gonna be the ones that are gonna do that. Because most of the clients are gonna have aren't gonna have a lot of users, right? The right most of 5 or less or 10 or less, right? Because we have another one that's this can be right behind this one most likely and another one and more of our clients. We have several clients that we've worked with for years that that they're seeing now. Hey, let's say I say really ramping up. We have to do something, right? We use for gro. We've been using a compliance manager for years. It's improved over the years and it's a lot better. Then back when we it was it was developed by I forget his name the guy that was like it cause himself, the compliance guru. What is his name? I'll think of it in a minute. He used to work for rapid, fire tools and he doesn't he's out on his own now. I get emails from him occasionally from time to time. But but so I think the GRC with you guys is included, right? We don't have to put them in in our compliance manager or is that correct?
+Robin Barrow: Let me make sure it was under there.
+Robin Barrow: They only purchase the compliance accelerator, they didn't purchase plus the RC. So if you need the C would be additional product, but you all have all our compliance docs and our templates. You just don't have our actual GRC tool.
+David Hardy: Yeah, I thought Sam said that was part of the compliance accelerator.
+Robin Barrow: It's it can be bundled, but it wasn't on this contract, but I can I mean, I can send over pricing what that would look like for them. It's I think it would be like our market price is like $2,400, maybe less for the year.
+Randall Wilson: That's about what we charge for our client. We charge about 200 a month for the yeah, because it costs us about $75 a month for the compliance manager portion. So yeah. And then it also costs, but we could with that. We could just set up, set them up an hour. That's no big deal for the easy. Yeah.
+Robin Barrow: We use one there. They're all pretty much the same. They're
+Randall Wilson: All pretty much. Yeah. There are some that are better than others out there. But that is one thing that rabbit fire tool or compliance manager. Got right. I think. Now, if you compare that to some of the other ones out there there there's some that are pretty bad. Yeah. Yeah, but that mean you just see the GC really is
+Robin Barrow: Really all it is, yes. Yeah. So ours, ours is fairly new to PreVeil. I think we launched in September or might have been even October. And we used it to bundle with our compliance accelerator because we're providing all the documentation all the
+Randall Wilson: Components. So basically to put the documentation in it, pull it into them.
+Robin Barrow: You would have to customize it anyway, so it's not like exactly. Yeah, exactly. Yeah, it's not that big video, honestly. The work would be similar.
+Randall Wilson: Which tells me what I need to do. I need to get started on that. Yeah.
+David Hardy: Pinging me earlier about the project. So yeah.
+Robin Barrow: Yeah. I can add you both to the accelerator. You're technically taking a license from the client, but assuming that you're doing this piece, are you doing the documentation side of cms for the client as well? Yeah. Okay. Great. So yeah, um
+Randall Wilson: They'll be involved in of course. They have to be at some stage of it, but but we yeah, yeah. We don't need both of us in there.
+David Hardy: Yeah. Yeah.
+Robin Barrow: Okay. All right. You let me
+Randall Wilson: So so explain to me how it work with the accelerator, I guess I'm not familiar with how does this compare to the uh
+Randall Wilson: To the GRC
+Robin Barrow: Sure. So the compliance accelerator think of it as a them guide. So it takes you barely green. And I always suggest like you are pretty well versed in so you understand it. You've been at IT. This a great opportunity for to teach a client type of deal. It takes you really green. What is important all the way through how do I score one ten? But for our customers that are just give me the meat of it. This where our documentation lives it lives in step 6. So this where you can find our full acne doc package. And I don't know if Sam told me this, but the any docs package is a fully complete cms level 2 documentation package. We took a fake company called acne got all the documents approved by C through a and I'm not logged in to SharePoint. So give me a IT loves to free to me. So this what it looks like. All these documents are available to you and the client. Really all you have to do it doesn't take this long. This is my computer to upload to download, but
+Robin Barrow: It's really detailed documentation, for instance, our SP is 185 pages. It's most of them.
+Randall Wilson: Are that
+Robin Barrow: Yeah. They're beast um
+Robin Barrow: I think the company that we framed it off. It's like a midsized company. Obviously, it's all this documentation is gonna have to be customized, but it's a great example of what a one time company looks like. Let me see if I can open this up.
+Randall Wilson: So question is it tailored for what they're getting with the I live and yes already? Okay. Yeah.
+Robin Barrow: So all the PreVeil language is already pre loaded in here. You want to have to make
+Randall Wilson: To me, that's the most important things because I don't know.
+Randall Wilson: If we were set the way we've been doing it for years, I would understand the language to put in there, but I don't understand the language. Like that the network diagram, right? with the PreVeil.
+Robin Barrow: Yeah.
+Robin Barrow: So that's already that's all pre loaded with the UI flow. And then again, you have all the additional SPs that you may need access control. SPs everything really lives within here. Additionally and Sam probably said this the client and yourself get 6 30 minute sessions with our compliance team so you can book time with them right through here.
+Robin Barrow: Really that is IT console hours. You get up to 3 hours or 6 30 minute sessions. If you all want to book, you'd have to just make sure that end clients on the call with you. So if you're booking a meeting on behalf of them um
+Robin Barrow: They can sit in the background. You can do most of the talking just because they technically are the ones that purchased the correct. Yeah. Yeah, the accelerator, like I said, it's really based out of a learning management system. It takes you green team and see what is it all the way through. This is how you score one time.
+Robin Barrow: Any questions?
+Randall Wilson: So how many licenses do they
+Robin Barrow: Yes. In this they get 3. You can do one from your side and then 2 other from them or however you really want to frame it, you can do
+Randall Wilson: Yeah, for us, it's fine. We can do one from our side. No big deal. And then then they do obviously they have to have somebody on the onsite that is has access and then the third one in uh
+Randall Wilson: They might have to right. They
+David Hardy: Might I would imagine it's gonna be Connor and mark. It's my guess.
+Robin Barrow: Okay. Okay. That's the compliance side of PreVeil. And what they have access to. As far as the technical side. They obviously get the 5 licenses, 2 of them being admin. You all get a free admin as being partners with us. So technically they could have 3 admins within the platform. A lot of the times we see.
+Robin Barrow: You all would help them get set up once they get comfortable in the system back out. Because obviously you don't want access to their UI or any of their real organization. So a lot of that a lot of IT companies work that way. And then for their email gateway, that's gonna be a separate set up. Are we have 2 individuals on the support side. Well, a lot of them are well versed, but 2 of them do the training for that. So we'll make sure they're up and running in the system, feeling good and then we'll set up a separate meeting for the email gateway.
+Randall Wilson: I think John is already said our engineers working on the gateway.
+Robin Barrow: Oh.
+Randall Wilson: I don't know if you got a call already. Dave, do you know, working?
+David Hardy: The questions he was answered asking this morning suggested. He hasn't gone to that step yet.
+Randall Wilson: Okay. Okay. Yeah. Cause we were working last week with Eric. Yeah. Uh
+David Hardy: And
+David Hardy: No. Eric with A C not Eric with okay.
+Robin Barrow: Oh, Erica.
+Robin Barrow: Yes. Okay. Okay.
+Randall Wilson: Yeah. And Eric said he was gonna get us a contact with somebody to get the gateway set up. I do know that uh
+Randall Wilson: And because we got the environment set up and we so it's now it's we did use one of the license is great for us. That's the way Eric told us to do it.
+Randall Wilson: And it is on a device in their environment, not in our environment, which is, I think, is the safest way and the cleanest way to do it. And we do we will only log in on the devices on their environment, not in in for from us now. That's a good point. Do you later come back and take that admin out?
+Randall Wilson: Eric didn't suggest that. We do that.
+Robin Barrow: It's again, we you it's a free license that you all get forever. I always just suggest like if you don't need to, but if you don't want to have access to the UI environment.
+Randall Wilson: Very unique case where we have to go in. Somebody on their side gets logged out, locked out or you know after they get comfortable with it, right? I might be a point where we do, but and then that was the other thing is he said he didn't suggest that we got a free license. So he said it was 5 license and we only took and there was only 2 admins and we because we created it. The account we created was an account underneath their tenant their 10 more domain to access it.
+Robin Barrow: Okay. So
+Robin Barrow: Eric, he's on this part side. He might not be aware that partners get a free license. So that it's not a big deal to us. The system is never gonna stop you from adding licenses. We do that. Obviously, we want people to use our platform, but also in case of emergency, they need to send out a document. And this said person doesn't have access to the PreVeil platform. We're gonna allow them to add licenses willingly. The only thing the system does stop is for
+Robin Barrow: Users within their organization to create an express account, which is a free version. The system does stop you from doing that. They have to be fully invited to the organization unless communicating outside then obviously that's when we intend for them to use PreVeil express, but you all have the gateway so you won't see that either. But yeah, that's the only time the system will really stop you from adding users if it's a express account. So to answer your question, you can use admin. You don't have to use admin, it's completely up to you. Okay. And then okay. You're up and running in the org?
+Robin Barrow: With the end Cline. Did they attend that technical on boarding or was it just you all? Okay.
+Randall Wilson: Just us. And we're gonna have another onboarded with a call with them with the client. Okay.
+Robin Barrow: Yeah. Okay. Great. Yeah. I'll send over time for you to book with that. It might be with Eric and might not I'm just if they ask any questions. I'll say this is with the client because you are a new partner. So I'll make sure that's taken care of. But really the next step for you all is just get the client either. If you haven't already invite them to the organization, then we can set up a training.
+Randall Wilson: Okay. What about the the accelerator that you're talking about? Oh, we haven't. I haven't got access to that yet.
+Robin Barrow: No. I can add you right after this call. And then if you provide me with the other names of the individuals, you want me to add to the platform, I can set that up.
+David Hardy: Yeah.
+David Hardy: One of the things that John asked me was the users and I know that that Connor and mark and Jane will will be the ones to identify their internal users. So I would suggest that we follow up with John to see if he's had those conversations and get the people, right? People have access
+Randall Wilson: Right. Yeah. For the accelerator, I guess for sure. It'd be our team would have access once somebody on our team, does it have to be on the same email domain?
+Robin Barrow: No. Like no. Okay. Okay. It's a completely separate login. You'll get an invite from a talent LMS today. And then there there are 2 separate platforms the PreVeil platform, then they got you.
+Randall Wilson: Okay. We'll follow up with you. I wonder if we should just send it to our support at email address instead of anybody's personal or we could actually create a compliant. I think we might create a compliance email address under our non TeamLogic because we don't control TeamLogic, yeah. IT, which is our alternate domain that TeamLogic have to use now, which is good because we can keep stuff separate and I'll create a shared mailbox called compliance. Okay. I think that would be the best thing and I'll send you that e mail address later.
+Robin Barrow: Okay. Great. And I'll send the next steps email right after this call. Just talk about setting up time with the end client and then also I'll book time for us to reconnect in march. Again, I'm not going anywhere, but it's really just to put a placeholder meeting. Make sure we're feeling good. Make sure the clients feeling good. And yeah, I mean, unless they have a ton of UI, they need to put into a rail immediately. Um
+Robin Barrow: That they're off to the races and we'll set up it sounds like you're you have a path forward setup, you won't gateway. I'll ping the support team on that today again. And then if you do ever have a case where the end client was put over 100 gigabytes worth of storage or data into PreVeil, you get up to 10 terabytes with each organization. That's a ton of storage. I don't imagine they're gonna get close to that. I think we have one client that's close to that. But we always say if it's over 100 gigabytes, it's gonna take a while. So let's make set up a file transfer, make sure it's a smooth process. That's not during working hours.
+David Hardy: Okay. Sounds good. Yeah.
+Robin Barrow: Yeah. But yeah, that's really all I had to chat about today. Do you all have any other questions?
+David Hardy: One thing just to highlight re highlight that Randall mentioned earlier. We do have a few other clients that are likely to be in scope for more PreVeil environments. So as we move forward, I know we already have a great team with both Eric, Sam and now yourself. We look forward to learning the process. And so but right now we're brand new. So you may we I will have questions that I'll bring up and my question for you is what's the best way for me to contact with you guys? if I have a question about oh, hey, by the way, they wanted a training session or hey, by the way, they're interested in getting a do I go back through Sam or Eric? or do I reach out to all of you guys or is there support at PreVeil? What's the best way to contact you guys if I have any questions like that?
+Robin Barrow: Yeah. Reach out to me. Now, they're gonna point you to me, regardless, I always say if it's current customers go to me, if it's new new business new customers that have not signed a PreVeil contract, stick with Eric and Sam.
+David Hardy: Okay. Perfect. Okay. Thank you.
+Randall Wilson: Our internal process.
+David Hardy: Exactly, exactly. Nobody wants to talk to me after they talk to me, so it's all good.
+Robin Barrow: And everyone wants to talk to me.
+Robin Barrow: Exactly, exactly. But yeah. No, that's typically the process. Sam and Eric would probably point you. Zoom has a new feature and it keeps zooming into my face and it's fun. Yeah. And I will send over like I said, a follow up email and in my signature, you'll see my cell phone right there. Okay. I always say if you have any fires, if there's a huge major issue PreVeil call me. So then I can at least get the support team on it as soon as possible. But yeah, emails the best communication unless something's on fire. Call me.
+David Hardy: Okay. Sounds good.
+Robin Barrow: Yeah. But awesome. It's really nice to meet you all. Like I said this is your first call with us. But if you bring another client on, typically we'll have them join the welcome call. It's up to you all, however the process. It's just it's helpful because then we can explain a little bit of, okay, why PreVeil learn about what they want. It's up to you, although if you think go right over their head, maybe it's not, yeah.
+Randall Wilson: And most of the clients it will go right over there. Okay.
+Robin Barrow: Yeah.
+Randall Wilson: They just said show me how to use it unless you use it right type of thing. Okay.
+Robin Barrow: All right. Yeah. It's up to you all, but it's available. And then if we have another client, you don't think this call is useful for them. Then we can either skip this call because you already know what to do. Just get right on to the support, right?
+David Hardy: Okay. Awesome.
+Robin Barrow: Great. Well, thank you. All it is really nice to meet you both.
+David Hardy: Thanks for
+Robin Barrow: Thank you. I'll follow up shortly with in the next steps.
+David Hardy: Thanks touch later.

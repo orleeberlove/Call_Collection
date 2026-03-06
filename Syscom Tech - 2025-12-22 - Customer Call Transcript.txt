@@ -1,0 +1,86 @@
+Account: Syscom Tech
+Call Date: 2025-12-22
+Duration: 00:16:48
+Participants: Andrew Meggs, Neil Mori, Charles Heras, Christine Rodia, Kristina Adornetto
+
+======================================================================
+
+nmori: All right. Hey, can you hear us?
+Andrew Meggs: Yes.
+nmori: Hello. We're back there. I swear. Oh, it's
+nmori: Hi Andrew. How are you?
+Andrew Meggs: I am. My throat is a little bit sore I no.
+Andrew Meggs: Carioca, my wife had her. My wife's best friend had her 40th birthday over the weekend and she wanted everybody to do krok last night. So that's one of my throat store. You can
+nmori: Okay. Okay. And is getting like the flu we're like, covid was this
+Andrew Meggs: I don't know. It depends on how much you like nickel back. But yeah.
+nmori: I actually like so yes.
+Andrew Meggs: Yeah, this is a big crowd pleaser.
+nmori: Nickel back.
+Andrew Meggs: It was what? I honestly don't
+nmori: Photograph, yeah. What's like the classic? Um
+Andrew Meggs: Yeah. That's how was it? This is? Yeah. Yeah, yeah. Crowd and wild. It's just
+Andrew Meggs: So that everybody loves that way they're saying it, listen to you.
+nmori: Sorry.
+Andrew Meggs: Okay. Carry okay. Side. I appreciate you all taking the time to meet with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. For context, I am the customer success manager for your account. So that means going forward. I'm kind of your general main point of contact and account manager here at PreVeil. So I like to have a call with all my clients to let you know, I exist. But be kind of go over the onboarding process and make sure you don't have any initial questions.
+nmori: Okay.
+Andrew Meggs: To that point.
+nmori: We will be onboarding with them, but I already yeah. Yes, I assume that speaking can introduce you. Sorry.
+Andrew Meggs: Go ahead. Sure. Sure. Yeah. Okay. Yeah. So any hi, I'm Andrew it's nice to meet you. Um
+Andrew Meggs: Yeah. I guess for getting started there's gonna need to be one person who's gonna do the initial setup of the organization be the initial administrator who is gonna be the person that. Does that do you think
+nmori: I can do that. And is that just to like assign assign usage and assign users and all that stuff?
+Andrew Meggs: Yeah, yeah. Yeah. So basically, it's just one person needs to go through the organization creation creation process to create the org and then they'll invite all the other users. Okay.
+nmori: That's fine. And you can have like a deputy there too.
+Andrew Meggs: Sure. I mean yeah. Yeah, you can have multiple admins if you want. I describe that as a deputy. Um
+nmori: All that.
+Andrew Meggs: But yeah, I sent some instructions over in my initial email and I'll resend them. It's fairly straightforward. It's just download. PreVeil will create a PreVeil account and then there's a specific IP address to go to that. If you're logged into your PreVeil account will prompt you to create the organization. And then once you do that, you'll get an extra tab, this is admin and you'll be able to to add users. So the whole organization creation process takes maybe 5 minutes and the bulk of that is just waiting for PreVeil to download it install. And then once you do that, you'll be set up as that initial administrator. Like I was saying and then you can add other people and then you can upgrade them to an admin so that they can also add other people. Sure. Yeah. And then once the organization is created the next step after that would be to schedule a training session with our support team. It's like an hour long onboarding training session technical. You can use PreVeil as soon as you create the org, but that's kind of going over how to use PreVeil. Roles and responsibilities of the administrator, that sort of thing and making sure there aren't any technical issues in the back end with your work. So honestly like with getting started, we try to make it as straightforward as possible here. So once you I mean the in the instructions will be clear, too. So once you get into that you'll kind of see what I'm talking about. But yeah. And then yeah, let's see, 15 licenses. And this is I assume you all need to be CC compliant. This okay. Are you do you already have I guess are you already assessed or are you looking to get assessed? We did a self assessment.
+nmori: We went with. We had a consultant that was through the engine program. We have our documentation written. We were planning originally on doing it a complete like a real little old school with a standalone.
+Andrew Meggs: Desktop
+nmori: That multiple people would have to sign in on and you kind of had to go one at a time. And then this option was introduced to us as why don't you just do this. Not only does it do final like data transfer. You can send and receive these kind of high site documents. But in within the PreVeil platform, you can also just like work from your current desk. So not you know, we don't have to have people getting up and walking into a dark closet just to just to print something out. You can well, the printing is one thing, but at least viewing the documents, right? So document viewing and actually working on it writing down capturing the bills and material capturing information can be done at your workstation. In so far that anything that's downloaded is downloaded within PreVeil. That's the training element. To my knowledge there, you know. You can't just download something while not operating in PreVeil. That's the data.
+Andrew Meggs: Leakage. Sure. Yeah. Yeah. Okay. Cool. Yeah, we'll definitely you can do all I mean, I guess you did your own pitch for me. Yeah. Uh, any questions about PreVeil in general or any points of clarification you here at the beginning of the process?
+nmori: A lot of this obviously it's you know, we're using this kind of like a one stop shop, right? To my knowledge. PreVeil also has partnerships with assessment companies when it comes to SMS. So it's kind of a trusted name in the ecosystem. So once we get this, once we get up and running we're going to rewrite our internal procedures to to now say that all of our it all of our UI stuff is now operating within PreVeil. And
+nmori: I mean, it is what I said before. True, in the sense of people can work at their desk at their normal desktops and work kind of on commercial stuff. Non SMS stuff and then flip some kind of switch and just work on SMS stuff. Is that correct?
+Andrew Meggs: Yes. Within I mean a couple of asks as risks there, but short answer, yes. You can have PreVeil on on a normal work laptop and use it and it's still considered seems compliant. That laptop would be considered in scope and it would need to be hardened to CC specification. So making sure that there's multi factor authentication, making sure there's antivirus having a firewall. There's a few other things you need. I think of the top my head. But nominally if that endpoint were up to snuff as it were, you could use it for regular business activities. And then if you were to need to handle UI or work on UI, you could do it at the same thing with PreVeil in the cloud. Yeah.
+nmori: So and then how does the Microsoft office integration work?
+Andrew Meggs: So are you on about specifically with outlook? Correct. Yeah. Yeah. So so basically that's just an extra plugin that you download. And then you'll see a separate inbox in your outlook that'll be the secured inbox. And if you were to email something using that inbox, it would send it via PreVeil. There will also be like a encrypt button on a on the actual like draft email itself if you wanted to send it via PreVeil.
+nmori: Okay. We I mean we can send links. We can send and receive. And then also obviously it integrates with our existing outlook. So that outlook is gonna be like my user my outlook will have all my normal stuff plus. It will have like a separate kind of part for anything that's being sent to us through PreVeil, correct?
+Andrew Meggs: Yeah. So once again, a couple of as risks there. The person you're communicating to would also need to have a PreVeil account. They need to sign up, PreVeil express to to communicate with you. And it does currently only work for a classic outlook though we're working on implementing it for new outlook that's supposed to be released early next year. But to answer your question, yes, you would have sent you could send your cat photos to your friend with your normal outlook and then have it there'd be a separate inbox in the same screen that you would use to handle so it our data.
+nmori: And you mentioned before about sending like they would your the recipient will have to have PreVeil as well. Is that just like us telling them hey, get a free, like of get a free PreVeil account?
+Andrew Meggs: Yeah. I mean, you could do it a couple of ways. If you were to just email them via PreVeil, they would get an email saying Neil has invited you to join PreVeil. Here's where you go to sign up. Best practice would be to give them a heads up beforehand saying hey, we're now using PreVeil. Here's where you go to sign up for a PreVeil account in the event that I will eventually need to contact you. Or at the very least, giving giving them a heads up so that they don't just delete the invitation and I think it's spam or something like that. But we have like a little one pager with boilerplate language that says Syscom Tech is now using PreVeil. I promise it's not a scam, here's where to go to sign up. I'll share that with you in my follow up email too. So if you want to share that with people externally before you ever send them something via PreVeil and give them a good heads up.
+Andrew Meggs: Okay.
+nmori: You made a yeah. I mean, I'm just hoping I get it. Yeah.
+nmori: Well, how are you doing it now? We're just using whatever. We can't even send it didn't send it. No, but I'm spent
+nmori: But yeah, when I'm sending old quotes, I'm uploading. Okay. So well, this is like, I guess it's gonna be out a way of doing that or so we can control that transfer, but also this is more of a forcing function because the way we have our sense procedures written. Yeah, that's a little bit different than it though. I mean, that's more guideline as opposed to it, which is I mean, it's a law. So it's they are different. Um
+Andrew Meggs: Seamlessly technically is a law. Now, though it, you can like, yeah, it is it was recently passed into an actual law.
+nmori: Oh, thing that wasn't my understanding?
+Andrew Meggs: No. So technically as of uh
+Andrew Meggs: Yeah. Well, theoretically technically as of November of last year, it was technically passed into law. But November 10th of this year is when officially it's gonna started being in contracts, but it is a law now.
+Andrew Meggs: It was guidelines for very long time though, so. Oh, yeah. Oh, yeah, I don't blame you for. Yeah, for thinking about um
+nmori: You have to speed.
+Andrew Meggs: And then yeah. So obviously all our servers are also compliant. They're all in the United States and worked on by United States citizen and yeah, I can send this and over to you the one pager as well as the instructions on how to create the org as well as yeah. Once you create the org, I'll also include a link to our support team's calendar to schedule that onboarding. I was telling you about if that's it's a shared calendar with the whole support team. So whoever has a free time at that time will take that, but you can schedule the onboarding whenever you want to there. Sure.
+nmori: That work. I mean, it's going to work both ways where we can email someone via this portal as well as ask them to pull files.
+Andrew Meggs: Yeah. Um
+nmori: As well.
+Andrew Meggs: So in terms of file sharing, so you're gonna have a technically not email. We just like just up to look like email. It's a data transfer, but you're gonna have an email to tab and you're gonna have a drive tab. So if you wanted to do file transfer, basically how it would work is you'd create a folder in the drive, you would share it with. Whomever you wanted to. And with whatever permissions you wanted to share read only or view only or what have you. And then anything you put in that shared folder would be shared with them. So if you wanted to just transfer documents, you could just have a shared folder with them and then they could put in any documents they needed and you could put in any documents you needed and then you could that's how you could handle that.
+nmori: That's great. Okay.
+Andrew Meggs: Yeah. And then they'll go all over this in a little bit more detail during the onboarding. But yeah, that's kind of the general use.
+nmori: Wonderful. Um
+Andrew Meggs: Okay. Yeah. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously, you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for march is 90 days from now? Sure. Okay. And where are you all located? What time are in?
+nmori: Eastern. Okay.
+Andrew Meggs: Okay. Does March 20th work?
+nmori: Sure. Yeah.
+Andrew Meggs: It's just a check in. So I live 90 days in advance. So like I'm already booked out that week. But
+Andrew Meggs: Yeah. It's super tentative. And obviously we can change that the day of if you're on a beach in or that in in it or something. We can move that around.
+Andrew Meggs: If you all are doing carry okay. Um
+Andrew Meggs: Okay. Yeah, I will put this on the calendar and yeah. So are you all in New Jersey?
+nmori: Yes. Okay.
+Andrew Meggs: Nice. I'm in Minnesota myself. So a little bit cooler. I don't know. I feel like it gets cold in New Jersey.
+nmori: It does 17 degree mornings last week.
+nmori: Yeah, yeah. Admin time there.
+Andrew Meggs: Was like, 0 last week. So just I mean, not that much colder, but a little bit colder. And then does everybody need to be invited to this check in call or just a few people?
+nmori: Do it Andrew Neil?
+Andrew Meggs: Yeah. And then yeah, I'll just invite you Neil and then anybody else who wants to join can and then yeah, I will put this on the calendar. I will send this follow up email and you will all have my contact information. So if you do have any questions or if you need anything well, actually between Christmas and new years I want to answer, but any other time beyond that? I'll I'll get right back to you. Are
+Andrew Meggs: A 20th. Okay. Yeah. So anything else you wanted to go over or any other questions, John?
+nmori: I know. I mean, this is all kind of new to us. So it's um
+nmori: A lot of questions when we're on board. Yeah.
+Andrew Meggs: Okay. Well okay. Then I will send this over and if you have any questions, let me know. And otherwise, yeah, I appreciate you taking the time to meet with me and I hope you'll have a great rest of your day.
+Andrew Meggs: Yeah. Merry Christmas. Yeah, I have a good one, but

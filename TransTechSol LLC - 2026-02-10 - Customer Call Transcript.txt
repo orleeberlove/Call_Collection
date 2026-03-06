@@ -1,0 +1,105 @@
+Account: TransTechSol LLC
+Call Date: 2026-02-10
+Duration: 00:17:26
+Participants: Andrew Meggs, Morgan Fritzius
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello, Morgan.
+morganfritzius: Hi Andrew. How are hello? You
+Andrew Meggs: Chris. Doing well, I can turn my camera off to and solidarity. Hi. Yes. Hello. It's just the 2 of you all today, right?
+Chris Strasser: Correct.
+Andrew Meggs: Okay. Well, I appreciate you all taking the time to meet with me today. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call sort of thing. For context, I am the customer success manager for your account. So what that means is I am your general main point of contact and account manager here at PreVeil going forward. So I like to have a call with all my clients to let you know, I exist, but be kind of walking revel and go over the onboarding process and make sure you don't have any initial questions.
+Chris Strasser: Okay. That's great. That sounds good.
+Andrew Meggs: Yeah, to that point, hi, welcome to PreVeil. I'm Andrew. Yeah. So getting started with PreVeil. There's kind of 2 separate pillars. If you will, there is the actual technical implementation and then there is the compliance documentation getting access to the compliance accelerator for the technical implementation who is gonna be the person that will actually be setting up the organization and being the administrator on the PreVeil side of things.
+Andrew Meggs: Morgan. Okay. Yeah. Morgan, I do see you already have a PreVeil account, is that correct?
+morganfritzius: Yes, that's correct. So that when you say that you're referring to, are you referring to what you sent via email last time to set up or the actual downloading of PreVeil?
+morganfritzius: Like
+Andrew Meggs: Yeah. What I mean by that is like, yeah, the that in in that initial email, I sent some instructions on how to set the how to set everything up.
+morganfritzius: Okay. Yeah. I actually was trying to go through some of the onboarding stuff today. I went through the downloading process. And so that yeah, that is all somewhat setup as far as my account.
+Andrew Meggs: Sure. Yeah. I mean, if you want to just right now on this call, go ahead and set up the on set up the organization. We can do that. It's basically just one more step you have to do.
+morganfritzius: Okay. Yeah, that would be really helpful.
+Andrew Meggs: Yeah. Okay. Well, do you mind sharing your screen?
+morganfritzius: Yes. One second.
+morganfritzius: Sorry, I'm working on getting there. Okay. Um
+Andrew Meggs: I muted long story short, basically. You just if you have PreVeil downloaded your computer, you just open up a new browser tab and you go to the link that I just sent you in the chat and that should prompt you to create the official PreVeil organization.
+morganfritzius: Okay. Great. Let me navigate to the chat.
+Andrew Meggs: There's a lot of moving parts here now. Sorry.
+Andrew Meggs: Yeah. This is asking you to name your organization, probably want to name it, TransTechSol or someone along those lines. Um
+Andrew Meggs: And uh
+Andrew Meggs: Then for use department, that's more for internal that you can usually recommend admin, but that can be anything. It doesn't actually affect anything. Okay.
+morganfritzius: Chris, do you have any preference on that? Do you just want me to use admin?
+Chris Strasser: Yeah, that's fine. Okay.
+Andrew Meggs: And then congratulations. You are now the administrator of the official TransTechSol PreVeil organization.
+morganfritzius: Great. Thank you for
+Andrew Meggs: That yeah. Have the admin tab and now you can start adding users. I did wanna note. It looks like there are several people that already have PreVeil express accounts. I'm seeing a Kristen, branca, Morgan, you, obviously Adam sharp date or Morgan and Dwayne Johnson.
+Andrew Meggs: Do you know if those people?
+Chris Strasser: Will. So what happens is we support proposal development or companies that have already implemented PreVeil? Sure. And then they give us accounts to work from on their PreVeil system. So that's where most of those are coming from.
+Andrew Meggs: Sure. Yeah. And it's not a problem. What I'm saying is if any of those people need to have need to be part of the actual PreVeil organization, it's just a slightly different process of onboarding them then they will
+Chris Strasser: They will need to be part of the PreVeil organization.
+Andrew Meggs: Yeah. So so so basically, instead of them creating an account since they already have an account when you invite them they will instead get an invitation in their pre existing PreVeil account and then they will need to accept that invitation in order to be subs med into the organization, basically. So okay. Good. Yeah, so just slightly different process. That's why I wanted to mention it.
+Chris Strasser: Okay. The big differences, they'll have to do it from their PreVeil express account. Got it, right. Okay.
+Chris Strasser: As far as
+morganfritzius: Everybody else would they just do it through email then?
+Andrew Meggs: Yeah. For someone who doesn't already have an account, when you invite them, they will get an invitation in their normal email inbox and then they'll go through the steps to download PreVeil and create their account.
+morganfritzius: Okay. Got it.
+Chris Strasser: And you send Morgan the address to their PreVeil express account so she can use those or will that happen automatically when she tries to add them?
+Andrew Meggs: You'll see it automatically when she tries to when you try to add them. You'll get an invite. You'll you'll get a a little note saying this person that already has a PreVeil account will receive an invitation, that sort of thing.
+morganfritzius: Okay. And that's so that's if it's linked to the same e mail, right? Which I believe they all should be
+Andrew Meggs: Right. Yeah. Okay.
+Andrew Meggs: Um
+Andrew Meggs: Yeah. Yeah. That's kind of it in terms of getting PreVeil actually started. The what's what I'm looking for the next step after you've now created the org is to go through the official onboarding process. And so that is that is with a link to the support team's calendar. I believe it was also included in that in that email that I sent you, but I'll resend it in a follow up email. That's gonna be an hour long kind of training onboarding session where they go over, how to use, PreVeil and admin roles and responsibilities, that sort of thing.
+Chris Strasser: Okay. Can we both be admins just so I can back up Morgan?
+Andrew Meggs: Yeah, you are currently licensed for 24 total users. 2 of which can be admins.
+Chris Strasser: Do you think that should be me or Kristen Morgan?
+morganfritzius: Um
+morganfritzius: I would can maybe change at any point I would say probably you at first Chris, if that's fine, once we are getting everything set up and then if it's something that maybe we can transfer, if you want to move it to Kristen. So you don't have to worry about anything.
+Chris Strasser: That makes sense. Because so what's happening here is I'm not on the company, but what I'm trying to do is help reconcile the policies, get our compliance where it needs to be help her with any decisions on. Can we really do it all in google docs. Do we actually need to bring in Microsoft sort of big muscle movements, but then and I can totally see having to use admin in that process, especially when we get all our people set up. So that's gonna be a fairly heavy lift to just get them to use this. I mean, just to be clear, we're not criticizing PreVeil at all. It's a heavy lift for us to get them to sign into their e mail, right? Because they work on a high side system. They just don't like to interact, right? So so I expect it to be involved there and having the admin account is good for that when I have to sort of twist her arm and go. No, no. This is you have to do this. We're done playing here. But then once we get through adoption, I just picture turn that over to Kristen and Morgan and then one of them would always be available kind of thing.
+Andrew Meggs: Yes, you can definitely be an admin for now. And then later on if you want to make someone else an admin and then an admin yourself, you can definitely do that.
+morganfritzius: Okay. Right. Yeah.
+Andrew Meggs: But yeah. That's kind of it in terms of the technical setup is creating the org, which you just did and going through that onboarding with our support team. Completely separate from that is the compliance accelerator stuff. So Morgan, I believe I added you to the accelerator back in the day. Or rather more to the point back when you're first scheduled to meet, did you get an invitation to that at all?
+morganfritzius: I did. Yeah, that's the like the courses. Yeah. I'm just going through that step by step. Yes, I did.
+Andrew Meggs: The
+Chris Strasser: Courses, but I when I tried to use the GRC accelerator, I couldn't get in there. So it might be different than the courses Morgan.
+morganfritzius: Oh, okay. I definitely got into where the courses are, if it's something different that I might need back. So
+Chris Strasser: One of the courses is the GC tool.
+Andrew Meggs: Yes. So
+Andrew Meggs: So the that course is not the actual GRC tool. It is a course on. If you had the GRC tool, here's how you use it. Right.
+Chris Strasser: Are you saying that gretal is just those 10 step 0 to 10 listing of courses? That's it? That's the GRC tool.
+Andrew Meggs: No, no. Translate doesn't actually have the GRC tool. It's part of it subscription.
+Chris Strasser: Got it. That's what I wanted to talk through today, right? Yeah. So so tell us about the GRC tool.
+Andrew Meggs: Yeah. So basically that is AI mean, if you've looked at the course does an overview. It's basically a project management tool that's built on top of the accelerator that well, I'm just as I'm sure maybe you've noticed when you go through the accelerator it's a series of courses on how to be CC compliant. It's also a repository of compliance documentation for you to download and work through locally. But with the GRC tool, it's kind of pre loaded all the documentation and it's a project management tool where all the documentation is already in the cloud and you would work on it actually in the GRC environment.
+Chris Strasser: Right. I mean, it looks tremendous for going through the certification and staying up to date after the fact, but I assume because we didn't get it, there is some cost.
+Andrew Meggs: Yeah. It would be an additional cost on top of your subscription.
+Chris Strasser: And how much would it be
+Andrew Meggs: I don't have the pricing in front of me. I and I'm bad at mental math. I think it's roughly $3,000 for 12 months.
+Chris Strasser: So every 12 months, you'd have to pay $3,000. Yeah, we don't need that. We're good. Okay. Sure.
+Andrew Meggs: Well, as kind of saying as previously mentioned, it's not necessary. It's more of a quality of life project management tool than something that you. Absolutely need. Yes. Yes. Yes.
+Chris Strasser: Yes. Yes. It is. Interesting to me and it's interesting to me because we do want to be a third party assessor for cms. So we're very much heavy into the adoption of cms. But I think that for us at this point, that would probably be a waste of time because we want to get into it a deeper level anyway. And I almost thought about creating our own tool that would integrate more than just CC. That would be a broader governance risk compliance, kind of tools. So so got it. Yep. That's where we're coming from. I don't think we need it at this point.
+Andrew Meggs: Yeah. Okay. Sure. I mean, and if down the road that is something that you're interested in or if you want to revisit it, I could probably get approval for a discount on that. But okay. Yeah, that's the general pricing at least and yeah, let me know if you have any more questions about that. Okay. But the important thing is that you at least got access to the accelerator. So that's the the courses and all the documentation that you can download.
+Andrew Meggs: And then with that also comes access to our own internal compliance team as a resource. So I know you mentioned you were in the POS yourself. We have on our team the people that wrote all this documentation and made all these videos. So if at any point you have any compliance related questions they are available to at
+Chris Strasser: It together and they know what body of evidence we need to have to. Exactly exactly certification. And yeah, that's wonderful. How much can we use them? Is it sort of just go ahead and use them until they cancel? Or is there is a codified somehow?
+Andrew Meggs: You can email them at any point at a compliance at PreVeil.com. But you can also meet with them. There's actually a link to their calendar in the accelerator under the course additional compliance resources.
+Andrew Meggs: Per year subscription. It's 6 half hour meetings in a 12 month period. Okay. But to be honest, to the best of my knowledge, no one's ever been cut off. I think they just say that to make sure people don't abuse their calendar. But as long as you're not putting like 20 meetings a week or anything and
+Chris Strasser: Really compliance really isn't that fulfilling. So I don't think there's much danger of abuse there. Sure.
+Andrew Meggs: Sure. But any but nominally just I mean, technically as part of your contract, it's 6.
+Chris Strasser: Half hour meeting. Appreciate that.
+Andrew Meggs: But yeah. It's kind of a good segue to my next point about the different resources here at PreVeil. There's kind of 3 different teams you'll be working with. So the support team is the people that will be doing your onboarding. They're available at support at PreVeil.com the compliance team, like I said, can answer any compliance related questions, compliance at PreVeil.com and then I am kind of the general main point of contact. If you're not sure who to talk to if something needs to get escalated or if you have any account related questions, like if you wanted to license at the C tool subscription, that sort of thing would be me.
+Andrew Meggs: Okay. So
+Chris Strasser: Thank you.
+Andrew Meggs: Yeah. So any next steps would be to yeah, schedule that onboarding with the support team get into the compliance accelerate documentation and then you pretty much are good to go after that. The only other thing I'd like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously, you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for may is 90 days from now?
+Andrew Meggs: Sure.
+Chris Strasser: Okay. And then
+Andrew Meggs: And what what time zone are you all and what where are you all located?
+Chris Strasser: Top answer Pacific and eastern.
+Andrew Meggs: Pacific and eastern. Okay. I'll do a slightly later meeting then. Um
+Andrew Meggs: I'm in. I'm in the Midwest myself, so classic.
+Chris Strasser: Central time you're right in between us. There you go.
+Andrew Meggs: So yeah. And then while I put that on the calendar, any other questions or any other points of clarification you need here at the beginning of the process?
+morganfritzius: I don't think I have any yet. I think I might have more once I get dive into the onboarding a little bit, but yeah, as far as right now, I don't think I have anything.
+Andrew Meggs: Okay. Well, like I said, I will send a follow up email kind of going over what we talked about and with all the contact information for everybody. And you now have my email and phone number. So if you do have any questions, please don't hesitate to reach out and let me know.
+Chris Strasser: Okay. Thanks, Andrew. Appreciate it.
+Andrew Meggs: Yeah. Thank you all for your time and hope you have a great rest of the day.
+morganfritzius: You too.
+Andrew Meggs: Okay.

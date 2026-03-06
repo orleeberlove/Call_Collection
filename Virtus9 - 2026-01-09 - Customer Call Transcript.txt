@@ -1,0 +1,90 @@
+Account: Virtus9
+Call Date: 2026-01-09
+Duration: 00:14:02
+Participants: Andrew Meggs, Arun Vinayak, Christine Gibbons
+
+======================================================================
+
+Andrew Meggs: So
+Arun: Hello.
+Arun: Sorry, we're late. Can you hear me okay? Yes. Hi. My one more team members joining, but I think we could go ahead and get started.
+Andrew Meggs: Sure. Honestly, there's not a ton to get started on here. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context. I am the customer success manager for your oh, that's actually that's Christie there. So let before I go into my whole prerecorded spiel, hi Christy.
+Andrew Meggs: Hi.
+Andrew Meggs: Um
+Andrew Meggs: I was just saying that the why are you talking to me? I am the your account manager going forward here at PreVeil. I'm the customer success manager. So this is sort of just like a welcome intro call to let you know, I exist as your new main point of contact at PreVeil and welcome to Val and then be kind of go over the onboarding process and make sure you don't have any initial questions.
+Andrew Meggs: So to that point, hi, Andrew, it's nice to meet you. Well, I I am I'm in Minnesota myself where you all calling in from.
+Arun: Bay area, San Francisco.
+Andrew Meggs: Slightly nicer weather I would presume. But yeah. Okay. So getting started with PreVeil. There's kind of 2 separate pillars. There is the technical implementation and then there is the compliance side of things. So for the technical implementation, who is gonna be the person, that's actually gonna be like, setting up the organization and being the administrator.
+Arun: So actually it's split. So we do have a MS so they do the any new do I guess, software provisioning. But as far as the being the admin itself, in terms of um
+Arun: Yeah. I guess it will be done. I'm trying to figure it out. I've given them the scope not scope, I guess. Like the you know, instructions that we purchased PreVeil. I'm waiting to hear back from our MS technical account manager on the next steps are
+Andrew Meggs: Yeah. So basically for creating the organization anybody can do it doesn't necessarily. But I guess if you're MS is the people who handle any software installations, they would need to download it's basically just downloading PreVeil creating a PreVeil account and then there's a specific IP address to go to that once once you're logged into your PreVeil account will prompt you to create the organization. If you need your SPs, approval to download software, you would need to get that, but anybody could do it and it's not a terribly technical process or anything like that.
+Arun: So I think that's good to know. So I was thinking so it seems like I could still be the admin, but have them actually because I don't I can't provision that, I think
+Andrew Meggs: Yeah. I mean, you can be the admin. You could do it 5 minutes after this call. If you wanted to the whole process takes. Yeah, like 5 6 minutes.
+Arun: Okay. If you have 5 minutes to go to that'd be helpful. Well, see how that
+Andrew Meggs: Sure. Yeah. I mean, if you want to do it. I mean yeah, I mean, the bulk of that is just waiting for PreVeil to download, but if you want to do it right now on this call, sure. Just go to PreVeil.com backslash download.
+Arun: Well, I don't know if I can actually install it to PreVeil dot
+Andrew Meggs: Go again. PreVeil.com backslash download.
+Arun: Okay. Let me try and do it because some things are controlled. For example, I can install zoom on my computer, right? Sure. So it's not, I guess but PreVeil is might be I don't know. So because we have cms controlled and all that stuff. So let me see. So PreVeil.
+Arun: Dot counsel is download. Uh
+Andrew Meggs: Technically create
+Arun: Account. But account. So what I mean, I'm happy screen share so
+Arun: Give me
+Andrew Meggs: And I sent these instructions over in that initial email too, and I'll resend them as well. But if you can install it, then we can just do it now if you want to.
+Arun: Let's go for it. So which one would I?
+Andrew Meggs: Go the downloaded version.
+Arun: This one desktop.
+Andrew Meggs: The PreVeil, yeah.
+Arun: Okay. Download for windows and we'll see I'll probably just validate my yeah. Probably probably want to let me install it's gonna ask for admin, which I already requested that's kind of why we got stuck with that. I just want to confirm it. Um
+Arun: Still downloading. Okay. There we go.
+Arun: But if it lets me do it I will.
+Arun: I think. Oh, there we go. Oh.
+Arun: Yeah. There we go, admin. So anyway, that's fine. So I have requested this installed by our it team. So once they install it, I think I can go through the next steps, right? Because it's essentially into that point. I'm blocked.
+Andrew Meggs: Yeah. The only thing really you would need the MS to do is to approve the install. And once again, I'll resend resend all this in my follow up email. But yeah, basically once it's installed you create an account and then there's a very it's like 1 2 7.4 point now. I don't remember the number of off hand. It's technically a local host ID, but wherever there's a specific link to go to that. While you're logged into your account, will prompt you to create the organization. And then if you go to that link and create the organization, you will be set up as the administrator. And then you'll be able to add the other people.
+Arun: Perfect.
+Andrew Meggs: And then the next step after you create the org, is to schedule the actual technical on boarding session with our support team. So there that'll be like an hour long training session, how to use, PreVeil, admin roles, responsibilities, that sort of thing.
+Arun: And that's only for the admin, not for all users.
+Andrew Meggs: You could invite your users if you wanted. But I mean, part of it will be outside of the scope of your end users because it'll be admin stuff. But part of it is you like how to use PreVeil, so you can certainly invite your users or have it recorded or you know, whatever. Got it. Okay.
+Arun: Maybe like half and half or something on who that be with.
+Andrew Meggs: The technical onboarding is with our support team.
+Arun: Okay.
+Arun: Yeah. Got it.
+Andrew Meggs: So yeah. That's a training session and also, they make sure there's no issues in the back end with your board creation and answer any technical questions you might have. I said um
+Andrew Meggs: But yeah. That's kind of the tech. I mean, I say it's time it's not really that technical. It's just creating an account and going to a link. But that's the kind of the setup is creating the organization and going from the onboarding. Completely separate from that on a separate website is our compliance portal with all the documentation and everything.
+Arun: Get set up at the same time.
+Andrew Meggs: So. No, that's something that I add people to. So I actually added you to the we call it the compliance accelerator and that's the marketing term, but I added you to that right before this call. So you should see an email invitation for that coming through in a few minutes. From talent LMS is the tool we built it on. But I'll also send a direct link to it in my follow up email as well. But you can have up to 3 people in there at a time and they don't have to be the same people that are in PreVeil. Should I add Christine to that as well or anyone else?
+Arun: Definitely Christine. And yes. Actually one more. User name is head there.
+Andrew Meggs: Yeah. If you put her full name and email address in the chat.
+Arun: I can. Okay. Perfect. I can.
+Andrew Meggs: Add her as well.
+Arun: You already have Christie's?
+Andrew Meggs: Yeah. Yes. Christine is on this call. So
+Andrew Meggs: So Christine, you will also be getting a email invitation from talent LMS. Sometimes like takes 10 15 minutes for it to come through. But like I said, I'll include a link in my follow up. Oh, okay. Yeah, that's great convenient.
+Andrew Meggs: Okay. I will invite Heather as well. And then
+Andrew Meggs: Yeah. That is the what I'm inviting into the accelerator. If you aren't already aware Christine. It's basically a video doc series and walk through of CC compliance as well as a repository of compliance documentation templates that are already pre written. It's we've taken this fake company Acme corp and we've basically taken it from 0 to 110 with compliance. And then it's all the steps along the way. And all the documents are pre written. And you basically just replace Acme corps information with with your information is kind of the idea.
+Arun: Got it. Um
+Andrew Meggs: So
+Andrew Meggs: Yeah, Heather.
+Andrew Meggs: And should I should I include Heather in my follow up email?
+Andrew Meggs: So sure. My contact information.
+Arun: Yeah, that'd be great.
+Andrew Meggs: Okay.
+Andrew Meggs: I'll add Heather to
+Andrew Meggs: And then yeah, in terms of just getting started at the very least. That's kind of it is creating the org and going through the onboarding and then getting into the accelerator, which I've added 3 of you to just now. So um
+Andrew Meggs: Yeah, there's not much else in terms of getting started. Do you have any questions about PreVeil or any points of clarification you need here at the beginning of the process?
+Arun: Just a quick follow up on like I got the point about setting it up, getting the org setup training and also compliance portal. I think what we're likely going to have is just kind of I guess questions and policies and things like that. And I believe it's a certain number of sessions that you offer or any any more info regarding that would be helpful.
+Andrew Meggs: Yeah. With the accelerator comes access to our own internal compliance team as a resource. So they are available to answer any compliance questions you might have or give recommendations like you were saying, they're available at compliance at PreVeil.com. And there's also a direct link to their calendar in the accelerator to schedule a meeting with them. So I'll include that information. I follow up email too. But yeah, if you're looking for specific guidance based on your scenario, they'd be able to provide that. Yeah.
+Arun: Okay. That sounds good. I think we have some time to kind of set up get familiar. You're also prepping for our cms certification, Q2, Q3. So that's when we'll probably server back for
+Andrew Meggs: That support. Sure. Yeah. I mean, I guess that's the next next part is just kind of delineating the different teams here at PreVeil. The support team will be doing the onboarding. They're also with people hitting on bugs or technical issues. Hopefully, that won't be relevant. The compliance team can answer any compliance related issues. And then I am kind of the general main point of contact if you're not sure to talk to if something needs to get escalated. Or if you have any account related questions, like you need to add a license subscription renewal, that sort of thing would be me.
+Arun: Okay. That sounds good.
+Andrew Meggs: But when in doubt reach out to me and I can at least point you to to you need to get to
+Arun: But great. Give me one good.
+Arun: Okay.
+Andrew Meggs: So yeah. The only other thing I like to do on these calls is I'd like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Obviously you can reach out to me before then if you need anything. But do you mind if I put some time on the calendar for April? Is 90 days from now?
+Arun: No. Not at all. That sounds good. It should be fine. I mean, you can go ahead and schedule and
+Andrew Meggs: Yeah. And then yeah, obviously it's 90 days out. So if you know, if we need to reschedule if your board or sit in in late or something, we can move that around. And then like I said, I will send this follow up email with all everything that we talked about in my contact information and everything. And then yeah, that's kind of it in terms of my
+Andrew Meggs: Scheduled talking points, was there anything else you wanted to go over or discuss?
+Arun: No, I think I'm good. Thank you. I actually was very helpful. Just kind of touching base. And I did send that are I'm just waiting on the application to be installed so that we can actually proceed with the account set up. But it was good helpful to have the walkthrough is. Any thoughts, questions? No. Andrew, I don't think I have the what
+Andrew Meggs: You sent to me just yet, but I'm sure it'll come through. Yeah. It's kind of the emails get are slow. So it takes a while to come through. But like I said, I'll also include a direct link. So even if you don't get the email invite, you can just go there directly if you want. Oh, it just popped on. There we go. So the demo that's good.
+Andrew Meggs: All right. Yeah, I mean, that's it on my end. I don't want to waste Joel's time unless there's anything else you all wanted to go over. I can let you get back to it.
+Arun: Sounds great. Thank you, Andrew.
+Andrew Meggs: Okay. Yeah, it's great to meet the both of you all and I appreciate you all taking the time and I hope you'll have a great weekend. You too, thank you. Have a good one. Bye bye.

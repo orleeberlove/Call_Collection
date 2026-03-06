@@ -1,0 +1,118 @@
+Account: Softek Global Services dba Strategic Growth Partners
+Call Date: 2026-01-12
+Duration: 00:23:47
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: Hi, Kevin. Sorry, my audio wasn't working for a second there.
+KevinTurnage: No worries. You know what I was having my own trouble getting zoom so normally use the web interface and it wouldn't want me. So it forced me to use the desktop one today.
+Robin Barrow: Oh, weird.
+KevinTurnage: Yeah. We're actually doing away with that on our side because we're trying to become more and more compliant and don't trust zoom since all the incidents they had back in the day.
+Robin Barrow: Oh, yeah, that makes sense. I don't blame you. I wonder if they'll ever forth as to teams. I personally don't love teams, but we use Microsoft products for the most part. So we'll see yeah, I've been watching the communication back and forth with Ryan and you all but obviously want to hear from you. How are things going?
+KevinTurnage: All right. Uh, licenses. I don't believe there's been any changes.
+Robin Barrow: Not see any yeah. They see you all seem good.
+KevinTurnage: The LP is we're they're literally asking for a scope of work right now. I wrote one up last week and we're getting it approved. So that'll be kicked off and a lot of this is gonna be finalized. We're seeking to do a self assessment here by the end of the month.
+Robin Barrow: Oh, nice. Okay.
+KevinTurnage: Yeah. So just to give you some insights and what might come out of that. We'll see because they now have a CIO over there for Papa. And he's working to help with their discovery and they also have a contract manager that they've recently hired. So he's going through all the contracts to validate the compliance requirements. So a lot of moving parts here recently. It sounds like it yeah. Um
+KevinTurnage: With Aaron's experience it wasn't the best he's a shipper guy. He's willing to work with people. And it was touch and got her for a while. And let's just say there wasn't an accident that happened from a configuration standpoint, not your guy's fault. He opted to be a test dummy, which is really weird because he's important, but he's also very technical. He's like I'm willing to test it. Okay, well, we ended up having to wipe his computer. So they reset his computer and loaded. Avail, five, eight, 13 up and low and behold, it worked
+Robin Barrow: Oh, wow.
+KevinTurnage: So, which is frustrating because Ryan had told us that whole time don't bother it's gonna be the same level of impact and it's not gonna work and whatnot. And I don't know if you saw the last communication from him. He was like, well, go ahead and reset everything again. And you're like, this just isn't practical. We'll just beating the same drum, marching to the same drum beat over and over again. That's you know, what the exact definition of insanity do the same thing over and over again, expected.
+Robin Barrow: Yes. So yeah, it is.
+KevinTurnage: So that happened the exact same time. 15 came out. He was willing without me asking he jumped to 15 and you guys have stated that it fixes all the sync issues and whatnot now. That's that side. Okay. Phil did write back and Phil or Ryan maybe it's Ryan. He wrote back and gave an exact. It's not I'm hesitant to call it a tool. Let's call it a command script. Okay. And he provided that to Aaron because it's extremely technical. I would not expect a normal user to be able to do this and open up command prompt. Run it and it'll do I tell you if anything is out of sync. So still not ideal. I hope that the new PreVeil drive solution has something that says sync status for every single file because that's really lacking.
+Robin Barrow: We do. I saw it actually last Friday, they demoed it to the company.
+KevinTurnage: So awesome. Is that in the new demo coming up this next?
+KevinTurnage: 10 days.
+Robin Barrow: Fingers crossed, yes. Yep. That's it shows even it shows you like download status too. So sync status, I should say. I'll give you a percentage. And yeah. So
+KevinTurnage: You know what, I'm gonna give myself a note here. And I'm gonna invite Aaron to that just because he's such a key role player there.
+Robin Barrow: Yes. Yeah.
+Robin Barrow: Yeah.
+Robin Barrow: Um
+KevinTurnage: So there is another major issue that came up. I don't know if you're privy to everything. Try to be the email gateway went down. It went down as soon as I was on vacation and it was extremely extremely frustrating because I wasn't present and we did not get a recent alert on it out of the 3 tenants of PreVeil that we manage only one got a flag and they didn't even get it until 2 days ago.
+Robin Barrow: And it didn't come back online until 2 days ago. I knew it went
+KevinTurnage: Out. No, no, no, no. It only one of the 3 tenants gave us alert that said that the email gateway wasn't working and it wasn't even the one that we were really having problems with the one that we had problems with went offline, it's our biggest customer Papa and the government the dot was not able to communicate with them for over for 20 days.
+Robin Barrow: 22.
+KevinTurnage: 0 8 days, yes. 2 0. If we did not get any alerts. The only way we found out is because the do reached out to us and we're like, oh
+KevinTurnage: That's really bad because we've actually had this happen before with another customer. When it came down to the sixth email. From the do they said, sorry, we're not doing business with you anymore. You can't get your stuff straight.
+KevinTurnage: So. Okay. Yeah, that's a massive ordeal. I've reached out to Phil. And this is where I'm gonna ask your insight your help here. Yeah. Bill did not respond to my request for a meeting today. He myself, St and a code are asking to meet with one of your engineers. Not to choose them out, just to figure out where these logs are. Because when we worked with Eric before we bought PreVeil, we asked hey, what's up with these logs in these demos? We can't view anything realistically in the guy and they said don't worry as soon as you connect to Sam, you'll get everything you need. Well, we connected the same and advocates, engineers have bored through it diligently and they can't find anything that we need. We can't find unique identifiers. We cannot find computer exact names, which is we even opened a ticket on a while back and they your team said no, it's there. I opened a new ticket on it and they said, nope, that it's only gonna show the local loop back IP address, which is useless because everyone uses the same. Address when it comes to that. So that's just one of 20 pertinent pieces of information we need and logs is a big piece. And maybe we need to go about this a different way who
+KevinTurnage: Who from your side, sat in on an audit?
+KevinTurnage: And got this working from a cms level 2 standpoint to get certified. Because if we're not able to pull those logs, how did someone get through this? Because those are pretty clear called out. Items that I agree on our repo agrees on the common industry practices, all agree on that, you get the individual IP address, the individual computer name, the serial number the user account that's making these changes when they were joined. Etcetera, etcetera, etcetera, and even system changes are not logged, Robin is what we're being told. And so okay. This extremely frustrating and we either need to go about it, 2 different ways. I think we should probably tackle it from both ways. One, I need Phil to respond. We need to set up a meeting and it and have him provide answers. If he's dodging us because there are no real answers, we need to immediately get on a call with someone who sat through one of these audits from PreVeil side and let us know how this handled.
+Robin Barrow: Okay. And when did you reach out to Phil last week? Okay. And he has not responded at all to you because
+KevinTurnage: No. He did not respond at all. He responded to the individual tickets, then started closing them and which is frustrating because he didn't answer my questions.
+Robin Barrow: Okay. I think you should probably speak with Greg. Who's our head of product, have you spoken with him before Greg?
+Robin Barrow: Okay. Either head of product, but he also sits in the compliance side. Let me just see what's Greg. I'm going to be honest with you. Greg is extremely busy guy. So his calendar is always really crazy. Let me just see. He has time, but I don't have time. And I want to make sure I'm involved. Would you have time this?
+Robin Barrow: Wednesday, at 11 30.
+KevinTurnage: Yes. Well, eastern eastern. Yeah, one second. Let's see here. 11:30 eastern.
+KevinTurnage: Do my reverse calculations here? That's earlier for me, yes.
+Robin Barrow: 10. Yeah, yeah. Okay. I'm gonna add you to this meeting and he'll be able because he's seeing what happens with these assessments as far as log details. Um
+Robin Barrow: I'm just gonna put um
+Robin Barrow: Okay. And then I'll just add this meeting now. So you'll meet with Greg. Like I said, he's head head of product. So he'll be able to not only answer how these assessments were passed based on.
+Robin Barrow: Current log details. And then he can also talk about any other roadmap products. If you're interested in hearing too. I'm only putting it for 30 minutes, but that's what I have a hard stop. If you guys go over. I don't know if Greg has a hard stop, but
+KevinTurnage: That's fine. I won't corner him with a technical questions from ABA code because that's what they're we're gonna ask. Phil.
+Robin Barrow: Okay. I would still I'm gonna see if I can grab Phil's calendar so you can get time with him too.
+KevinTurnage: Thank you. Yeah.
+Robin Barrow: So you see if I can just grab his calendar so you can just honestly book right on?
+Robin Barrow: Yeah, I can answer a technical question. I mean, but I think you would separate the worlds easier.
+KevinTurnage: Yeah, definitely. So I think that's what we're gonna go about this. And I'm gonna bring their Cisco in and my CIO. And we'll go about this, bring some peace of mind from everything we dealt with Aaron from the email gateway. And then from this logging standpoint, because those are the biggest pain points that you've heard my complaints before and they're not straight from my mouth, they're straight from the customers mouth. They are
+Robin Barrow: And I I want you to know I did escalate this to Randy, who's our founder. I actually sent an escalation email to my head up and then it got escalated from my VP to Randy, who's our founder because he wants to be privy of what's going on. What are our customers upset about so I just wanted you to know I did escalate it, but we saw the progress happening on a ticket. So he's aware of what's happening. So if anything goes block, but turns if anything hits the fan again as far as Aaron or it's getting really hairy again. That's when Randy is gonna jump in and probably meet with you all.
+KevinTurnage: So what's gonna be Harry next is not gonna be the customer side yet until they do their discovery if that's all working. Great. Stable, it what's gonna get Harry is this compliance side of the logging. This come up and several conversations recently and we were like, oh, no problem. We were told is there and we'll work with it. We've had these keep hitting these large wall blocks roadblocks. So
+Robin Barrow: That Greg will definitely. I'm gonna let him know right after this call. That's what we're gonna talk about on Wednesday.
+KevinTurnage: Yeah. And again hold my breath here, because okay, if it's not in the system, how did you guys pull it off? Because someone got certified somehow and worst worst case scenario, we go grab that auditor.
+KevinTurnage: Flag it for now. And do a non pompom that says the maturity level. We'll get there, but
+Robin Barrow: There there must be some other way. So and Greg will know it.
+KevinTurnage: Yeah. Because in C M C I don't know if you're familiar with ever reading the controls, but it says it I get hit with this every single day of my life. It doesn't strictly say exactly to a tie what you require. But what it does say is relevant logs and the community says all relevant logs are unique identifiers that show what was done when it was done by whom
+KevinTurnage: So if you can't prove that then the problem and I don't know if you ever seen the logs, but they essentially go. They give everyone nicknames and say well, Mr number one and Mr number 2 number 3 all have device number, one device number 2 device, number 3. That's worthless. I can't use that. I can't even use it to clean up things and that was Phil's response to me. He's like, well, don't worry. You can export all devices from the guy. I was like, great, thank you. I'll go look at it. I did it's the same information. I can't even provide to my PO and they're asking for this evidence right now. They want it this week and I'm like I can't give it to you. It's useless.
+Robin Barrow: Yeah. Yeah. I mean and it doesn't like
+Robin Barrow: It doesn't sound traceable back to the device and that's what the
+KevinTurnage: Exact are. Yep. Yeah, it's not traceable. You're exactly right.
+Robin Barrow: Yeah. Um
+Robin Barrow: I have to go ahead, sorry.
+KevinTurnage: Here's here's the last final point of this is the reason the biggest reason why it's important that it's traceable in this situation given PreVeil, your tokens are great. They work out really well for a device that we know in a point to an asset list where it gets out of control. And this question will come up for Greg is we need a part of that traceable process, is to know what PreVeil express users are accessing the environment. Where can we get a log of those? And there's also these things called web dot v.a..com sessions. Which Ryan told us about here recently. I think I brought it up to you and if that's true
+KevinTurnage: I'm just gonna say yes, it's against the acceptable use policy, but someone could go into a library authenticate, a public computer.
+KevinTurnage: And
+KevinTurnage: Then we have no idea where that computer is in the world. Because all they did is they turned a web browser session into a device, which is a cool feature, but it's a nightmare when your logs don't work.
+Robin Barrow: Yeah. The express version is a whole layer of trick ness too when it comes to logging.
+KevinTurnage: Yep. Yeah, that's one of the problems it's gonna come up. And here, I'm gonna tell you this if you want to bring this to Greg. The answer that I don't want to hear is because your system does it. And if this is the only way you're doing it, we should have been warned straight out of the gate.
+KevinTurnage: There is a feature that says a device certificate, which means we have to manage the certificate and push it out to every device. Yes, there's ways of automating that, but I can't tell you in in the 20 years, I've been an it I've seen so many sorts expire and break so many systems and for something to be so fundamental to the environment. I just I can't imagine that when someone goes into a bunker for 2 weeks at a time, they get an old certificate, they come out and need to to work on a high priority contract. They just got awarded overnight, which does happen because they have existing relationships with these agencies and they don't necessarily hit sam.gov. We need that device working and we'd like to avoid at all costs the certificates. If that's the only way that PreVeil has been able to justify the as a compensating mechanism.
+KevinTurnage: That's gonna be a pain point that we can do, but we're not gonna like it.
+Robin Barrow: Right. Okay. I can definitely send that back to Greg.
+KevinTurnage: Yeah. From the interface. That's the only thing I've seen that you guys might have been able to rationally use. And I'm really hoping that's not it.
+Robin Barrow: If you're looking for a answer that does not include device certificates.
+KevinTurnage: Okay.
+Robin Barrow: Okay. Yeah, I definitely can let Greg know. And you have a self assessment hoping by the end of this month and then you're gonna start looking out for assessors.
+Robin Barrow: After that.
+KevinTurnage: They're already talking to assessors. We're they're planning to put something on the schedule by the end of the week. They're hoping to schedule out, okay. By the end of the keep moving the dog on date up on me, I had till the end of the third quarter and then they said the end of May now they talked about the beginning of May. Now they're talking about even the end of April. So oh
+Robin Barrow: Do you know who they're talking to?
+KevinTurnage: By chance. There were 5 different ones. So I know who the first ones were align was the first one. Yeah. But I think they were low on availability.
+Robin Barrow: Okay.
+KevinTurnage: So I'm not sure who they're talking to today. Okay.
+KevinTurnage: But my CIO will be present and he'll know who they've solidified their relationship with
+Robin Barrow: Okay. Yeah. Just let us know, just so we're aware, too, and see if we've worked with them before too.
+KevinTurnage: Um
+Robin Barrow: Okay. All right. We have that scheduled. Anything else I can help out with or anything else that should be on my radar?
+KevinTurnage: I think that's it. I feel like there's one more item, but it was probably minor in comparison.
+Robin Barrow: Okay. You just feel free to reach out if you here. And then yeah, just let me I'm gonna keep a close eye on the Aaron's case. I'm glad he's able to get work with PreVeil. I'm just gonna make sure that
+KevinTurnage: Yeah, we're closing his out. Okay. He's, he's holding his breath for this new product. I'll invite him to that demo. I'd love to hear that. You said that. It syncs and stuff. So he'll be static I hope that it's thoroughly vetted. Let's not have the beta testing concept all over again.
+Robin Barrow: Yes, yes. Yeah.
+KevinTurnage: Um
+Robin Barrow: And are you I mean, we've been working on it for a year and a half. So I hope it's not looking like that and we had a couple of customers. Beta test it as well. Let me know too. If Phil doesn't get back to you on time to meet with him. Okay.
+KevinTurnage: I will say that a code was hoping he was gonna get back today or tomorrow before our review because we have reviews of the evidence that they're trying to go through and check boxes off. So we've only got 2 weeks here for our deadline to have all a lot of pressure. All of the it elements knocked out for level 2. To give you a perspective, we only just finished all of the level one items at the end of December.
+Robin Barrow: Okay. So which is 17 versus
+Robin Barrow: Or 15 versus anymore. So
+KevinTurnage: Okay. Yeah.
+Robin Barrow: Okay. Yeah. No, I'll ping him now and just said that. Kevin is looking for an answer on.
+KevinTurnage: Time. Okay. This falls sternly within 3 of our divisions responsibilities and systems included. And he's gonna be utilizing that information for the IR plan and everything as well that he's drafting up. Okay. So then Ava code is gonna need information. They like I said, I'm not gonna overwhelm Greg, but they're gonna need to know how to write this up in the s._p yes and the risk register. So if we don't have an answer, we need to know what it is. We're gonna do. What's the compensating mechanism to justify this?
+Robin Barrow: Or I'm sorry, did you need to meet with Phil other anything outside of other than the logging piece?
+KevinTurnage: No no.
+Robin Barrow: No. Okay.
+KevinTurnage: I have multiple tickets open with him on know details. And I said, let's just combine these into one respond and we'll have a meeting with a code and we'll answer all these questions.
+Robin Barrow: Okay. The meeting on Wednesday with Greg will help answer the questions, but then you want a separate meeting with Phil and team. Okay. With, yeah.
+KevinTurnage: Yeah. Absolutely. And hopefully we get all this ironed out and if Phil is not able to answer or he gives me the same questions, again, Greg's gonna need to to know. So I don't know if maybe I'll just CC you if that meeting happens first let you know the result of it. We're still gonna have additional questions for Greg. Express users and things along those lines and the features that are coming up. Because I'm gonna tell you the this SLA is gonna want some hand holding that gives them some peace of mind. Yeah, because they've made some pretty latent statements in front of some all hands meetings recently.
+Robin Barrow: Okay. All right. I'm just making sure I make a note. Okay. Yeah, if you could CC me on the response fill so then I can just to have eyes on it. And then I was gonna ping him again after this meeting, but then I know what to go for our meeting with Greg, what is going to be covered and I'll put an agenda in the call meeting.
+KevinTurnage: Yeah. What was said is that while they're still not ready to go to GCC High they're not ready to go to something like six, which is a GCC High pre built out be compliant within 14 days solution. Very very appealing, but it's remote only. So okay. They what they're honestly looking at and they said this within the last 14 business days is who provides a solution like PreVeil. Let's go test them out.
+Robin Barrow: Okay.
+KevinTurnage: So I don't like it because that means I've got a very narrow deadline to to still meet. And I've tried to maintain this with you guys. We've gotten the client agent and you've desktop agent more stable. But let's get these other questions knocked out and give some peace of mind.
+Robin Barrow: Yes. And you've already put someone to work into it. So yeah. Let's do it.
+KevinTurnage: All right. Well, thank you again Robin.
+Robin Barrow: No, of course. Thanks. Kevin. Have a great day.
+KevinTurnage: You too. All right. Bye. Bye.

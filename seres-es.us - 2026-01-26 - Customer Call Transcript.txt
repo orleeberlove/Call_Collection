@@ -1,0 +1,146 @@
+Account: seres-es.us
+Call Date: 2026-01-26
+Duration: 00:21:17
+Participants: Emily deBettencourt
+
+======================================================================
+
+Emily deBettencourt: Hi, Chris. How are you doing today?
+Chris Abbott: I'm doing well. How are you doing?
+Emily deBettencourt: Doing well, thank you. It looks like we've got Jennifer here as well. Hi, Jennifer. How are you?
+Emily deBettencourt: Can you hear me all right?
+Jennifer Tate: Can you hear me?
+Emily deBettencourt: Yeah, now I can hear you now.
+Jennifer Tate: I was on mute.
+Emily deBettencourt: How are you doing today?
+Jennifer Tate: I'm well, how are you?
+Emily deBettencourt: I'm doing well, thanks. All right. Today's call is to talk a little bit about the sim connector for PreVeil. I got your email and happy to talk through it with you. Looks like you're looking at the sim connector and you're working with Microsoft setting though. Is that right?
+Jennifer Tate: Yes. That's correct.
+Emily deBettencourt: Okay. Yeah. To add this Tim connector to PreVeil it does require an add on feature. I know a lot of SaaS products don't don't require that or just have an integration with most of these big Sims. However, all of the data within PreVeil is encrypted as you know. So our connector was built to help with that process for decrying everything and moving it into a standard log format format. That can then be funneled into an existing sim. That's the feature long story short and I'm happy to send over a quote. But I just want to talk through it with you guys a little bit more and learn a little bit more about what you're hoping to do. Of course, you don't need the same connector for compliance. It's at least not yet. You can always pull reports ad hoc from PreVeil as needed, but it's a great add on and all of my customers who have it really love it. So. So yeah.
+Jennifer Tate: Yeah. We tried to do an export today and we only selected one user to pull the audit logs and it took over an hour and then I received an error.
+Jennifer Tate: And it never completely exported the logs.
+Emily deBettencourt: Oh, interesting.
+Jennifer Tate: Yeah. But we have I think we have 60 users and if we had to do that continuously, I feel like it would be a lot easier if we had this tool, that could just aggregate everything with our other audit logs.
+Emily deBettencourt: As you get many benefits from having it set up and aggregated with all of your other logs, you can set alerts and pull reports and all kinds of things. So I do recommend the connector. It's it's pretty low costs. We don't want it to be a hindrance to anyone who's looking to do that. So it's really just to cover the hosting costs on our side. You guys would be looking at. Let me just confirm this pricing here.
+Chris Abbott: $10. That's fantastic.
+Emily deBettencourt: $10.
+Emily deBettencourt: It's
+Emily deBettencourt: Be based on your user, the number of users you have. So let me just confirm I think you guys are in
+Emily deBettencourt: Yeah. You guys would be $200 per month for the entire
+Emily deBettencourt: For the full service which includes hosting with our partner.
+Emily deBettencourt: Security centric. So they're gonna take care of all of the sim hosting and everything on the back end.
+Chris Abbott: So it's 200 per month?
+Emily deBettencourt: Correct. And it would be $2,400 annually and then there's a one time setup fee.
+Chris Abbott: What would that be?
+Emily deBettencourt: That setup fee is
+Emily deBettencourt: 400.
+Emily deBettencourt: Okay.
+Chris Abbott: What's the risk of our costs going up after? I mean because I guess we're only we're a what a year at the moment.
+Emily deBettencourt: You guys yeah. It looks like your subscription expires in August of this year. Let me just check your pricing here. So you guys are paying yeah, you're on our standard pricing here. Um
+Emily deBettencourt: $36 per month per user. And then if they're admin users, it's an extra $20 for their admin functionality. You also got the gateway. Um
+Emily deBettencourt: Your cost going up in 20 26 this year at renewal time, our license increase by $2 per seat. So the current retail price for licensing is $38. But you know, you do have this volume discount of 10% baked in as well.
+Emily deBettencourt: Okay.
+Chris Abbott: Yeah. There's the whole cms the setup and everything we have going on. It's literally bleeding money.
+Emily deBettencourt: Which is I know it's every every turn you have to pay for something and I wanted to ask you guys if you're already working with an assessor or getting scheduled for that?
+Chris Abbott: We've got getting pricing out from folks. Is there somebody you recommend?
+Emily deBettencourt: Absolutely. So that's why I'm asking the question. So if you're using per Val as your on live, which you are highly recommend that one to 3
+Chris Abbott: It's one to 3.
+Emily deBettencourt: Yeah. Well, either way you're using PreVeil. And in that case, I recommend that you use A C 3 Pao who is familiar with our system. So we've got a handful of really wonderful C 3 Pao that we've partnered with. I can give you a directory of those and I'm happy to make introductions. I even have that'd be great. Yeah. And I have a member of our staff here on our compliance team who he leads all of those relationships. And he'd be happy to have a conversation with you guys about your environment to help even to even pair you with the one who he thinks would be best for your environment. I'm gonna set you up with Jamie, so you guys can talk through that. Yeah. I highly recommend you go with a PreVeil partner. We've got over 60 customers who use our partners who've used our documentation and have passed their assessments with a 1 10. It's also gonna save you some money in the sense that they're not gonna have to use consulting hours to learn the PreVeil system. To ask you a million questions about the PreVeil system, they're just gonna know that stuff. And with our partnership I don't know what their pricing is, but most of the partners that we're working with are giving discounted rates to PreVeil customers as well.
+Chris Abbott: Okay. Yeah, that'd be great because like, we basically we have all of our data where we're operating under a 0 trust environment is what we're trying to put into place. So we've got GCC High, we've got PreVeil and then we have a deltec cost point on the GM level. Okay. And all of our data is held in those 3. Okay. And all. All 3. So let me ask you this. We know you guys are we have we, Jen, Jen and I signed up for the beta testing for the cloud version of PreVeil. Yeah. And we haven't seen anything yet. So I'm assuming it's not a functional. Yeah.
+Emily deBettencourt: Beginning of February. We've been sending out emails, like getting started emails to everyone in the group throughout last week and this week. So if you haven't gotten one yet, you're probably getting it. So
+Chris Abbott: Okay. Is that going to be able to utilize the single sign on through, like Microsoft Azure? because that's how we get into cost point is through our single sign on through Azure. And so would that work? So we have a single point of going into PreVeil. It's going into all of our stuff or is PreVeil is still gonna be a separate login?
+Emily deBettencourt: Email doesn't have passwords, so we don't really work with so it's
+Chris Abbott: Different now, if you were going to that given the fact it's going into the cloud, that's why I was
+Emily deBettencourt: Kind of
+Emily deBettencourt: Drive is gonna be cloud based. No. However, that's definitely. I mean, we do have customers who use um
+Emily deBettencourt: Different so
+Emily deBettencourt: Platforms with PreVeil for mobile and different different reasons. So talk to my technical support team about that if you're um
+Emily deBettencourt: If you're gonna meet with Jamie, you could ask him that question too. Let me just see where you guys are on the list for the cloud drive.
+Chris Abbott: Yeah. Just the 2 of us at the moment.
+Emily deBettencourt: Yeah. Yeah. Um
+Emily deBettencourt: As
+Emily deBettencourt: We're just trying to keep track of everyone who's been contacted.
+Chris Abbott: If we were to sign up for the um
+Chris Abbott: For the integration at the $200 that wouldn't go beyond our current maturity date, correct? It would just be concurrent with that and we don't re up it all at the same time.
+Emily deBettencourt: No. We do require 12 months to start the sim connector functionality. So we could co term everything at renewal time. Essentially, you would commit to 12 months of the same connector. And then at renewal time, we would say, okay, there are this many months left. Let's reset the dates here and you get a credit for what you've already paid.
+Emily deBettencourt: Okay.
+Chris Abbott: If that makes sense.
+Chris Abbott: Yeah. So at at renewal, then we get a credit for the I guess, the 7 months 6 months or 5 months wherever is left. And that would go against our price for the rep and everything in the year or whatever.
+Emily deBettencourt: Term, correct. If you're interested in keeping the dates aligned otherwise you can have 2 end dates with us. That's fine too.
+Chris Abbott: And there's gonna be no change from a pricing perspective per user when you go cloud based or is that
+Emily deBettencourt: That's included for all of our customers. Okay.
+Chris Abbott: Okay.
+Emily deBettencourt: Yeah.
+Emily deBettencourt: Yeah. That's considered an enhancement to our product, not a add on functionality or an optional functionality. Everyone's going to get it.
+Chris Abbott: Okay. Yeah. Now and let me ask you one more question. I know we're kind of diverging slightly. So when you're when we're in the cloud and we're beta testing it, the cloud is supposed to have better connectivity, correct? With with like SharePoint.
+Emily deBettencourt: Yeah. It's all gonna function a lot easier for you all and work more. More so like a one drive does today. Yeah.
+Chris Abbott: All right. Because that would be huge because for us right now it's really, really any yeah. On with the setup we currently have and we're as we're transitioning to our GCC High environment. We've got we're hearing lots of issues with everybody working out of PreVeil yet trying to collaborate with folks and partners and stuff. And we got to get things back into SharePoint. So it PreVeil and SharePoint actually communicate much better in the cloud. We're looking forward to that would
+Emily deBettencourt: Be yeah. Yeah. You and everyone?
+Emily deBettencourt: We've been yeah. We've been working on this enhancement to PreVeil for a long, long time. We're really excited about it. Like I said, every customer is gonna benefit from it's gonna be added to your subscription baked into the latest version of our product. The beta is actually we're targeting February 2nd to get started with that. And we're reaching out to folks to join that up until that date. So I see you guys here on the list. I'm being copied on all of the emails that are going out to my customers and I haven't seen yours come through yet, but you are on the list. So
+Chris Abbott: Okay. Cool. Add soon. Yeah. Cool. All right. Well yeah, send over the quote. I mean, we'll go ahead and move forward on it because we got to have it done. We need the information. We need the linkages. I mean, it's kind of have to
+Emily deBettencourt: Yeah, you don't. Um
+Emily deBettencourt: You don't have to have it right now. Because nest 801 71 is based on rep 2. Um
+Emily deBettencourt: And that's what cms is based on, but rep 3 is coming and that is gonna make it much harder to pass an assessment without doing some sort of log automation system. Um
+Chris Abbott: We have to and we've been told that the EPA is actually gonna do rev 3 very soon or not. But we have EPA contracts, were told that they're gonna use rev rev 3 and it was
+Emily deBettencourt: Like that. Yeah. Everyone's gonna do it on their own schedule probably. But it's coming it's down the road for everyone, so. Yeah.
+Chris Abbott: We'd rather be prepared and did not worry as opposed to having to readmit the wheel. Try to ad hoc it back on the back end. So we're just yeah, what it is. No, that's
+Emily deBettencourt: Smart, I've been telling everyone that you don't have to have it yet, but just know that you probably will in the future and a lot of our customers don't even have a sim. So it's a bigger hurdle for them. But yeah. Awesome. I'll get you guys the quote. And like I said, when it comes to renewal time in August, we'll just figure out the pricing to make sure everything is aligned with the same start and end date if that's how you want to move forward. And then I'm gonna introduce you to Jamie Leopold. He's our director of partnerships here. He oversees all of our partner relationships with C 3 Pao POS. We do have a directory on our website. That's you can browse that into the everyone who we've partnered with, but I want him to speak with you. That way. He can say, I recommend this partner based on your use case or what have you. Or you can bypass that. If you'd rather just look at our list and
+Chris Abbott: The conversation I mean, the more information we can get the better. I mean, we want to if you want to choose well, we want to basically we what we're trying to accomplish is to have everything up and running in the next few weeks. I've sent that for the last 60 days now, but in the next couple of weeks. So that then if somebody drops out because they're not ready to be assessed, we're ready to go. We can just step in and go
+Emily deBettencourt: Yeah.
+Emily deBettencourt: Remind me where you guys are located again.
+Chris Abbott: Charleston South Carolina. Then we have remote offices, but our headquarters this year.
+Emily deBettencourt: Okay. I'm just looking here. To Florida, North Carolina Tennessee. I don't have A C 3 Pao in South Carolina, but we've got
+Emily deBettencourt: Brief systems in North Carolina Forbes. Mass in North Carolina. Um
+Chris Abbott: For I didn't think about that. Yeah. Okay.
+Emily deBettencourt: Okay. So here is, here's a link. I'm just gonna I'll put this in an email for you too, but can you guys see the zoom chat to the right?
+Jennifer Tate: Yeah.
+Emily deBettencourt: Okay. There's a link to schedule a 15 minute call with Jamie and he'll he'll help to partner you with someone. So definitely recommend doing that and then going from there. Okay.
+Jennifer Tate: Okay.
+Jennifer Tate: Can we bounce back to the the audit logs again? I have a question. Yeah. So whenever you're exporting the logs, it only allows you to select users that you have licenses for. It doesn't give you an option to look at audit logs for any PreVeil express users, correct? You may have given access to folders. How do we find that information for the PreVeil express?
+Emily deBettencourt: Yeah. You don't have admin control over anyone outside of your org. Um
+Emily deBettencourt: So if you're sharing information with third parties people outside of sales engineering you're doing your part and you're doing everything you need to do to remain compliant. Their responsibility is on their side. So if you'd like to invite people that you're working with outside of your organization into your org so you can track them, you're welcome to but that's not required to remain compliant. Um
+Emily deBettencourt: Nobody within your organization with your same email domain should be using PreVeil express. They should all be within your enterprise account. And there's domain lock in place for that reason. So if anyone else within series is trying to create a free PreVeil account, they'll be blocked from doing so and asked to contact their administrator, IE you to get added to the enterprise org. But yeah, you don't have admin control or visibility over anyone outside of your org. Okay. Hmm.
+Jennifer Tate: Well, that answers that question.
+Emily deBettencourt: That's really what differentiates having a an enterprise account and having an uncle setup with admin functionality versus everyone in the world just express.
+Emily deBettencourt: I'm sorry to hear that export took. So long though, that should not be the case. Have you created a support ticket for that yet?
+Jennifer Tate: No, we just tried it. Probably about 2 hours ago. Maybe 3 hours ago. Okay. And I let it run for an hour and then it popped the error. So then I just canceled it and it downloaded it exported the logs. But I we tried to export everything email drive everything. The only thing that populated was the logs
+Jennifer Tate: Everything else is just an empty order.
+Emily deBettencourt: Yeah. Yeah, you cancel it. But it shouldn't have taken so long. I do recommend next time you need to do one. Um
+Emily deBettencourt: You can reach out to our support team if that happens again, because they'll look at your logs and make sure everything's functioning. Okay. Are you on the latest version of PreVeil?
+Jennifer Tate: I'm on
+Chris Abbott: Let me see. No, I think I'm behind one.
+Jennifer Tate: I think I am too.
+Emily deBettencourt: That always helps I'm on.
+Jennifer Tate: I'm on 13.
+Emily deBettencourt: Okay. We're at 5 dot 8 dot 17.
+Jennifer Tate: Okay.
+Emily deBettencourt: So you can go you
+Chris Abbott: 13.
+Jennifer Tate: I am
+Chris Abbott: I'm on 15. So I'm still too behind.
+Emily deBettencourt: Here's the link to download the latest version as well.
+Chris Abbott: Yeah.
+Chris Abbott: I wonder if you can do the latest, can you can install it, can you Jim?
+Jennifer Tate: I should be able to. Okay.
+Chris Abbott: We've got our our in tune, our Azure and everything locked down. Pretty good for up to compliance. So
+Emily deBettencourt: Yeah. We've got a lot of
+Chris Abbott: We're learning.
+Emily deBettencourt: Right.
+Jennifer Tate: Yeah.
+Emily deBettencourt: Yeah.
+Chris Abbott: We're learning from a fire hose and it's all being written in here. It's just
+Emily deBettencourt: Really difficult my. Gosh, I know talk to Jamie. He's gonna be really, really helpful and pointing you in the right direction. All of our compliance team members here are registered practitioners themselves. So yeah. You're in good hands. Having combo with them.
+Chris Abbott: Okay.
+Jennifer Tate: Yeah. Awesome.
+Emily deBettencourt: Great. I can only speak about compliance so much. They could get into the details of every single control with you. So I'll just leave it to them to have those conversations with you. But in the meantime, I'll get this quote over to you all for the sim connector and we'll go from there. Yeah. I look forward to hearing who you guys pick and helping you guys get started. We're here to help. We want you guys to pass. We've got over 60 customers. Like I said who've already passed. Yeah.
+Chris Abbott: Well, that is our goal.
+Jennifer Tate: You can do it.
+Chris Abbott: You can make sure we're good to go.
+Emily deBettencourt: Yeah.
+Chris Abbott: You've got I think I over think things so. We you know, we may
+Chris Abbott: Over think ourselves, we should be good.
+Emily deBettencourt: Yeah. Yeah, exactly. All right. Great. Well, I'll send all of this to you in a follow up email as well with that quote and we'll go from there.
+Jennifer Tate: Okay. Thank you so much.
+Emily deBettencourt: Yeah. Thanks for booking time.
+Chris Abbott: Thanks Emily. Have a good one.
+Emily deBettencourt: You too. Bye now. Bye.

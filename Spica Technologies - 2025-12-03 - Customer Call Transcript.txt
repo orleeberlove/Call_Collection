@@ -1,0 +1,94 @@
+Account: Spica Technologies
+Call Date: 2025-12-03
+Duration: 00:21:29
+Participants: Zackary Gilman, Robin Barrow, Michael Thomas, Andrew Griffin
+
+======================================================================
+
+Robin Barrow: So
+Michael Thomas: Late here. I was on a call with a customer, so you're good.
+Robin Barrow: No worries. Hi Michael. How are
+Michael Thomas: You I've asked Andrew. Hello, Robin, Griffin. I'm sorry, I'm just to a join tad us as well. Andrew was kind of our chief technology officer and uh
+Michael Thomas: He also knows the ins and outs of computers far better than I do. So
+Robin Barrow: All right. Here's Andrew now he's joining.
+Michael Thomas: Yeah. He'll be responsible for a lot of the implementation and how we do all this here at Spica. So
+Robin Barrow: Yeah. We'll let him join with audio. This call should be fairly quick. Anyways, we're just gonna go over what you signed up for and then talk about next steps.
+Michael Thomas: Okay. Perfect. Yeah, I think we have some hardware issues to resolve too. So that this these next steps will maybe give us some time to address those hardware issues or
+Robin Barrow: Yeah, or time. Hi Andrew. How are you?
+Andrew: Good.
+Robin Barrow: Good. Yeah, I was just saying to Michael this call should be fairly quick. We're just gonna go over what you all signed up for and then talk about next steps and how to get started. So just to confirm, I see that you all have 5 users, 2 of those are admin. You also purchase a compliance accelerator, which is all our documentation and templates as well as a learning management to go over, see and see. Michael, you give me a quick rundown of what Andrew does, but if you don't mind sharing, why do you all need PreVeil?
+Michael Thomas: My company has been in business since 19 92 and we do basically our
+Michael Thomas: Our business is using high power lasers to test optical components. So if you are the manufacturer or an end user of laser mirrors or laser type optical components, you would send them to us and we would test them to make sure when the primes integrate those parts into their systems that they need a certain spec that they won't fail. That they'll work when they integrate them. Okay. A lot of what we do is it sensitive. Okay. We do both classify and UI work, but we're finding that a lot of the work we're doing now is C UI. And it's just creeping more and more into our kind of daily work that we're doing. And we just need to be we need to start we don't need to be compliant tomorrow, but we need to start working towards this CMC compliance and at least show our customers that we have some that we have some path forward in in becoming compliance. At some point there are certain things we know are extremely with our big customers with the big primes. We use there, we'll download data or information through their secure web servers through their secure websites. We'll also encrypt things now.
+Michael Thomas: If we send a pdf, we'll send it password protected to help with some of that CMC requirements stuff. But we really just wanted. We're trying to institute a global process. That allows us to make sure that we're compliant and that we are not leaking UI data out into the open world over the space. Um
+Michael Thomas: Also included in that is. So our work order system that we're using. Um
+Michael Thomas: Is a web based or a a cloud based system. Okay. And when we put that information on those
+Michael Thomas: On a work order or a traveler. Some of that if we it's very nuanced, I'm sure you see this. If we include say a part number on that and a specification, then that now becomes UI. So we're bringing all of that in house. So we can do all of our work order systems on computers here and they never see the outside world or never go to the cloud. So yeah, we're just trying to get in place a good compliance system. Obviously we don't want the bad guys to get the data that we're generating either. And we're trying to do our due diligence as good contractors for the us government and good citizens of the us to to try to do the right thing. So that's kind of our that's kind of our rationale behind this whole PreVeil and this whole application. So that
+Robin Barrow: Makes sense to me. And I understand why you need PreVeil. And you're working towards it's not strictly required right now. Do you have any of the depart clause in your current contracts? Or
+Michael Thomas: No, but it's coming
+Robin Barrow: It's coming. Okay. Yeah. Okay. Great. And I'm sure Zach showed you what PreVeil looks like. It's fairly simple to use. You have an e mail, you have a drive server. You mentioned you're having some hardware issues as far as is that is installing PreVeil or you just need to update computers? No, I
+Michael Thomas: Think part of it is that Andrew you can help me here, but we're running windows 12 11.
+Andrew: That's the thing is we're not fully homogenous across all of our computers. Okay. We have sub computers that don't matter. They're wondering windows XP, but all the computers that do matter are running either windows 10 or windows 11 and for our current network monitoring and security monitoring system. We have to upgrade all the computers to windows 11. Yeah, which I assume is one of the requirements for installing yourself. So we have a few computers that we have to update here before we can fully install PreVeil and make use of all the security features for both you and our it monitor.
+Robin Barrow: No, that makes sense to me. Honestly, PreVeil, it shouldn't matter, but I think windows is gonna start blocking you all soon as far as making that
+Andrew: Yeah, yeah. I know windows the windows, ten, expiration date just just came through like last month. So yes, we do have to update all those computers.
+Robin Barrow: Yeah. You're fine there and I apologize. Somebody decided to start leaf blowing right outside my window. So if you hear us, I'm sorry. So. Okay. That'll make sense. And honestly, again, PreVeil install it shouldn't take too long. It sounds like you all are on a windows environment, so it's even easier. And I would say maybe wait until you get all the computers up to snuff, but that's completely up to you. I honestly probably makes the most sense just because you're gonna have some that are running fine and then some that you're gonna have to install and reinstall. So that would be silly anyway. So yeah, I would just say wait until your you got all the mom windows 11 and you all like I said, I can provide the links on how to get started. But once you have PreVeil installed and at least 2 computers for the individuals that are gonna be the admins on PreVeil. So Andrew, I'm assuming yourself and maybe Michael or someone else, but you we just need your organization setup. So when they do train you they can train you out of your org and you're gonna share your screen click through. Again, PreVeil is fairly simple to use, but the admin functions can be pretty detailed. So that's what they're gonna go through on the technical onboarding for your other additional users. So outside of so the 3 additional users, I always suggest don't have them join the admin training because it's going to be too in depth too much information, but we do have a standard user training I can send over.
+Robin Barrow: They can either do a one on one session with our team or we have a couple of guides that I can send out as well.
+Andrew: Okay. Yeah, I think that probably sounds about right, as you know, and like, being the owner and me being kind of de facto onsite, it department. That probably makes sense for us to have those for admins. Now, as I know, this has happened in the past. What is what options are available in terms of securing those accounts and recovering those accounts? If we should forget the security questions or passwords or whatever.
+Robin Barrow: So PreVeil a 0 trust environment, the way that the encryption keys that are installed on each device. So we do have like a recovery key that you would save down. We you would set up a recovery group. So say if you're the admin and you decide to win the lottery and launch your computer off click you have the recovery group set up. You should be good, but that's the support team will nail that in your head. That's the most important thing you do as soon as you download PreVeil and put anything in place. Make sure you set up that recovery group and make sure you save your key somewhere, your recovery key somewhere. Um
+Michael Thomas: Oh, yeah. Sorry. That was actually that was our it guy. Who I actually probably should have asked him to sit in on this as well. Because he'll be part of will probably ask him to sit in once we start getting more serious too.
+Robin Barrow: Yeah. No and
+Michael Thomas: I think that might work well for PreVeil too because I know he's not an expert in. He's an expert in it. Not in
+Robin Barrow: It
+Michael Thomas: And but he has I'm sure he's got customers that are asking what needs to be done to become compliant as well. I'm
+Robin Barrow: Sure. And give me one second, just starting to get darker.
+Robin Barrow: I don't know if that's anything. I'm in New England as well. You are based out of holes New Hampshire, or where are you all based out of
+Michael Thomas: Correct. Yes.
+Robin Barrow: Okay. Yeah, I'm in where Kinsey Massachusetts. Oh.
+Robin Barrow: So you're by
+Robin Barrow: Yes. Yeah, I actually got married there.
+Robin Barrow: Okay. Yeah, that's fine. Also. So for he can join or she can join the training. That's that works out. But for the actual compliance piece which you all have access to. This is can you see my screen here? Yes. Okay. Great. This is a compliance accelerator. We call it our 10 step guide to getting compliant. So this is you really green what ACS why isn't important all the way through? How do I score a one ten? Again, I know this is something you're working towards our goal, but this will be a great resource because it not only does it will train your it person up on what cms is. We also have all the documentation templates necessary for level 2 CC. So all our our accelerator and our documentation are all geared towards level 2. I know for level one, you only need 17 controls, but everything specific around level 2 for us. And then you have the acne Box package, which is
+Robin Barrow: A full completed documentation package for level 2. So if you took this documentation change your name on the acne logo and sent it off to A C 3 Pao without obviously showing the physical part of your company, you would score 1 10. But obviously this is a great example of what a 1 10 company looks like. You're gonna have to make some changes to meet it. And you can't just take our SP. There's gonna be specific things you're going to need to change around how your company operates. But it's a great guideline. Okay.
+Andrew: Go ahead. No, go ahead.
+Robin Barrow: Okay. I was gonna say so you'll have access to all this. If you triple click through these documents, you'll be able to log in that. You'll be able to open up any of these documents and they're available right through the accelerator. You get 3 users, I can add into this. I can add everyone on this call and then if you want to just provide one more name afterwards that works. And then additionally with the compliance accelerator, you get 6 30 minute sessions with our compliance team. They've all been assisting customers that have gone through assessments. No, cms pretty well. You book time with them right through here or you can email them for any one off questions. So those don't kind of against your time, but I always just feel if you have any compliance questions, they're a great resource.
+Michael Thomas: Okay.
+Robin Barrow: Where I come into play, think of me as in the middle if you need support help or if you're looking for.
+Robin Barrow: Answer to a question, you don't let go reach out to me. I'll find the right person or I'll answer it myself and I'll schedule time for us to connect again in 90 days just to make sure we're on track with implementing and we're feeling good. Of course. I'm not going anywhere. So if you have any questions before then just reach out. But really, that's all I had to cover today.
+Michael Thomas: Okay. Great. So we will we will get out now. Is that available to us to review and kind of look at in our spare time at this point?
+Robin Barrow: Yes. Yeah, those are I can add I'm gonna add the 2 of you to it and if you just want one more individual, just let me know.
+Michael Thomas: Okay. Add them as well. Yeah. All right. Good. And so that'll give us some time to uh
+Michael Thomas: To update our hardware and all the other things. Is there anything we should know as we update the hardware as far as the C M C C compliance that you might suggest? Or
+Robin Barrow: I was going yeah. I was going to point this out. This is the endpoint configuration because obviously PreVeil helps me.
+Robin Barrow: Or we say we share 102 of the controls, the remaining 8 controls or around your process. And then also what your device setup is. So how well this loads. It's taking this time, how you update your computer. So like, you have a bit locker install. Do you have some sort of anti virus on your computer? Do you have not always necessary, but a team solution? Those sort of things. I always say this endpoint configuration guide, super helpful because not only does it provide recommendations and sometimes you might already have some of these products just based on your Microsoft subscription. But it also tells you how to go about and configure them. Okay. This is also lives in the accelerator.
+Robin Barrow: Great.
+Michael Thomas: Um
+Michael Thomas: Have enough to do so this is good.
+Robin Barrow: Yeah. It's a this is a beast. I always say that. If it's if you don't you see those depart calls coming soon. You're in a good spot. You're just preparing and you're being proactive. But like I said, it's I say to my customers don't over complicate it. I know it's because it's really easy to over, complicate because it is 110 controls to best, but you'll find it being pretty repetitive down the as you go down the controls. So and now
+Michael Thomas: There's a level one and a level 2.
+Robin Barrow: Yes. Yeah. So level one is only 17 controls and it's fairly easy to meet. Again, all our products are on level two, but obviously if you're meeting level two, you're gonna meet level. Yeah. So
+Andrew: And Mike just so we are we're required because of our customer base and the amount of and the information that we deal with are required to be at level 2. Not level three, but we definitely have to be level 2 level. One is for like, people who may touch, stuff like that, but not for us because we actually have to handle it and we have information stored onsite and stuff like that. So we do have to be level 2.
+Robin Barrow: Oh, okay. Okay. Yeah, I was gonna say just based on what you said in regards to how you're managing UI. It sounds like it is level two, but yeah, level one is mainly just fi. Okay. Contact contract information. So um
+Robin Barrow: Yes. But again, we're here to help let us know and I'll add you to to the accelerator and I'll send over next steps and how to go about downloading PreVeil and getting started. Any other questions?
+Michael Thomas: No. I think that I'm set Andrew. Are you do you have any um
+Andrew: I think the last question I would ask is um
+Andrew: Are there any
+Andrew: I know in the first iteration of the cms they were requiring that computers have a certain I think it's called the pm unit. That's installed on the motherboard and it's it's like a security type of thing that for the computer. Is that is any of that type of stuff required for the PreVeil software?
+Robin Barrow: VP.
+Andrew: I believe it was like, a just a piece of hardware that was on the mother board itself when it was manufactured. I don't remember if that's the exact thing, but I do remember it was like, iteration one, but I'm not sure if it's iteration to
+Robin Barrow: I can ask because I know like, yeah, I'm not even begin to try to pretend to know the answer right now.
+Robin Barrow: For instance, our system is set up for fed ramp, moderate. We have fits certification. We were we manage and source the UI. So we're we meet all those requirements, but let me see what you need to. I can find out for you.
+Andrew: That would be fantastic. Yeah.
+Michael Thomas: Is there any concern about like if we upgrade our computers where the mother boards are manufactured or what the primary processors are those types of things?
+Robin Barrow: Well, it depends on your scope for our my understanding. So if your whole company touches UI, then you're most likely want to bring everyone into scope. And so that means you just want to make sure all the computers are set up with the requirements for CMC level to
+Michael Thomas: What I? Yeah. But what I mean is can we if the other boards are at in China, for example? Okay. Does that, do we have to use us mother boards or us?
+Andrew: Us mother board.
+Andrew: Your choices is China? Or Taiwan maybe Japan, but it is nothing there's nothing in the United States.
+Michael Thomas: Though for example, when we part of the contractual deal, when we have a contract with say the army or the airforce, they ask are we do any any Chinese telecommunications? We use any Chinese telecommunications equipment. Will any of that be transferred? I just are worried about what was the Chinese?
+Michael Thomas: Away, right? They didn't want to have a away server or something and but there's nothing like that in the cms. It's all software based. I assume.
+Robin Barrow: Yeah. I mean, for all our storage is us based just for your peace of mind and as far as the CMC requirements. So yes, prevails all us based. Yeah. I'm not I have to dig into that more.
+Michael Thomas: I'm not sure of thing. So all right. Andrew, any other questions?
+Andrew: That's it.
+Robin Barrow: All right. I'll I'll send a follow up email. I'm going to send the next steps and then Andrew I'll get an answer to your question regarding you said 10.
+Andrew: Yeah. It's called a trusted platform module for sure. Yeah. Okay.
+Robin Barrow: All right. And I'll yeah. Let me just find an answer to that. It might come after my next step email.
+Andrew: Okay.
+Robin Barrow: All right. Thank you. Both to meet you. And we'll be in chat.
+Michael Thomas: Sounds great. Thank you Robin. Thank you. All right.

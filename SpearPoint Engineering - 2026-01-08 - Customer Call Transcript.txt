@@ -1,0 +1,181 @@
+Account: SpearPoint Engineering
+Call Date: 2026-01-08
+Duration: 00:30:09
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: Hi Dave. Hi, Brad. How are you? Good Robin, how are you? Good. Thank you all for joining this call to be fairly quick. I'm just making sure I have everything pulled up. We're just gonna go over what you all signed up for and then talk about next steps. That sound good.
+Dave Hunt: Yeah.
+Robin Barrow: Great. I
+Dave Hunt: Assume there'll be a little bit of time for questions and answers of course. Yeah. Okay. Yeah.
+Robin Barrow: Well, first I'll introduce myself. I'm your customer success manager. So I'm your main point of contact here at PreVeil moving forward. I know you worked with jack, but you get me now. So where I stand you all, not only do you have the compliance team, but you also have the support team. I kind of sit in the middle. So if you have any questions, you're not sure who to go to reach out. To me. I'm your with the compliance and support team. You don't get specific contacts over there. But for me you do on your go to. Okay. Great. So I see that you all signed up for 2 users, one of them being an admin as well as the compliance accelerator.
+Dave Hunt: Yes.
+Robin Barrow: So if you don't mind sharing, why do you all need PreVeil and what you what are you hoping to get out of it?
+Dave Hunt: So we are a small business and we have to be CC CC compliant. And we look at what PreVeil is offering us in. I think in 2 big advantages, one, it's uh
+Dave Hunt: It provides secure storage, encrypted storage for stuff. That is maybe C UI, maybe not. But it does provide an encrypted storage for even stuff that isn't required, but things we want to protect, maybe, pii, data or such and second thing frankly, is the accelerator that helps get us compliant hopefully sooner than later with the least amount of effort on our part.
+Robin Barrow: Excuse me. Yeah.
+Dave Hunt: So that's the 2 big selling points as far as I'm concerned. Um
+Dave Hunt: Hopefully hopefully that gives with what you're thinking and what you're gonna help us achieve.
+Robin Barrow: Yeah. No, that makes sense to me. And I did jack go over the accelerator and what it looks like and how to navigate it at all.
+Dave Hunt: No. Not really. He, basically. We like we don't see it right now. And I'm assuming that's because it's not turned on until the 15th when we officially join PreVeil.
+Robin Barrow: That's I'm gonna add you now. It's I mean, what's or a couple of days a week, really. So I'm gonna add you now. And it is a separate platform outside of PreVeil and I'll go over today and what it looks like. But think of it as it's based on a learning management system. So I don't know if you've ever yeah. One of those systems pretty straightforward. It takes you through really green. What is cms all the way through how do I score 1 10. And how do I become compliant? So
+Robin Barrow: We let me just make sure I add you.
+Robin Barrow: Okay. You should
+Dave Hunt: Be added, correct?
+Robin Barrow: Yes. Yeah, I can add the both of you actually get room for one more in the accelerator if you need it. And what it does
+Robin Barrow: You will see it you each get your own separate login. So you won't be able to collaborate within the accelerator, but you'll be able to see all the documentation and all the courses. And give me I'm just gonna add Brad now too.
+Robin Barrow: And this invite does expire after 24 hours. So just make sure at the very least you click in and log in. Doesn't mean you won't be able to get into it's just easier for you that way.
+Robin Barrow: So let me share my screen here.
+Robin Barrow: Where are you all based out of
+Dave Hunt: Maryland.
+Robin Barrow: Oh, okay. Not too far. I'm in Massachusetts.
+Robin Barrow: Lindsey, I don't know if you ever heard of that city before.
+Dave Hunt: I have not.
+Robin Barrow: It's big, but
+Robin Barrow: In terms of Massachusetts, which isn't that big. Um
+Robin Barrow: Okay. This is a compliance accelerator. Like I mentioned, it's a 10 step guide just to highlight a couple of areas. I always suggest start from the bottom work your way through. It's a lot of content, but it's a lot of good content and it really breaks down cms into terms you can understand rather than going to the website and trying to read it from there. Thank you.
+Brad Eberhardt: Because it's very dry from the website.
+Robin Barrow: It is. Yeah, it's like another language. But if you go if you're like, just give me the meet and what I'm actually paying for, I would say put it bluntly. This is the Acme docs package is a fully assessed documentation package. We actually took this and brought it to ACS 3 Pao had them, fully assess it and score us a 1 10 for this fake company. So these are all these documents are available to you. I don't say their templates, because they're fully completed. It's a great example of what a 1 10 company looks like. For instance, if we open up the SPI think I already have it open somewhere.
+Robin Barrow: Nope. That's endpoint.
+Robin Barrow: Here it is. This SSP is 185 pages, it's a beast of a document. But again, it's the language is there. It's fully written out. It touches upon each control that you'll need to cover and it also has all the let me try to find the
+Robin Barrow: That no. The PreVeil language preloaded.
+Robin Barrow: So a couple of our customers take this either way. If you already have an SP in place or if you have a bare bones one, you'll take our language and merge the 2 and take our language, especially around how you manage and source the UI. If you don't have one. If you're like we are starting bare bones, we don't have a security infrastructure. We're trying to figure it out. I always say take our SP, adopt it for your own company. And a lot easier said than done. Obviously, but formulate your infrastructure around what is listed here and you'll know what's compliant. Where is the network diagram? It's in here, but the UI flow and everything regarding PreVeil is already pre loaded in there. You'll be able to, you won't have to change that.
+Dave Hunt: Robin, just to be clear.
+Dave Hunt: I can see that Brad can see it. We just can't work on it together.
+Robin Barrow: If you download it and put it in PreVeil or google drive, whatever you prefer to use for this piece of document. Again, this is SPs aren't considered UI until you get into the real nitty gritty, but you can collaborate that way. I'm just saying you can't collaborate within the accelerator. Got it. Yeah, it's just a learning management system. So it doesn't manage it that way, but got it. You can download all these documents and use them, you can
+Dave Hunt: You can be assured that's what we'll do.
+Robin Barrow: Yes, yes. I mean, I have customers that take it and throw it into chat and use AI to make it better for them and you own them now. So it's fine.
+Robin Barrow: Great. So that's that is the accelerator and you also get let me just go back here.
+Robin Barrow: You also get 6 where is the page of the 6 30 minute sessions? Of course, I was locked out. Give me one second with the compliance team so you can use those at your disposal.
+Robin Barrow: If you have any one off questions that don't require a long answer. I always suggest don't book time, just email them. Those don't count against your time and you can book time with them right through here under additional compliance resources and their emails also here as well.
+Robin Barrow: Okay. That's available to you as well. Um
+Robin Barrow: Where do you all stand as far as the cms process?
+Dave Hunt: Well, we do have the basic 1 71 self assessment that we're good on. Okay. And I claim that should be good enough, but um
+Dave Hunt: I think we get documents that I mean, we don't get much in terms of uh
+Dave Hunt: CI marked stuff, but there could be things that obviously we feel like we should probably protect. Yeah. And given that we've signed up for PreVeil, I'm planning to use it for a lot of hr type stuff or security related visit visit search or just social pii, social security, kind of numbers, those kinds of things. Um
+Dave Hunt: We don't get a lot of UI. So but the fact that we might get some of it requires us and our prime require us to be
+Dave Hunt: Level 2 compliant. Yeah. And as a small
+Brad Eberhardt: Business. As a small gov con, we just don't have a large infrastructure. So I mean, we're pretty pretty streamlined. So yeah.
+Robin Barrow: And honestly, that's majority of our customers that we work with. They're all small contractors are manufacturers that are just trying to do this. Yeah.
+Dave Hunt: To the finish line as quickly and as efficiently and as cost effective as we can.
+Robin Barrow: Yeah, that makes sense. I think so jack probably mentioned we share 102 of the controls, really. So what that means is there's obviously going to be some work on your hand as far as documentation access. That sort of thing with your staff. Where if you installed PreVeil and walked away and did nothing you're like, I'm not even to do the documentation, the access control, that sort of thing your meeting around, 40. So there is there's work that needs to be done. Probably where a majority of our customers get stuck is defining the scope. So who has access and then and I shouldn't say stuck, but it's like where they get takes the longest defining the scope and then also around their endpoints and how to protect their endpoints. So
+Robin Barrow: They I feel like a lot of the times people over complicate it and they probably already have some of these things in place. Bit locker or multi factor, that sort of thing. From there. From what I've seen it's a lot of repetitive work and within the documentation.
+Dave Hunt: And Brad and I are the only 2 for the company right now that is gonna be on here and is going to need to have access.
+Robin Barrow: So there there's your scope. Yeah.
+Robin Barrow: Um
+Robin Barrow: Yeah. So
+Robin Barrow: We say 4 to 6 months to get through this. Do you all need to be assessed? Did you say
+Dave Hunt: Well, from what we have been. What we've read is that once we feel like we're good for 3 years as long as we put it into suppers.
+Robin Barrow: Yep.
+Dave Hunt: And
+Dave Hunt: That may mean that we have to have an annual self assessment.
+Dave Hunt: I think but frankly, I don't see much changing in in a year or 2 years or 3 years, except the number of employees that we add. But the way the business is done is not going to be changed.
+Robin Barrow: So yeah. The only thing I would say if you have current contracts that are in place right now and you're you only need a self self assessment, you're good until that contracts up for renewal because there is a piece that could happen where the contract officer says, okay. Now, you have to get assessed. That's what car 48 is because no contract officers can put requirements for assessments in the contracts. So that's one thing you have to worry about. If you bid on new contracts, there is a chance that they're gonna ask for a full assessment. With if you do get assessed, that's where that 3 year comes in. Excuse me, the 3 year comes in where you're good for 3 years. Once you have the full assessment, you get that stamp of approval by C 3 PO where I'm not sure on if it is also with. Um
+Robin Barrow: Self assessment. I think it should be fine. As long as you're updating your score when necessary in the I haven't heard it called that before, but that's the person the sdrs are tipper. What do you say, sir, PR? Yes. Yeah, I like that. Yeah. They you as long as you're updating it there then you should be good. But yeah, that's what for 48 if you need to.
+Robin Barrow: If you do get that, it's mandated to get an assessment. That's when it comes into the contracts that stays put into contracts.
+Dave Hunt: Yeah. And more deal and our primary end user.
+Dave Hunt: May or may not be sold on it quite yet.
+Dave Hunt: And generally, if they put it into the prime, then it'll flow down to us as a sub. Yeah. But small subs seem to get a little bit of leniency. I'm not sure we're not taking that chance. But they also recognize that. Maybe we're not handling a great amount of anything. And our end customer our end government user still hasn't necessarily adopted what UI is they still use the 4 recognition. So it still needs to be treated properly, but it's just an indication that maybe they haven't fully bought into this certification process on our end. So now we can to protect, but
+Robin Barrow: Yeah. I think you are taking a you're being proactive at this point and then you're gonna get the benefit by also protecting some pii and using it for sure. No, I think you're in a good spot, especially for a self assessment. If there ever isn't a world in which you need more help or you need an assessment, just reach out to us and we'll connect you with some partners. But what does
+Dave Hunt: What does the general cost for an assessment off of the PreVeil system? Cost a small company?
+Dave Hunt: Do you have a ballpark figure give you on
+Robin Barrow: I've seen 40 grand and up.
+Dave Hunt: Off of PreVeil.
+Robin Barrow: So PreVeil, we can't run assessments because right. But I mean yes. From using the PreVeil system. Yes. Yes. It also depends on. So that's where the cost can get weird because it depends on what end points you have in place for protecting your computers and your devices. So but yeah, I've seen for actually just getting A C through PO to come out and assess you. It's 40 grand. Okay. Yeah. Um
+Robin Barrow: That's what we've seen. But again, I don't just based on what you've told me so far. I don't think that needs to happen anytime soon. Really, I think it's just a matter of getting your self assessment in place. Yeah.
+Dave Hunt: We agree on that.
+Robin Barrow: Yeah. And I think by the time you do need to get assessed, hopefully, that price comes down. Because more C 3 POS are gonna come on board. There's a supply and demand issue right now with them. Sure.
+Dave Hunt: Exactly. Not to mention the opportunistic aspect of it.
+Robin Barrow: Yes. Yeah. I've seen a lot of that too. Whereas a lot of these people are getting assessed just a bit on contracts, like you mentioned.
+Brad Eberhardt: Okay.
+Robin Barrow: Great. So that's the whole compliance. Just again, we're here to help and you an
+Dave Hunt: Email, right. Invite email.
+Robin Barrow: Invite will come through talent LMS. And it will say PreVeil on it too. So you'll see that directly to your email. The one that was in this you in this invite to this meeting.
+Dave Hunt: Okay. And to download the files, we just either drag and drop or just do a download
+Robin Barrow: You could do a download. I think there's a mass download option within
+Robin Barrow: Yeah. You just if you just click the Acme docs package right here. Oh, sorry, I thought I was sharing.
+Robin Barrow: This one right? Come on screen.
+Robin Barrow: Click this one right here. You can download them all. It's gonna open up an award document.
+Robin Barrow: And you would just triple click these. It's gonna be tedious as you work on them, but and then this would download the document and you can save it down. Okay. Through here.
+Robin Barrow: I'm gonna ask the team if there's an easier way because we do have a file side on the LMS, but it's it doesn't have it.
+Robin Barrow: So if you go to I'll show you
+Robin Barrow: This I guess it is all updated. But if you go to drop down here into my files, it does have the system security plan, but it doesn't have the Acme docs package. So if you're just looking for the system security plan, you can download through here too.
+Dave Hunt: So the SP that you talked about is being 185 pages that does that include all of the documents that are in there? Or is that because it looks like you have some maybe I didn't see it correctly, but the Acme package has the particular documents in it. Is that true?
+Robin Barrow: So the SPI always say.
+Robin Barrow: That not to get religion involved, but that's your bible for
+Robin Barrow: Formulating all your documents for cms, that's gonna be your main one that you're going to point back to the access control docs. These are all your SOPs. Everything's gonna always point back to
+Robin Barrow: Your SP document. The SP is the main doc that you'll probably work the most out of these. I can open up one. Let me just this is a standard operating procedure example. So this is for identification and authentication.
+Robin Barrow: And it will just say who gets this authority again?
+Robin Barrow: And then it's a sign up form. It's just an example of something that you might need.
+Robin Barrow: Assuming you don't have all this stuff?
+Robin Barrow: So some of these will be removed and customize
+Dave Hunt: Or as uh
+Dave Hunt: You don't have a marketing director unless you want Brad to fill. So we wear a lot of hats around here.
+Robin Barrow: Yeah. Yes.
+Robin Barrow: So the documentation is formulated around mid. Not even I wouldn't even call it mid size, like a 40 person company that does have intense executive staff. But again, these are all customizable and you can change them. And if you have questions around I'm not sure where I should change this. That's when you reach out to the compliance team and they'll they'll work with you through. Okay.
+Robin Barrow: Okay. Great. But yes. So all the documents are all I would say the main document that you need to download is any docs package because that will have everything and then you just triple click within the documents or LinkedIn.
+Dave Hunt: And put our own place. Our particular information in where necessary.
+Robin Barrow: Yes. Yeah. Okay. Okay.
+Robin Barrow: Great. So like I said, that's the compliance side for the actual PreVeil platform side. The email and drive, are you both going to be admins? Or what are you gonna be an admin?
+Dave Hunt: Well, currently because we're setting things up. I put both in as admin. Okay.
+Dave Hunt: Just because we haven't we've been preparing on our back the back end to move all of our stuff over. So we to polish it on that end. So that when we move it over, it'll be in a much more precise manner, how we want to see it, structured we don't have to be cleaning up.
+Brad Eberhardt: In PreVeil all the cleaning up was done prior to moving everything into PreVeil.
+Robin Barrow: What? No, that makes sense. How much data are you planning on moving over?
+Dave Hunt: Nowhere near the 5 gig that we were allocated.
+Dave Hunt: Where near the 10
+Dave Hunt: I mean, we're talking about some of them are maybe um
+Dave Hunt: Half a Meg file not
+Robin Barrow: Under 100 gigs, would you say?
+Dave Hunt: Under 100 yeah. Definitely. Definitely under 100 hundred.
+Brad Eberhardt: Gigs
+Robin Barrow: Okay. The only reason why I ask is if you do go over 100 gigabytes that you want to transfer over at once, we'll probably set up a file transfer. We have a tool that can do it. So just to interrupt your workflow. But yeah, you just let us know. But yeah, like you mentioned, 10 terabytes is what you have in the system, which is crazy. I think we have one customer that's even close to approaching that. Um
+Robin Barrow: If you ever need more, you can get it, but
+Dave Hunt: I don't see that being a problem.
+Robin Barrow: Yes, I didn't think so. But yeah. No, that makes sense. So have you downloaded PreVeil yet? Yeah. Okay. Great. And you're in it. Your next step would be honestly, just have you scheduled time with the support team? Yes.
+Dave Hunt: Yes. Next week.
+Robin Barrow: Okay. Perfect. So yeah, that's your next step. They're gonna go over all the admin functions of PreVeil and really go through a deep dive. I would even mention to them when you're on that call. This is what our file structure we wanted to set up, like and pick their to see if it's gonna be if it's gonna work best and PreVeil. Okay. Check for the best. Yeah, best practices. And then lastly, I'll schedule a time for us to connect in April. It's really just a point for me to bug you and make sure you're feeling good and everything's up and running and everything's running smoothly. So if we get close to that date and you're like, I don't need to meet with you Robin, we can always cancel. But I am gonna send out just a placeholder meeting for us.
+Dave Hunt: Okay. My goal would be that we are done with cms at that point or very close to it.
+Robin Barrow: That's an ambitious goal, but yes. Hopefully ambitious.
+Dave Hunt: But it's one that we're gonna try to knock out early in the year so we can spend the rest of the year growing our business.
+Robin Barrow: Yeah. No, that's good. Yeah, because it's 3 months, we say 4 to 6. So
+Dave Hunt: But that's working it. So, yeah.
+Robin Barrow: No. You'll I think like I mentioned, you'll find it's gonna be really repetitive the documentation side. So this
+Dave Hunt: Stuff we found to be exactly that.
+Robin Barrow: Yeah. Yeah. And a lot of people over complicated in the beginning to and then they're like, okay, wait a second. It's not as hard as we want it to be our thought it to be. Great. Any questions for me?
+Dave Hunt: Yes.
+Robin Barrow: I know. I talked too much and you said you had you're fun. Go ahead.
+Dave Hunt: These are 4 questions. I think that have been generated as a result of us playing with PreVeil a little bit. Okay. When we set up folders we have our user or our company name and then underneath it. We're gonna set up folders to the sub folders of those folders. Inherit the access controls of those.
+Robin Barrow: I do not believe so. Because it is pretty manual in the access. So let me double check on that.
+Dave Hunt: Is that just a question that we need to ask next week?
+Robin Barrow: Yes. Yes, that would be a good question with the support team.
+Dave Hunt: Do do admin, see all the files and folders or are there restrictions or can there be restrictions put on there?
+Robin Barrow: You don't see everyone's folder structure unless it's shared with you.
+Dave Hunt: But well, I guess my point is so the company one is shared with Brad and I so if we create a folder underneath that, does that folder then need to be shared with the 2 of us? Yes and sub folders below that?
+Robin Barrow: Yes. From what I'm understanding. Yeah. Okay.
+Dave Hunt: Brad and I both are getting these emails from PreVeil on a weekly basis for recovery group.
+Dave Hunt: Well, there's only 2 of us and it requires 3 people for recovery group. How can we turn those messages off?
+Robin Barrow: The team can definitely do that for you. I always suggest setting up a recovery group even with a personal email. Just so you can make sure if one of you decide to toss your computer off a cliff, you can have someone can have access to PreVeil. Because if both if you have the recovery group, if you don't have a recovery group and both of you win the lottery I don't like to say, hit hit by bus. When the lottery and take off and the company needs to access something we you would need some sort of recovery group in place.
+Dave Hunt: So is a personal email, another user?
+Robin Barrow: I wouldn't count it because it's specific for the recovery group, like from a billing standpoint, no. Because it would be it's if it's your personal email, it's gonna be a duplicate.
+Robin Barrow: From our eyes for you. Yes. It would be another user. Okay.
+Dave Hunt: And Brad has a question Brad. I'll let you pop in here about password. Oh, no. I mean, I'll
+Brad Eberhardt: I'll save that until next week. Just ask and ask the team then. Okay.
+Robin Barrow: If it's around passwords, PreVeil works as the encryption key stored on your device. So you won't need a password to log into PreVeil.
+Brad Eberhardt: Correct. Yes, yes.
+Robin Barrow: Okay. If you have express and you don't have the full version of PreVeil, it works as um
+Robin Barrow: They use MA. So like either a code sent to your phone or something like that. But the who are you meeting with next week? I don't see it on my end yet. But so
+Brad Eberhardt: E
+Brad Eberhardt: RB.
+Brad Eberhardt: Ricardo.
+Robin Barrow: Robert, brancato? Yeah. Okay. He's great. He's been with PreVeil for a long time. So on the 13th. Yeah. Yeah, you're in good hands. He'll he'll be able to answer those questions for you, for sure in greater detail than I can for sure. Okay.
+Robin Barrow: Awesome. Anything else?
+Dave Hunt: I don't think so. Um
+Dave Hunt: Yeah. Okay. Well, we may reach out to you. If we have questions or it's an issue, but we're gonna start tackling it and maybe prepare ourselves for the cms stuff ahead of time. Just by downloading and creating that folder. So yeah.
+Robin Barrow: No. Of course. And I'll send a follow up email as well. Like I said, I'm here for you. If you need anything. You have access to me support team and compliance team and then um
+Robin Barrow: I always mentioned if you add additional users. Doesn't seem like it's gonna be a need right now. Just reach out to me and we can always just co term your contract. That's how it works.
+Dave Hunt: Okay.
+Robin Barrow: But great. Okay. Lastly, just make sure you log into accelerator because that will expire after 24 hours. But other than that, I look forward to working with you both and expect a follow up email from me shortly.
+Dave Hunt: Okay. Sounds good. Thanks very much.
+Robin Barrow: Your time with Robert.
+Robin Barrow: Bye.

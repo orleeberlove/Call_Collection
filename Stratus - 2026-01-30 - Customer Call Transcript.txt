@@ -1,0 +1,159 @@
+Account: Stratus
+Call Date: 2026-01-30
+Duration: 00:24:44
+Participants: Robin Barrow, Matthew Sulc
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Hi Matthew. How are you?
+Matthew: Hey, Robin, can you hear me okay?
+Robin Barrow: I can, yeah.
+Matthew: Awesome. Yeah. Thanks for hopping on this call. And I feel like this is the one hundredth time we've talked about this and I apologize.
+Robin Barrow: But no, it's all right.
+Matthew: Trying to just finally get the last push out of the way so we can know exactly what actions we need to take. Yeah. Jeff, Jeff, King I asked him to kind of join he's in the middle of something. He's not gonna be able to join, but he gave me the quick layout. They want to renew. They'd like to continue their work is through the broken row. Domain still even though we're Stratus. So he mentioned we talked about it one time just like, hitting a reset button on PreVeil on what we had and just starting everything over over from scratch. Not worried about the data that's already in PreVeil, but if we can get that kind of account recreated in from a new new account perspective and get all the broker users who need PreVeil set up, that would be fantastic.
+Robin Barrow: Yeah. Absolutely. I mean, I'm just trying to pull up our last email communication and I will say so, we let me just see
+Robin Barrow: It's hard because your obviously your accounts like tied to broken, but it's tied to another so. And you probably got reached out to by
+Robin Barrow: Our bdrs. Give me one second. I was trying to pull everything up.
+Robin Barrow: Where is it? Um
+Robin Barrow: So we had an auto renewal clause that took an effect. So that's why you saw the invoice come through. And I am just making sure I have everything pulled up and we can still do a reset of the account more. My concern is and again, this was back in June. I think we chatted about it. But what my concern is that we won't be able to lower your user count. We can add to it, we can make sure everything's in place, but based on what you all paid for. That will have to remain the same.
+Matthew: I think the so is it still 13 total? So 11 users and 2 admins?
+Robin Barrow: Yes. Yeah.
+Matthew: I would say that's fine based on the scope provided. I think at the time we you know, it would've been nice to kind of take a few off. But at at this point if we need to just push this through, get our existing user accounts set back up. That's fine. Let's just run through that.
+Robin Barrow: Let me say.
+Robin Barrow: Let me just make sure and we can get a signature and everything like that. Just for paperwork purposes, but I don't did you have a broken bro e mail before?
+Matthew: Yeah. It's still active. So if you send it to me, I'll get it's a suc at broken bro.com.
+Robin Barrow: Do you mind putting it in the chat? Sorry. Yeah.
+Matthew: Absolutely. No, no. No worries.
+Robin Barrow: Um
+Robin Barrow: Thank you so much. I'm like searching for this example. It's
+Robin Barrow: Let me just see.
+Robin Barrow: And so just so I know you all haven't touched the platform at all.
+Matthew: No. Yeah, it's been okay. Yeah. I mean, like we the problem is the users that originally had created PreVeil, a number of years ago. They've got a new computer since then. So nobody has their keys to get in or anything like that? So it's just unfortunately, kind of a little bit of time wasting resources and money.
+Robin Barrow: I get it, yeah.
+Matthew: We want to set it up from scratch. We want to do every we want to if there's if it's possible to look at this in in this way, if we can hit a reset button, start all over, fantastic. Get our users recreated. Not worried about the old data that was in, that was that could've been previously used by anybody in PreVeil before I get them the user training. So they know what to do. Determine which users are gonna be users and which ones are admins. Make sure they are aware of how to recover their account, all that stuff. And I know that's gonna be coming through support and through the yeah, support side, not not from you. But that's kind of what I wanted to talk to you about.
+Robin Barrow: Yeah. We can do that. We can go ahead and delete the original org. If you all are okay with that and you're not worried about pulling old data. We can wipe it. We have no problem with that and then starting fresh. Because I think you all mentioned some devices. We don't have access to. We don't have access to the recovery keys. We've gotten new computers, we got new emails. Like it's just yeah, that's absolutely possible it, who will be the admins on the account?
+Robin Barrow: Um
+Robin Barrow: And it's not something you need to answer right now. So you can come back to me on that, but yeah, I think
+Matthew: I think I'm gonna make Jeff King. I do the admins of the account need to have like, domain privileges. Is there is it just admins as far as like the portal for PreVeil? they don't need any pre reps to be an admin, right?
+Robin Barrow: Right. Right. The only thing is that PreVeil is an encryption key style and devices. Do you have a VDI environment? I think we talked about that beforehand.
+Matthew: We do have a VDI environment, but I think we decided that for the users of PreVeil, we would make their company computers their physical computers, their PreVeil computers.
+Robin Barrow: Okay. My next question is gonna be are they multi sessions? Because PreVeil does not
+Matthew: Yeah. They were multi session as well. It sounds like yeah. Maybe that was the deciding factor back then.
+Robin Barrow: Yes. Okay. That makes sense. Yeah. You're gonna have physical assets, separate network and everything for just the PreVeil us in the
+Matthew: Yeah, they're gonna okay. Yeah. The their local computers are gonna be their PreVeil devices. And then I'm assuming PreVeil still does like this. I'm looking at a quote from August. Is that accurate?
+Robin Barrow: Yes. That was the one I was trying to pull up and that one is accurate.
+Matthew: Yeah. Because it's not showing me quantities of licenses or users. So I'm assuming it's just carrying over what we had previously.
+Robin Barrow: Yes. Let me
+Robin Barrow: Again, it's so hard. Because my e mails are all from the old accounts. Who do do you remember who else was involved in the conversations with us?
+Matthew: I would have been down nodes or Jeff King.
+Robin Barrow: Yeah. Yes.
+Matthew: His email. So
+Robin Barrow: I got down, but I got this broken bro one.
+Robin Barrow: Okay.
+Robin Barrow: So I have conversations that we had back in November. Um
+Robin Barrow: And then I'm just thank you.
+Robin Barrow: And then I have other conversations that we had back in July. Yes. Okay. Here we go. We found it. So sorry, there's too many email threads. And I was trying to I'm more organized in this. I promise you. This the original contract that we discussed. This not based on what your invoice is for. Because obviously it was an auto renewal and I can pull up the auto renewal amounts. Are you seeing this dollar amount right here?
+Matthew: Yeah. On the invoice, it's a little bit less.
+Robin Barrow: Okay. Yes. I think when we were chatting you all were saying that you're working towards C level 2. So I included the compliance accelerator and I think it's a couple of additional licenses just based on conversations. But this is not one we went through with we went with the original broken bro on. Let me just and I can confirm that. And
+Robin Barrow: Let me just see.
+Robin Barrow: Yes. We what we did you all have the compliance docs previously. So you have access to the accelerator, but we just gave it to you at the compliance stock price because we got rid of the compliance stocks. So you got a discount on that.
+Robin Barrow: The total and the invoice should be 9,120
+Matthew: Yeah. Yeah, that's from from August. I don't know if it. I mean, I can take this invoice and submit it to my accounting department, have them pay. Okay. Or but because it's an expired quote, I didn't know if you needed to send me a new one, it's I don't know how that works.
+Robin Barrow: Because of the auto renewal clause, we don't take the in the order form is really for you all to have for your record keeping because we have the auto renewal it just process. But it's up to you all. I would say at this point, let's just get the invoice and then we'll move forward. And if you all need additional users, then we can do another quote.
+Matthew: Yeah. I would say so how many for this renewal can you see how many users? We it's
+Robin Barrow: Actually the same it was 15. So we didn't change your renewal your account, I was mistaken.
+Matthew: So we have 15 regular users into admin admins. Okay. So can can a user be an admin or is it 2 separate accounts? So
+Robin Barrow: They're the same. So admin account takes up a standard user seat. Got it. So really, you have 13 standard users available to you?
+Matthew: Got it. Okay. Understood.
+Robin Barrow: So I'm going this is out of HubSpot. So I'm gonna show you HubSpot again.
+Robin Barrow: This is the broken broken bro.
+Matthew: Org. Okay.
+Robin Barrow: I'm gonna delete that out. And then you most likely have a Stratus org to correct?
+Matthew: I don't know that we do. I don't think anybody ever used Stratus.
+Robin Barrow: The Stratus e mails
+Matthew: That for PreVeil.
+Robin Barrow: I just want to confirm just in case I think the only thing we saw was like, express accounts, if anything, which doesn't matter.
+Matthew: That could be the case. Yeah. They could have used express accounts because those express accounts are those are how they can receive PreVeil e mail.
+Robin Barrow: Yes. Yep. Exactly. So the only one that has a Stratus e mails you. So I'm gonna wipe this domain. I'm gonna put in a ticket. I'm gonna add you to it and say can you please wipe? awesome. Broken bone associates. They're changing their name to Stratus, but want to don't have access to the old domain. You just have to they're just gonna ask for confirmation and you just give the thumbs up. From there. I'll provide instructions on how to get PreVeil onto your new devices and we're gonna run it as if you're a new customer. So we're gonna bring you onto a technical onboarding. We're gonna provide trainings, we're gonna and go through everything. Okay. Are you okay with that?
+Matthew: Yeah. Well, I just want to be I just wanna confirm. So I think what we need to do for our federal contracts, I think our users are gonna be broken bro users even though they're under the Stratus family, like mean account. So I just want to make sure that the broken bro tenant will still be in in PreVeil. The billing side is Stratus ownership, but I don't know how that works on your end, but is that the users need to be able to be broken, brow users in PreVeil?
+Robin Barrow: We can do that. Yeah, we can do that. So you want the org name to stay the same, essentially?
+Matthew: Yeah. I think that unless unless because because what does it look like from an outside entity if they receive an email from
+Robin Barrow: Built or broken brow.
+Matthew: They'll see broken road, yeah. But even if our account is Stratus.
+Robin Barrow: Um
+Matthew: So yeah. It's kind of confusing. So our company is Stratus like, Stratus acquired Austin, broken bro, but our contracts with the federal government requires to still be broken bro. We can't be Stratus for those specific contracts.
+Robin Barrow: So I would go ahead, sorry.
+Matthew: No. I was just gonna say I think that in in order to appease the federal contracts, we have to make sure we look like we're broken row as much as possible, but if it's not if we're Stratus in the PreVeil side, but we can make it look like it's Austin broken, but that's fine. I just didn't know if that was possible.
+Robin Barrow: And are they gonna use the broken broad domains?
+Matthew: For like for
+Robin Barrow: What for per Val for getting a PreVeil account, are they gonna keep the broken bro e mail domains? Because that's what they're gonna see.
+Matthew: Yeah, I think so.
+Robin Barrow: Okay. So then you're fine. I would have the org be broken brow. Okay. Literally keep the same and the for billing purposes and accounting purposes, we're gonna have your name in our system be Stratus a
+Matthew: Yeah. Perfect. Okay. Yeah, that's exactly that's much better. Yeah.
+Robin Barrow: Okay. So just so again, we don't have to go through what I just went through trying to find your account, which was we'll do that. And okay. I like I said, I'm gonna submit that ticket.
+Robin Barrow: Who will be the admin again? I'm so sorry.
+Matthew: I think it's gonna be Jeff, King in down notes.
+Robin Barrow: Okay. I'll include them on the ticket in the email just so they know. And Dan, I remember saying he had access originally. Does he still have access?
+Matthew: He may have he may on his old laptop, but he said it's fine if we wipe it.
+Robin Barrow: Okay. He can export data if he needs to. There's literally an export button. So if he really wants to, he can do that. But um
+Robin Barrow: Yeah. I'm just gonna I'm gonna add them to the ticket and say, please wipe this org.
+Matthew: Is there any reason for me or somebody in it to be an admin under PreVeil?
+Robin Barrow: We do have some folks that will remain an admin, but because of access control um
+Robin Barrow: Controls within C level two, they'll have to have 2 separate accounts. So if Dan has admin access, he's gonna have to have a standard user account and separate those worlds. We won't charge you for, obviously those additional licenses because they're duplicates, but that's what for C C level two, that's what's required. So if you're in it and you're strictly doing admin and you're not gonna touch the UI work, you can manage the users, but you don't want anything shared with you. So Dan will still have to share things out or e mail out. Are you all gonna be using it mainly for email or drive?
+Matthew: I think we're gonna do we're potentially we've never used drive, but I think we wanted to use drive in the future. Yeah. Email, mainly.
+Robin Barrow: Yeah. A lot of the ways folks do it is to separate the world. So have their admin account and then they'll have a standard user account. So it the only thing that's difficult is that they have to use a different email. So you could have your Stratus email in there just be the admin and just make sure nothing's shared with you and then add users and remove users and just have the admin functions. But
+Robin Barrow: Or you don't have to
+Matthew: I think maybe maybe I should be one of the admins then.
+Robin Barrow: Okay. Yeah. And then would you all have an assessment date or anything like that in mind?
+Matthew: No, not yet. We're trying to work through that internally. We're trying to get our old SP updated right now. So I'm sure it's coming down the road.
+Robin Barrow: Okay. Do you and who's working on that for you?
+Matthew: It's well, it's a self assessment on our team. It's cat roads and myself and the director of IT loading.
+Robin Barrow: Okay. And have you had access to the accelerator at all?
+Matthew: No. No, I've never used it.
+Robin Barrow: Okay. I'm gonna make sure you're added to that just because I think it will make your life easier and I'm gonna show you it real quick. But just a button up the technical side. That sounds good. I'll add you and down to an email.
+Robin Barrow: For the ticket of Wi Fi. Accounts, does that, yes. Yeah. Okay. All right. I'll do that right after this call. You'll see that come through and then I'll also give our support team a heads up just so they'll see it and they'll probably reach out if not today first thing on Monday. Okay. Okay. So switching gears to compliance. This is the compliance accelerator. This is something that is already within your current agreement of PreVeil. This was this is the updated or new version of compliance docs that you originally purchased with us. Any do you remember any of this for? So it's okay if you don't you get a lot going on. Oh, no, you're good. So this is a compliance accelerator. This is what we call the 10 step guide to getting compliant as I mentioned. But because when you tell me you're working on your SP, we have a full on fully assessed documentation package with a templated sap. So obviously, this fake company is not going to be fully the same as you all, but at least it's a great example of what a 1 10 customer or company. Excuse me. Looks like you can see you can take all these documents. You can download them. You can edit them do whatever you need. But the other nice piece if my word wants to work here, I think I already have one pulled up somewhere, not stopped working. Not only do you have the SP templates, you have the standard operating procedure templates. That pretty much the language is the same across the board. I can add you and I can add 2 other folks to this as well.
+Robin Barrow: But
+Matthew: Do we have time to? So I'm trying to figure out who is gonna be our lead on the CC NIST stuff in our organization. Potentially, it's a user. It potentially could be cat roads on our team. That's and that is kind of like, leading this. If we need to change admins down the road, is that possible?
+Robin Barrow: Oh, yeah. Okay. Yeah, absolutely. And the accelerator is separate from the actual PreVeil platform. So you don't have the same. You don't have to have the same users in PreVeil as you do in the accelerator those whatever you need. But yeah, these are all
+Robin Barrow: Like I said available to you. Additionally, there we go. You get with the accelerator.
+Robin Barrow: You get 6 30 minute sessions with the compliance team. You can book time with them through the accelerator. Those are super useful, especially as you work through this. Or if you have a unique case and you need to talk through it with people that have been through the assessment process and understand it book time with them here. And then you also have access to their email. So if you have any one off questions or anything like that data don't count against your time. That's unlimited to you. Okay.
+Matthew: Excellent. Yeah. Um
+Robin Barrow: Great. And then
+Robin Barrow: Oops, I just end the meeting. Let's not do that. Yeah, I think we have a good plan moving forward. Let me know if you have any questions on that invoice or something I can look, right?
+Matthew: Yeah, I can just take that invoice and submit it to accounting for payment and that's it. There's there's no changes on that invoice that need to be made for us to proceed with this route.
+Robin Barrow: No, there's no changes. We won't chat again until
+Robin Barrow: Your next renewal, which is kind of sneaking up. Well, it's not really, but it's towards the end of August, which I feel like we'll be here again, before we know. Yeah.
+Matthew: Um
+Matthew: So I remember we turned the auto renew off the last time we renewed, but is so is this invoice only gonna give us access until August of 20 26 today?
+Robin Barrow: Yes.
+Matthew: Can can we like look into that because I'm pretty sure we disabled auto renew. So I can look
+Robin Barrow: Yes, I can one I'll make a note, but I can also if you like, I can see if I can extend your contract out.
+Robin Barrow: Until past August. So to make up for the time lost if you'd like
+Matthew: Yeah. I mean, whatever, whatever is, easiest, I just want to make sure that we're not limited in in terms of our actual using of the software. So an extension or whatever whatever it needs to happen.
+Robin Barrow: Okay. I can yeah. I have to get approval for that. And then um
+Robin Barrow: Yes. Just make sure.
+Robin Barrow: Yeah, I'll make I just making a note of that and I can ask one the finance team if we can just extend it out and then also turn off the auto renewal.
+Robin Barrow: I know. It was meant for the new quote that we wrote out, but I didn't receive an answer in time. That's why it auto renew process.
+Robin Barrow: Oh.
+Robin Barrow: But if you can find the clause and then I'll talk to the team.
+Robin Barrow: I've been wrong before. So that's
+Matthew: Yeah. I'll have to look for it and see what I can find out. Um
+Matthew: I just remember I remember we went through. I think it was our last renewal. We went through it. Because we were at the time we were like, we're not using it. So why are we gonna renew this and then
+Robin Barrow: It auto renewed.
+Matthew: Yeah. It auto renewed and we paid that term. And then I think I remember working with you to get it disabled for the next renewal to make sure it wouldn't auto renew again.
+Robin Barrow: Yeah, I can dig too.
+Matthew: Yeah. I'll try to find it. Yeah. It's not just on you, but I'll try to find it. But okay. I will yeah. If you can get work on an extension. Great. I know you'd have to get approval for it. Fantastic. And then yeah, we'll go from there. I'll let AP know to go ahead and process and that won't affect the invoice. They can just still use that invoice to pay, right?
+Robin Barrow: Right. The end date is just gonna switch out to. I think I'm gonna ask for 4 additional months. They'll probably come back and say too because that's just how it works. But let me ask. I'm gonna say so your end date will switch from August to
+Robin Barrow: December. Okay. Yeah. Yes. And then I'm making big notes on your account. Do not auto renew just for that one.
+Robin Barrow: Okay. Okay.
+Robin Barrow: Great.
+Robin Barrow: Any other questions or anything else I can help out with today?
+Matthew: I think that's it. I appreciate your time. Thanks. Glad you had this slot available for this week. It was your last one. So
+Robin Barrow: Great, no. No worries at all. And then yeah, just expect a follow up email. I send the recap and then keep an eye out for that ticket. They communicate through JIRA, but I'm gonna ping the support team and just make sure they stay on top of it so we can get it taken care of. Okay.
+Matthew: And that ticket is strictly for getting the new portal set up and getting users added and all that.
+Robin Barrow: Yes. Yeah. And then I will um
+Robin Barrow: I'm gonna send you a separate invite for the compliance accelerator and you just let me know. The 2 other individuals from a compliance side that you want me to add to that platform as well. If you all find it useful. I don't know if you will, but I think it might be helpful.
+Matthew: Okay. Excellent. Thank you.
+Robin Barrow: Great. Well, thank you, Matt. Enjoy the rest of your Friday and we'll chat soon. I'm sure.
+Matthew: Sounds good. Thanks. Thanks, Robin. Bye.

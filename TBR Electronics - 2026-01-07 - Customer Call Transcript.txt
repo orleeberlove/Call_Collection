@@ -1,0 +1,244 @@
+Account: TBR Electronics
+Call Date: 2026-01-07
+Duration: 00:26:43
+Participants: Robin Barrow, Glenn Ross
+
+======================================================================
+
+Robin Barrow: Hi Glenn, how are you?
+Glenn Ross: I'm fine. How are you? Can you hear me okay?
+Robin Barrow: I can hear you just fine. I am doing well. Thank you. This, I'm assuming is regarding your welcome call with PreVeil?
+Glenn Ross: I don't know.
+Robin Barrow: Okay. I just saw the time booked on my calendar. So I was like, I hope I got this right. It is let me just make sure.
+Glenn Ross: I had an onboarding our meeting with somebody a couple of weeks ago.
+Robin Barrow: Oh, you did? Okay. I don't I'm not sure. We need to meet I think we already met. So I just had this time booked on my calendar, so I just wanted to let me just make sure and you work with Paul lunch.
+Glenn Ross: Yeah. I'm in charge of getting this all this stuff working.
+Robin Barrow: Sure. And you have PreVeil downloaded feeling good about it so far?
+Glenn Ross: No. Well
+Glenn Ross: Yes. And no. There's 2 things that haven't been done.
+Glenn Ross: That I thought after that last call I was gonna be contacted and getting help with
+Robin Barrow: Oh, okay. Well, well, The I'm assuming one of them is the email gateway.
+Glenn Ross: Yes, the secure email gateway.
+Robin Barrow: Okay. That I will follow up with the support team on to figure out who's gonna assist with that.
+Glenn Ross: The second one is getting the cloud story setup.
+Robin Barrow: Okay. You should have that under the drive.
+Glenn Ross: Well, after the onboarding it looks like everything is on a uh
+Glenn Ross: A local drive that works like um
+Glenn Ross: And then where it's just backed up to the cloud.
+Robin Barrow: Oh, okay. You're looking to just turn off the local sync. So it's only in the cloud.
+Glenn Ross: Yes. And I was and this gentleman that I spoke to and let me apologize in advance.
+Robin Barrow: Okay. No worries.
+Glenn Ross: I have a group voice.
+Robin Barrow: That's okay. I can hear you. Just fine.
+Glenn Ross: No. But when I start thinking too fast
+Glenn Ross: It sounds like I'm angry when I'm not. Okay.
+Glenn Ross: And I offended the gentleman the last time because he didn't understand that. I've had this problem my whole life. I have a especially if you could see my face. I mean, I've worn my hair long and I have a big bushy beard and I'm kind of a big guy. So people tend to assume that I'm angry when I'm not
+Robin Barrow: That's all right. I'm from the northeast. So everyone's a little angry.
+Glenn Ross: Well, I'm not angry. I just get loud and then I don't mean to
+Robin Barrow: You're good.
+Glenn Ross: But anyway, yeah. So so
+Glenn Ross: What we were going I was going around in circles with him was
+Glenn Ross: This one simple fact.
+Glenn Ross: He led me to believe that. Each individual the 5 users we have PreVeil users would have their own independent PreVeil drives. That would either be local or in the cloud that they would get then give other people access to
+Robin Barrow: Yes. That he's accurate.
+Glenn Ross: What we need. And but he also said 2 things. Well, that local PreVeil drive could not be on our network.
+Robin Barrow: Could not be on your network.
+Glenn Ross: It had to be on the local hard drive of the person that because here here's the model that we really want.
+Glenn Ross: We want a single
+Glenn Ross: Encrypted service cloud.
+Robin Barrow: Hmm.
+Glenn Ross: Where all 5 of these users have access to it, but it's not owned by any single one.
+Robin Barrow: Oh I see what you're saying uh
+Glenn Ross: If it has to be owned by one single one
+Glenn Ross: Then we would can we set it up as a cloud?
+Glenn Ross: And
+Robin Barrow: So the way PreVeil works, it's encryption keys that are stalled on each device. So it each user that's going to be added to your organization is going to have to download PreVeil on their hardware. Yeah, yeah.
+Robin Barrow: Okay. Okay. You can if you don't want the local sync there is something called cloud lock and you can go ahead and turn that on so that they won't locally sync to their server. And then you would just manage via cloud edit. And that's how PreVeil will work. I can show you where that is. Give me one second. Sorry.
+Glenn Ross: So we could have it set up. So that would be a single person.
+Robin Barrow: It's not
+Robin Barrow: That
+Glenn Ross: All 5 people would have access to it.
+Robin Barrow: So you have to share out it's all permissions based. So so say this is one of your users that's me and I want to share this folder with you yeah. Yeah, no.
+Glenn Ross: No, I understand that. One person would own it, but all five, we could give all 5 complete access.
+Robin Barrow: Yes. You would just have to manually add them, share it out.
+Robin Barrow: Per folder.
+Glenn Ross: But now you just created a folder, how do we know that's on the in the cloud?
+Robin Barrow: Well, for this one, I have cloud lock settings on. So what do you want? And that will it will remain everything will remain in the cloud and it won't sync down to your local device.
+Glenn Ross: Yes. That's the key. So yeah. So that gives us what we want. It will be a single owner that owns it, but all 5 of them are PreVeil users can have unlimited access.
+Robin Barrow: Yeah. You can you would if it's a folder, you would share it out. If you want them to have full access, you would say edit and share privileges. And then you would put in the email of the individual. You want to share the folder out, but you have to do this for every folder. And then you would open the folder and add the documentation. What
+Glenn Ross: Sorry, what?
+Glenn Ross: Would that yeah, I'm sorry if we created one folder, I would we have to do that with all the sub folders.
+Robin Barrow: No, not the sub folders, but the main folder. That's all we want.
+Glenn Ross: We want because we only have one customer we have to worry about. So we would have one main folder and then sub folders for the different jobs we do for them, underneath that single folder. So if one person created that main folder and gave everybody we put the email addresses like you say on there.
+Robin Barrow: Um
+Glenn Ross: Then I'll file everybody whose address we put would have access it.
+Glenn Ross: Everything put on that folder would be an ER, table whether it's a file that's added or a sub folder that's created, it would inherit from the
+Robin Barrow: The folder.
+Glenn Ross: Yes.
+Robin Barrow: Yeah. I guess we'll let me just see. You have to give them full access edit and share.
+Robin Barrow: I think this is
+Robin Barrow: Excuse me. And then we'll click in
+Robin Barrow: This oops?
+Robin Barrow: I should already show who shared.
+Robin Barrow: It hasn't updated yet.
+Robin Barrow: What are you putting in these sub folders?
+Robin Barrow: Are you putting part numbers? Are you putting do could you just do files in this folder?
+Glenn Ross: In the main folder. Now the whole idea is it's like the way we um
+Glenn Ross: The main folder is the customer. The sub folders are different jobs.
+Robin Barrow: Okay. We do multiple jobs.
+Glenn Ross: And then underneath underneath each of those sub folders for the jobs, maybe different categories, one for engineering, one for other, one for something else. So you know what I'm trying to say.
+Robin Barrow: Yeah. I think if you create the folder share out the main folder before you add anything to that add any sub folders or anything like that. So you want to add all 5 share, they're gonna edit and share access for everything, but if you add files
+Robin Barrow: Just see if say if you have a new user that you need to add, you have to manually add them to all the sub folders because they weren't from the original list.
+Robin Barrow: So this will show
+Glenn Ross: So if I set up the initial folder, the main folder before we add any data or sub folders.
+Glenn Ross: And I add all the users, they will automatically inert anything that's created after that.
+Robin Barrow: They should. Yes.
+Glenn Ross: But if we add 86 user, I would have to manually add them to everything that's been created.
+Robin Barrow: Yes. Yeah.
+Glenn Ross: I can't just add it to the main folder and then have it inherit.
+Robin Barrow: No. I was like, why is that working is because that user doesn't have survey. Yes. That is exactly right. Yeah.
+Glenn Ross: That's gonna make it awkward if we have to add somebody new
+Robin Barrow: It will. It's a little manual work. I can't add your own account. It's we're hoping soon. We're gonna have more groups based access. And that's an enhancement that's coming down the pipe soon. So then it will make it a lot easier. So we can do true groups, but right now, it's pretty manual.
+Glenn Ross: Yeah, because that's the way windows works.
+Robin Barrow: It is.
+Glenn Ross: You know. Because I've had to set up permissions on this customer to restrict them to only only the 5 users that you see and nobody else on our network has access. And if I need to if we got a new engineer or something that needs access, I can just go to the main folder and it trickles down. It asks me you wanna give these permissions to everybody, right? Everything and then it just trickles down and it does the work for me.
+Robin Barrow: Yeah, it's a little manual on our side. I always just say if you're doing something in the encryption world, just add an extra step. It's it just unfortunately, that's the way it is. But
+Robin Barrow: We're hoping in the future.
+Glenn Ross: I'm not complaining or arguing. I have to know how it is. So I can let my boss know what the limitations are when we start setting it up. Yeah.
+Robin Barrow: Of course. No, that makes sense. And I'm glad we were able to work through it. But in the future, we're hoping that's not the case. So then you can that you will truly
+Glenn Ross: Have a group like yes. Yeah.
+Glenn Ross: Now uh
+Glenn Ross: Is it true that the PreVeil drive? Yeah. Okay. You just told me how I can shut off the
+Glenn Ross: Let's see. I have to go down to cloud lock settings.
+Glenn Ross: I have to it's turned off.
+Robin Barrow: And you get to turn it on.
+Glenn Ross: Turn it on.
+Glenn Ross: Okay.
+Robin Barrow: So this is a The cloud log feature restricts files to the cloud when returns on preventing users from syncing data.
+Glenn Ross: I see a different oh, I've got it turned off. So I see a different screen. Yeah. Um
+Glenn Ross: All right. Well, I know how to do it. I don't want to do any use until I, you know. So I have enough of an understanding now. Let me ask you this.
+Glenn Ross: When I was talking to that gentleman and I can't remember his name. I'm terrible at remembering names.
+Robin Barrow: Robert
+Glenn Ross: Maybe
+Glenn Ross: I'm sure he remembers me and wasn't very happy, but that's okay. Oh.
+Robin Barrow: You're I'm sure you're fine.
+Glenn Ross: No, I know. I wasn't but I appreciate it. But anyway, I think he said that there was a way that we could have the PreVeil drive on the network.
+Robin Barrow: I'm not aware of that, but
+Glenn Ross: If it was a app drive with a drive letter.
+Robin Barrow: Oh, via cloud you could probably do it via
+Robin Barrow: Uh
+Robin Barrow: Links maybe, but I'm not sure.
+Robin Barrow: Well, I would go back to the support team on that one, but I can
+Glenn Ross: If you can set up
+Glenn Ross: Yeah. If you could set that up to
+Glenn Ross: Okay. Talk to somebody about that because um
+Glenn Ross: It might be convenient, you know.
+Glenn Ross: Let's see. We got 15 more minutes. We've avoided cloud based storage forever because even though we don't like other people having our control of our data.
+Robin Barrow: Okay.
+Glenn Ross: But we
+Glenn Ross: But we also understand that.
+Glenn Ross: With all of the security threats that there are nowadays.
+Glenn Ross: Our data is safer with you than it is with us because we don't have the money to. It's like I told my boss to make ourselves as secure as he wants to be. We wouldn't make a profit, right? We couldn't afford it. I mean, it's just with a small shop like ours. It's just to be completely secure.
+Glenn Ross: It's just a sous amount of money.
+Robin Barrow: It is. Yes. So
+Robin Barrow: So
+Glenn Ross: That's one reason we went to your product.
+Robin Barrow: Excuse me, sorry. Yeah, I mean and that's a lot of the reasons why people come to us. I just The for the file mapping, I'm gonna send you links to the support team. And then you can book time with them because I'm not really sure exactly how that would play. Because
+Glenn Ross: It might be good for us. Um
+Glenn Ross: Because gives us such good. Um
+Glenn Ross: Encryption and safety that mirroring a group folder, even though it isn't truly a group folder. But what I'm gonna consider a group folder if we could set up one of our users to have PreVeil their PreVeil on a network drive that would be accessible by everybody then it would be we get the best of both worlds. We would have all our data encrypted locally, but then also cloud based on yours.
+Robin Barrow: Yeah. And for the local piece, honestly, that's probably out of our hands. It would fall around encrypt ing your endpoints. So making sure you have things like bit locker defender on your computer. No, no, no, no. No, I'm talking about
+Glenn Ross: Having the PreVeil drive your the local PreVeil drive on a network drive rather than on somebody's local drive.
+Robin Barrow: Okay. I see.
+Glenn Ross: So we'd still be using your PreVeil product.
+Robin Barrow: But it'd be on the okay.
+Glenn Ross: But instead of just having this cloud lock turned on where the content is not synced.
+Glenn Ross: Where it is synced. But the but instead of all 5 of us having independent PreVeil drives, we would have one that would be accessible by all 5 people, but we can't do it on individual computers. They would have to be on our network server.
+Robin Barrow: Would it be like a virtual environment?
+Glenn Ross: Well, our
+Glenn Ross: Our network data, data machine is a virtual machine nowadays.
+Glenn Ross: Our domain servers a virtual machine, our database server is a local machine. Our exchange server is a
+Glenn Ross: Virtual and our data server is a virtual
+Robin Barrow: Oh, okay.
+Glenn Ross: They're all on the same piece of hardware, but that's the way to do it. Nowadays, I can't have it's a lot less.
+Glenn Ross: It's easier to
+Glenn Ross: To to manage and it's cheaper than
+Robin Barrow: Having independent computer.
+Glenn Ross: Independent pieces of hardware for each one of those. Yeah. I mean, that's just the way we use nowadays.
+Glenn Ross: We have AI am an outside guy that has helped me with the architecture and maintaining some of the um
+Glenn Ross: Outside things that are. And
+Glenn Ross: Not within my strict knowledge base.
+Robin Barrow: No. And I'm the same way when it comes to our it. My brain only goes so far. Well
+Glenn Ross: I've been
+Glenn Ross: I'm 70 years old and but I've been doing this for 35 years. So
+Robin Barrow: Oh, wow.
+Glenn Ross: But I but what I learned a long time ago was well actually it took me about 10 years in
+Glenn Ross: To learn it is.
+Glenn Ross: And you know, I used to stay up to date with everything, everything, everything, everything, right?
+Robin Barrow: Yeah.
+Glenn Ross: And then I found out that 95% of the things I learned. I never had to use.
+Robin Barrow: There you go. Because
+Glenn Ross: Things change so fast and so often
+Glenn Ross: I was cleaning up our hard drives about 10 15 years ago and I found this 3 page document from 30 years ago.
+Glenn Ross: And I'm reading this thing and it's just script.
+Glenn Ross: In a language. I don't even remember and I read it and I man. I did. He had no meaning. It was like reading Spanish Russian or something.
+Robin Barrow: Yes.
+Glenn Ross: And then I looked at the end and I had written in
+Robin Barrow: Oh, jeez.
+Glenn Ross: But what it was was it was the script that had to be used to network a single machine before windows when we had a
+Robin Barrow: Oh, wow.
+Glenn Ross: When everything was prompt at the prompt and yeah. I mean, that's how long
+Glenn Ross: But you know, I mean, I wrote this 3 page and I had no idea. What is this?
+Robin Barrow: Yeah.
+Glenn Ross: So there are limits there are limits to what any one person can learn.
+Glenn Ross: So you got to depend on experts. So we have an outside expert because like we have a hardware firewall that he
+Glenn Ross: Help set up and manages and he he's the one that actually suggested PreVeil when we got to this point
+Robin Barrow: Oh, okay. It's um
+Robin Barrow: No, I believe they're a partner of ours. Okay. I'm gonna set next steps as far as what how to make sure you all are set up appropriately and you can meet with the support team from the compliance standpoint, I believe I added. Um
+Robin Barrow: Paul to the accelerator, but I don't believe I've added you and you also need to set up the email gateway. So the support team will definitely reach out regarding that. They'll reach out to you directly. It will either come from a Chris Vinita or Phil rodrigues. So you might have already seen something come through. But
+Glenn Ross: Boss been forwarding the compliance email and saying I thought you were gonna take care of this.
+Robin Barrow: Oh, jeez. Okay. I'll add you to the accelerator so you can see it. But
+Glenn Ross: Because I got to be able to yeah.
+Robin Barrow: Lucky you. It's a beast, but
+Robin Barrow: It takes you through what is cms. Very green. All the way through how do you get there?
+Robin Barrow: So
+Robin Barrow: It's dense material, but
+Glenn Ross: Yeah. Yeah, I saw that. But you guys help?
+Glenn Ross: From what I understand, you guys do a lot of the
+Glenn Ross: The filling out the.
+Glenn Ross: And we just have to you simplify it for us.
+Robin Barrow: We do yeah. We have all the templates. You all just need to customize them to your current security infrastructure. So you'll see
+Robin Barrow: This is what it will look like. It's based out of a learning management system. And then you just go right through here under documentation. And again, you'll have access to this and I would highly suggest reviewing all the content because it's all great. And then this is where all the templates live. Not there. Wait. I'm already have an open on under the Acme docs package. So what this is it's a fully assessed by through a documentation package. It's all the documents you need for level 2 broken out by the control families.
+Glenn Ross: Okay.
+Robin Barrow: Yeah. I again, take your time you have access to the compliance team. You can book time with them right through here under additional compliance resources. And you also have access to their email at compliance at PreVeil.com. You could also reach out to the support team at support at PreVeil.com and then I am your customer success manager. So my role is to make sure you're happy and we get PreVeil up and running for you and
+Glenn Ross: You're Robin Barry.
+Robin Barrow: I am Robin bar, yes. Yeah.
+Glenn Ross: Here and you're on east coast time.
+Robin Barrow: Yep. I'm in Lindsey mass. I don't know if you're familiar with Kinsey at all.
+Glenn Ross: No, no. Oh, you showed picture, yeah.
+Robin Barrow: Yeah, that's my face. It's me. Uh
+Glenn Ross: I had mine today for some reason, oh, because he didn't have his on the last time.
+Robin Barrow: Yeah, you can hide yours if you want. You don't have to if you're not comfortable, but I always like to show mine. So I'm not I'm a real human. Hello. You don't look that you said you were group. You're fine.
+Robin Barrow: Well
+Glenn Ross: I lost a lot of air, but
+Glenn Ross: The beard, but anyway.
+Robin Barrow: And you all where are you all located?
+Glenn Ross: Southwestern suburbs of Chicago.
+Robin Barrow: Oh, okay. All right. Great.
+Glenn Ross: Robin.
+Robin Barrow: All right. We're all east coast.
+Glenn Ross: I'm actually right next to Chicago. I'm in Berlin. I work 100% of the time remotely. I'm 100% remote.
+Robin Barrow: Nice. I'm mostly remote too. But we have an office in Boston that I go into sometimes, but every time I leave there I get sick so I'm avoiding it until the flu season.
+Glenn Ross: I don't know if you can see it, but I'm on a on 100%. Oh
+Glenn Ross: I have cop and oh, man.
+Glenn Ross: Since since covid I've been basically a recluse
+Robin Barrow: I get it's
+Robin Barrow: Has it too.
+Glenn Ross: I've always been an introvert, so it really doesn't bother me.
+Robin Barrow: And I see the remote world is great. A majority of our support guys are all remote too.
+Glenn Ross: You know? Okay. Yeah. All right. So so you've been very helpful. We can do the group thing. I won't implement it yet, because we may be able to do it in a better way. Once I talk to some of your tech people. Yeah, but I'll know we can accomplish what the boss wants and then you will schedule somebody to set up the email.
+Robin Barrow: Yeah. They're gonna reach out to you directly. So I would just keep an eye out for an email from them.
+Glenn Ross: All right. Well, then we can do with 4 minutes to spare.
+Robin Barrow: Love it. I'll send a follow up email too. And then you should see an invite for the compliance accelerator. But other than that, it was really nice to meet you and we'll chat soon. I'm sure.
+Glenn Ross: Thank you. I appreciate your help.
+Robin Barrow: Alright, have a great day. Bye. Bye.

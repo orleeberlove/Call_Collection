@@ -1,0 +1,197 @@
+Account: Softek Global Services dba Strategic Growth Partners
+Call Date: 2026-01-16
+Duration: 00:42:22
+Participants: Robin Barrow, Philippe Rodrigues
+
+======================================================================
+
+Kevin Turnage: So
+Kevin Turnage: Good day, everyone.
+Philippe Rodrigues: Hello.
+AndrewJakakas: Good afternoon.
+AndrewJakakas: Afternoon.
+Philippe Rodrigues: Good afternoon. This is Phil PreVeil.
+Robin Barrow: This is Robin nice. To chat with you all again, this week. How are you? Good is Kevin joining as well. I hope so. I think it's his meeting. I think it is to
+Robin Barrow: Wait, did you all get a chance to attend that webinar? what was it yesterday? Yeah, I did not.
+MIchael DuBois: I was like, triple booked, so
+Robin Barrow: That I can share it. I owe you all follow up anyways recap the call. So I'll share the link as well.
+Robin Barrow: Yesterday got away from me. Anyways. So, yeah, I can do that.
+Robin Barrow: I appreciate that.
+Philippe Rodrigues: Here's Kevin coming in now.
+Kevin Turnage: All right. Is that all of his
+Philippe Rodrigues: Peers to be
+Kevin Turnage: Now I can hear you.
+Kevin Turnage: Is Louis might be joining, but he'll he's he'll stay on mute, he's driving.
+Kevin Turnage: He doesn't want us to hear how fast he's driving.
+Philippe Rodrigues: The meeting is also being recorded.
+Kevin Turnage: Thank you. We were gonna ask for that.
+Robin Barrow: Hi, Kevin. How are you?
+Kevin Turnage: Doing all right.
+Robin Barrow: Are you sick this week?
+Kevin Turnage: No, no, no. By all means you've helped us address some of this vendor management stuff we got to knock out.
+Robin Barrow: I was gonna say it's a yeah, it's our third time meeting this week, so. But yeah, we are we I guess for today's call, are we discussing I know you and Phil had been working separately and I wasn't fully involved, but it's more about the team logs.
+Kevin Turnage: Yes. Yeah. And the alerts the system that went down and unique identifiers for when devices get added and external users things along those lines. So when we met with ABA code here we weren't able to find the correct uh
+Kevin Turnage: Calls the what's type into the prompt or requiring the information. So we're gonna lean heavily on Phil today. And if you wouldn't mind if you could guide Andrew here from a code helps us define those within the scene, sure. It's and if I don't know if there's a list fill that you can give us but we can either tackle these one by one or we can tackle them all as a whole and you know, we just start typing up and seeing if we're able to find that information corresponding. So Andrew, if you want to share your screen, perhaps. Yeah, and then Phil can guide us here through this.
+AndrewJakakas: How do I share? Oh, got it.
+AndrewJakakas: You should be seeing my screen in just
+Kevin Turnage: The moment we do, we see it.
+AndrewJakakas: Okay. Hey Phil. Just what we're looking at here is the Sentinel page. Up here is where I make a query. This is the the table essentially. We have the PreVeil table and then the data down the information gets populated down here in this table. So what I did when I was when this was requested, I just went under the actions. I was filtered under what we're getting under actions.
+AndrewJakakas: And I didn't see anything indicative of like, system configuration changes. At least from what I was looking at and I'm looking at it now, I did see things like AC change, but this appeared to be more like a user base a user sharing something. And it was like, there changing permissions to like a shared object.
+Philippe Rodrigues: Yeah. The logs are all based off of a user activity and focused on drive email actions and interactions with other users. I put a link here in the chat of the log taxonomy. It's a voluminous document outlining all the different event types that we have in PreVeil. We are working to expand that. But things changed in the admin console aren't comprehensively covered in in the log it. Some of the like, adding a user deleting user, approval group changes that sort of a thing is covered, but there are some things that we don't cover yet. Okay.
+AndrewJakakas: Well, I yeah, I guess for the pipe I mean, just to correct me if I'm wrong, then Phil. So I think we were looking for specifically when a gateway maybe was turned off and maybe who would have done that. So you're saying we're not gonna get that information over.
+Philippe Rodrigues: The gateway being turned on and off. Yeah, that one is not covered in the sim logs. We did have a bug 2 weeks ago that led to a health check service. Um
+Philippe Rodrigues: A health check service, check the conditions of the gateway server. And if it found that a few things were in bad health, then it would it was shut off the gateway. But we found that it went too far and it shut off too many gateways. And you would have gone to the admin console the gateway page and found the gateway turned off. And that sort of chain. Is not captured in the same logs.
+AndrewJakakas: Health server or that health tracker that pro that you were talking about. Does that have its own audit in? Or would that be a part of the whole system like a sim logs? And we're just just not audited?
+Philippe Rodrigues: It would not be audited. Yeah. It's a separate program on by the back end the back end services that PreVeil if you were to turn on or off the gateway that would be covered. But the health check through the back end. Doing a task would not be covered in the log activity. Okay.
+Kevin Turnage: So what you just said, you're saying that if an admin had made the change, we would get an audited log, but since it was a health check, we don't. That's right. Okay. That gives a little bit of peace of mind. Now, the problem we have about the health check incident is that all of the 3 tenants that we manage with PreVeil only one of them got a health check notice and it wasn't until 20 days later. This one, however pampas never got a health check notice.
+Philippe Rodrigues: Yeah. It was a bug in our system.
+Kevin Turnage: We understand, but there was no customer notice. That said, hey, by the way, you might want to check your email gateway because we noticed this bug and that's a a concern we have from an awareness standpoint. Hmm.
+Philippe Rodrigues: Yes. Yes. I can take that as feedback here to the team to sort of a notification system for such a bug so that we can instruct on how to work around the blog. We corrected it here. Yes, do that anymore. And um
+Kevin Turnage: Future yeah. In future reference if there and Robin s on the call, if there is a known issue a critical issue like this as the customer, we would expect an immediate as soon as possible. Notice to let us know if it's after a certain amount of time, maybe even a phone call. I know that might be seem a little excessive, but this was very pertinent to business operations.
+Robin Barrow: No. You're right. Kevin. And this is something we're working on on the CS side. We need like an incident response. So. Yeah, this is something we're taking, especially after the email gateway outage. This is something we can take back to my director and see if there's some sort of like whether it be I know it sounds silly to use this term because it's so dated, but like a call tree okay, we need to contact XYZ customers reach out to you also. Yeah, that's something that after that. Outage we are definitely looking into and improving for sure.
+Kevin Turnage: You know what you just probably up an excellent point. Can you provide us with in your incident response and what the SLA is according with that? I think that will help us and Michael quite a bit.
+Robin Barrow: Yeah. Yeah. Absolutely. Yeah. And classify what I've seen with the with other
+MIchael DuBois: Vendors in the past that have had workday and others is if there is an outage, we get an RCA afterwards. Some systems level, not not anything proprietary, but at least talks about the process and any corrective actions. Just it just helps us when we talk to regulators and others from our perspective that that we're working working with our partners and maturing processes and it's always a good thing to have on file.
+Robin Barrow: Absolutely. Yeah, I can take that back. Thank you. Sure.
+Kevin Turnage: Okay. All right. If we'll circle back here, thank you for answering all those questions. Phil, it. What about system changes it at large? So looking at the guy logs, they're almost completely useless to us. Is there anything that can help us? You had mentioned that if Huber and eye as admins had made a change to the email gateway that is locked. Can you point us to where those system changes are identified?
+Philippe Rodrigues: Yes. They're in the admin console in the activity logs. And there's a field for categories.
+Philippe Rodrigues: Okay. We can filter for system categories and it'll filter to logs for any changes that are done by administrators of the admin console.
+Kevin Turnage: If you don't mind, I'm gonna test it out real quick.
+Kevin Turnage: Sure.
+Kevin Turnage: Yeah. The one problem about that is the fact that
+Kevin Turnage: Because the way we set the interval, the data exports are set up for the same logs. There's just so many user approved for request, admin, approve request exports, things along those lines. But you're saying we could sort it so I'm hoping it's gonna give us what we need here. So topic system.
+Kevin Turnage: And same problem. It scuds and scuds of email gateway exports from my admin account. So unfortunately, that's not gonna give I'm scrolling all the way down here through 5,100. It's just it's the same thing over and over again. And I'm also not seeing an easy way to export this list as well.
+Philippe Rodrigues: The next item down on the left is data export.
+Kevin Turnage: Yeah. Okay. There's a log section. Okay.
+Philippe Rodrigues: There's a log section there's a user section and a time frame.
+Kevin Turnage: What I'm looking for here is maybe more an alert that if we want to set one up for a certain type of change here in the same, can you point us to where that's at instead of the guy side of it?
+Kevin Turnage: Is there anything in the log taxonomy you mentioned?
+AndrewJakakas: I will share my screen and you're talking from my side. Kevin, right? Yes. Yes. And let me share my screen. Yeah.
+Philippe Rodrigues: Yeah. I can provide you the keywords to configure alerts on your send provider.
+AndrewJakakas: So one thing I noticed while Kevin was talking and you're kind of guiding through that I filtered on both system and admin. And let me just
+AndrewJakakas: Summarize by these I noticed the 3 types. And I I filtered on system first. But I noticed on their system. It appears to be the same type of events under admin. So like approved requested and I just saw this same type of event under admin.
+Philippe Rodrigues: Yeah, they're overlapping. Okay. The approval requests specifically
+AndrewJakakas: So if I wanted to find specifically like a configuration change, what would be the best way to pivot in here? what well, these are the only values I can get
+Philippe Rodrigues: Yeah, it depends on the configuration change. It depends on the specific feature that we're talking about or setting that we're changing. For instance, if there's setting to disable users from adding devices or calendar keys over you would filter for system and then devices and then you would see if someone turned that on or off. So
+Philippe Rodrigues: Yeah. We just need a specific term of the setting to set up an alert.
+Kevin Turnage: Is there in your taxonomy list? would that be found of all the different features and what the corresponding keyword would be? Yes.
+Philippe Rodrigues: Yeah. In this page at the very top is an attachment?
+Philippe Rodrigues: At third one there, the taxonomy. And this goes through all the different types of low activity categories and then their key words and their configurations.
+Kevin Turnage: Okay. Is there anything on the email gateway at all?
+Philippe Rodrigues: Well, there's enabling disabling adding and removing users and changes with the gateway user, which is the service account that shuttles emails back and forth.
+Kevin Turnage: And remove users from the gateway you're saying.
+Philippe Rodrigues: Yeah. The allow this
+Kevin Turnage: An okay. Yeah.
+Philippe Rodrigues: Yeah. Users or domains.
+AndrewJakakas: Probably have to download this and control of it.
+Kevin Turnage: Okay. That's a good step in the right direction. How about the one of the core concerns we've had? I think you were one of your other cohorts there at PreVeil. Had mentioned exporting the device list out of the UI and unfortunately provides the exact same generic generated names. Instead of the actual device names, you name things along those lines. So this kind of has a double sided concept here. One
+Kevin Turnage: Are there any unique identifiers in the locks whatsoever for the for a device that's added?
+Philippe Rodrigues: Yeah. I'll preface this by saying that. Your device information is also encrypted before it gets to PreVeil. 2 2 of the great. All right. We still need to have your IP address OS that sort of a thing. But device names and things like that are encrypted. So we don't have that information and we create our own objects in our device database. And that's what you see in the export. And so there are unique identifiers from PreVeil database that are found in the export. That can be used, but they don't correspond to sort of a universal identifier on the device, like a Mac address or a serial number or something to that effect. Now, we've got a lot of feedback on this and we are working on seeing within the compliance frameworks. If we can capture the Mac address, host name, things like this store it securely then provide it in the admin console and in the exports. We do have a ticket for that. We're exploring different avenues. But currently to answer your question, it would be a unique identifier and PreVeil to identify the devices in in the export. And then there's the friendly names through OS name or the kind of devices that are there.
+Kevin Turnage: Sure. So let's divide this a little bit more. There's 2 things that you mentioned. So in the exported list from the guy, there is a unique identifier called device ID.
+Philippe Rodrigues: Yeah. That's
+Kevin Turnage: Pretty lengthy, is there any corresponding anything we can relate that to that would point out that person or what that device is in the real world?
+Philippe Rodrigues: No. Like I said, this is a code specifically from PreVeil. So it's only meaningful and PreVeil database.
+Philippe Rodrigues: Okay. It's universal identifier from an IP management point of view.
+Kevin Turnage: Okay. And the next one you mentioned IP address when Andrew and I were looking before, the only IP addresses that seemed to show up where the local loop back. Unfortunately, rather than the public IP address, you're stating that there's a public IP address that's documented somewhere?
+Philippe Rodrigues: No. No, we don't. No, we don't collect public IP addresses for devices.
+Kevin Turnage: Okay. So all right. You earlier statement? Okay. Yeah, because everyone's using the local loop. That doesn't help us.
+Philippe Rodrigues: Yeah. The desktop users use the local host address to connect to the software running on the computer. Yeah, that's not significant from a from an internet point of view. And we don't collect the public IP addresses for identifying devices because they could change um
+Kevin Turnage: But if there was an incident, what I'm saying is you would do like an FBI search and they go back and pull the logs from your service providers, et cetera. So that's just one thing. I had to deal with that in the past on an instant response. So so to consider there. Um
+AndrewJakakas: Right.
+Kevin Turnage: Sorry, go ahead.
+AndrewJakakas: I was gonna say we as we monitor multiple data sources, we can use that information to correlate across the other data sources darn in an investigation for analysis. So
+Kevin Turnage: Right. Like intro or something. Exactly. Right.
+AndrewJakakas: Kevin, you mentioned on the report that was that you unique identifier and I understand that's on the PreVeil side, but was there any other values missing here from that report? Because I noticed I mean, we don't get that identifier.
+Philippe Rodrigues: Here, that's right.
+Kevin Turnage: Yeah. It's not there. And the generic name is not there. And then nothing seems to correlate between the two, to be honest.
+Kevin Turnage: Besides the username. I think that's the only thing. So
+AndrewJakakas: Could that be an issue on what were just on the sis log or actually? I think we're using x log. Could that be an issue on the x log file or is that the is this expected that we're only getting this information from the same?
+Philippe Rodrigues: Collector, this is expected. Yeah, we don't. We don't push the PreVeil identifiers of devices to to send
+Philippe Rodrigues: Except for the name, right? The user that's not the action, but the information doesn't go through.
+Kevin Turnage: So let me ask the most important question related to this and we'll move on to the next question. The next section. How is this handled from a compliance standpoint? Then how do you meet that? Because one of the call outs is traceable relevant logging or cms level 2 compliance. Um
+Philippe Rodrigues: Yeah. That's outside of my expertise. I'd have to get the product compliance team here or a product manager involved to answer that question, unfortunately, I I'm not the best suited to answer the question, but we can take that back to our team and circle back to you.
+Kevin Turnage: Robin would you help correlate that since we've already spoken with Greg here recently? Yeah.
+Robin Barrow: Yeah. I was gonna say would that Greg had touched on that question, but I either way I'll follow up with him.
+Kevin Turnage: He stated that the customers had 50 customers had become compliant. And yes, when you look at an SRM it states that. Oh here's what you're responsible for, here's the customer's action. And then let's say, for example, pre says we provide logs and we're responsible for managing the endpoints. Okay. And the system managing the system. So we have to take those logs with the same, create the alerts and act upon them accordingly. That's our action. So we're wondering what actions that your other customers might have taken to fulfill this gap. Essentially, because the controls are where they're normally generic, they're kind of specific in this area and call out unique identifiers or our PO has stated as much many times and that's easy on intra. Not so easy on PreVeil side.
+Robin Barrow: Okay. Yeah, we're gonna see if Greg can join again to see if he can.
+Robin Barrow: I remember this is on the call agenda and maybe we just ran out of time. But yeah, let me see if he's able to join sure. In the next couple of minutes.
+Kevin Turnage: Yeah. And if not, we can do it over email. A single statement would help. And if he's if it's in the SM on a very specific matter. If there's an article that you have, yeah, in your knowledge base, just send us a link and we'll delve into that.
+Robin Barrow: Yeah. No, you're it should be an easy answer, but let me figure it out. If not, Greg will surprise us on the call too. So
+Kevin Turnage: Sure. One. I appreciate that. All right. The next one Phil is this one's been just as tough for us the unique identifiers and managing not just devices that are connected. But users there were 2 things that came to our attention. First off, we're PreVeil express users and the other were web sessions web dot l.com and how because unique identifiers again, aren't tracked.
+Kevin Turnage: Same question from a compliance side, how is this being maintained from a logging side? Do we get access to those? That helps us maintain the invites expirations of invites, what content is being accessed, what device and public IP address that they're accessing it from. So sometimes it's assumed and sometimes it's an external user and the external users are obviously harder, especially we did confirm the device law of the domain lock recently. So we've resolved that as a compensating mechanism, but we need to address these 2 elements.
+Philippe Rodrigues: Yeah. PreVeil express users and web PreVeil. Use the same web service and PreVeil here. And the activity logs do capture web sessions that are open from full PreVeil users and PreVeil express users and the interactions and collaboration between full PreVeil users and web PreVeil users are also captured and the activity logs in the sim. Um
+Philippe Rodrigues: I can give you an example here, if we go to PreVeil and open up a PreVeil web session. From full PreVeil, you'll see it turn up as a device. It's a web device, but it turns up as a device and device management and it has its own unique identifier that last for the left of the session. This is recorded and it is in the activity logs and I can demonstrate it for you.
+Kevin Turnage: I'd love that actually. And then we'll touch. We'll expand that into the expiring access of data because we've put in our policies that we're going to review external access. To keep do our maintenance and some of it's recurring at 30 days and recurring at 90 days and if we can automate some of it, that's excellent. And there's not a way to do it from the guy, unfortunately, which has been a pain point. I'm not sure if new google new PreVeil cloud will have that and if it is, but would love to hear about that. But if you wouldn't mind demonstrating both of those features for us today.
+Philippe Rodrigues: So give me a minute here while I set it up.
+Robin Barrow: I am so sorry. I do have another call. But either way, I owe you all follow ups, not only from today, but also from yes. Was it Wednesday's call as well. I'm gonna work on that and I'll send it out by the end of the day today. And if I don't have an answer from Greg regarding log tracking and assessments I should be able to send it over Tuesday the latest.
+Kevin Turnage: Okay. Thank you.
+Robin Barrow: Thank you. Also have a
+AndrewJakakas: Hard stop at 3 Kevin.
+Kevin Turnage: All right. We'll see if we can't get these answered real quick and at least we're able to get that log taxonomy link.
+Kevin Turnage: And but Phil, if you wouldn't mind, we'll try to close up with this. I think I had one more final question, but it seems to have gotten the lead from a note. So I'll follow up with that later as well. Okay. We'll address the express users at the moment.
+Philippe Rodrigues: Sure, sure. Um
+Philippe Rodrigues: So this is my full PreVeil user. And I'm opening up a second tab here. It's a web PreVeil and
+Philippe Rodrigues: I'm gonna open up a web session. So it detects that. I'm a full PreVeil user here, goes to a second portal. And then wait for authentication. So I go here to my desktop account and authorize it with an ad device.
+Philippe Rodrigues: This triggers authentication process. So then my key here is copied over to the web session. So now on PreVeil express and
+Philippe Rodrigues: If I go to my devices.
+Philippe Rodrigues: You see here. I have a device that's called browser and this will have its own unique identifier into logs. And if we go to
+Kevin Turnage: The same logs or the export logs?
+Philippe Rodrigues: Both they're all the same uh
+Kevin Turnage: Because earlier, Andrew and I just identified that the unique ID didn't show up for full user. Device ID only shows in the export logs, not the scene logs.
+Philippe Rodrigues: The um
+Philippe Rodrigues: The export logs in the sim log should have the same information. But the logs that we see here in the admin console reaction of what we see in the correct in the export. Yeah, we get much more detail, much more granular information in the exported logs. And so here it just says that I registered a device called browser, which means it's a web session. But this would have its own session ID in the exported logs next to the devices column. And it would also show up this way in the well, it wouldn't have a device ID in the SMB logs, but it would show up as a device the device would be called the browser device. You can see that the user opened up a web session or if they email someone that doesn't yet have a PreVeil account. That will trigger an invitation for that user to join PreVeil as a free user. And that's on PreVeil press. And that's also captured. This one happens to be in my gateway list. Um
+Philippe Rodrigues: Let's say
+Philippe Rodrigues: And that whole domain might be on my
+Kevin Turnage: Yeah. So Greg was talking about this the other day and he stated that. Yes, the invite isn't is a part of the same logs. He said there's was also a request for the expiration of that and he said that's also captured. We're gonna have to generate a report on a routine basis, showing everyone who's falls within that. Who is still active and hasn't expired. I think that's one of the things that then if there's a way for us to identify where throughout the entire directory tree they have access. That's gonna be the last piece of this today.
+Philippe Rodrigues: Yeah. The where they have access to and the whole access tree is something we can select in the data export.
+Kevin Turnage: All right.
+Philippe Rodrigues: The AC report. Yeah, down here, a report. We can do this for all the users here. Um
+Kevin Turnage: And it includes external uh
+Philippe Rodrigues: Yes. Yes, if you share with someone external that's captured there as well. When you shared it, what level of permission was shared and if you've UN shared?
+Kevin Turnage: Okay. Is there any type of alert that goes out? If one's about to think of the reverse methodology here operational impact. If it's about to expire and the contract still ongoing, is there any alert that owner pulled or owner gets or anything along those lines? So they know to renew or extend that invite?
+Philippe Rodrigues: The invite to join PreVeil or to a folder?
+Kevin Turnage: To a folder.
+Philippe Rodrigues: So you've shared a folder if there's a notification that the so you've set an expiration date on the share, yes. And an alert for there is not an alert for
+Philippe Rodrigues: Mirroring an expiration date of a folder share. It is part of the invitation. So when the user when a user is shared a folder, they will receive an email. The email takes them to the shared page, right? Or excuse me, the invitation page here. And that information is prominent in the invitation, there's a expiration date. That will come up here. And then if they go to the folder details, it also shows up there. And then it's also logged in the activity logs when it expires and the folders revoked.
+Kevin Turnage: Okay. My last question here is do you know, since it's not in this version of PreVeil drive, do you know if the new PreVeil cloud is going to have a central management for external users?
+Philippe Rodrigues: The cloud drive mostly focuses on file sync. Correct. Yeah, and re conceptual zing file sync with native windows APIs. Um
+Philippe Rodrigues: The central yeah. There there's no central control of the folder shares. The sharing is all modular through users. But
+Philippe Rodrigues: Administrators through the report can see what's being shared and not shared even to external users or from external users. Moreover, the administrator has access to who the users are sharing, not just folders, but sending emails and receiving emails from through to trust the community. You can turn on this feature populate a list here of users or domain names.
+Kevin Turnage: We do that. We do do that. Which is nice. However like pipe which has a boundary for C users versus I only users we have some concerns that perhaps someone who's getting invited via domain in the scope is too large for the invitation. And we would hate to have to invite every single individual user. And sometimes they just want to the pop just wants to invite an entire domain. And that's where that comes down to
+Kevin Turnage: So yes, we could kill access here, but it doesn't allow us to to manage it beyond that. It would they like to manage it at the domain level rather than the individual user level.
+Philippe Rodrigues: Yeah, we cover domains here as well. E mail address, right?
+Kevin Turnage: Right. Right. Okay. Um
+Philippe Rodrigues: Am I misunderstanding something?
+Kevin Turnage: A little bit. So I get that. This allows the communication to that domain. But let's say that the business to business connection here, which is allowed through the trust community, allows for an entire domain. There's 100 users, but only 50 of them have gone through their UI training and are authorized to touch UI. So there's now 50 users that aren't authorized, who might accident accidentally get invited or there's that are part of an email chain. That's not Sui and they say, hey, oh, you're going to be on a part of this project. They invite them. Oops, we just created a leak because they haven't gone through the appropriate training licensing, etcetera. And they get sent a invite via pre, which is free for like, prove express unless they have domain lock on and they're accessing datand we have no insight into that effect. Unless we did every individual user. So you have 18 here. Imagine if we're there were like 500 here, that would be a lot to audit and there's not a quick way to do so the date that they were added or things along those lines. So this is not an ideal portal to do that from a yeah.
+Philippe Rodrigues: I see. Yeah, the ramifications of sharing to users beyond who you shared with. Um
+Philippe Rodrigues: It is captured in the activity logs. So long as it's sourced from your drive the
+Philippe Rodrigues: Yeah. Portions of the domain name that you don't want to be shared folders with. I can understand um
+Philippe Rodrigues: And I see why you would want to, essentially, control who can share beyond the first or second wave of shares. Yep. If you will.
+Philippe Rodrigues: This would be easier to manage if they were all members of a single organization. When things are shared externally you lose a lot of the powers that you have as an administrator or even as folder owner or controller beyond there. So if you can add them to your organization and I understand there might be some concerns there with licensing and so on. But it is something that we've done with other customers where they add their clients that organization and then centrally manage the folders through a file manager or an ad administrator.
+Philippe Rodrigues: And the administrator then can revoke access or control the permissions to to users.
+Kevin Turnage: That's similar to what we're doing. Our admins are the core owners of the root folder structure. However it's you know, they don't need the leads also have share access, which is justifiable, but if they share out to
+Kevin Turnage: A person within A V that their code joined on the project. We lose active insight to that, we don't get an alert or something along those lines. There's not a page that we can go check real quick. So it sounds like we're gonna have to use the same to generate a report and that's why we're asking for that information. It sounds like we're gonna be able to pull up we're going to do some fenagle ing creative coding to have variables that says after or has an invite and was removed from the report because of expiration or something along those lines.
+Philippe Rodrigues: I see.
+Kevin Turnage: Unless unless the AC does a good job of that if the AC shows, hey, given access to this folder at this time, I haven't actually pulled an AC list. I just found out about it this week and I have had time to pull it.
+Philippe Rodrigues: Yeah, the report it prints out to CSV. And anyone who has access to shared folders in your organization, including external parties. And if those external parties share with external parties that would also come out in the report because it's sourced from users here in your organization. Now, if they create copies of the folders that originated in, then that you can do there's no, you can do about that, right. But the report yeah. It's not just internal from from that perspective.
+Kevin Turnage: Do you happen to know if it shows the dates of an invitation or of the expiration of that link and that
+Philippe Rodrigues: Yes. Yes, that's report. Yeah.
+Kevin Turnage: Okay. That'll that'll actually probably satisfy a good portion of that. We probably filter that out pretty well.
+Kevin Turnage: And if we want to put alerts around it, we can but that'll be a good starting point for us and we can do maturity around it. Excellent.
+Philippe Rodrigues: Good. Good. That's
+AndrewJakakas: Just quickly give an update on the one log type for registered device. I didn't see I think before you said there should be a unique identifier, at least on the sim side, I don't get that. All I get is the user action, the user. And then obviously then the loop back address the severity and that stuff. But really the only thing that I can pivot off and I can share my screen real quick on that.
+Philippe Rodrigues: Yeah. Unique identifiers are not captured in the Sam logs. It's user and device.
+Philippe Rodrigues: Um
+Philippe Rodrigues: So that is expected.
+AndrewJakakas: Okay. It wouldn't be like
+AndrewJakakas: At least to me it sounds like in the on the PreVeil side. Even though this is a browser, this will have like, an identification number associated to it on the PreVeil side. So like, if they have 2 browser devices, they'll each have a unique ID, is that right?
+Philippe Rodrigues: They will. Yeah, it just at this time it doesn't come out in the logs. But we do have records of it, yes. And PreVeil.
+Kevin Turnage: Bill, could you go turn that on for us in about 10 seconds? We'd like that?
+Philippe Rodrigues: Yeah, I have a line here with the product the head of product and um
+Philippe Rodrigues: Yeah, we do have that in our backlog here. All right.
+Kevin Turnage: Thank you for. I know some people relate to other meetings. If you need to go. I do appreciate the special attention today. Like I said there's one last question Phil. I'll try to get that dug out and inflated for my notes. I'm not sure where it went, but and then we're gonna wait for Robin on the kick back for the response on how other customers have achieved their 110 out of 110 CC audit with the gaps that we identified today.
+Kevin Turnage: It sounds like the AC is gonna help us a bit with that, which is good. I'm not I'm still not sure about the device ID, but we look forward to Greg's response.
+Philippe Rodrigues: Very good. And I'll thank you for your time here as well. If you'd like, I can set up another meeting with Greg but I understand you've already had a few meetings with him. Um
+Kevin Turnage: Just the one. But even if he just email us this response and points us in the right direction. I think that give us some peace of mind on how it was achieved. I think that'll be a great place to be in and we can revisit maturity later, especially as you guys finish up your beta testing and we'll touch on the cloud PreVeil cloud when it's fully rolled out.
+Philippe Rodrigues: Sounds good.
+Kevin Turnage: All right. Well, thank you, everyone. I appreciate it. Michael, did you have any final questions for us? No, thank you. Very useful. All right. I appreciate everyone. Thanks. Have a good one.

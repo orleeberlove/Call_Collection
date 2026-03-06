@@ -1,0 +1,74 @@
+Account: Vacuum Process Engineering
+Call Date: 2026-01-15
+Duration: 00:11:39
+Participants: Andrew Meggs
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello. Anthony.
+Anthony Bass: Hello. How are you?
+Andrew Meggs: Doing well, right.
+Anthony Bass: Yeah. Just me turn my
+Andrew Meggs: Camera. Okay. On just you well, today I appreciate you hopping on a quick call with me. Hopefully, this won't take too terribly long. This is mostly supposed to be just sort of like a welcome intro call, sort of thing. For context, I am the customer success manager for your account. So what that means is I am your general main point of contact and account manager here at PreVeil going forward. So I like to have a call with all my clients to let you know, I exist, but be kind of welcome to make sure you don't have any initial questions and kind of go over the onboarding process.
+Anthony Bass: Okay.
+Anthony Bass: To that point
+Andrew Meggs: Hi. I'm Andrew. It's nice to meet you, open PreVeil. Um
+Anthony Bass: Getting started with PreVeil. There's kind of 2 separate.
+Andrew Meggs: Pillars, there is the technical implementation and there is the compliance implementation. If you will for the technical implementation are you going to be the person that will be setting up the organization and being the administrator and PreVeil?
+Anthony Bass: Yes. Okay. Great.
+Andrew Meggs: So I sent some instructions over on how to do that in that initial email. There's some video instructions and written instructions. The video is like an hour long because it goes over how to use PreVeil and such to. You don't have to turn your camera on if you don't want to.
+Anthony Bass: Um
+Andrew Meggs: Yeah. The video is like an hour long, but the actual initial setup of the org is pretty straightforward. It's just downloading PreVeil creating an account and then there's a specific link to go to that. If you're logged into your account, will prompt you to create the org and have you set up as the admin the whole thing. Maybe take 6 minutes.
+Anthony Bass: Tops
+Anthony Bass: I finished most of that. Um
+Anthony Bass: Yes. I'm in there. I can see it here. And then it looks like it worked. Okay. I figure I need to set up the domain integration next. Yeah.
+Anthony Bass: And I got into the talent LMS for the compliance and I'll start working my way through that. So I got that login working and I got most of the add ins and plug in the office and I can see it here in. Um
+Anthony Bass: Outlook and I can see the profile change in outlook. But the funny thing is I can't I'm not quite sure how to send e mails so that I get for not watching the video, so I'll do that next.
+Andrew Meggs: Well
+Andrew Meggs: Yeah. Do you mind sharing your screen? It looks like you do have have your account created, but you haven't created the org yet.
+Anthony Bass: Yeah. I like working away there. So let me so
+Andrew Meggs: It's pretty straightforward. You basically just if you're logged in, you just put this link, I just put in the chat, you put that into your browser and it'll prompt you to create
+Anthony Bass: A
+Anthony Bass: Clear.
+Anthony Bass: Screen here, see what things are.
+Anthony Bass: Internal
+Anthony Bass: Okay. So there my checklist I was working through here. Let me get into the chat.
+Anthony Bass: Okay. I remember that.
+Andrew Meggs: So yeah, you can name your organization, well, whatever you want, but probably vacuum process engineering. Um
+Andrew Meggs: And then for the user department, that's just for internal use. So that doesn't change anything. So you can we usually recommend admin, but you can put anything you want in there. It doesn't actually affect anything.
+Andrew Meggs: Great. You are now the administrator of the official vacuum process engineering organization. You can go ahead and start adding people if you want or you're now full admin responsibilities or roles and responsibilities.
+Anthony Bass: And I can give someone admin, but not necessarily access to like, email and drive just someone who can be my backup.
+Andrew Meggs: So unfortunately, there's not I mean, as you can see there the admin is kind of an add on to the email and drive. There's not a way to add someone as admin solely. If I mean you can add someone as an admin and they just don't use the email and drive, but there's not a way to to give them only admin access.
+Anthony Bass: Okay. That's good to know to see who I get an overlap with someone. I can walk through and make changes if I need to. So yeah.
+Andrew Meggs: That's step one of getting started on the technical side. That's great. The next step would be to schedule the actual technical onboarding with our support team. So that is a if you instead of watching the video, it's a it's an hour long kind of training session going over how to use PreVeil, as well as admin roles and responsibilities and how to do things like recovery groups and things like that. And answer any any technical questions you might have. So that's done with our technical support team and in my follow up email. I'll include a link to their calendar to schedule that. Okay. And then because you have our email gateway as part of your subscription just as an FYI, that is a separate implementation that's done after the initial onboarding. Okay.
+Anthony Bass: Working the way through
+Andrew Meggs: Yeah. So after you do that onboarding, someone someone else, well, you could be the same person, Chris and Phil. Do all your email gateway implementation. So after you do the onboarding, Chris or Phil will reach out to do the gateway implementation?
+Anthony Bass: Okay. And then that is
+Andrew Meggs: Kind of it in terms of getting started for on the technical side. Separate from that, is the compliance accelerator and the GRC tool. So as I'm sure you just noticed I added you to both of those right before this call. Those are 2 separate sites and 2 separate logins. There's the accelerator which is the video doc series on PreVeil. Yeah, that exactly. And then there which is built on talent LMS. And then there's your RC tool, which is built on is. So you should have also seen an invitation to that as well, but I'll send direct links to both.
+Anthony Bass: Okay. In my follow up email. I see the vis one. Okay. Yeah.
+Andrew Meggs: So a lot maybe not a lot but 3 different things to to keep track of the actual PreVeil app, the accelerator portal and then the is C portal. So
+Andrew Meggs: That's the getting started with that. And then with the accelerator in the jars, also comes access to our own internal compliance team. So while you're working through all of those things if you have any compliance related questions or questions about the documentation on how to use that, they're available as a resource as well. They're available at compliance at PreVeil.com. And actually in that compliance accelerator portal you were just looking at under the course additional compliance resources there near the top
+Andrew Meggs: There is a direct link to their calendar as well. Okay. In there. Yes, in there is a direct link to their calendar. And then yeah, if you have any compliance really questions, you can schedule a meeting with them. And then I am kind of the general main point of contact if you're not sure to talk to if something needs to get escalated. Or also if you have any account related questions like you need to add a license subscription renewal, that sort of thing is me. Okay.
+Anthony Bass: And then
+Andrew Meggs: Yeah. That's kind of in terms of my prerecorded spiel for getting started, is creating the org, scheduling, the onboarding and then getting into the accelerator and the GRC tool. Did you have any questions about PreVeil or even some points of clarification you need here at the beginning of the process?
+Anthony Bass: Looks pretty straightforward right now. So I'll work my way through this and then schedule that tech call. Sure. Yeah. I reach out if I get cornered anything. But so far, it looks pretty straightforward. We do.
+Andrew Meggs: Try to make it as straightforward as possible. We're not really out here to trick people or anything like that. The only other thing I like to do on these calls is I like to set up a 90 day check in call with all my clients just to make sure things are going smoothly. Okay. Do you mind if I put some time on the calendar for
+Andrew Meggs: April 15th is 90 days from now.
+Anthony Bass: Sure.
+Anthony Bass: And
+Andrew Meggs: What what time zone are you in?
+Anthony Bass: Pacific, okay.
+Andrew Meggs: Are you where are you all located in Sacramento? Okay. Cool.
+Anthony Bass: Yeah.
+Andrew Meggs: I'm in Minnesota myself.
+Andrew Meggs: So
+Andrew Meggs: So while I'm putting this on. And by the way, as I was saying earlier, I will send all this in a follow up email too. But while I'm putting this check in call on the calendar was there anything else you wanted to go over or discuss?
+Anthony Bass: With the compliance questions, that's just email, kind of the send email and get an answer guidance and then they can escalate to another consultant on that. Basically
+Andrew Meggs: For like simple little one off questions you can email. But if I mean, unfortunately, a lot of these questions end up going down rabbit holes.
+Anthony Bass: Yeah.
+Andrew Meggs: Yeah. If it's anything that might be a little bit more complex. I would recommend scheduling a meeting with them through that link in the accelerator. Okay. Because yeah, sometimes even seemingly simple questions end up just being way more complicated than than anybody, anticipate, so. But yeah, the support team for technical things or bugs, hopefully that won't be relevant the compliance team for any compliance related questions. And then I was saying if you're not sure to talk to and just general account questions, you can reach out to me. Okay.
+Andrew Meggs: Okay. Well I don't want to waste your time. So unless there's anything else you wanted to go over, I can let you get back to it.
+Anthony Bass: That's it
+Andrew Meggs: All right well I appreciate your time and it's great to meet you Anthony and I hope you have a great rest of your day
+Anthony Bass: Have a great day bye

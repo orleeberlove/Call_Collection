@@ -1,0 +1,82 @@
+Account: Villanova University
+Call Date: 2025-12-08
+Duration: 00:15:47
+Participants: Zackary Gilman, Andrew Meggs, Joshua Poinsett, Rj Silva
+
+======================================================================
+
+Rj Silva: So
+Andrew Meggs: We're doing what well, I don't want to speak for that. I'm tired of snow, but other than that. Hi, Zach. I'm hey, doing Andrew well. How are you both? Doing, doing well. Over here. Thanks, Rj. Nice.
+Rj Silva: Where are you based, Andrew? I I we're lucky enough here in Philly not to have snow on the ground.
+Andrew Meggs: Yeah. No, they're Zach is in Boston. They're living a balmy tropical life. It's like 30 degrees. It's I'm in Minnesota. It's been like, 0 and snowing. I know Zach has been shadowing all my calls. And I complain about this. I'm literally every single call and I'm not gonna stop complaining. I'm sure he's tired of it, but it's driving me crazy. It's driving me insane.
+Rj Silva: Trust me. I know I grew up in Boston and I think every year since I was in grade four, my parents were saying oh, we're gonna get down to to to the south to get away from the snow and it took them until it was 18 to finally do it, but they they did get out.
+Andrew Meggs: Nice. Nice. Where you end up going, they went down.
+Rj Silva: To North Carolina. I was in college at the time, so I stayed up in Boston.
+Andrew Meggs: They still have snow, North Carolina.
+Rj Silva: You get one inch and everything shuts down. So it's it's not
+Andrew Meggs: Real I guess it depends where in North Carolina because there's like there's mountains with that get legitimate snow, but
+Rj Silva: True, yeah.
+Andrew Meggs: This is just an oppressive amount of precipitation. Hi, Josh. Hi, lennard.
+Andrew Meggs: Andrew, doing doing well. Just complaining about the weather is pretty usual. Um
+Andrew Meggs: Yeah, I know that this is kind of a 60 day check in. We met a couple of months ago. There there's a couple of points. I normally like to go over on these check ins. But before I get into it to how are things with PreVeil or just in general?
+Andrew Meggs: Good so far
+Andrew Meggs: Okay. Well, that was a good meeting. No. So I'll just go over my normal check in points. In terms of the your compliance journey. Where are you all at with the documentation and whatnot? have you know, done much of it. Have you are you working with the C 3 PO yet? Or kind of where are you at with the compliance stuff?
+Leonard Nelson: I would say that's our weakest area at least to me that's I haven't made much progress there. Myself personally, we've been taking on some other policy work, but we've been communicating internally. That PreVeil really won't be ready for general use until we finish the compliance journey. Yeah, that's the 32nd brief.
+Andrew Meggs: Yeah. And then that I mean, kind of dove tailing to my next question. Do you have a general timeline of when you think that would be?
+Andrew Meggs: Not that I'm putting any pressure on there just
+Leonard Nelson: Great already. Yeah. No. So what we've communicated internally is, we said at the inception of this about a year to get everything that we believe is needed to at least be in place. That's at least the timeframe I'm holding myself to
+Andrew Meggs: If you will. Sure. And I guess when you say that, do you think like you'll like be assessed in a year or be ready to get an assessment in a year?
+Leonard Nelson: Be ready to get assessed. Yeah.
+Andrew Meggs: Okay. Because I was gonna say if you are looking for, honestly at this point if you're looking for so it wouldn't be crazy to start looking now if you want to get assessed in a year. Just because so many of them booked out for so long. But you know, it's still pretty far in the future. So you don't have to worry about that now. When you get to that point let us know and we have the POS we can like recommend to you that are already familiar with PreVeil. But if it's a year out to, you're even start thinking about getting assessment that I think it would be a little bit preemptive to do it now. Have you met with our compliance team yet to kind of go over where you're at or your goals or anything?
+Leonard Nelson: I have not yeah.
+Andrew Meggs: Okay. Yeah. Well, you don't have to once again, but it is a resource available to you. Compliance at PreVeil.com. There's also a link to their calendar in the accelerator under additional compliance resources. So if you do at any point have any compliance related questions need any guidance or just want to kind of tell them what your situation where you're at. And then kind of have any suggestions for you that they're available to you as a resource?
+Rj Silva: Is that an additional service Andrew or is that kind of included in our current PreVeil licenses?
+Andrew Meggs: As part of the accelerator subscription is access to the compliance team. So you are paying for it, but other check in points. I probably this one probably isn't relevant. Have you communicated much externally or experimented with PreVeil express at all or had any experience with that?
+Leonard Nelson: Just localize some understanding the PreVeil express is that just the within the platform sending messages in and out? Is that what you're referring?
+Andrew Meggs: To or yes. So for the that's for if you were to communicate with someone outside of Villanova they would need to sign up for a PreVeil express account in order to communicate with you to decry the information. I on these checking calls, I normally ask if you've done that because sometimes there's push back from clients or vendors or what have you that are like what is PreVeil? Why am I signing up for this? I think it's spam or something like that. So that's why I normally check in on this just to make sure they're having any issues with that, but it sounds like you haven't been doing much external communication. So it's a bit of a point there.
+Leonard Nelson: Yeah. The and Josh, I'm not sure if you've done more than myself on this. But at this point, all I've really done is just with my own external account, exchanging messages, kind of getting a sense for what that looks like and sure experience there.
+Andrew Meggs: Okay.
+Andrew Meggs: And once again, usually it's not a problem, but I just like to check it, just in case there is one, but it sounds like there hasn't been used for it yet. But yeah. And then you've got your users in the system. Do you anticipate needing any more than 3 users?
+Leonard Nelson: I do believe that's gonna grow as soon as we
+Leonard Nelson: Say the services available. At the very least, we've got a couple of folks in engineering and I'm sure I see Rj nodding. I feel we're gonna get
+Leonard Nelson: Some of these people just sort of saying, oh, yeah. I was doing this in on my old windows computer over here and I would like to break them compliant with the University solution. So I believe that's gonna grow. We've already received a question and I was gonna bring it up on on today's call. So question that came up is like, let's say we assign a license to to Rj and say, okay, we understand you have a project. It's for the next 6 months, how long can that license? is there a way we can say, okay, Rj is done with this 6 month work? Can we transfer that license to someone new or does that stay with Rj for a year?
+Andrew Meggs: Yeah. It's kind of floating licenses. So if you bought a fourth license, it could be Rj for 6 months and then somebody else for the rest of the 6 months.
+Leonard Nelson: And what happens with Rj s data at the moment? We switch it over well.
+Andrew Meggs: You. You would want to off board him and download all this data and then before deleting his account.
+Leonard Nelson: Okay. All right. That's helpful. Yeah. If
+Andrew Meggs: Yeah. There's yes. Short answer to that long answer. If you share stuff information with other people, those people wouldn't lose that data, but it's still best practice to to off board. Everyone's all of their data before you delete anybody's account. All right.
+Leonard Nelson: Yeah. I think the direction at least. Now speaking amongst Rj and Josh. I feel
+Leonard Nelson: I don't want to get into this business of 6 month type licenses. And essentially when we start issuing licenses, you have to get you have to use it and you're paying for it for a year. So that way
+Andrew Meggs: Well, it would be for however many months are left in the subscription. So like, if there are 6 months left in your subscription, it would be for 6 months or 4 months or
+Leonard Nelson: Yeah. Just internally with funding services like PreVeil. It's much easier if we can have predictable numbers and just say the number is now 5 users. Okay. And versus like oh yeah. It's 4 users for the first 6 months and oh, yeah, it's 5 now. It just messes our financing. So if someone even joins us midway on the 11th month of our 12 month subscription, I would still want them to pay for the full year. Um
+Andrew Meggs: Well, if it was the 11th month, I mean, honestly, we how it works on our end, we would just process that. Like if it's that close to your renewal, we would just process it as part of your renewal. Okay. But yeah, but you know what we can cross that road when we get to it. Just whenever you feel that you need any additional licenses, you can just email me and we can have that discussion then about how you want to handle that.
+Leonard Nelson: But do you guys have a partnership with Chorus.ai? I see it's being recorded here.
+Andrew Meggs: Well, not a partnership. I mean, we're using that as a service. I don't know if that counts as a partnership, but we you know, we bought chorus licenses.
+Leonard Nelson: Okay.
+Leonard Nelson: Yeah, I catch it earlier, normally, I would say please don't record, but this is interesting.
+Andrew Meggs: Oh, well, if I can certainly stop recording if you
+Leonard Nelson: No, no. I mean we're not discussing anything. That's fine. Yeah. It was more yet.
+Andrew Meggs: Okay. Yeah. If you do need the license to just let me know. The only other thing I wanted to bring up. I don't know if you saw the new course in the accelerator. We recently launched a GRC tool. I don't know if you guys are familiar with that at all. It's basically a project management tool for compliance where it's like pre uploaded with all the documentation templates. And that has like a checklist of everything you'll need to do to be compliant. It's a fancy compliance project management tool. And we put a module in the accelerator for if you have that as part of your subscription. And so some people ask about that because it's a new course that popped up. So I didn't know if you all saw that or not.
+Leonard Nelson: Do you mind walking through this? Because when we were setting up the
+Leonard Nelson: PreVeil sort of conversation. My understanding was that our GRC tool was supposed to be included. But then mark or I forget sung had mentioned the old company there was a you had terminated that agreement with that old company and they were bringing something back.
+Andrew Meggs: Yeah. Our um
+Andrew Meggs: Our GRC tool was launched after you guys started. So you wouldn't have been able to have it as part of your original subscription anyways. That got launched like a month ago. Okay. But let me yeah, I guess doing a demo a little bit outside of the scope of this call, but let me pull this up, right. Quick, if you look at the accelerator the additional compliance resources where you would go to schedule some time with the compliance team. But right beneath this, right? Beneath this is this the new the new module is talking about the GRC plus accelerator. And then this has a video walkthrough of the accelerator in it or sorry, of the GRC tool in it. That we don't I'm not gonna sit in play the whole thing, but yeah, this goes over. Exactly. It's built on an is platform or tool. And it's a new new recently launched thing. So I wanted to bring it up on the call.
+Leonard Nelson: So should I follow up with mark to confirm if this can be added to a subscription now that it's available?
+Andrew Meggs: Yeah, I mean, it can and that would be me basically. You don't have no, not to put too fine a point on it. You don't have to talk to mark anymore. I'm now the main point of contact for the account. Certainly talk to mark if you want. He's a nice guy. But but in terms of your subscription that would be a conversation with me?
+Leonard Nelson: Okay. Yeah. It's just because it was technically available before whatever this product was before. Did you guys have a different vendor you're using for the GRC product before?
+Andrew Meggs: I think at one point we had a partnership with comply up years ago, but that that has not been for a while.
+Leonard Nelson: Okay. All right.
+Andrew Meggs: But yeah, this is kind of our own instead of having a partnership with someone else, we decided to make our own basically this is what that is. Yeah.
+Leonard Nelson: I'll reach out for a demo separately, then and Rj. Josh, are you potentially interested in sitting in on the demo?
+Rj Silva: I'd love to
+Andrew Meggs: Okay. Cool. Maybe optional. Yeah, yeah.
+Leonard Nelson: All right.
+Andrew Meggs: Yeah. I will send we have there technically there's a demo there in the accelerator and we also have like a recording of a webinar that we did about it that I'll share. But Greg, actually from our team is who does all the demos for the RC tool. I will put some time on the calendar with him for him to be able to do a demo with you all. And full disclosure. We are actually having our big annual company meeting this week. So I know nobody has much availability this week. But when he has availability I'll put some time on the calendar for that. Okay. But yeah, it's pretty cool. We yeah, it launched like a month ago, like I was saying. So we honestly, we've now worked out a lot of the kinks that were were there originally. We're also running a promotion of 25% off of that until the end of the year since it's such a recently launched tool. But yeah, I'll put a demo on the calendar and I'll share some more information about that in my follow up email.
+Leonard Nelson: Okay. Sounds good.
+Andrew Meggs: Yeah. And that's kind of in terms of my talking points. Was there any other questions or anything else you wanted to go over?
+Andrew Meggs: Okay. Well I appreciate you all taking the time and I'll send this follow up email like I was saying. And as per usual if you do have any problems or if you need anything, you can let me know.
+Leonard Nelson: Alright, sounds good. Andrew, thank you. And Zack, I don't think we've met.
+Andrew Meggs: Oh, yeah. I don't know. I Zack was talking to Rj, but I don't I didn't introduce in the he's a newer member of the success team. So he's been shadowing my calls and hearing me complain about the weather for the last week. So if you want to say hi, Zack was great to meet all of you. Thanks for having Andrew.
+Andrew Meggs: Well, thank thank you again. Everybody for your time and yeah, I hope you all have a great rest of your day.
+Leonard Nelson: Thank you. Thanks. Thanks.
+Andrew Meggs: Bye.

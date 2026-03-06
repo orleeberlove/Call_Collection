@@ -1,0 +1,139 @@
+Account: Vieletech, Inc.
+Call Date: 2026-02-11
+Duration: 00:21:27
+Participants: Andrew Meggs, Bini Viele
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: Hello. Bini how are you? doing I good appreciate. How are you hopping I on a call? Am with me today. Doing well. Hopefully this won't take too terribly long. This is mostly supposed to be just sort of like a welcome, not a welcome intro call. Sorry. I just got off an intro call. This is mostly supposed to be a just sort of an informal check in call. There's not really like a presentation or anything like that. I normally have a couple points that I like to go over, though. But before I get into it, how are things with PreVeil or just in general?
+BiniViele: Good. And uh
+BiniViele: Is so far working out with
+BiniViele: The data the only thing we had issues with is large files. Okay.
+BiniViele: So
+BiniViele: Go ahead.
+Andrew Meggs: Yeah. Yeah. What issues were you having?
+BiniViele: It does not upload and download large files. Unless I guess we have to open a ticket every time we have to do this.
+Andrew Meggs: Yeah. How large are we talking here?
+BiniViele: We have images machine images stored there.
+BiniViele: For uh
+BiniViele: Customers or customer related.
+BiniViele: That are basically image releases to real time systems.
+Andrew Meggs: Okay. And this is via the like the what's the what I'm looking for the drive, right?
+BiniViele: Yes.
+Andrew Meggs: Yeah. Okay. And um
+Andrew Meggs: So when our support team uh
+Andrew Meggs: They can help the right when you reach out to them.
+BiniViele: I mean
+BiniViele: So I don't know. So is there a limitation on how large a file we can store?
+Andrew Meggs: So theoretically no. But sometimes with larger files, it there are issues we are actually coming out with what we're calling cloud drive soon. So that'll be out in like a month. We're actually basically rewriting our drive from the ground up. Um
+Andrew Meggs: And with that. You should see some improvements to how large files you should be able to upload and download and things of that nature.
+BiniViele: Um
+BiniViele: Because it basically took. Um
+BiniViele: Normally, I'm used to one drive, right? Which basically download the headers immediately. So, you know
+BiniViele: What's on the drive itself? Yeah. And then still don't have it on your local machine. So but those files exist, right?
+BiniViele: And then it basically it sits there.
+BiniViele: Let me see if it finally.
+BiniViele: Backup.
+BiniViele: Yeah. This basically
+BiniViele: Find it megabytes to half a gig a bit half one to half a gig because this all backups as an image backups of PCs. Does that make sense? Yeah.
+BiniViele: So and those um
+BiniViele: I mean, they show up on my local drive as backed up.
+BiniViele: Did it? Yes. I didn't go back and check how it looks on the online version.
+BiniViele: Itself, right? But that was my major issue is um
+BiniViele: Because we
+BiniViele: We kind of transfer it from the customer side. So if you are on the customer side and it actually did not upload.
+Andrew Meggs: So what so where is it uploading on your device or on
+BiniViele: On the online on the cloud itself. It took me at least 3 or 4 days to actually get this uploaded on the cloud. And then I reached out to the technical support all the technical person who onboarded us, who said I need to open a ticket.
+Andrew Meggs: Okay.
+BiniViele: And then be sure to get this smoothly that. This is a larger than x amount. So I need to open a ticket and that kind of concern me because we can't open a ticket every time you want to upload a large file.
+Andrew Meggs: Sure. And how often are you anticipating uploading these large files?
+BiniViele: It's not how often is the situation.
+Andrew Meggs: Right. Right. So as I was kind of saying, that should be resolved. So basically we are coming out with this thing called cloud drive in the next few months. Well, I say next few months in about a month, which should increase the file sizes that you're able to upload and should increase syncing speeds and things like that. We're basically rewriting the drive from the ground up and um, that hopefully should resolve this and be able to expand the file sizes you're able to upload.
+Andrew Meggs: Okay. So right now though, unfortunately until that's until our next big release. You will need to work with our support team to to upload any large files that you're seeing issues with.
+Andrew Meggs: Okay. But yeah. And then if you're still seeing, I mean, you'll we'll come out with like, a big marketing release once the cloud drive is released, because that's our it's we've been working on this for months now. We're gonna we're there's gonna be some fan fair and what not involved. If you're still seeing issues after after cloud drive is released. Definitely reach out and let me know and we'll try to work with that. But nominally this should that should address the issue. Okay.
+BiniViele: That's basically
+BiniViele: That was my main issue with PreVeil. Yeah. Is the live files and the sync?
+Andrew Meggs: Yeah. But yeah, uh, I guess aside from that in terms of your compliance stuff, like the compliance documentation the compliance accelerator, have you move forward with that much?
+BiniViele: No. I've I started it initially, but I've gotten into something else. So I've not yet made a big progress on that, but that is in my
+BiniViele: Much, I think Maria may is what I'm looking at to kind of drill dig through that and complete it.
+Andrew Meggs: Sure. Okay. And then do you have like a timeline of when you want to get your eventual actual end assessment?
+BiniViele: So yeah. Does it do I have to be in? So I'm assuming when I go through and do the documentation, I have to put history in there?
+BiniViele: Of compliance.
+Andrew Meggs: I'm not sure if I understand.
+BiniViele: And then so if we go into an is 9,000 certification, I need at least a one year of compliance history. Sure. Before I for the certification.
+BiniViele: Does that make sense? Yeah. Okay.
+BiniViele: Does a cms has a similar requirement.
+Andrew Meggs: I don't believe you have to have a year of it. I think I mean you have to show that you're currently compliant.
+BiniViele: Yes.
+Andrew Meggs: But I don't think that there's a history involved there.
+BiniViele: So in that case
+BiniViele: Most likely I'll
+BiniViele: Targeted by July August.
+Andrew Meggs: Okay.
+BiniViele: If I can get all my documentation because it's mostly documentation that's not done. It's not that compliant. Is that we need to show that we are compliant?
+Andrew Meggs: Right.
+BiniViele: So so yeah. As soon as the documentation is done, then I can go into audit. Yeah. Um
+Andrew Meggs: And I guess also at any point during the at any point during the process while you're working on the documentation or if you have any compliance related questions, you can definitely reach out to our our compliance team as well to help with that. So have you met with them at all?
+BiniViele: No. I've not really I went in did all the modules or looked at all the modules, did the first 2 modules and then kind of got it into something else.
+Andrew Meggs: Sure. Sure. So so
+BiniViele: All I need the scope document first. So that I can go from there.
+Andrew Meggs: Sure. I guess what I'm saying, I mean you don't have to meet with him if you don't want to, but they are a resource that's available to you. They are available at compliance at PreVeil.com and they are available also with to the link to their calendar and the accelerator. So if at any point you have any questions about anything, I just wanted to let you know that's a no.
+BiniViele: Absolutely. I'm planning to reach out. Sure as soon as I get to as soon as I'm deep into it. Because right now, it's a waste of their time and my time because we'll just talk nothing. Yeah.
+Andrew Meggs: Um
+BiniViele: So I am deep into the compliance thing. I'm planning to reach out. Okay.
+Andrew Meggs: And then yeah, I see that. You have your users in the system, your 7 users in the system. Do you anticipate any needing any more users in that down the line?
+BiniViele: Not yet as we hire when we hire more people, we will, but not right now.
+Andrew Meggs: Okay. Um
+Andrew Meggs: And yeah. That's kind of it in terms of. My general talking points that I normally like to go over. Did you have any other questions for me or is there anything else you wanted to discuss?
+BiniViele: Not right now. I mean the customer that we are doing this for we don't have an active project right now. We do, but
+BiniViele: It's been waiting for a long time. So
+BiniViele: When we do have more um
+BiniViele: I would say things going back and forth. And then if the e mail, the secure email gets conversion, then we can email gateway, basically.
+Andrew Meggs: Oh, okay. Sure. Yeah. If you know, if they aren't willing or able to send out for PreVeil express or if it's too much, too annoying, definitely, we can have that discussion about the gateway if that's something you want to add to the subscription.
+BiniViele: So that would be my only thing that I would think about is if that is
+BiniViele: An issue sending. I mean, I'm pretty sure that they'll not install secure or PreVeil on that PC unless it's already has it.
+Andrew Meggs: Right.
+BiniViele: So that's out of question. So if it becomes too cumbersome to log in log out, then we'll talk about security mail gateway so that it can go directly into that inbox and then they can send it out of that invoice.
+Andrew Meggs: Right. Yeah. Okay. So well if it does get to that point, let me know. Otherwise yeah. Unless there's anything else you wanted to talk about. I can let you get back to it.
+BiniViele: Yeah. And I'm assuming there are no other products that I'm missing right now, right?
+Andrew Meggs: Well let me pull this up. So we do I don't know if you saw any of the information about this. We did recently come out with a GRC tool. So that's another compliance tool that can be used to do. While you're doing the documentation is like a project management tool and quality of life tool. So basically instead of downloading the documentation and keeping it locally in on your device, this would be basically. I mean, I can kind of show you what that looks like. Right, quick. Um
+BiniViele: Let me anything to make my compliance, but
+Andrew Meggs: Yeah. So are you familiar with GRC tools? No.
+Andrew Meggs: Okay. Let me sorry. My computer is being slow. Um
+Andrew Meggs: Let me pull this up.
+BiniViele: Uh
+Andrew Meggs: Okay. This is what this looks like.
+Andrew Meggs: So basically it is a like I said this is like a project management and quality of life tool that um
+Andrew Meggs: Basically gives like, once you upload everything and everything, it gives you a snapshot of your spurs score snapshot of what controls you have implemented and don't have implemented things. You need to do things that are past due. Basically you upload your system security plan to this system and
+Andrew Meggs: You. It shows you all the controls that you have to meet and then you go into each of these controls and it's partially filled out by what you put in your system security plan. But you can like go in and say, yes, this hasn't been done. This hasn't been done. You can and then it basically gives you tasks to do and keeps track of everything. And is a repository of all the information you might need um
+Andrew Meggs: Yeah. That's kind of what it is in in a nutshell and it's pre loaded with all the PreVeil documentation. And you can run reports. You can get approvals, it sends emails out to anyone who needs it. If you like you need someone to sign off on something or you need someone to fill something out. And then like I said, once you have everything filled out, it gives you also just a snapshot of where you are in the process. So it's not necessary to have to be compliant. Obviously, you can do this all on your own and keep track of things on your own, but it is a it just makes life easier, if that makes sense.
+BiniViele: Right. And you this is what a subscription model?
+Andrew Meggs: Yeah. So unfortunately, this would be an add on onto the accelerator. So this is considered yeah, an add on. It would be what is the price for this? It's so new. I don't even remember the price off and I think it's about $2,400 for a 12 month subscription. But yeah, it would be a subscription just kind of like the accelerators, it's built on top of that.
+BiniViele: Okay. Okay. And this is 2,400 per user?
+Andrew Meggs: How does that just for your whole organization?
+Andrew Meggs: And you can well, like the accelerator you can have up to 3 users in here at a time and they don't have to be the same people that are using PreVeil.
+BiniViele: Okay.
+Andrew Meggs: But yeah, this is relatively new and I can share some more information about it in my follow up email. So you can have like a we have like a demo of it, I can share. And then we also have a in terms of other products. Do you know if you all use a same SIEM
+BiniViele: No.
+Andrew Meggs: Okay. You once again, this is not everyone has a team and you don't necessarily have to have it basically, as part of being CC compliant. You will need to have like, tracking your logs and monitoring your logs in PreVeil. This can be done manually. But if you have a scheme which is a basically a scheme as a tool that connects to fire walls and it connects to anti viruses, it's not specifically for PreVeil. It's a general tool that's used for tracking and event management. And if you were to have a team, we could connect to that. We have a same connector, but if you don't have one, then it's sort of a moot point anyways.
+BiniViele: So but I thought it's
+BiniViele: It's a Microsoft through the isn't it?
+BiniViele: It's Microsoft security solutions.
+Andrew Meggs: I don't know if that's the name. I think Microsoft defender is the name of the same, or I don't actually remember the name of the team of Andrew.
+BiniViele: We do have Microsoft defender and it does
+BiniViele: Microsoft side of security Sentinel.
+Andrew Meggs: Sorry, Sentinel is the Microsoft same defenders, the anti, but I got that wrong.
+BiniViele: Yeah. But yeah.
+Andrew Meggs: If you had Microsoft Sentinel, that would be a same that we could connect to
+BiniViele: I see.
+Andrew Meggs: But if you don't once again you were just asking about other products. We had that's another product we have but it's a moot point since you don't have Microsoft Sentinel, but um
+BiniViele: I believe so. Because we have not subscribed to Azure and I believe you need Azure to have Sentinel. Yeah.
+BiniViele: Um
+Andrew Meggs: Yeah. That's the other product, but you know, like I said, not really relevant to you. Um
+Andrew Meggs: And then the GC tool would be the one that would be most relevant to your
+BiniViele: Okay. I'll keep that.
+Andrew Meggs: And the gateway which you already know about
+BiniViele: Yes.
+Andrew Meggs: But yeah. I can send some more info about the GRC tool. And I can send this all in a follow up email and if you do need anything else or if you're interested in the gateway or the GRC tool. You can let me know. Okay. Sounds good. Yeah. Well, thank you very much for your time and I appreciate talking to you. And yeah, like I said, I'll send all this over and I hope you have a great rest of your day. You too, have a good one.
+BiniViele: You too, bye.

@@ -1,0 +1,119 @@
+Account: Singer Industrial
+Call Date: 2026-01-26
+Duration: 00:22:32
+Participants: Brandon Lemke, Edward Hopkins, Emily deBettencourt, Yasmine Femia, Gregg Laroche, Nell Salas, Shawn Green
+
+======================================================================
+
+Emily deBettencourt: Great.
+Eddie Hopkins: Doing pretty good. How about yourself?
+Emily deBettencourt: Doing well, thanks. Have you met with Yasmine?
+Eddie Hopkins: Hi. No Eddie. Not yet. How I are. Don't you think doing so no.
+Emily deBettencourt: Well, I'd like to introduce you to yeah. She is the head of our customer success team here at PreVeil. So I invited her to join this call. Nice.
+Eddie Hopkins: To meet you Eddy. Nice to meet you.
+Emily deBettencourt: I've also got new here Shawn here and Greg rose from our compliance team as well.
+Eddie Hopkins: All right. And I think Brandon from our side is also gonna be joining shortly.
+Emily deBettencourt: Okay. Great.
+Emily deBettencourt: Can everyone hear me? Okay.
+Eddie Hopkins: Yep. Some
+Emily deBettencourt: I don't see Brandon here yet. Did you want to wait for him or just get started?
+Eddie Hopkins: We'll wait for him. That's fine.
+Emily deBettencourt: Yeah. No problem.
+Eddie Hopkins: So
+Eddie Hopkins: Yeah, we don't use zoom. So sometimes zoom client takes a minute to update for us.
+Eddie Hopkins: That could be what he's doing. Yeah. No problem.
+Emily deBettencourt: And remind me again, who you guys used as your C 3 Pao?
+Eddie Hopkins: We used cyber x, okay. They weren't on one of your suggested C 3 PO. Yeah. Okay. Yeah. Familiar with cyber X.
+Gregg Laroche: Nope. Not not at all.
+Emily deBettencourt: Okay.
+Emily deBettencourt: Yeah, I don't see them.
+Emily deBettencourt: On our directory here.
+Eddie Hopkins: Just teams Brandon, just to make sure he's joining.
+Eddie Hopkins: Yeah. So cyber X. The reason went with them is we've reached out to, I believe 3 of the ones that were you guys had recommended. One of them was just way too high. They wanted about 80 k for a official assessment, which wow, seemed really high. Yeah. The other 2 they were reasonable but they weren't offering mock assessments to us. And we really really really wanted a mock assessment. We know we needed it. We had some things. We knew were kind of testing the waters with to see what we get away with and whatnot. We wanted that mock assessment. I'm sure there are C 3 PO that you guys work with or that have worked with you that do offer Box, but from the 3 that were kind of more local to us. So we didn't have to pay extravagant travel costs to none of them did
+Eddie Hopkins: For now, let's go ahead and get started. Um
+Eddie Hopkins: Since it's 5 minutes past.
+Emily deBettencourt: Yeah. Sure. So the purpose of today's call really is to review the mock assessment that you guys had and answer any lingering questions that you all have or that your C 3 Pao has and help you prepare for the final assessment. The real assessment which I wanted to ask, do you have a date for that at this time?
+Eddie Hopkins: Yeah, let's send June June 15th. Okay. The week of June 15th, I believe that's what it is, anyways.
+Emily deBettencourt: And you're gonna use the same assessor, correct? Correct. Okay. Okay. Well then if you wouldn't mind, Eddie, I'd love to pass it to you and your team just to tell us a little bit about the mock assessment, how that went for you guys and detail any areas in which PreVeil wasn't sufficient for you and how we can help. I think we can answer or address a lot of these and help you work through them. But I'd love to hear from you guys directly what your experience was, like
+Eddie Hopkins: Yeah. Overall it was most of our shortcomings were documentation based. We didn't have things defined the way they wanted them or we would just weren't clear enough on our definitions. For the most part we're missing a vulnerability scanner, but we knew we were going to have not met on that one. Um
+Eddie Hopkins: But as far as PreVeil goes, the biggest things were the save as and the PreVeil drive. As far as I can tell it didn't create an audit able event that we could check in our logs which was a big sticking point for them.
+Eddie Hopkins: Um
+Eddie Hopkins: They do realize that screenshots are always a thing and somebody can always go in and take a screenshot of whatever they want, really unless we have ADP in place. Uh
+Eddie Hopkins: But they weren't so concerned about screenshots as they were about the save as being an audit able. So we couldn't see that and flag it and address it immediately.
+Eddie Hopkins: Um
+Eddie Hopkins: Kind of along the same lines with the locally synced copies which with the version 6. I think that'll kind of be fixed because it with the cloud lock, we can have the uh
+Eddie Hopkins: Everything will be in the cloud and nothing will have a we won't have any more local copies.
+Eddie Hopkins: So I think that'll be fixed. They didn't like that when it was locally synced. It wasn't nothing you did to it was logged. If you worked within the locally synced copy.
+Eddie Hopkins: But with version six, I'm assuming that logs will be kept for anything you do with the information there.
+Gregg Laroche: Yeah, we'll be able to blog with more fidelity. Interesting. There are 2 areas of concern though because you do know we've had over 60 companies now past success successful assessments, right? And none of them used any other products. So I you know, if I were involved in that particular argument about the save as I would ask them to point to a control requirement that you're not meeting because I think they made that one up.
+Eddie Hopkins: There was 3 1 3 the flow controlling the flow of UI.
+Gregg Laroche: Yeah. They may not like it, but I don't know if it's an actual finding. If you train your users and you have a policy telling them not to do that. Right here. It's one of those things. We can't control the third party applications. So we don't control Microsoft word. So if they want to do a save as in there, once they've opened in a document that they do have access to and they do have crypto graphic access to it, they open it as they're allowed to do for their role and then they do something that breaks policy. That's not a finding that's a user training issue, right? anyway, I understand the sentiment it is like it's a vector that people can make mistakes and see, I could end up in the wrong place and then you would definitely have a spillage that would have to be dealt with. I understand the feedback that they want more fidelity in the logs again. There's no specific control requirement that tells you what to log. But I you know, so I think it's good feedback for areas of improvement. For us. And I do think the logs will have more fidelity with version 6 because we're not relying on the file system to tell us events anymore. That's our legacy implementation. So we can only know what the file system tells us and the file system doesn't tell us a lot and that's all we can log and with cloud drive, we're not using that interface anymore. We're using the Microsoft cloud APIs and they do tell us more about what the users do it. We will have more Fidel in the logs as far as when and how many new events we add. And when that is in production, I don't have that information. Seeing as you have until June as a good, there's a good chance. We'd have that implemented. The product when it comes out in march when it's released, the log enhancements won't be included in the first release, it'll basically be the same logs we have now, but over time, we'll be enhancing and adding log events that are now newly available to us. And we're also gonna add some log events for device. Identification, which is usually the one thing we hear the assessors gripe about and these guys didn't seem to have a problem with that. So yeah, some of it's subjective, right? I think we are adding a device identification into the logs as well.
+Eddie Hopkins: Yeah. It wasn't so much that they could do it was at the and it's not the local machine part here. It's from within the PreVeil drive. Um
+Eddie Hopkins: Console, I don't know what the correct term for it is, but the um
+Eddie Hopkins: Doing it from the web interface when you hit save as
+Eddie Hopkins: It just wasn't logged anywhere that moved.
+Eddie Hopkins: From PreVeil.
+Gregg Laroche: Or for that, so from in our interface. All right. Well, that's a different yes.
+Eddie Hopkins: Kind of yeah. There there one.
+Eddie Hopkins: One kind of leads to the other. The main concern was from within the web interface.
+Gregg Laroche: Yeah. That's that I actually give that more validity, frankly, because that's something we can know about, right? Or we should know about because it's our product doing it.
+Eddie Hopkins: Right. That was the first one. The second one. I think it's fixed with the deal. I'm calling it LP. But the cloud the new cloud drive. I think that's the local part is fixed. Yeah. But yeah, the save as we want to their main thing was they just want to see that somebody saved something somewhere other than PreVeil or attempted to, but it doesn't need to where it went. We just need to know they did it.
+Gregg Laroche: Yeah. No, it's a good that's a good piece of feedback. I'm right. I'm taking a couple of notes here. Yeah. No, that's helpful.
+Eddie Hopkins: So so that was a big thing there. It was just being able to see it. And um
+Eddie Hopkins: That also leads into another one of our points that wasn't a huge deal with them, but it would help us a little bit and having all the logs in one place is getting PreVeil logs ingested into our hunters Sam. Yeah. I did a little bit of digging and it looks like you guys can help us with that. Yeah.
+Gregg Laroche: We offer a sim relay service basically or a solution that is normally a hosted server that because you know the reason we need a third party connector for sim is because all your logs and PreVeil are encrypted and they're encrypted and digitally signed with keys. We as a vendor don't have so you are the only ones that can access your data in our system. So and same goes for logs and we offer this same connector option that the customer success team can fill you in on. But basically, what it does is it every 15 minutes, it goes and fetches the encrypted logs from your tenant de crypt them with keys, you provide into the service and then flips them to sis log format and hands them off to a connector utility that can connect to basically anything and that's where you would. And then so every 15 minutes, you'd get assist log
+Gregg Laroche: Event stream from that connector that you can pretty much. Connect it to anything you like. Yeah. That's what the sim connector is. And that's why we have it. But it is an extra component that you have to configure and load your keys into and all that stuff because it's not part of the PreVeil cloud service, it's something you actually host or own on your for yourself.
+Eddie Hopkins: Okay. Similar to the email.
+Gregg Laroche: Gateway very similar model. Yeah. Got it.
+Eddie Hopkins: Okay. Yeah. Cause that would also that goes back to the log to audit able event that save as event. If it's ingested into Huntress and we can configure it to give us a critical alert that somebody saved something from PreVeil or one of our users has of course we can't help what external users do. But for our users, we can hopefully that could
+Eddie Hopkins: Yeah. Help us a little there.
+Gregg Laroche: I'll look into that a little bit more because
+Gregg Laroche: Usually when these file action events in the legacy design
+Gregg Laroche: Sometimes we don't log something because we don't know. We don't get enough fidelity from the event system to tell us what happened. Like we know something happened, but we don't know what we don't know where anything went and we get this vague event from the system that we don't feel comfortable logging about and we don't. And that might these are things that hopefully will improve when we get to cloud drive and we get a lot more precise events from the system.
+Eddie Hopkins: Okay. Yeah, the local copy is not not a huge deal there because of the new cloud drive. It's mainly that from the web console. So yeah.
+Gregg Laroche: No, that's good feedback. Because I didn't I hadn't heard that one before, so that's good. That's really good to hear.
+Eddie Hopkins: Yeah. I mean we could might be able to get away with it on the official, but that was a big one is allowing the users to do that. So last one that we really had it's not a huge issue, but I could kind of write myself out of the policy on this one and be fine. I currently am A C accessing employee, but I'm also an admin. Yeah. Is there a way to have a separate user account from our admin account?
+Gregg Laroche: That's usually what we recommend is that if you're in that scenario that you get to PreVeil IDs, you'd have to have 2 different email addresses. But you know, you could even create just an alias of your normal one and and then you are logging in with the correct role to do the correct thing. So if you're gonna do PreVeil things, you log into the PreVeil user account. If you're gonna do admin things, you log into the admin one then that's been acceptable to assessors. But it's a little more overhead for you because you have to manage 2 accounts, but it's a way to satisfy that separation of duties requirement.
+Eddie Hopkins: Okay. So just just need a new pretty much in. Yeah. And
+Gregg Laroche: We don't charge you for that extra user, by the way. That's something we just okay. You can just do that for yourself.
+Eddie Hopkins: Yeah. Got it. Okay. Yeah, that's what I thought we'd have to do. I just wanted to kind of make sure I wasn't sure if it could be done with the same email address was what I was wondering, but
+Gregg Laroche: Yeah, world those to be unique. Okay.
+Eddie Hopkins: I figured cool. Yeah, that was pretty much it. Biggest one is that save as button from the from the web interface?
+Eddie Hopkins: So if we get more um
+Eddie Hopkins: More detail on when I mean, it could be as simple as a user.
+Eddie Hopkins: Tried to save something. I mean, or did save something we can yeah, get an alert and investigated immediately as a spillage incident.
+Gregg Laroche: Yeah. Yeah, we're gonna and we're gonna have more
+Gregg Laroche: Notification and blocking capability to for copies and moves so that you may have heard that already, but that's another feature within cloud drive is if you have the cloud block enabled for your tenant, the system won't even let you drag and drop things out of PreVeil, it'll block that and log those events, obviously. So that's a little bit yeah. It's obviously a little bit more secure than what we have now, which is trust the user train the user trust the user. So sometimes assessors aren't 100% comfortable with that and not and sometimes customers aren't either because users do make mistakes and we'd like to add more compensating controls in those areas where users might make errors. And so that's you know, we're gonna continue to do that over time.
+Eddie Hopkins: Okay. Yeah, I did argue a little bit about that. Well, we have our users trained. Our users are allowed to access the data and mistakes happen. Yeah. And they said yeah, but save as is too easy.
+Eddie Hopkins: I understand, but you can screenshot things easier.
+Gregg Laroche: Yeah. It's a little subjective, but I understand what they're saying and I don't disagree. I'm just saying it's
+Eddie Hopkins: Definitely.
+Gregg Laroche: The standard isn't very definitive on that point. So there is there's a little bit of subjective ness to how you interpret some of those controls. And that's good. That's you know, that's fine. That's the way the standard was designed to be. It was designed to be flexible for different risk environment. So if you were handling nuclear secrets, maybe that would be unacceptable. It's all about risk. So I I don't argue it. I just you know, I don't think you'd fail an assessment on it. If you had policy and training in place that satisfies the control. Especially if you're not dealing with hyper sensitive stuff that maybe you have too much risk to not have a compensating control and that's another interpretation and it doesn't doesn't even say that in the standard, but that's kind of a generally accepted principal going all the way back to RMS and 853. That's kind of the governing philosophy behind all this stuff. So
+Eddie Hopkins: Yeah. Unfortunately, for us we deal with a lot of just commercial grade products, but they're not they don't fall under that cat items description.
+Gregg Laroche: Yeah. So
+Eddie Hopkins: You
+Gregg Laroche: Have you have less risk than somebody making something super
+Eddie Hopkins: Engineering for exactly. Yeah. It's unfortunate for us, but, you know.
+Gregg Laroche: But also, I would argue that also training and user training and procedure might be adequate in that environment. It's like, I can't I could feel okay about that argument.
+Eddie Hopkins: Yeah.
+Gregg Laroche: Based on the level of risk. But anyway, yeah.
+Gregg Laroche: The assessor I get that, yeah.
+Eddie Hopkins: I did argue the training and the users are permitted and all of that. They were stuck on that. Save as button. That's a good they were stuck on a few other things that they ended up giving us a met for that was kind of funny. They were kind of stuck on things and then they're like, well, I guess it's okay, but this one they were not satisfied. So yeah. Good. But yeah, most of our for the most part, PreVeil worked pretty well for them. They didn't mind everything we had in there. They liked how it was set up and they had one other client that used PreVeil. They didn't tell us whether they passed or failed, but that they had seen the product prior to us. Okay.
+Gregg Laroche: Interesting.
+Eddie Hopkins: We didn't get details.
+Gregg Laroche: All right.
+Eddie Hopkins: So yeah. If if we can figure out something on the log on that save as I think we could be good overall and we'll reach out. Who should we reach out to to get the connector for the sim?
+Emily deBettencourt: That would be me Eddie. Okay. I can send you more info about that. And then pricing as well, although I know we talked about it today, so I'll just send you our general one page overview sheet. Happy to have a separate call about the technical setup for that too, if you'd like and then pricing if you'd like to get it connected. Okay.
+Eddie Hopkins: Cool.
+Eddie Hopkins: I'll send you a follow up email just to make sure.
+Emily deBettencourt: Okay. Yeah. Sounds good.
+Eddie Hopkins: Shawn Nell did I miss anything or anything you guys? Remember that I don't
+Eddie Hopkins: No, I think you got everything. Okay.
+Eddie Hopkins: All right. Well, I think that's it then.
+Gregg Laroche: Excellent. Well, thanks for sharing that feedback. That's really valuable and helpful to us. And we'll definitely factor that into our planning.
+Eddie Hopkins: All right. Yeah. Thank you. And I'll I'll probably follow up on it at some point. We have till June. We actually moved I moved our assessment back because of the 6 point o it's a little were gonna have our actual done in march, but it was a little too close to the release of that and
+Eddie Hopkins: Software timelines can be. So
+Emily deBettencourt: Okay. Well we'll certainly reach. I made a note to of your new assessment date and we'll certainly reach out to you in advance just to make sure you're set up and you've got everything you need, but let's work on the sim connector and then make sure you guys are utilizing cloud drive once that's available and get you set up for success.
+Eddie Hopkins: All right. Awesome. Thank you, guys. Thank you, Eddie.
+Gregg Laroche: Bye. Bye.
+Emily deBettencourt: Bye now

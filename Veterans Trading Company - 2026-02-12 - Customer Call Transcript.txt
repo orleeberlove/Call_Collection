@@ -1,0 +1,135 @@
+Account: Veterans Trading Company
+Call Date: 2026-02-12
+Duration: 00:21:41
+Participants: Robin Barrow, Russ Richards, Charles Mahoney
+
+======================================================================
+
+Robin Barrow: So
+Bill Percival: Robin. Nice to see you.
+Robin Barrow: Nice to kind of I'm
+Robin Barrow: I made it. We're Wi Fi is good. Hi, bill, we are.
+Robin Barrow: In a spot.
+Bill Percival: Yeah. Did you get hit with the winter stores? Is that what took you out? Or yeah.
+Robin Barrow: So everything's just been a little crazy. We actually had a plow take down a telephone call. So yeah. And I have TechLogic in the waiting room. Do you would you like me to add? Yeah, yeah. Yes. Okay.
+Bill Percival: The Russ TechLogic is our SP.
+Robin Barrow: Okay. Excellent. Yeah. Yeah. Long story long, we got we had some like, a mature flowers come in our neighborhood because they were everyone was like inundated, which we're in New England. I don't think that would ever be a problem, but yeah, he took out a telephone call.
+Robin Barrow: And that's all that internet down and yeah. It was kind of a mess, but we're good. Now, we're back in business. Hi, Charles. How are you? I'm doing well, yourself Robin. I'm doing well. Thank you. And again, I really appreciate all your flexibility last week and um
+Bill Percival: Yeah.
+Bill Percival: We know all about happening. Yeah.
+Robin Barrow: Exactly. Where are you all located? You're in Salt Lake City, salt.
+Bill Percival: Lake City, yeah. We can definitely use some of your snow, we're jealous.
+Robin Barrow: Yeah. Oh, you don't want it. We've one storm is 24 inches and we just been hit with like 6 inches every storm. So. Yeah, I don't know.
+Bill Percival: Well, I think it was it 3 years ago we had you know, the valley doesn't get that much snow. We'll get a big storm. I get 6 inches or so I live up a little higher, the Russ and the ski resorts are up quite a bit high. But yeah, I think 2 years ago or 3 years ago, this key resorts got like 940 inches total.
+Robin Barrow: Oh, my gosh, wonderful. That's over.
+Bill Percival: The season, but yeah, they had one of the buildings downtown had a like, a measuring stick that kept
+Robin Barrow: Going yeah. It's
+Bill Percival: It's like 5 6 stories.
+Robin Barrow: Of snow. Yeah, that's crazy. Yeah. We only had that with I'll never forget the storm name is Nino. We had 100 feet of snow and we it's like we got a storm every Sunday for like, several months, yeah.
+Bill Percival: But out West we live and die by snow. She had in the water. That comes off. Yeah.
+Robin Barrow: Oh, yeah. When
+Bill Percival: We have a bad snow year. It's tough to even water your logs, say
+Robin Barrow: Yeah. Oh, man. That's like a late winter. I mean, late summer. Everyone can't use our hoses or anything like that drop.
+Robin Barrow: Great. Well, I think we got everybody here.
+Bill Percival: I think so. Russ, can you hear us? Yeah, I can hear you.
+Robin Barrow: Awesome. So we can go ahead and get started. This call should be fairly quick anyways. So I am your customer success manager. I'll be your main point of contact moving forward, so I know you worked closely with Zach. And really, I just want to cover what you all signed up for. Talk about next steps on getting started, but also understand why you need PreVeil, what you're hoping to get out of it and hear that story as well. Yeah, just to dive in I see that you have 3 users, 2 of those are admin. You also purchase the compliance accelerator as well as the C. So we call the compliance bundle. Yeah. But yeah. That's
+Bill Percival: I think that's what really PreVeil over the top for us, is that compliance bundle for sure. Yeah.
+Robin Barrow: I'm sure. Yeah, a lot of our customers purchase us strictly for just the compliance piece as well.
+Bill Percival: Yeah, gotcha. So clarifying the licenses, we have 3 plus 2 or is it 3 and the 2 are included in that?
+Robin Barrow: Included. So typically an admin user takes up a standard user license. I shouldn't say typically always. That's why it's 3 2 of those being admin. Consider like an okay. A super user. We say okay.
+Bill Percival: It's good to know. Okay. Thank
+Robin Barrow: You. Yeah. That brings up a good point. Adding users is super easy. You just let me know. I'm going to be honest with you. If you come to me and say, hey, Robin, I want to add one user, I'll probably say go ahead and add it. We'll deal with paperwork and billing afterwards. I just don't feel it's necessary to
+Bill Percival: Yeah, I understand that better. We'll probably do that. Yeah.
+Robin Barrow: But if I see that you're like maybe you're 5 beyond your license count. Let's talk about updating terms and then we can we'll co term your contract. So if you come to me in 6 months and you're like, we need 10 users, well, you'll pay for 6 months of 10 users.
+Bill Percival: Understand. Perfect.
+Robin Barrow: Great. Yeah. If you all don't mind sharing, why do you need PreVeil? I understand obviously the compliance piece, but are you what are your goals?
+Bill Percival: So. So to well, it's the cms level to compliance, basically. And the short version of it. If I could make the short version, I hope is that our customers. We do electronic. We do procurement of electronic components and kidding primarily for our customers who are the large, defense, primes, so North, crewman, locked mark and being ration.
+Bill Percival: Or our customers. So we some of those customers have been for years now flowing to us the nest and the Dar requirement, not necessarily seem to C level 2 because it wasn't released till just recently and I'm sure they'll update their contract to VC is level 2 compliant. They don't however provide us any C data. But I don't know if you've ever had to negotiate with a lock partner, North Rica, but they don't want to hear removal of terms from their contract. They just they have it so they're gonna give it to you.
+Robin Barrow: Yes. Yeah. So
+Bill Percival: So we I think it's very unlikely small chance that they may send us some UI documents in the future, but for today they don't and but we still need to be able to claim full compliance. So the solution we came up with was our primary system where all our employees work in day to day in a Microsoft 365 environment. We're not GCC High. We're just a typical commercial environment with geo fencing. That Russ has done for us, but that'll be our C level. One solution, which is fine. Yeah. And that will be compliant. But we need a file storage and file share capability to make A C level 2 and ideally the error gated way. We just don't mix the 2 systems. And so PreVeil seem like a perfect solution for doing that. Not only that. We do technical data exchange with share file. Right now. We do some file storage and file sharing with share file. And I think we need to get out of share file because there you don't technically offer an IT compliance solution. It's HIPAA compliant, all these other compliance. Or regulations, but not specifically it.
+Robin Barrow: So I think we're um
+Bill Percival: Very likely gonna get used to PreVeil and then then have to make a decision. Do we also leverage PreVeil in the sharing there to for our compliance side of what we need?
+Robin Barrow: That sounds pretty straightforward to me. Yeah, we do cover it. Yeah. No. It's a typical use case. I mean, it's unfortunate. I should say it's unfortunate in the sense that you're part of the flow down effect and you don't even have a UI, which is it's tough, but at least you'll be prepared and you're already working with the big guys. But if you ever want more business, you can at least stamp that on your website that you're level 2.
+Bill Percival: And we will yeah. Yeah.
+Robin Barrow: So it will be good. But yeah. And we do work with it. So if you ever I should say this is kinda jumping ahead, but for instance, when you make that decision that you want to make the switch over. And you have like 100 gigabytes plus worth of data, we'll set up a file transfer. We'll help you with that migration. But oh, awesome. Yeah. My suggestion is always get used to the platform, learn how to use it. And then let's talk about moving your data.
+Bill Percival: After perfect. That was my hope. Say that. Yeah.
+Robin Barrow: Yeah. Yeah. And did Zach go over the accelerator, how it works where to find things?
+Bill Percival: Yeah. I think conceptually we have a good idea of what it does. Um
+Robin Barrow: Great.
+Bill Percival: Kind of jumping at the bit to go start using it.
+Robin Barrow: Yes, I can add up to 3 users. So I'm assuming bill yourself Charles and then Russ. Yeah, that work. Okay. I can do that and then let me just see
+Robin Barrow: Russ, I don't know if I oh, I do have your email. So yeah, I'll do that. I'll add the 3 of you. And just to show you real quick, you'll see a screen that looks just like this. Um
+Robin Barrow: There we go. This is just for the accelerated. The GRC looks obviously different. And I unfortunately don't have a demo environment of that, but it's pretty straightforward. If you use a project management tool, it operates very similarly. Okay. And then a governance risk compliance tool. If you use one, they all operate pretty similarly and do the same thing. So that's what it's it looks like. Just let me know if you need help on that or any training. We can set that up for the okay. For the accelerator. Like I said, it's based off of a learning management system. Pretty simple to use. You go through the courses, the idea is that it takes you really green. I don't know what cms is all the way through. How do I score one ten? So it brings you through that whole process. You'll see step 0. Those are more there there are additional information, but they all pertain to level 2. So we always say we share 102 of the controls. What does that really mean? It means we help address 102 of the controls, but there's still work that you all need to do, such as policies in place, notifying staff on how to use, PreVeil, that sort of thing for level 2. And then the remaining
+Robin Barrow: I want to say, yeah, it controls outside of it are the end points and how do you protect your endpoints? You probably already aware of this, but that's why we created these additional courses because our customers weren't and we're asking a ton of questions. So for instance, how do I secure my endpoint? This might be more of TechLogic area. We go through and tell you how to configure all Microsoft products such as defender.
+Robin Barrow: Sentinel
+Bill Percival: We use central. Yeah. Okay.
+Robin Barrow: Perfect. So yeah, again, you probably just based on what you told me at the top of the call, you probably already have a lot of these in place, but that's the accelerator. It's gonna take you top to bottom. So where you find the bulk of the information and the documentation is why a lot of us a lot of people sign up for us is the Acme docs package. Those can be found in step 6. Right here.
+Bill Percival: Okay.
+Robin Barrow: And that will look like this. When you open it up and all these documents are linked, you can download them, you can edit them, you own them.
+Robin Barrow: Yeah. They're all
+Bill Percival: In the end, do we? these are all tailor, able documents, obviously. Right.
+Robin Barrow: Yeah. They have to, yeah.
+Bill Percival: Yeah. In the end when we do our tailoring, do they get retained in the PreVeil storage or do we bring them into our document control?
+Robin Barrow: That would be a good spot to store these documents and tracking the progress of the documents in the DC, which I'll add you to to
+Bill Percival: As well. Okay. Gotcha. I'm just I guess trying to wind forward to our self assessment. Yep, right. And if we do, we have one customer who's threatening to make us do a third party audit even though they provide us the least technical data of all of them.
+Robin Barrow: That's I know.
+Bill Percival: I know. So um
+Bill Percival: Let's say we did have to do a third party audit. Kind of thinking forward to that point. Where do I store my documents? Do I have to bring them into my own document, my quality management system essentially? Or do I say, hey, auditor, they're all PreVeil. We're gonna look at PreVeil to get my documents?
+Robin Barrow: We a lot of the cases you give the C 3 Pao, the access to the GRC or where you're gonna store. So they'll they'll be able to run reports, find your evidence right through there. When you do have to get a third party assessment, I would say reach out to us. We have C 3 POS. We work with. Zach might have mentioned this to you. Yeah. Yeah. Okay. Great. Yeah, they're listed on our website. But if you're looking for 3 that are specific to your area, or you just would like to be connected directly, let us know and we can do so.
+Bill Percival: Yeah. Okay. Thank you. Yeah.
+Robin Barrow: But yeah, long. They would access your GRC that would be where you would store it because it automatically generates, like I said, your reports, but also for your self assessment, your score is generated there. You're gonna want to keep all your evidence and all the documentation there as well.
+Bill Percival: Okay. Thank you. Thanks for clarifying that. I was always a little unsure about that aspect.
+Robin Barrow: Yeah. No worries. Lastly, the additional compliance resources is where you can find access to the compliance team. So this is where you get 6 30 minute sessions with our compliance team. So you can use those at your disposal. Really they're meant for questions that you may have on documentation scoping. Really anything pertaining to level 2. The only thing they won't do is write your documentation for you. The other piece is this is where you can reach out to them via email. Those don't count against your time. I always mentioned this on every call. If you're going towards an assessment and you're getting close to one, please, let us know. Don't worry about the number of calls you have. Don't worry about that. We want you to do well. So just
+Robin Barrow: Call me. Okay. Text me whatever you need to do.
+Bill Percival: Just want me to be doing our assessment April.
+Robin Barrow: Oh, okay. Okay. Yeah, that's your self assessment, right?
+Bill Percival: Yes.
+Robin Barrow: Okay. Yeah, yeah. And that's coming up. But it is.
+Bill Percival: Yes we were I don't know if we were early adopters or not but we did a self assessment against the test standard 3 years ago okay and you know over 3 years we have to repeat it right yeah this time we know more this time we have better tools
+Robin Barrow: Yeah. So
+Bill Percival: We're not starting completely from scratch anyway.
+Robin Barrow: That's huge. Yeah. And you'll be able to compare your evidence that you already have together against ours in the Acme docs and get an understanding okay, where do we need to fill in the gaps? So yeah. Specifically the PreVeil language around the on live and everything like that. Yeah. But
+Bill Percival: I'm kind of anticipating mostly scrapping our language and going PreVeil language. Since that is gonna be our CIO live, right?
+Robin Barrow: Right. So
+Bill Percival: Might as well leverage all of those documents and language.
+Robin Barrow: Yeah. I mean, yeah, that would a lot of our customers do that. And just know that obviously there's gonna be some customization that needs to be done. Yeah.
+Bill Percival: For sure.
+Robin Barrow: Great. So yeah, that's the compliance side of PreVeil. I'll make sure I add you 3 to both platforms. Take a look if you have any questions, just reach out for the actual PreVeil e mail and drive platform. All we need you to do since there's 2 admins. We need one of the admins to just download PreVeil, create the org and then schedule time with our support team. So
+Bill Percival: That does that what do we do during that time?
+Robin Barrow: You'll go over all the admin functions of PreVeil. So you'll go over approval groups, recovery groups. How do you set up a file structure? How do you add remove users? It's pretty basic and we have a extensive knowledge base. But okay. Again, I always say you paid for it. I use it. Absolutely.
+Bill Percival: Absolutely. Yeah, absolutely. So that would be Russ and I would be those 2 admins.
+Robin Barrow: Great. Yeah, I would I'll send over the instructions on how to do so. So whoever wants take point on that first. And then once one of the admins Chris New York, they just have to invite the other admin and
+Bill Percival: So I think for us, I think you're gonna be our lead there, right? I'm gonna leave the documentation effort, you're gonna lead the
+TechLogic: Yeah.
+Robin Barrow: Okay. Great. So yeah, I'll just I'll reply to our calendar invite with everything and include the documentation next steps.
+Bill Percival: Okay. Thank you. Yeah.
+Robin Barrow: Yeah. Lastly, I will schedule time more time for us to connect. I'm gonna do it for 60 days, just because you are hoping to do a self assessment by April. This will just be a check in for me to feel make sure you are feeling good. You're using the platform, you've got all the resources you need. If we get close to that call and you're like, I'm sick of Robin, I don't need to meet, we can cancel it, but it's just a placeholder meeting.
+Bill Percival: For sure. All right. Sounds good. Yeah.
+Robin Barrow: But what questions do you all have? That's really all I had to cover today.
+TechLogic: I don't have any questions. Yeah. I just need access to the portal so we can get in there and start familiar zing ourselves with its features and set up and whatnot.
+Robin Barrow: Yeah. No. And I'll send those right over as a reminder. I'm sure Zach covered peril works as encryption keys installed on each device. So I always recommend installed on the device that you intend to use for these government contracts. That's if you're segmenting out your devices, make sure it's the one that you're gonna communicate if you ever received UI ITAR, that kind of information.
+Robin Barrow: Makes sense. Yeah. So
+Bill Percival: I get my head around what you just said.
+Robin Barrow: Um
+Bill Percival: So the so that it is device dependent access?
+Robin Barrow: It you can add multiple devices onto your user account. But the way you get into PreVeil, it recognizes the encryption key that's installed. Again, I'm not super technical. So bear with me on the back end into your device. So it recognizes your device. You can add if you want to have mobile and scope a lot of our customers kind of steer away from that because it gets here. But if you want to add your mobile device, if you have multiple laptops, you're just gonna make sure that they're you're protecting them under your own points for cms level 2. Doesn't matter from PreVeil, PreVeil won't stop you, but you just keep that in mind. Yeah. Got you. And
+Bill Percival: Access to Charles. So that makes sense to you as well for us.
+TechLogic: Yeah. Okay. Cool.
+Bill Percival: I'm along for the ride.
+Robin Barrow: Yeah. I get it's it seems like a lot, but the PreVeil platform is super simple to use. I'll tell you that. It's I think the most difficult part is just gonna be the compliance and wrapping your head around the scope and what's right? And what's wrong? Honestly.
+Bill Percival: Yeah. Okay. I keep telling the team. We operate under a 9,100 quality management system and I keep telling the team is kind of like all these compliance. These are the same and that 20% of the effort goes into actually having a technical solution and 80% goes into documentation of that.
+Robin Barrow: Yeah. Exactly. Yeah. And so
+Bill Percival: Having that documentation pre built for us is huge Robin. Absolutely huge.
+Robin Barrow: Great, no. And it's and use the compliance team. Like
+Bill Percival: Yeah.
+Robin Barrow: Reach out to them if you're confused. Or maybe you all have a unique scenario. I always say. We had a customer that had to create a policy around walking C UI physically across the room. Like they had to make sure they had like, some sort of camera pointed and make sure it was lock one door walk into the door. And I was like I don't even know how you would handle that, but our compliance teams like this is a policy put in place for physical assets. Okay. Yeah. And like, making sure your printer is on a network.
+Bill Percival: Yeah, yeah. For sure. Right. I've never operated in UI environment I have operated in secret top secret, si environment.
+Robin Barrow: Yes, it doesn't seem a whole lot.
+Bill Percival: Different honestly.
+Robin Barrow: No. The line us being blurred, I guess. Yes. Yeah. Great. Okay. Yeah, I'll send this follow up over shortly and yeah, feel free to reach out if anything comes up, but I look forward to working with you all.
+Bill Percival: Yes. Hey Robin. Thank you. And happy connected internet at this time.
+Robin Barrow: I know, I again, thank you so much for your patient and I was like it's 20 26. Why is this happening? We pay for crazy top speed, but that's infinity for you, so there you go. Well
+Bill Percival: You can't can't broke no. Plows, I guess, right?
+Robin Barrow: I guess not. But again, I live in New England. It snows a lot. So it's just like things that shouldn't go wrong, went wrong. That's
+Bill Percival: All right. We're glad you survived.
+Robin Barrow: No. Thank you. Enjoy the rest of your day. Thanks so much. Robin the same. Bye bye.

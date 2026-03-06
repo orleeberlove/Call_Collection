@@ -1,0 +1,137 @@
+Account: Velocity Network
+Call Date: 2025-12-22
+Duration: 00:23:44
+Participants: Andrew Meggs, Kaden Bluey
+
+======================================================================
+
+Andrew Meggs: So
+Andrew Meggs: My voice is actually a little bit horse today. I apologize. Hello, I Kaden, uh. Hey, Andrew, how did are you care doing? Okay. This weekend. I am my was my my wife's best friends 40th birthday and she wanted to do care. Okay. So
+Andrew Meggs: Still still recovering from that. Hi, Jeremy.
+Jeremy Dylewski: Hey, how's it going? What did you saying?
+Andrew Meggs: Oh,, it was some dumb, but rock song. I think it was nice backed or
+Jeremy Dylewski: Something like that. Um
+Andrew Meggs: The crowd loved it. I think it it was yeah, this is how you remind me. I think by Nicole back. Yeah, that was the song.
+Jeremy Dylewski: There we go.
+Andrew Meggs: The instant crowd pleaser the so that's the trick to carry ok. Is you pick a song everyone else things that way now can even hear you singing. So no matter how terrible you are. They're into it. Yeah. But any carry okay. Aside, I appreciate you all hopping on a quick call with me. Kaden. I know you're a little bit new to the situation. I guess I have a couple of things to go over before I get into it. What would you all like to discuss today?
+Jeremy Dylewski: Well, I think we were doing the we were planning to do the onboarding for. Um
+Jeremy Dylewski: We're replacing
+Andrew Meggs: Are okay. Is this different from are industrial products?
+Jeremy Dylewski: Yeah. Yes.
+Andrew Meggs: Okay. Sorry, 2 different areas there. I had to pull both up for are plating. When you say onboarding, I was under the impression that this was more of like an intro cold in the actual onboarding, but we can go over that process if you want. Sure.
+Jeremy Dylewski: Let's go over all the things.
+Andrew Meggs: Sure. Okay. I guess for starters. Hi, Andrew, it's nice to meet you. For context, I am kind of the account manager for all of the Velocity, Network accounts. There are a couple of different teams here. So there's the support team who does the actual technical onboarding and does official trainings. There's our compliance team that's available as a resource for any compliance related questions you might have. And then I am kind of more on the account side of things. And I can certainly walk you through the onboarding process now to get the organization created. But that's kind of the delineation of roles here. So specifically for ER, plating and how generally any onboarding works the process is creating the official PreVeil organization using a a alias account. And then if you feel like they need to go through the scheduled onboarding process of training, our support team handles like, it's like an hour long training session. And then separately from that is access to the compliance portal, which we call the compliance accelerator where all of the documentation and compliance training. Lives. Yeah. That's like the 2 second version of the normal onboarding process. So specifically for creating the organization, I assume one of you will be the administrator of that organization.
+Andrew Meggs: Or who's gonna be like it's is the client going to be administrating their PreVeil organization or you all?
+Kaden Bluey: The client will. So we have a admin account for their PreVeil client that gets installed on their computers. But in terms of the compliance accelerator they will be administrating that themselves.
+Andrew Meggs: Okay. Yeah. It's it is 2 separate things. There's the PreVeil app itself and then there's the the accelerator. So for the accelerator, I mean, I guess administrator is not even really the right word. I'm the person who adds people to clear and if you need someone from from their end or your end to create the or rather to create an account there, I can go ahead and add them.
+Andrew Meggs: Do you know if anyone there at replacing needs access to the accelerator?
+Jeremy Dylewski: They will have three, right?
+Andrew Meggs: 3 people in there. Yeah.
+Kaden Bluey: Yeah.
+Jeremy Dylewski: We just lost power at our building. Yeah.
+Jeremy Dylewski: Everybody's got batteries and all of the things are
+Kaden Bluey: In. But yeah. Yeah.
+Kaden Bluey: Okay.
+Kaden Bluey: Go back here.
+Kaden Bluey: Mine has all of the what where it is there? Okay. Looks like they want 5 users for the app. Um
+Kaden Bluey: I'm not sure about who they want on the accelerator. Accelerator is 3 users. I think Kevin is definitely gonna be one of them, but we'll have to connect with him and see who the other 2 would be. Sure.
+Andrew Meggs: So yeah, you can just whenever that whenever you figure out who needs to be in there, just need the their full name and email address and I can go ahead and add them
+Andrew Meggs: And
+Jeremy Dylewski: You add them in?
+Andrew Meggs: Yeah. So PreVeil is the administrator of the compliance accelerator. So I'm the person who has people cool. Kaden, have you. I believe I got you access when we were emailing back and forth. Have you managed to get in there at all?
+Kaden Bluey: Yourself? Yeah. Yeah, I have um
+Kaden Bluey: Here, let me just
+Kaden Bluey: That's not it. Um
+Kaden Bluey: What would the link be for the compliance accelerator? Again, it just takes me right to prevails public web page.
+Andrew Meggs: Oh, sure. Yeah, it is. We've built it on talent LMS, basically. The
+Andrew Meggs: PreVeil of talent lms.com.
+Andrew Meggs: But I can put that in the chat.
+Kaden Bluey: Here, sure. Yeah.
+Kaden Bluey: Yeah. Okay.
+Kaden Bluey: That is not happy with me. So we're just gonna follow that link.
+Kaden Bluey: There it is.
+Kaden Bluey: Okay. Yep. We are in.
+Andrew Meggs: Okay. Yeah. I mean, if I can share my screen or if you want to share your screen, whatever whatever your preferences um
+Kaden Bluey: Um
+Andrew Meggs: I'll just I'll share my screen since. Yeah. Gotcha. So the idea here is we have made a fake company Acme corp and we have walked it through compliance. And we have a repository of documentation pre written with with PreVeil already in mind for all the controls and everything. And theoretically, if someone were to go through all these steps and do the steps as instructed they would be ready for an assessment by the end. I don't know. I guess I don't know which what you've already looked at or what you've already gone through Kaden. But just a couple of points the step 6 documentation. That's where the master document file, the Acme docs package lives. That's the master file that has a link to all the other important documentation. Like the SP is the POS and whatever. That's all in this one package. Obviously there's other stuff involved to other other documentation, but that's the main one. The additional compliance resources course. This is where the compliance team schedule is. So if you or if any wanted are plating or whomever else would like to to schedule some time with our compliance team. If they have any questions about the documentation or just any general compliance questions. They can there's a link here to this is also where like awareness and training videos are to insider threat stuff. Clients ask about that pretty pretty frequently.
+Andrew Meggs: So that's here in additional compliance resources. They there is this course about a grand the accelerator. That's it was recently added. We've recently came out with our own GRC tool. It's not currently part of or I don't think any Velocity networks clients subscriptions. So if anyone asks about this or why this is in here, it's a separate product that we've only very recently released. Okay. But yeah. But once again, the kind of idea here is with the different steps, is that if you go through this, you would be able to to be ready for an assessment. And the reason that there's so many steps zeros as we started with only one step 0 that we kept adding videos. But we we wanted to still say 10 steps. So we just added some more step zeros because we didn't have 13 steps because it doesn't sound as good to to marketing. I don't think. We are constantly changing the not constantly changing, but we are regularly updating this documentation and adding videos. And if there's anything in here that you're not seeing that you would like to see. We are always open to suggestions for adding videos or adding documentation or courses. Because the more clients we have in here, the more and more niche scenarios that come up more like, hey, can you get can you create a template for this? Or hey, can you do a course on this that we're always adding stuff like that too.
+Kaden Bluey: Cool.
+Andrew Meggs: And then yeah, so kind of what I was alluding to earlier. In terms of in depth, compliance questions or questions about the documentation that would kind of fall under the purview of the compliance team to to schedule a meeting with them if you wanted to. Do a real deep dive, I kind of only know just enough to be dangerous, if that makes sense.
+Kaden Bluey: Gotcha. Okay. Um
+Andrew Meggs: And then yeah. So creating the PreVeil org itself is a separate separate thing, but in terms of the accelerator usage, that's what that is.
+Kaden Bluey: Okay.
+Kaden Bluey: Um
+Andrew Meggs: So what what is the ER, plating e mail domain? I don't think I actually have any contacts for them. I just want to make sure I have
+Kaden Bluey: It's at ER, E R I E plating.com.
+Andrew Meggs: Oh, I think yeah. So
+Andrew Meggs: Yeah. Are not E R I was misspelling in this whole time. Long story short. I did did wanna mention while we're on the call that does look like there are a couple of express accounts with that e mail domain. There's a Jonathan Zimmerman and David Briggs who have PreVeil express accounts. So if either of those people need to be part of the organization, the adding the adding them is slightly. Different than creating a new account. Yeah. And if they're not able to log in to their express accounts, we'll need to delete those accounts and create new ones for them or they'll create new ones for them. So just as a heads up, if either of those people need accounts.
+Jeremy Dylewski: Okay.
+Andrew Meggs: And then yeah, in terms of talking points, was there anything else you wanted to go over or
+Andrew Meggs: Discuss
+Kaden Bluey: Um
+Kaden Bluey: Jeremy you go then.
+Jeremy Dylewski: Well, we were really hoping to get them plugged in and logged into the compliance accelerator prior to Christmas.
+Andrew Meggs: Yeah. If you provide their e mail addresses and names, I can it takes me 2 seconds to add people. So is this often one of the people that needs to be added?
+Jeremy Dylewski: This is the primary contact for the organization. But what we can do is we can reach out to them immediately after this call and get that information over to you. And then I guess what are our next steps? You'll get back to us and say the organization is created, the users are added. And here is an appointment for a session for the compliance accelerator or are we to deliver that? I'm I guess I'm not sure how the PreVeil SP process works if we're to introduce this and the app and the the the secret one drive and the e mail encryption and the compliance accelerator to the customer. If we're if we could hand that over to PreVeil and PreVeil trains them how to use the tool. Or if there's some type of combo there where maybe Kaden and I sit in on a couple get the cliff notes and then we take it over. I'm just not sure how that relationship works.
+Andrew Meggs: Yeah. Ultimately, it's up to you how you want to do things. We have different relationships with different partners. Some of our partners prefer us not to interact with the end clients at all and goes strictly through them. Some of our partners are very hands off and say just work directly with them and don't even talk to us. And some are kind of a combo like you were saying. So ultimately, it's up to you though, when I add someone to the compliance accelerator specifically, they'll get a invitation directly to their inbox from from the talent LMS. So either way they'd be getting at least some direct communication from us. And that's an automatic email that sent out. So if you basically want to have a sort of a call like this with them where it's an intro call, I introduce myself as a point of contact here at PreVeil for them. And then I go over the onboarding process and then they schedule the hour long meeting with our support team. And then our support team trains them, we can do that. And then you can kind of sit down on that to see what that process looks like. And then after that, maybe for other clients, you'll you can determine if you want to keep doing it like that or if you'd rather just train them yourselves. That's a possibility. Yeah. So that is I would say most of our partners do that where there's some direct interaction here at the beginning of the process. And they do go through the onboarding and training session with our support team.
+Andrew Meggs: But then after that, kind of the partner takes over the relationship.
+Jeremy Dylewski: Okay.
+Jeremy Dylewski: So
+Andrew Meggs: But specifically for the accelerator, we I mean, as long as I have their contact info, I can add them today or whenever I get that information.
+Jeremy Dylewski: Well, I have we've had some emails back and forth, you and I'm just kind of going back through those. I think that we gave the names for um
+Jeremy Dylewski: Are plating and you may have already put them in
+Jeremy Dylewski: Um
+Andrew Meggs: Yeah. The people at water edge have accounts already, but the people at I don't see an email from you.
+Jeremy Dylewski: In that same email. From
+Andrew Meggs: Me in November 10th.
+Jeremy Dylewski: Yeah. November 10th.
+Jeremy Dylewski: But they've got too many people in this uh
+Jeremy Dylewski: Um
+Jeremy Dylewski: Angela Snyder, Kevin, Smith, Ken running or Chris pulse and Terry Andrew.
+Andrew Meggs: Yes, I do recall that. So, I yeah. If you can narrow that down or if they can narrow that down to three, I can add those 3 people or if you know off hand which 3 people should be added, I can go ahead and add them.
+Jeremy Dylewski: Checking to see if I uh
+Jeremy Dylewski: Robin bar here is the CSM service manager.
+Andrew Meggs: Yeah. You can ignore that. We've since I'm we just moved it. We just moved everything over to me because to make it easier. So there's not 2 different people, right?
+Andrew Meggs: Not the Robin isn't lovely, but you know
+Andrew Meggs: She's she's very great at her job, but we just thought it'd be easier. I didn't have to work with different people.
+Jeremy Dylewski: But can she built out carioca at a conference Andrew? That's my
+Andrew Meggs: Question, I don't know. We should do period. I should suggest that company meeting.
+Jeremy Dylewski: I'm looking for an email or something with ER, plating. Um
+Kaden Bluey: I don't know if we ever got compliance accelerated or specific users. Jeremy we probably just have to call Kevin and
+Kaden Bluey: Ask, but we do have users for the PreVeil app.
+Jeremy Dylewski: For the PreVeil app, do we have that installed on their machines yet?
+Kaden Bluey: I'm not sure. If not that wouldn't be too much of an issue.
+Jeremy Dylewski: Okay. We can probably work on that this afternoon. Well, let me let's let us get in touch with, ER, plating figure out who they want in the compliance accelerator. We will message you and we can get those people in. Um
+Jeremy Dylewski: And uh
+Jeremy Dylewski: Then I guess we can kind of wing it.
+Andrew Meggs: Yeah. I mean, like I said, it's ultimately up to you how you want to do this. Obviously, I can add them to the accelerator today. But post post holidays the normal if you were to do directly with the client, the normal process is have an intro call with them with me where I kind of go over the onboarding process and make sure they don't have any initial questions, schedule. The official hour long training session with our support team is kind of how the normal process is. If you want to just go ahead and schedule that with the support team and ignore me, I mean, as the partner, they don't really need to know who I am per se. Or if you want to introduce them to me as another point of contact, it's really really up to you. Okay. Okay. Either way, I'll send it in my follow up email. I'll send links to my calendar. If you do want to do an intro call as well as the support team's calendar if you don't want to just if you want to just skip straight. To the training session.
+Andrew Meggs: Okay.
+Andrew Meggs: And then if you just want to reply to that with whoever needs access to the accelerator, I can just go ahead and add him.
+Jeremy Dylewski: Okay. And then maybe we can do you have anything left for the for tomorrow or
+Andrew Meggs: No. Okay. No, it's completely booked out for
+Andrew Meggs: Honestly, until mid January, to be perfectly Frank, I think I might maybe have one slot on January 8th in the afternoon. But yeah, it's pretty for the holidays. It's pretty pretty packed.
+Jeremy Dylewski: Yeah, schedule.
+Jeremy Dylewski: I know they're anxious. So we need to they're gonna get an email. So the process will be we reach out to them. We get the software installed on their machines. They'll sign in, right? and the compliance accelerated, you'll add them in and they'll because is the company now already created for ER, plating?
+Andrew Meggs: Yeah. The PreVeil org is created already. Okay. The actual app itself?
+Jeremy Dylewski: Did we invite the backup on account?
+Kaden Bluey: Yeah, we're an admin.
+Jeremy Dylewski: You're an admin in that. Okay. Um
+Jeremy Dylewski: So we can you'll invite them, you'll add them to the compliance accelerator Andrew and then they'll receive a welcome email that will take them into the compliance accelerator and it's effectively. It's a list of documentation pieces that they can start going through those 10 steps, 0 0 times 4 and then start walking their way through it. Okay. Yeah.
+Andrew Meggs: And then in my yeah, like I said, the accelerator does come from like it'll be like, no reply at talent LMS. So it is a somewhat generic e mail address that invitation is sent from. So sometimes it does get blocked by spam filters or they like send it to the trash because they think it's spam in my follow up email. I will whenever you let me or whenever you let me know who should be added on. Cool. Just a direct link to that accelerator, like I said, in the chat that dashboard link and if they don't get the invitation email, they can always just like, go to that link directly.
+Kaden Bluey: Okay. Is that is that domain just the same one on the website?
+Andrew Meggs: It's it's the PreVeil talent lms.com slash dashboard.
+Kaden Bluey: Cool. I'll just white list that and proof in form. I'll
+Andrew Meggs: Click yeah. So
+Andrew Meggs: Yeah. And I'll include yeah, like I said the link to my schedule link to the support team schedule. And then let me know who needs to be added to the accelerator and I can go ahead and add him.
+Andrew Meggs: Cool. But
+Andrew Meggs: Yeah. Anything else you wanted to discuss or go over?
+Jeremy Dylewski: Not for me.
+Jeremy Dylewski: Do you have anything else that you need it?
+Kaden Bluey: No, I'm okay to
+Andrew Meggs: Okay. Well I will send all this over and I have my contact information. So if you do need anything please don't hesitate to reach out. Let me know.
+Jeremy Dylewski: Okay.
+Kaden Bluey: Sounds good. Great.
+Jeremy Dylewski: Nice to meet you, Andrew.
+Andrew Meggs: Yeah. Nice to meet you all. And I hope that I will look forward to your email and I hope you'll have a great rest of your day.
+Jeremy Dylewski: Thanks you too.
+Andrew Meggs: Have a good one. Bye. Bye. Bye.

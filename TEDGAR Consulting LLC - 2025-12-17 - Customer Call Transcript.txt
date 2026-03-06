@@ -1,0 +1,44 @@
+Account: TEDGAR Consulting LLC
+Call Date: 2025-12-17
+Duration: 00:09:24
+Participants: Zackary Gilman, Robin Barrow
+
+======================================================================
+
+edgar poe: Have it.
+edgar poe: So the reason we had to go Box go is because of our UI capability and because of my programs are just too big. We went over to Box go and so that I don't have to go over and play the game with all of the Microsoft challenges and stuff like that. And then Box shield now is gonna have the compliance catch up for me so that I can instead of running it on a basis of people will just follow the orders. And the requirements Box shield now will come online in the middle of all this and make sure that when they're transferring documents or when we're loading documents, it is within the guidance that we've built through PreVeil. Okay, I'm using them all as enhancements and capabilities. It's the only way I can do it in a global situation where I've got clients information, I can go to Dropbox, but Dropbox doesn't do me any good if I can't have the same system that's ramp? Okay. I'm having to play this hybrid specialty because of non for requirements and all this other stuff. That we've got to go play with. So it's just easier to do it that way.
+Robin Barrow: Okay. I mean, that's fine. I just want to make sure that it wasn't a capability within PreVeil that you were missing because obviously PreVeil can know. Okay. All right. That's okay. And I see that you're in the system. I see that yourself. Chris and Caleb are all admins. I see a Martin, Randy and Tyler. So that's great. You all are set up there. And then I know you're working
+edgar poe: With the guys should be don't sorry. The only thing that we needed to do was make sure entry was working so that we can it took us a little while to get it built into where Microsoft office to office, but outlook was working correctly. So we had to go from the latest version down to the
+edgar poe: Legacy version. Yeah. Yeah. And now Caleb is working on making sure that we can get into the encrypted systems back and forth through outlook using using all the intro and the capabilities that works with PreVeil.
+Robin Barrow: Okay. That makes sense. Okay. How did you feel the support went as far as getting the system set up?
+edgar poe: Oh, Caleb 's happy as. So he's anytime he ask a question, he gets it. He's got the technical team available. I'm letting him run it and let him learn. And then as we get into our biweekly meetings and stuff like that, he's walking me through everything and making sure that we're understanding it. And so far, I'm quite happy. I know when we get into 0 ones and 0 2 here, because I've already done some of the videos. Yes, I've downloaded them all and put them on another thing. So I can watch them anytime I want. Okay. A lot of that is just compliance stuff, right? Right. And once you've gone through the government, you kind of understand compliance. So what I'm ending up doing is Caleb will start reading it. Well, that doesn't make sense. Why do we have to do it that way? Yeah. Let me tell you why. Here's what you're supposed to. Here's what you're doing. Well, that doesn't make sense.
+Robin Barrow: It doesn't. That means.
+edgar poe: They don't trust us. I don't trust you.
+edgar poe: I don't trust you get over it.
+Robin Barrow: No. I mean, yeah, that's exactly.
+edgar poe: It's all good.
+Robin Barrow: Yeah. PreVeil is the trust environment too. That's why everyone's like, well, why is it so hard to get access back in like because we don't trust you trust anyone
+edgar poe: Exactly. Yeah.
+Robin Barrow: Okay. That's great to hear. Just know that you're you still have access to the compliance team so you can still reach out to them if you need any assistance. So those are booked through the accelerator under additional compliance resources. Yeah. I mean, we're just kind of steam rolling into the new year here. We have a couple new features that are coming down, but more come on that and we'll flag you and most of the avenue with all the information on it, I'm sure.
+edgar poe: No, that's fine. Yeah. How's the the have you all had any more success stories about people getting their cms level 2 done?
+Robin Barrow: We're up to 50 right now. So found another one. So yeah, it's been good. Again, it's based on our partner network that we've been working with so the C 3 POS have been really fantastic.
+edgar poe: Well, that's good. Yeah. I haven't gotten we're the our government contract is moved, right? Because of the shutdown and all this other stuff. I just was talking to the Navy most of them today and they wanted to know how far along we were in our compliance areas. And I told them they said oh, well, that's different. I said what do you mean? He said well, you know what you're doing and why you're doing it. The other 5 several organizations that we're talking about are like list. I said, well, tell them to call me, I'll tell them how to go get to it's real simple call one one organization.
+Robin Barrow: Yes.
+Robin Barrow: It's the secrets out on I wouldn't even say per the SMS. It's been very, very, very busy. And I thought that it would be the holidays. People would push things off. They're like, no, I need to get it done now. Yeah. Yeah.
+edgar poe: And then they also think they need it done now, which means
+Robin Barrow: Okay. Well, actually it isn't now.
+edgar poe: It's 12 months of hard work that you're gonna have to get used to. I don't want to do it that way. Well guess what get over it.
+Robin Barrow: I had
+Robin Barrow: A customer called me at 11 30 at night last night. New customer that just signed up with us. I haven't met with him. He's like all right. Robin I'm ready to get started. I'm like, I'm going bad. So
+Robin Barrow: But yeah. No, it's good choice. Yeah, yeah. Yeah, it's been it's very busy. But it's all good. And I think people like yourselves more and more people are coming to me more educated on SMS then they were before. Whereas before they're like I was told I need to do this, I purchased PreVeil I think I'm good now, right? And I'm like well, no, not yet. But yeah. It's been a little better. So excuse me. But yeah, I mean, that's all I really had to discuss today. I just wanted to see how things are going because I haven't heard from you.
+edgar poe: Now, I think the big thing is everybody's moving forward. We've had some spits and starts, which we always will because life gets in front of you and organizational things that we're done. But one of the things that we're working on right now is to you forced me to go back through our file system and by doing that now, I know exactly how many stupid files we've had. One of the things that. And one of the things that we're doing is we set zones up. So there is a color code now that my system now flags everything coming through and that immediately tells them where it goes in Box and what the governance is the requirement. So it matches up to a
+edgar poe: Um
+edgar poe: A process. Okay. Which is
+edgar poe: Example, is if I'm gonna have anything in my green zone, that's anything for public release. Okay. It's gonna be in if it's gonna be in governance in business. That's usually gonna be an Amber or a yellow flag. And that tells me it's got to go over to Box, but it's also got to go through. If we're talking about it's gonna have to be encrypted through back and forth between me and the guys via the encryption system on PreVeil. There's there's things that we are working on and transitioning to that because I we just can't afford some of these stupid things when you've got stupid people in government. That would love to just take down the system.
+Robin Barrow: Yes. Well, like I said, it sounds like you have your head around it for sure and have a system and know what you're doing. We do, yes.
+edgar poe: When we get through, what we'll do is once we get through a couple of more layers on our next call, I think what I'll do is I'll break it down for you and say, okay, here's what I'm seeing. You see a difference in your system, but here's what I'm seeing. Here's our compliance areas. Here's where we're going. And oh, by the way, here's how it's being managed. So we'll just get you a soft shoe look at it that you can say, yeah, you've got it or no. You're missing something.
+Robin Barrow: Yeah. And for that piece, I would definitely, like I said, reach out to compliance team. They're there.
+edgar poe: Yeah. We'll do other than that have a merry merry Christmas.
+Robin Barrow: You too. Thank you so much. And I really appreciate you jumping on and the feedback. I'm glad things have been great.
+edgar poe: No, I'm really happy with it. So take care.
+Robin Barrow: You too. Bye. Bye. All right. Bye. Bye.

@@ -1,0 +1,80 @@
+Account: The Korte Company
+Call Date: 2026-02-04
+Duration: 00:15:27
+Participants: Andrew Meggs, Daniel Kapp
+
+======================================================================
+
+Andrew Meggs: Hello, Dan.
+Dan Kapp: Hey, how are you doing?
+Andrew Meggs: Good. Sorry, I'm a little late. My last meeting went went over a couple of minutes. So
+Dan Kapp: No worries.
+Andrew Meggs: I appreciate you hopping on a quick call with me. Hopefully this won't take too terribly long. This mostly is supposed to be just sort of like an informal check in call sort of thing. There's not really like, a formal presentation or anything like that. But there are a couple of points I normally go over on these calls. But before I get into it to how are things with PreVeil, just in general?
+Dan Kapp: Yeah. So far so good. We're I finally have users kind of diving in and starting to use it now. It was kind of a slow start. Mainly my fault. We got it and then I didn't have it sent out to to everybody and kind of get them in the weeds of using it. We're kind of there. I mean, so far I haven't heard any complaints. So I guess that's a good thing. Yeah.
+Andrew Meggs: Yeah. Yeah. And yeah, I know that I I know that you had added like 20 users last month as well, right? Yeah, 20 licenses, rather
+Dan Kapp: Yeah, yeah. 20 more licenses.
+Andrew Meggs: Yeah. Okay. So no, no. No, complaints is good. Complaints or no news is good news or however you want to phrase that. I assume if there had been any like glaring technical issues or something like that, someone would have informed you. In terms of the I guess, compliance side of things. What where are you at with your compliance journey? Have you gotten much into the documentation yet at all?
+Dan Kapp: Yeah, yeah. I have used. Um
+Dan Kapp: You guys SPs a lot. That at me one that you guys had the kind of the generic or whatever you want to call it fake company, you guys did. So I use that quite a bit and then kind of tailored those SOPs and some of the documentation to to our environment. So that's helped out a ton. Because we did have one big they call it the information security policy that kind of just had a whole bunch of stuff lumped in and it kind of ran together. And I do just to me it was kind of a mess. So using that documentation has helped me quite a bit to kind of retailer the SPs and kind of going from there. That's been a big help.
+Andrew Meggs: Okay. Yeah. Awesome. And then I guess do you have a general? I mean, this is more for my own curiosity than anything. Do you have a general timeline of when you think you'll be ready for an actual assessment?
+Dan Kapp: Yeah, I have worked with I think we're gonna go through a line. So we're gonna have to do our final and I'm hoping by June ish is kind of when we're gonna schedule that with them. I actually got a meeting with my the CIO of today to kind of go over that scheduling and obviously he's got approved the cost, right? And then we are doing a mock assessment also with another company and I don't even know how to pronounce.
+Dan Kapp: Rim tech, I think is how you pronounce it. They were kind of um
+Dan Kapp: Aligned gave me their name. They were kind of recommended by by line. Because they work hand in hand with each other to do a mock and with the mock is to do we're sitting down doing an actual assessment, but have them therefore if there's something we don't need or they label is not meant. Be able to tell me why and help me fix it basically. So I'm working with a consultant now. That's kind of doing a gap assessment with me, but I wanted to have a second set of eyes on it. Sure. That makes sense.
+Andrew Meggs: Yeah. So no, I'm familiar with align. I've worked with them for I'm not familiar with the other group that you mentioned, though. Just just to reiterate though, while you're going through that you have our compliance team as a resource. I don't know if you've met with them or talk to them much. But yeah.
+Dan Kapp: I did I did one time and it took a long time to get a hold of them or schedule an appointment. Once I figured out how to to get there, I think I just sent an email and or I forget how I did it, but um
+Dan Kapp: But yeah, it took like a week or week and a half to get a an appointment with them. It seemed like it took quite a while.
+Andrew Meggs: Okay. Well, if in the future you do I mean, obviously, you're already working with the consultant, but if you don't hear back from the compliance team in a timely manner, let me know when I can go metaphorically breaks and thumbs for you. So definitely definitely escalate anything. If you're not feeling you're getting the response time that you're looking for, you can just let me know.
+Dan Kapp: Yeah. I figured you guys were busy, you don't have to turn.
+Andrew Meggs: Your camera on. No, yeah. I figured out. I don't know. I want my camera looking over here. My hair is like sticking out all over the place today. So I always just cut me. Yeah. Yeah. It's I like want to have my camera off all day, but I always keep it on even if my hair is mess. So if I'm just sitting here doing this the entire time. So it's just because my hair is like not staying down. No worries.
+Dan Kapp: Anyhow, yeah, sorry. Yeah.
+Andrew Meggs: Yeah.
+Dan Kapp: Yeah. The the guy I talked to you in a terrible with names, but I mean, he was helpful and help me get through what I was asking. I mean that was good. So yeah, all the videos the documentation everything you guys have is kind of help me out quite a bit. I haven't went through all of it yet. I've kind of picked and choose some of the modules and different things going through it. That you know, that's been pretty cool.
+Andrew Meggs: Yeah. That's good. And yeah, like I was saying if you're not hearing for them, let me know. You're already working with a line. They're great. Just as a heads up whenever you do get your actual assessment, you will need access to our body of evidence, which is like our proof that we do what we say. We do. So whenever you get close to your assessment, just reach out to me and we can provide that to you. They'll they'll ask for it. So I mean it's not like it's going to be a surprise lines, but I asked for it. But yeah, it will need an NDA signed first because it has some trade secrets and such in there. But yeah. And once again, this is months down the road, but just as a heads up, that is something you're going to need.
+Dan Kapp: I wonder well, I need that with this mock assessment also.
+Andrew Meggs: No. No, no, that's for no. Okay. I mean, it doesn't say anything that's not already in our shared responsibility, matrix and stuff. It just goes into The is of exactly how we do the things that we say we do. If that makes sense. So you're gonna need it for your actual assessment because like, all these assessors that have done assessments for us before they already know all this stuff. But like per the law they have to have a new copy of it every time. So we got it has to be provided every time. Okay. They I mean, they already know everything and it's not going to be a surprise to them, but per the law, they need a new copy of it every time. So they ask for it at that time. So just a heads up. And I was super super minor detail, but it's something to keep in the back of your mind. But but yeah. You've got your users. You're in the accelerator, you're already working with consultants. Seems like you're well on your way. Um
+Andrew Meggs: Anything else you wanted to go over or talk about today?
+Dan Kapp: Yeah. I do have 2 quick questions and I'm not sure if you're the right one to ask, but so within the dashboard, I share my screen.
+Dan Kapp: Let's
+Dan Kapp: Share. Okay. Can you see my screen here? Yeah. Okay. Currently we have 20 20 users. Is there a way to see like, our license count?
+Andrew Meggs: Yeah. Unfortunately, no. So
+Andrew Meggs: Short answer, no. The answer is this you just asked me. Okay. It's
+Dan Kapp: Remember 40. But as this process goes and years go by we are
+Andrew Meggs: We are planning. That's actually one of the things I was gonna mention. We some product updates we're planning on. Our next big update is cloud drive, but we're also planning on a bunch of UI changes for the admin panel. You're gonna be able to see more like usage of drive space and stuff that you're using. So this is going to actually look vastly different in the next few weeks and months. And we're planning on that change to include license count. We'll see if that actually gets implemented in the first wave of changes software development work, sometimes. Gotcha. But for right now at the very least for the short term you're not able to see licensing and it's just asking me. Okay. Do you and I mean, I you say you know, you've got the 40 and 20 in there right now. Do you anticipate needing any more than forty?
+Dan Kapp: Down the road we probably will. Yeah, yeah. I just been kind of doing it as we go. Sure. I hate to overbuy and pay for them. Sure. Yeah obviously we want to have some spares in there for as people leave and come and go and that kind of thing. But I don't want to jump into too many.
+Dan Kapp: For sure. On a cost or anything. It's
+Andrew Meggs: Just and then you we've already been in the process of adding it. It's a fairly that's once again sort of an elegant process of just emailing me and I put together an order form. Yeah.
+Dan Kapp: So that was kind of where that went was, you know? Yeah, I signed all that, but how do I know if I have the extra twenty?
+Dan Kapp: That's kind of where I was going with that.
+Andrew Meggs: Sure. Yeah. So unfortunately, for right now, it is just you have to know it and or you can always ask me
+Dan Kapp: Okay. All right. If we were to go say we had 40 and I needed to add a 2 users one day. That'll get us at 42. Does it allow me to add those and then I just reach out to you or how does that? Yeah. Hard stop at 40.
+Andrew Meggs: No, we allow our clients to add more users than licensed because there are situations in which you there's emergencies where you need to add someone. You don't have to wait for paperwork or purchase orders or whatever. But we do ask that you either purchase them beforehand or shortly thereafter.
+Dan Kapp: Okay. Gotcha. Okay.
+Andrew Meggs: Cool. But yes, short answer. Yes, you can add more than 40 if needed.
+Dan Kapp: Okay. The other question is and this might be I don't know if this would be a support question, but so we were kind of working through our CI projects. So we have this folder here that we're sharing with other users if in this folder if you know, in the shared folders, which I don't think there's anything.
+Andrew Meggs: Proprietary in here. Say maybe don't don't go too far into folders. Yeah.
+Dan Kapp: But so this has been shared with me if I were to go in here and delete accidentally delete this folder.
+Dan Kapp: How do I recover that? say it's another user that does it and I'm not aware of it. I'm assuming it's in the audit log of who did it, but how can I recover that if I can't track that user down? Because I understand if I delete something in mind, it goes to my recycle bin or trash can how do I recover that?
+Andrew Meggs: User that should be. Our support team should be able to do that. So we have data backups that go back. I believe it's 30 days. If something gets deleted, the support team should be able to recover it.
+Dan Kapp: Okay. It's a 30 day recovery and we have to reach out to support.
+Dan Kapp: Okay. Do you guys I guess I should ask this when we signed up. Do you guys have any type of archive ing where we can archive?
+Dan Kapp: I guess this stuff will just stay indefinitely until we delete it.
+Andrew Meggs: Yeah. I mean okay. Yeah, yeah. Okay. Yeah, I don't now where I guess we don't, yeah.
+Andrew Meggs: No, but it's not necessary. I guess would be the answer to that.
+Dan Kapp: Gotcha. So there is a 30 day recovery for backups?
+Dan Kapp: Got
+Andrew Meggs: It. Okay. Yeah.
+Andrew Meggs: And everything is stored on the AWS, gov cloud and it's backed up, I think once or twice a day. And there's I believe there's this there's specific language about it, but I believe it's yeah. Roughly 30 days. I think it's 30 days back up might be like 32 or something like that, but around there. Gotcha. Okay.
+Dan Kapp: Yeah. That was pretty much all the questions I had.
+Andrew Meggs: Okay. Yeah, I mean, that's kind of it in terms of my talking points. I guess the the other thing I normally ask about is communicating externally. Have you had people center for PreVeil express yet to communicate women with them? And if so have there been any issues with that?
+Dan Kapp: I know I did to myself just to test it.
+Dan Kapp: But I don't know anybody outside. I mean, I sent it to my personal just to see how it work and that kind of thing. I don't know if anybody else has to be honest with you. Nobody has brought anything up that says, hey, this didn't work or hey, this user couldn't get signed up. So again, I don't know if no news is good news.
+Andrew Meggs: Or if they just haven't done it. Yeah, they just haven't done it. Yeah. Yeah. It's just well, the reason I ask is sometimes there's like push back from vendors or clients because they don't know what PreVeil is and they just get an invitation there. I think it's spam or something like that. We do recommend that if you do communicate externally to give them a heads up beforehand and say, hey, I'm going to send you something PreVeil, are you? I mean, do you know if you're going to be doing much external communication or is this mostly for
+Dan Kapp: Internal. No, it'll there'll be a lot of external. Okay. I mean, we have hundreds and hundreds subcontractors.
+Andrew Meggs: Okay. We do have like a little it's like a little one page word document with super boilerplate language. Core Company is now using PreVeil. I promise it's not a scam. Here's where you go sign up. That you could share like I was saying. Would you would that be useful? Do you want a copy of that? Yeah.
+Dan Kapp: Yeah. Yeah, that'd be great.
+Andrew Meggs: Okay. I'll share that with you. And then yeah. I mean, as things get ramped up and as you plan to e mail externally more, I would recommend that you either give them a heads up just generally or share that one pager. And just so that if nothing else, they know it's not a scan. Yeah, it's super boiler. I mean, you'll see it's super boiler playing which you can change it to whatever you want to say. But okay. But yeah, that's the one thing. And then other than that. Yeah, that's kind of in terms of my prerecorded talking points. I can send this over to you and then, yeah, if you do need any more licenses, let me know. Okay. And then other than that, I don't like wasting time on meetings. So unless there's anything else you wanted to go over, I can let you get back to it.
+Dan Kapp: That's all I had written down for notes. So yeah.
+Andrew Meggs: Okay. Well, I still very much appreciate your time Dan. And thanks for chatting with me and hope you have a great rest of your day.
+Dan Kapp: You too. Appreciate it.
+Andrew Meggs: Have a good one.
+Dan Kapp: Alright, you too. Thanks. Bye. Bye.

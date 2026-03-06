@@ -1,0 +1,95 @@
+Account: TJR Global
+Call Date: 2026-01-07
+Duration: 00:20:13
+Participants: Robin Barrow, Mike OKeef
+
+======================================================================
+
+Robin Barrow: Hi. How are you?
+Robin Barrow: Can you hear me?
+Robin Barrow: Can you hear me all right?
+Robin Barrow: Hey, Robin, how are you doing today? Okay. Great. I can hear both of you now. Awesome. Thank you so much for being flexible about yesterday. And I'm gonna let you in my problem or yeah. It's we're doing much better over here. This call honestly, should be fairly quick. Really, I just want to learn a little bit more about why you all need PreVeil. I core gave me a little bit of a background. Just curious. What you're hoping to get out of PreVeil and then also just want to cover what you all signed up for and then talk about next steps on getting started. Does that all sound? Okay. Yeah. Yeah. Okay. Awesome. So just to cover what you signed up for, I see you have 12 users to those are admin. You have the email gateway service as well as the compliance accelerator in GRC does that all sound accurate? Yeah. Awesome. Yeah, yeah. If you all don't mind sharing, why do you need PreVeil?
+Robin Barrow: I wish I knew.
+Robin Barrow: Just kidding no I know it's so yeah we do work for 2 companies one of them mostly does government contract work the other one does a percentage of government contract work the main company that we're trying to get into compliance first is TJR Global and that is for
+Robin Barrow: C level 2 compliance for handling I and course embedded with that is a nice 800 one, 7 1 and then the cms level level one, right? Okay. We do business on dibs, which is a government website. Therefore we also in order to participate, we have to have the level 2 compliance. We really don't handle UI. Ironically, maybe one time we have in form in the form of a drawing, but by the nature of our business, where distributors of components, we don't actually receive I generally, but it's one of those things where it's like, we just have to have this in place in order to do business. So
+Robin Barrow: Yeah. No, that makes sense. I explained a lot to your colleague already. So we have probably have notes on that conversation. I do yeah. I like I said, I just like to hear so fly for myself and but that I mean, that honestly pretty much covers it. Sounds like you're right now. You're checking a box for the compliance reasons. And the other company is advocates, but they're not on PreVeil yet. Okay. No. Not yet. Okay. Great. And then no, that honestly all makes sense to me and Mike were you able to get into the accelerator?
+Robin Barrow: Not yet. I just saw your email that where you I don't know if you reset the password. I just haven't had a chance to go through it again and try again. Looking to hopefully do that tomorrow morning. Okay. No, yeah. I think I added you last week or the week before and yeah, you'll just need to log in and choose forgot password, because the system automatically generates you one and that link expired. So if you just change your password, you should be able to get in, but let me know if you have any issues. Okay. Yeah. There was a couple of things I just want to cover with the accelerator just to highlight some areas. Did Corey go over this at all with you?
+Robin Barrow: No. No. Okay. Again, you mentioned level one for right now, but the majority of this is gonna cover level 2. And just to highlight a couple of areas it's we call it our 10 step guides getting compliant. It brings you all the way through very green. What is cms all the way through to how do you score 1 10 right through here. This is where the bulk of our content is stored. This is our documentation course. And this is where the Ami docs package lives. So and stop me if core already mentioned this, but the Acme docs package, it's a fully assessed documentation package for cms level 2. What we've done. We've taken a fake company called Acme and brought them them through a full C level 2 assessment and had our documents reviewed by C 3 PO and approved though. Okay. Yeah. These are all available to you. I don't like to call templates because they're fully completed. Obviously, you will have to take these templates and customize them to your current security infrastructure. But it's super helpful because the bones are there, you just have to go about that. I guess would we are we is it easy to determine I guess, what content that we would need to address or customize? I guess? Versus what's already built in based on the on live solution? You guys provide? Yeah, the documentation, it's pretty clear because the spa portion, the UI flow diagram and the UI flow.
+Robin Barrow: It breaks it out pretty clearly and that will obviously remain the same. But if you're interested in seeing like, okay, what is the actual break out? This is we have our shared responsibility matrix and this will break out which controls you all own and then which ones we share. And the reason why we say share is because obviously there's gonna be some training tweaking of some documentation, not a ton for you all.
+Robin Barrow: Okay. This is again all available to you in the accelerator. I can send this in our my follow up e mail. So you just have it handy. Okay.
+Robin Barrow: For the G R C I don't have a demo environment, so I can't show you that, but I can add the both of you get up to 3 users. So yeah, I can add the both of you in it's pretty self explanatory. Have you used the governance risk compliance tool before?
+Robin Barrow: No. No. Okay. I have not I would say jump in. It's really it's
+Robin Barrow: You upload your documentation. It tells you where to go breaks it out by control. In the Ami docs package are already pre loaded in the library. So you just can pull documents, tweak them and then save them down to the specific control. Again, it will generate your score and it will also help generate an update SSP
+Robin Barrow: Okay. If you have any issues or if you'd like a training, just let me know and we can schedule some time. Okay. Product team. Awesome.
+Robin Barrow: So one last thing for the compliance accelerator, you get 6 30 minute sessions with our compliance team. You can book time with them right through here. These are any one off questions you have around cms, really anything. Um
+Robin Barrow: You can book time of them right through here. If you have any one off questions you can email them, those don't kind of get started. Yeah. Okay.
+Robin Barrow: Any questions around the accelerator GRC compliance in general? Well I haven't really gone in and even looked at it, yet, unfortunately. So once I do that, I might have some questions, but yeah, yeah. That's okay. I expect that, I guess. Um
+Robin Barrow: I think my main and when probably was interested in the actual installation part of it. Yeah.
+Robin Barrow: For PreVeil and installing PreVeil. I will send the instructions over. You all get a technical onboarding training available to you. Typically those are an hour long and they are admin specific, but with you all having 12 standard users, I can provide some materials and also a training is available to them as well. But the to actually download PreVeil, onto your platform, I'll send the instructions over. It shouldn't take you longer than 20 minutes. It's just a software installed. And then you create your organization. The reason why we have you do this before your technical onboarding is just so you can train out of your org and it's a lot smoother process.
+Robin Barrow: Okay. Yeah. The I can send the instructions over right after this call. All right. Yeah. So something so so basically, we install it ourselves. You install it on your device, yes. And if it like I said, it's just an install and you can stop there and then schedule time on this 14.
+Robin Barrow: I see. Okay. Yeah. The for the email gateway service that will be a separate call. The support team will after you're up and running with PreVeil, you're feeling good. The support team will then reach out and help you install the email gateway and get that up and running for you.
+Robin Barrow: Okay.
+Robin Barrow: That a separate call. Yes. Yeah, that will be the the email gateway typically takes around 2 weeks, but it's mainly because you all have to get that LS certificate. Did Corey mentioned that on the call? I don't think so. Okay. This is something you all have to purchase on your own, but we'll provide companies that typically work best. You might already have a sub domain created that's secure. This is just for the email gateway so you can have something that says secure.
+Robin Barrow: Dot TJR Global.com. So it's something that you can use to communicate in and out with the email gateway.
+Robin Barrow: When do you think about that?
+WynBryant: Yeah. And that's no problem. I mean, we have certificates in place for what the exchange server for example. So we can secure TJR Global.com. There's no problem. You provide you with the like A X or
+Robin Barrow: Yes. Yep. Exactly. So once you provide us with that and then we can link the gateway with it. Majority of our customers don't have it before actually signing up with for the gateway. So the support team, you provide that to them and they'll be able to connect it.
+WynBryant: Okay. Yeah. My that's like a $35 a year certificate. So
+Robin Barrow: Okay. Yeah. No, they're not expensive.
+Robin Barrow: Great. Let me just see. And then lastly, I'm assuming the answer is no, but do you have any data that you need to put into formal today?
+Robin Barrow: No. Okay. Okay. The only reason why I asked that if in the future you have over 100 gigabytes worth of data you want to put into PreVeil at once you just reach out to me and I'll schedule some time or I'll schedule I'll create a project case and we'll want to do a file transfer. We have a tool that makes it pretty simple just so it doesn't disrupt any of your workflow. Got it. Okay. Yeah, but you get up to 10 terabytes, which is a ton of storage and I don't think we have one customer that's we have maybe one customer that's close to it, but wow, yeah. That's a ton. It's so much. Yeah. Um
+Robin Barrow: Great. What other questions do you all have?
+Robin Barrow: I don't think I have any at the moment. When how about you?
+WynBryant: I yeah. I mean, I you know, no, no problem with the security certificates. So it sounds like the 3 components of what is gonna be made available is the PreVeil file secure file solution, storage solution, then the secure email gateway. And then that those the reference documentation for the that we'll use for cms.
+WynBryant: Certification, those are the okay.
+Robin Barrow: And then one more would be the GRC tool that you all purchase.
+WynBryant: What's what's that again?
+Robin Barrow: That's the governance risk compliance tool. It helps you track your progress towards certification or not even certification towards compliance. Okay. But like I said, it is geared around level 2. So but because you all have multiple companies that potentially might need to work towards us, you can use it for both.
+Robin Barrow: And when you and if and when you do get towards an assessment or say you're trying to do a self assessment, it just makes your it makes it a lot more organized and easier for you all to
+Robin Barrow: Generate your score and be able to submit it and run reports if say
+Robin Barrow: As an example of a prime ask for an example that you are compliant, you can easily run reports and um
+Robin Barrow: Show that what your score is up.
+Robin Barrow: And once you all
+Robin Barrow: Sorry, go ahead. Yeah.
+Robin Barrow: Yeah. I was you get you all get into it and log in and if you're like, hey, Robin, we need some help with this or guidance just reach out. To me we'll set up a call. Like I mentioned
+Robin Barrow: Okay. And that's actually a good segue because I don't even think I really told you who I am to you. I'm your customer success manager. So I'll be your main point of contact moving forward. You do have access to the support team. You have access to the compliance in, but just think of me I sit in the middle of your not sure who to go to or if you have a question. Not sure what the answer is. I will find not if not find the answer. I'll find the person you should chat with.
+Robin Barrow: Okay. Yeah.
+Robin Barrow: But yeah. I mean, the last piece, I'll schedule some time for us to connect in 90 days just to make sure you all are feeling good. It's a check in. Um
+Robin Barrow: Yeah, other than that, you are kind of off to the races.
+Robin Barrow: Okay. The next step is um
+Robin Barrow: Get that FX thing over the. So yeah. I download some of that stuff. I would say the next step would be download to rail and schedule a technical on boarding. And then the support team will reach out to you separately to set up the email gateway, but they're gonna want to make sure you're in PreVeil first.
+Robin Barrow: Got it. Okay.
+Robin Barrow: And I'll send a follow up email too, so you'll have step by step, what to do next.
+Robin Barrow: And when did you get the invite to to log in and be able to download all that?
+WynBryant: From PreVeil. Let's see.
+WynBryant: Was that from before the holidays or right?
+Robin Barrow: It was probably before the holidays, but it was just an email. When I don't think I've added you to the accelerator.
+WynBryant: Okay. Yeah, I don't think going. Clearly, I haven't logged in, but I don't think I have it. Um
+Robin Barrow: Or maybe I did. Let me check. Okay.
+Robin Barrow: And then oh, you are in there, but I'll make sure you can log back in in my follow up email.
+WynBryant: Okay. Perfect.
+WynBryant: And then that certificate, is that for the file sharing portal or the email gateway?
+Robin Barrow: That's for the gateway.
+WynBryant: Okay.
+Robin Barrow: So and I apologize if Corey. Again, you probably talked to them a while ago. The gateway the reason why customers purchase it. And I'm assuming why you all purchased it. Because when you communicate with third parties, they don't have to sign up for PreVeil express. They'll get a regular secure email to their commercial account. So it just negates them from having to do that per rail express sign up and communicate that way.
+WynBryant: Okay. Now the so they'll that security at TJR Global.com that'll be the address that they use access encrypted emails.
+Robin Barrow: That's the address that yeah, third parties who you're communicating with will be able to communicate with you all securely.
+WynBryant: Okay. And then what about the the file the portal is that's a desktop application? Is there a web portal as well? Or yeah.
+Robin Barrow: There's a web browser. I can show you quickly. Let me just make sure I'm in my
+Robin Barrow: Demo environment.
+Robin Barrow: So this it's fairly simple to use. This is what it looks like. The mail looks just like a regular inbox and then the drive function. The drive won't work. You won't use the gateway for the drive. It's only specific to e mail.
+Robin Barrow: So if you share with any anybody, if you share content with anybody outside of your organization through the drive, they'll they'll receive an invite to join PreVeil express.
+Robin Barrow: Okay.
+WynBryant: So would this I see the address on this one is the 1 27 0 zero, the local host. Yeah. Is that what would be secure at TJR at Global.com in our case or how?
+Robin Barrow: No. You all will have a symbol or
+WynBryant: So okay. This is like a it's a it's gonna
+WynBryant: I mean that so that you have the client application, but the the server, it's like a client server.
+Robin Barrow: Encrypted keys that are installed on each device, if that makes sense. Again, I'm not super technical, but yeah. It is like an encrypted server that is hosted by AWS. Okay. All us based.
+WynBryant: Okay.
+Robin Barrow: But again, I'll send over our knowledge base. That can explain it probably way better than I can in in more detail and also the you all get that hour long training with our technical team too.
+WynBryant: Okay. Um
+Robin Barrow: Anything else I can help out with today.
+Robin Barrow: I don't have anything else.
+WynBryant: No, no, no.
+Robin Barrow: Okay. Great. I'll like I said, I'll send a follow up e mail so you have all the instructions and what to expect next. Please reach out if you have any questions. If I don't know the answer, like I said I'll find it for you. And yeah. And just keep an eye out for a check in in 90 days. So sometime in April. I think. Yeah, later march.
+Robin Barrow: All right. Well, thank you. Both. Nice to meet you. And again, thanks for your flexibility and we'll look forward to working with you. Sounds good. Thanks Robin. All right. Thank you. Bye, bye.

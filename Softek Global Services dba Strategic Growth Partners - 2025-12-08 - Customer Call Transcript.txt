@@ -1,0 +1,117 @@
+Account: Softek Global Services dba Strategic Growth Partners
+Call Date: 2025-12-08
+Duration: 00:25:11
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: Hi, Kevin, how are you?
+Robin Barrow: I think you're on mute.
+Kevin Turnage: Yeah. It is the season to become compliant for all of our customers. They're like we're missing opportunities, cms level one's required. We're like, oh, like we're preparing them all for level 2 and then they some of the Nick's code. It got changed over and they're freaking out, like deadlines, deadlines, deadlines. And I'm like I pulled 85 hours last week.
+Robin Barrow: Oh, geez.
+Kevin Turnage: Yeah. I'm trying to to work it all out. And that's my side on top of it. You've probably been I think I've CC'd you in a few items and um
+Robin Barrow: Yes, we're
+Kevin Turnage: We're trying to get things worked out. Ryan was a huge help from your team, by the way.
+Robin Barrow: Or maybe?
+Kevin Turnage: He needs a promotion because I'm gonna say a statement here that I really need to take to heart out of all this last month of working with your various engineers and everything. Ryan's the only one who took the time to dig in.
+Robin Barrow: Oh, I am definitely gonna let Phil know. Ryan's been great. He's a new hire of last year and he's been
+Robin Barrow: Very very he was quick to get up and running and he's very, very good with our customers of ours. He didn't
+Kevin Turnage: He didn't have all the insights, but he definitely had enough and provide enough support. Explain things enough because he was dealing with 2 very due diligent people who work 60 plus hours and the impact is very high and he while he didn't offer to follow back up with us, which is a little disappointing. That's kind of that's been disappointing across the board. For standpoint. When we asked or when I demanded that we follow up later in the day, there was no push back. He jumped right back on a call when next availability in that day.
+Kevin Turnage: I'm gonna sternly warn you. I've been trying to warn you that. This has not been good. There are negative messages coming out of the customers. And essentially they stated this. Why are we being treated like this is like we're beta testers.
+Robin Barrow: Okay. It's been
+Kevin Turnage: So many revisions that have come out recently ever since 5 dot 8 on whatever. It's been mayhem and they're like, listen, we understand that you have new features coming out. We understand that. Most of your development team is working on the new PreVeil drive. That's great, however.
+Kevin Turnage: They've had choice words stating just get the fundamentals, right? They said get your syncing. They're like, I don't care about favorites. I don't care about extra features and little Nick, max and coloration codes. Just focus on the basics. I need to be able to sync email and drive because that's paramount to our business and it's impacting Aaron, who is he's one of the top dogs and has a huge voice because his his capabilities, he knows our other customers and he's talking to them to this guy has got a lot of pull and he's got the ear of all the leaders. So when he speaks everyone listens um
+Kevin Turnage: He's he's not thrilled. He's been constantly looking to move away because this has been very patient, but he is a month behind and Friday night is the first time he's been able to work on a lot of this work.
+Robin Barrow: Okay. And he
+Kevin Turnage: Had to download manual copies from the web work on them, manually upload them. And per Ryan, we found out why we were having so many problems in so many areas. And I could just I could list them off and it would probably overwhelm you. But there are some features that are just kind of jaw dropping one positive one in a negative light is that no one ever told us before. We've asked we've been asking for a year and a half now. How does a desktop user access web based PreVeil. And we were always told well, that's PreVeil express and you can't you get one or the other. Well, Ryan told me that he wrote the and he said over the training video on how to achieve it. He said no, you can't have both the same time. You just registered the web session as another device and it works and you can go to web dot PreVeil.com. I can't tell you how many times we begged for that. And we had to commit all types of hardware tokens and session, workarounds and MS and all kinds. Of stuff that had we known that. It would have saved us a lot of time. And I'm going to be Frank. I'm afraid to tell my leadership, because they're gonna be really upset that we had to go through the extra mile pay for these things, all the main hours.
+Robin Barrow: Okay. Yeah, I to be honest. I haven't seen it operated like that before. I'm curious to take a look, but I don't sit on that side every day. So
+Kevin Turnage: I understand. It's just yeah. I wish I had better news. I've been an advocate for you guys, but it there's a mount piling up here. And one of the other major things that came up that we didn't know and we thought it was just bugs, we thought it was just versions and things like that. Aaron, lost a whole bunch of work. I was able to help him recover it with some of Ryan's inside as well, which was nice. But um
+Kevin Turnage: Apparently, there's situations where that doesn't work out. So well, so keep this in mind. If you have 2 people who are in the same on the same project, they download the same file and they're traveling. This happens a lot, they get on an airplane, they work on the file offline, because airplane internet sucks. And they get to their BNB and they flip on the internet and one jumps on before the other.
+Kevin Turnage: Only the first person gets their data updated to PreVeil. The other one. Their stuff goes to the trash and it gets overwritten.
+Robin Barrow: Yeah. That was
+Kevin Turnage: Never explained to us before you're right. That was never explained before. Because the customers are spoiled with how Microsoft does stuff. So
+Kevin Turnage: That was the first time we were told that as well.
+Kevin Turnage: The customer was not thrilled about that one at all. He's like, great more workarounds.
+Robin Barrow: Oh, yeah.
+Kevin Turnage: Yeah.
+Robin Barrow: And this is
+Robin Barrow: Just for Ivan.
+Kevin Turnage: They're the bigger ones and they're they work with Kia every day in the field.
+Robin Barrow: Okay.
+Kevin Turnage: Yeah. Our customers know each other because they're all at the same job sites and whatnot, they know other companies and you talk to these guys and they all know companies. I have these huge org chart maps and who knows who
+Robin Barrow: Right. Okay. I mean what I can do from my standpoint again. First I wanna thank Ryan for at least taking the time to dig in and button beyond for all, but as far as the 2 clients, I'm just gonna again, I have to escalate it to bill and then I'm gonna escalate it to my VP, just because it's not just like you said, one of your clients being affected, that's only 5 users. It's now both, which is you are a
+Kevin Turnage: Partner and I keep telling you we're on the prospect. We've got the approval we're rolling out LP. And these user accounts are probably gonna jump through the roof and they're gonna say, okay, Erin get on the podium and speak to us. What your experiences, right? Yeah.
+Robin Barrow: That's definitely great. Yeah, yeah.
+Kevin Turnage: And we're talking weeks now days to weeks. I we literally have a meeting within like 48 hours.
+Kevin Turnage: On on the discovery at least. So as soon as they flip that on, I'm gonna warn you that's gonna come down the pipe really fast, right? okay. So so what our goal is here to remediate and by the way there's been no license changes on our side. So
+Robin Barrow: I haven't seen any either, so that's good. Okay.
+Kevin Turnage: All right. What I think our next steps should be with our partnership here.
+Kevin Turnage: Take that advice to heart. Let's get Ryan took tons and tons. I think he took like 12 different log files back. I will say that's another pain point that there is not an easy way to get logs over to your team. Those logs are usually 75 Meg or more and they're like it always says just email them to us. I can't and like, we'll send you a link. The link does not use your normal ticket system. So it gets lost somewhere and we don't ever get that link until they manually email it to us directly from their mailbox. So that's been a just another pain point but if they could get the syncing done because Aaron's syncing is not perfect and he his words for beta mar. I have no confidence in this monster.
+Kevin Turnage: And that he wrote that this morning, so out to my leadership.
+Kevin Turnage: Okay.
+Robin Barrow: Yeah. It's something I just need to escalate. Again, I'm taking all this feedback and gonna give it directly to VP and that is support. I wish I had better news to you and be like, it will be fixed.
+Kevin Turnage: But I know, but that's where we're at and the different versions, having all their different major problems and caveats and stuff. And I've had a catalog and Ryan confirmed it when I asked him about him, he's like, yep. Sorry about that. I'm like, again, we feel like beta testers. They should have been thoroughly vetted out and if you had one that didn't work, here's what Aaron and I said we said almost the exact same time.
+Kevin Turnage: Why isn't there a version labeled stable? And then optional versions for additional features that aren't fully rolled out. Just something along those lines with the full software development program and how it works. Microsoft does it little companies do it? I just I'm surprised not to see that here.
+Robin Barrow: So no, that's good feedback. And I thought what I'm gonna do like I said, but I want to send you an email Apollo up email of what we discussed today too, with my VP CC. So then at least like you can get eyes on it and then um
+Robin Barrow: Do you want me to follow up with Aaron directly or how do you want me to play with the no?
+Kevin Turnage: Have him. I'm gonna warn you. Definitely have him involved because the more hand holding you do with him the better. It's gonna be when he stands up on the podium.
+Robin Barrow: Okay. All right. I can do that. Um
+Kevin Turnage: How much is going to say take the customer off? And I'm like, listen, the customer has so many people listening to him that he does need to feel that those shoulder rubs and the
+Robin Barrow: I haven't that's the thing not with either of the clients. I haven't talked to them directly.
+Kevin Turnage: Yeah. You I think you did a while back, but you are correct. Aaron is not the top dog at his company, but he is the top.
+Kevin Turnage: Technical person at his company. And while I my team heads up their ou of it. Please understand that his underlying his underlings title is enterprise. IT director for all of their government facilities.
+Robin Barrow: Okay. This guy.
+Kevin Turnage: Has a lot of hole, yeah.
+Robin Barrow: Okay. No. And then I think I should and I'll I'll work with my director to to to make sure we're not just reaching out to reach out and it's actually gonna be productive
+Kevin Turnage: Yeah. I'll put it a different way. When I ask them, hey, what do we need to do for you on the biz dev side? He's like, nothing he's like I get to pick and choose what I want to work on. He's like, I've got he's like we're valuable and we've got so much to work on. He's like business has always been way above and beyond what we need. And that's why his team works 60 hours and they're just banging so this is this shows up as a pain point PreVeil is the name that comes up.
+Robin Barrow: Okay.
+Robin Barrow: I'm gonna do my best.
+Kevin Turnage: I know.
+Robin Barrow: Yeah. And then okay. That's gonna be my next step. Was there anything else as far as from any other company? This obviously this is the big and we don't want it's starting to spread. But um
+Kevin Turnage: Right. Right. So Kia they haven't dug in yet. So they don't notice these things, but they will be because I warned them I pushed them off. I delayed them I said what you want your level one controls which they are going to have in place by the end of the year. I said, those are all fi. You don't need PreVeil use for that? Just get used to it today. So that's put a little bit of delay, but not much you're talking about weeks. They're gonna dive in strong to level 2 after that.
+Robin Barrow: Okay. Okay. So just the okay.
+Robin Barrow: Issues are solved beforehand.
+Kevin Turnage: Yeah. Okay. Because while Erin is forgiving, they are not.
+Robin Barrow: Yes. I know that. Yes.
+Kevin Turnage: When I've dealt with them, every other email I get from them, they said no exception absolute. This is how it is or else and you're like, I don't like
+Robin Barrow: Yeah. No. I know I wish you this wasn't such a
+Robin Barrow: Issue. Okay. I think I have what I need as far as they want to go back to my the team so they can really focus on this and you stop getting passed around as far as give me more logs and like, we're looking into this. So really, I just need engineering.
+Kevin Turnage: Give you some context. I did ask I said, hey, Brian, if I this is probably the biggest pain point that happened from all of this, besides the support. Is it Brian if I decided to go and wipe the device and start this all over?
+Kevin Turnage: Would that have been the best path forward and he says, no, he's like, is a high likelihood that this would've happened the exact same way and he says then you would have wasted time. He's like this is happening across our customers.
+Robin Barrow: Oh, great.
+Robin Barrow: I don't have like the yeah, the ins and outs like that. But he
+Kevin Turnage: Says he's dealing with stuff like this every day, right now. And I'm gonna advise from 20 years of it. That it might be a good idea to quickly roll back to post something on the site of a stable version. That's not bright. Shiny, just works and say, hey, optional, last stable known edition, that will sync no matter what kind of thing. Yeah.
+Robin Barrow: Yeah. No, I agree. It's helpful. I think our engineering team is like, sprinting to get, like you said, cloud drive out. So like, they're trying out these versions. Whereas, like and this is someone who doesn't have it background. Maybe it's like, okay, let's wait until the shiny new is shiny and working.
+Kevin Turnage: So well, I would say I would agree with that. The problem is that it seems that you have some developers who from the verbiage that I could tell are not your top developers.
+Kevin Turnage: Are still working on the current production system. And from my perspective and how you do operations from it is, if it's not broke and you're designing something new, don't fix it. Let the new product be the new product and let the old one just stay as is as a full version. Stop these media little changes. So a security patch fine. But there I Aaron came to me and he came to Ryan and even Ryan didn't recognize some of the changes that are coming out and like 5 to 8 to 13. Okay. Someone added colors for folders and stars for favorites. And I'm like, why do we care? Yeah, in a month or two, you're getting a whole different solution. Why is someone taking their wasting their time to make these little changes?
+Kevin Turnage: Let's fix the core problems. Let's get disabled edition. And then, hey, if you get a new drive feature that fixes all the other feature requests, awesome. We won't be the first one to test it, especially based on what's going on. But yeah.
+Robin Barrow: No. That it's it makes sense in my brain, right? But it's just um
+Robin Barrow: Getting everyone on the same page, I think. Um
+Kevin Turnage: My leadership is expecting me to run all the burdens consecutively and test which ones are working. I'm like, that. I'm running compliance for our customers writing their policies, procedures and everything. I don't have time to do that.
+Robin Barrow: That's silly. You shouldn't have to do that with PreVeil be our testers. No. Let me
+Robin Barrow: You can probably hear the agitation in my voice because I can't believe this is the thing. But let me I have to get back to Phil and team and then get it up to engineering because the fact that one of our customers is saying I feel like a beta tester, whether a product that's live in our website is terrible in my opinion. So yeah. Let me just get this.
+Kevin Turnage: Now, you want a feature. I will say this. Okay. And Ryan knows this. He said he was gonna try to to take it up his side, what not I don't know how much bully has, but the customer said with all of this instability, he said he needs thing to give him peace of mind. And he said you're the tool. Doesn't offer it whatsoever and Ryan got on the call. He's doing all this commands and we said what can we do? He's like, nope. He's like it does nothing but split errors and he was like, even I don't know what all these errors are. And he would show like, 8 errors per folder and stuff like that. And you're like, oh, my. Goodness, we have hundreds of folders. What's going on here? So what I'm gonna say is in simple English terms is it's how what syncing is you do one for one, this file is this size. This big last updated over here. Yes, it's on your computer. You guys don't have that whenever whenever you click sync, believe it or not from the 1 20 7 dot 0 to one local web portal. It unfortunately instantly says complete.
+Kevin Turnage: Okay. The button click was complete, but the sync is not if you go look at the folders, they're blank. It takes about 3 minutes to start pulling folder names.
+Kevin Turnage: And it takes anywhere believe it or not 10 minutes to a day and a half. So 36 hours to get files, to pull in and Ryan included in all your technicians. Say go into app data. Dig in deep, rename things, find those hashes, go and compare URLs, match those up with the hashes and go and clean out and then restart your services and then hope it works and then rents and repeat until it syncs everything. That's their answer officially.
+Robin Barrow: That's not
+Kevin Turnage: That's insane.
+Robin Barrow: It is insane.
+Kevin Turnage: It and if a single sole saw this besides Aaron, they would have screamed murder. I kid you not. I would have the nastiest emails come across my desk.
+Robin Barrow: Yeah. That's not to have to do that.
+Kevin Turnage: So it I already talked about the version, the stability there was a way to compare peace of mind. Here's what I told him. I'm because I'm trying to cover your gap and our relationship and everything is I said what I'll even export all of the files.
+Kevin Turnage: Get you a local copy. And I'll pull a sync tool that at least compares to last best known versions to where if we're within 99.9%, you can have some peace of mind that maybe your guy is working on one file, right? But today, Ryan said, nope. He's like, I can't validate that. You have all the files. Obviously, some of the folders are even missing, no matter what we do. That's where we're at.
+Robin Barrow: Yeah. It's just like it sounds so why don't one we have a tool that can be like, hey
+Kevin Turnage: Validation comparison tool, yeah.
+Robin Barrow: Yeah, that's it. And then and it sounds obviously waste employer then it probably is. But then also additionally, I know with the new cloud driver doing a lock feature. So when someone is in the file, it's going to lock and you'll know exactly who's in it similar to like would you see in SharePoint or I think even like what drive
+Kevin Turnage: But the problem about that is locking or not it I'm going to be Frank. That's really antiquated. That's like, SharePoint 20 thirteen, right? these days. I don't know of a single solution, google Microsoft or otherwise that doesn't allow for simultaneous changes, right? You see the other person, the file working while you're working. If someone makes a change later on, if you know how these files work Robin literally like down in the code version, they just have what's called differentials. They'll have blocks of extra code. And then then I'll compare to other ones. It'll match them up. And then when it does what's called a delta, change, it syncs it, compresses it all down to guess what we've got all the appropriate changes in the right places. So the fundamental files you're working with are designed to do that. This your system as a nice feature. Okay. It's not priority today, but if you're gonna sell the one drive and say, hey, it's just like one drive be warned, people are gonna expect everything like one drive.
+Robin Barrow: Right. All right. Do you want to join our engineering team?
+Kevin Turnage: I know, right? I'm having the same fault with another company, but uh
+Kevin Turnage: It's for compliance, believe it or not. In compliance. There is a section of controls that says if you're developing software, you have to go through all of this processes and mapping and everything else and here's how you do it, but I've been in it for 20 years helping. So that's why I know this stuff.
+Robin Barrow: But yeah. Oh, man. I appreciate your patience with us. Kevin you've been nothing but great. And then been able to provide what we need like the hard cold truth because we do have customers. It's fine, we're figuring out or it's okay. And then we have customers that don't even notice anything and they just do their work and that but no, this detail of what exactly the customer's experience is super helpful. I know you probably think like, oh, problems hearing it before, but it's not like we like I said, we have customers that don't provide this level of detail and actually give advice on top of it. So we appreciate you and I'm definitely gonna follow up. I have one more meeting in like 3 minutes and then I have a break. So that's what I'm gonna send out my e mail too. Okay. Team.
+Kevin Turnage: Okay. Well, thank you. I know I sound like a nag at this point, but
+Robin Barrow: At all. No, but it's crazy that this is happening. To be honest. And just ringing in my head is that your customers said our customers said that they feel like a beta tester, which is great. Yeah. So
+Kevin Turnage: It's just really bad timing. All this faults aside that you might have heard what's happened in the industry in the last couple of months, the government shut down, right? Amazon DNS screwed up half the planet. Microsoft essentially had a denial of service section where over half their features didn't work for a week. Yeah. And now this and I just impacting these guys are basing their heads against walls.
+Robin Barrow: Yeah, for lack of better terms and excuse my friends, but it's a storm. It sounds like. Yeah. Oh, man. Okay. Let me like I said, 30 minutes and I'll send this over. And again, I appreciate you very much.
+Kevin Turnage: Thank you, Robin.
+Robin Barrow: All right. Enjoy the rest of your day. Thank you.
+Kevin Turnage: Thank you. Bye.

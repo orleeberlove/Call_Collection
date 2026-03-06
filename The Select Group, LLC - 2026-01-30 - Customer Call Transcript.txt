@@ -1,0 +1,111 @@
+Account: The Select Group, LLC
+Call Date: 2026-01-30
+Duration: 00:22:16
+Participants: Emily deBettencourt, Philippe Rodrigues, Robert Butts
+
+======================================================================
+
+Emily deBettencourt: Hi there. How are we doing today?
+Emily deBettencourt: Good. How are you? Doing well, thanks. I see Wagner in the room. Is that rob or someone else from from the Select? yeah. This is an from Select Group. I work with rob. Okay. Great. Thanks for joining us. Or
+Emily deBettencourt: Rob should be joined. Yeah.
+Philippe Rodrigues: Okay.
+Philippe Rodrigues: So while we're waiting Emily, I got a new computer and a new web cam. So you're gonna be seeing my face and every call now.
+Emily deBettencourt: I love it.
+Philippe Rodrigues: I replaced a 14 year old machine. That thing was dying. Yeah. And I don't know if you remember, but my webcam used to freeze up and I used to drop out of meetings and now it's a whole new world.
+Emily deBettencourt: Oh, good. Good, good.
+Philippe Rodrigues: Yeah.
+Emily deBettencourt: Hi, rob. How are you today?
+Rob Butts: I'm doing fine. Thank you. Sorry, let me turn this all on.
+Emily deBettencourt: It's nice to to officially meet you. I know we've communicated over email a bit, but I haven't actually spoken so great. To to meet you.
+Rob Butts: Good to meet you as well.
+Emily deBettencourt: So Jonathan, Kelly, as you know speaks very highly of you and was kind of helping with some of the transition stuff as he left. The Select Group and joined our team. So we're happy to have them sorry. Sorry for your loss.
+Rob Butts: Well, I guess I got a pain for the kind words, but you know uh
+Rob Butts: He's a great guy. I do miss him. That's for sure.
+Emily deBettencourt: Oh, well. Yeah. He kind of gave me some insight information and he has obviously gotten to know the platform at a more intimate level, since he has joined us and he was just saying that he really thinks you guys would benefit from the email gateway solution that we offer. Particularly Kristen who deals with more of the day to day and kind of working with those outside parties who have to download PreVeil or I'm sorry, sign up for PreVeil express and create those accounts in order to communicate with her. We want to show it to you and see see what you think.
+Rob Butts: Yeah. No, that's great. And just maybe just start and maybe you can highlight this as you walk through it. Because our concern is as we move forward, whether we want to make sure that it doesn't change our boundary in any way. We want to make sure that everything stays separate in that environment from our existing 360 five so we're not letting any data in. So just kind of say how those guardrails are in place to make sure that that we are maintaining that, like I said, maintaining the boundary and what were the benefits? Where do you see that as being used?
+Emily deBettencourt: Yeah. Yeah, of course. And that's why I've invited Phil rodrigues to join us. So Phil oversees, our technical support team, he and one other member of his team lead all of the email gateway implementations for our customers here. So he knows that feature inside and out. He can talk a little bit more about how it functions what the boundaries are sort of what the pieces are that you'll need to have in place or get in place before you can implement it and talk a little bit about some of the benefits too. But essentially, it would allow the Select Group to communicate outside of PreVeil. Um
+Emily deBettencourt: In a really seamless way, for those outside parties. So you're able to exchange email with recipients that don't have a PreVeil address. So again, it eliminates that step for them to create the PreVeil express account. And we can talk a little bit about how so of course, we're here for questions as you have them, feel free to ask as we go. And we'll go from there and Phil. I'll pass it over to you, but if there's anything upfront feel free to ask now too.
+Rob Butts: Yeah. Anybody else Wagner, you have any other questions we need. I'm good.
+Philippe Rodrigues: Yeah. What I can do
+Philippe Rodrigues: Liner if it's all right with you, I have a powerpoint. I can go over
+Philippe Rodrigues: How the gateway works here with some imagery.
+Philippe Rodrigues: I can share this powerpoint with you too, but if you have a quick question now feel free to jump in. But I think this will answer a lot of the questions.
+Philippe Rodrigues: Okay. Okay. The email gateway is a system that we put on top of the PreVeil email system. Like Emily said, which will enable the members of a PreVeil tenant or organization to communicate with non PreVeil e mail addresses. And normally this is not something you can do in PreVeil because PreVeil is an end to end encryption system. We operate on a closed network. The email gateway is a an e mail server that will process and translate and transform mail messages, exiting PreVeil and coming into PreVeil.
+Philippe Rodrigues: On a high level here.
+Philippe Rodrigues: Imagine this is you on your laptop with the PreVeil installed. You're the administrator of an organization and you'll have an admin console where you would put in the names or the domain names of external parties you like your organization to communicate with and when they send an email to someone on that list, the e mail instead of inviting them to join PreVeil, it'll go to an external mail server. We call this PreVeil mail gateway and when it goes in there
+Philippe Rodrigues: The email gets decry Ted transformed and then it adds headers that it has internet addressing and it takes on the domain name of the e mail server itself.
+Philippe Rodrigues: So then it gets sent across the internet to the recipient and then they can open up their mailbox and see that email. And from their point of view, the email will have originated from the gateway as opposed to someone inside the PreVeil system because it's internet facing.
+Philippe Rodrigues: And then conversely, external parties will be able to e mail the members of the organization, the PreVeil organization. But they can't email them directly. So they will email the gateway is domain name. So the email is routed here and then the mail gets transformed in a similar fashion, just in reverse order. And I submitted to our system and it's ultimately delivered to the PreVeil user.
+Philippe Rodrigues: And a lot of the steps to to bring this in order is done on the PreVeil side. So we stand up the mail server. The mail server is hosted by one of the PreVeil partners, security centric. We provision the server with them. We enable the networking, we take care of the firewall settings to the maintenance of the gateway.
+Philippe Rodrigues: There's a few steps on your side to to set up. Um
+Philippe Rodrigues: There there's a service account that gets created. There's DNS records that will enable addressing and routing to and from the gateway system. And then there's a digital certificate that must be purchased and applied for the domain name that we fix upon the gateway system.
+Philippe Rodrigues: The DNS records won't impact your current mail records at all. This system is completely independent of your commercial mail system. It won't impact it won't they won't cross wires or anything like that.
+Philippe Rodrigues: And then the digital certificate is also only for the gateway system. And this is to ensure that we can securely communicate with external parties through SS and L S communication.
+Philippe Rodrigues: Yeah. Um
+Rob Butts: Yeah. When that mail is going back and forth between the gateway and the external user, right? Is it an encrypted email or maintaining encryption on the email itself or what are you doing there?
+Philippe Rodrigues: Yeah, it's still encrypted. So within this ring here, this is PreVeil platform. So it's a completely encrypted inside of PreVeil. Once it exits PreVeil. It's encrypted from here to here through digital certificates and TS. There's a public private key infrastructure. Here we negotiate encryption method before we email the external parties mail server. And then we open up the secure channel to to communicate with them. And so PreVeil encryption inside of PreVeil platform. And then it's standard e mail encryption through TS when communicating with external parties.
+Philippe Rodrigues: Does that answer your question?
+Rob Butts: Yeah. I'm just thinking through this. Sorry. So any concerns, so
+Rob Butts: If someone an external user was to send a you know, they're gonna send some UI data through
+Rob Butts: That can actually are we covered on the encryption requirements all the way across and I'm sure we are. You're using it everywhere, right? Yeah. Yeah.
+Philippe Rodrigues: Yeah. We were certified for is 101 71 inside. And then between the 2 mail servers, it's also certified this 800 one, 71 communication. That's why a digital certificate must be purchased and applied for. And then we register it here. The external party must also have digital certificates so that they can communicate the same way and we force encryption when we communicate. So if they don't meet the security standard that we do, then we can't communicate with them, which is what you would want in such a system. Yeah.
+Rob Butts: What specific the digital certificate? All right. Yeah, I don't remember. Sorry, it's been a week or 2. Then. Yeah, I mean, where are we gonna get that from? What is that separate from like, any search or anything we have or what do we need there?
+Philippe Rodrigues: Yeah, it will be upfront, it is a separate cost. It's not something that's covered in the the project here. You have to go to a certificate authority, which is just a vendor of digital certificates. There there's literally hundreds of them in the market. So you can, you know
+Rob Butts: We haven't built any certificates. So I mean, I can I use it go
+Philippe Rodrigues: Yeah. You could use a go that yeah. It's called a organization, validated or certificate single domain certificate. And you know, similar process would go daddy, but you will go to buy a single domain basic here. You pick a term, they're typically sold in one to 3 year terms, right? and then there's a form that's filled out you identify the domain name, you attach a CS, which I would provide you. And then there's a domain verification process. That usually takes maybe one hour. And then they signed a certificate issue it and then I you send out to me, I imported on the server and then I configure the TS and then you renew the certificate at the end of the term.
+Rob Butts: Right. And the other question was because really we have 2 domains Select Group.com and our federal.com. So I would need a gateway, right? A separate gateway for each one of those
+Philippe Rodrigues: That's right. Yeah. The gateway is for single domains. Yeah. Yes. Okay.
+Rob Butts: All right. Sorry, go ahead. Thanks for that.
+Philippe Rodrigues: No, no, you're fine. Very good questions. Um
+Philippe Rodrigues: I usually also get asked the timeline usually takes about a week. The provisioning of a server is a day. And then there's really 3 steps. There's creating a service account in your tenant. That's about 30 minutes. The DNS records. I formulate the same day that the server is getting provision and then it's just going to go daddy and adding those records in, right? Go dad is usually pretty good about propagating those records after you click save. And then the digital certificate purchase and issuance usually is about a day. Although
+Philippe Rodrigues: I've seen it a lot faster now with digital cert and a lot of the more popular certificate authorities. Um
+Philippe Rodrigues: So usually about 2 meetings. But you know, with getting every all the pieces in order, I usually see it in about a week. And then once the gateways is deployed, then it functions for your complete organization. All of the members of the organization will gain the functionality of being able to exchange emails with external parties. They don't have to install a new version of PreVeil or again new licensing or anything like that. It's just it becomes a new function that they gain.
+Rob Butts: Okay. Um
+Rob Butts: Just thinking through some things here. All right. So and you said all right, but we have to as management each organization that we want to have part of this. We have to go ahead and put them in every every partner, right? There is some administrative function of now I want to communicate with organization XYZ right? And you have to put that into the system prior to being able to send to them that, is that correct? So
+Philippe Rodrigues: Yeah. I'll show you an example here.
+Philippe Rodrigues: This is my demo organization.
+Philippe Rodrigues: Yeah. As an admin you control the external parties that can be communicated with and they could be individual email addresses or domains. And the idea here is that you would only add the addresses or domains that you trust that are also certified. And simple as this let's say army dot mail. This one I know is already in here, but I'll show it anyways. So you add them in here and then when you go to send them an email
+Philippe Rodrigues: Like Tom at army dot mail.
+Philippe Rodrigues: But it'll come up as an external address. Meaning that it'll be picked up by the gateway and then transformed at the gateway and then sent over to the government's mail servers.
+Philippe Rodrigues: Yes. The administrator what would would vet the external parties and then add them in here. And this works in both directions with for outbound and inbound e mail.
+Philippe Rodrigues: Okay.
+Rob Butts: All right. Um
+Rob Butts: Trying to think what else we need. Uh
+Rob Butts: Any questions on that Emmy line?
+Rob Butts: I think about anything
+Yemi: I have to ask is typically a lot of these things seem very straightforward and this is one of those things. So I wonder what are the typical issues that you come across?
+Philippe Rodrigues: Typical issues.
+Philippe Rodrigues: Um
+Philippe Rodrigues: I mean, you know
+Philippe Rodrigues: We already have a lot of issues. I mean, we've implemented over 300 of these. Okay. You know. Um
+Philippe Rodrigues: So you mentioned you have a go daddy. I wanted to better DNS hosts. You're already starting at a good point. You already have a certificate vendor through go daddy. So they already have all your information on file. So when you go to apply to a certificate, they have your information on file. Yeah, that's gonna advance that process. The gateway user is very easy to create a service account, I mentioned earlier. Um
+Philippe Rodrigues: So the
+Philippe Rodrigues: Yeah. The implementation automating is you don't get a lot of support tickets about this. That's
+Yemi: That's basically what you're saying.
+Philippe Rodrigues: Yeah. We don't really get a lot of support ticket. I think the main thing is really users need to be aware that the external parties must be on this list and the admin controls this list. Yeah. It's a little bit intuitive at first. But it's for a reason. It's because you don't want to see emails to go to anyone outside, right? You want to be under your control?
+Philippe Rodrigues: Um
+Philippe Rodrigues: That's probably the most common ticket is why are they invited instead of getting the email when we have the gateway system and it's usually because they're not on this list.
+Yemi: Okay. Okay. Understood. Yeah, question. I had
+Rob Butts: And unfortunately, our cert is coming from a go daddy. We have a certain put our DNS is through network solution. So
+Philippe Rodrigues: 2 solution is not a great one, yeah. Yeah.
+Rob Butts: Yeah, no. Yeah, it's I mean it's no big deal there. We can get whatever we need from that standpoint. Okay. All right. Well, what else what else do we need to know about this?
+Philippe Rodrigues: Um
+Philippe Rodrigues: I mean, that's really a summary of it. And then
+Philippe Rodrigues: When we go into the project we go into the details of how to do to things like create the gateway user transfer, the gateway users key. I would send you a
+Philippe Rodrigues: A grid of the DNS records to put in. If you need help putting those in we can schedule a zoom call on a screen share and the digital certificate. I provide a CSV file and then the domain name. And then that's it. Once we have those 3 things built, then the gateway is pretty much implemented.
+Philippe Rodrigues: We'll have a meeting to to test the gateway before finishing the project. And then after that, it's just maintenance, right? It's renewing your certificate at the end of the term. Making sure the new users that are added after are aware of how to contact external parties. There are some nuances here and there like a carbon copy and blind carbon copying that you know, am I going to.
+Philippe Rodrigues: Email attachments are also supported in the gateway system. Mine is supported. But in my view, it's fairly simple it's just a mail system. Okay.
+Rob Butts: All right. Uh
+Rob Butts: Let me think the question and I guess the only other question is you know uh
+Rob Butts: Pay more for Emily just the cost of the ongoing cost of the service.
+Emily deBettencourt: Yeah. Absolutely. It's a tiered cost structure based on the number of users you have. I can get you over a quote to review or I can send it what I'll do first is just send it over email and if you like what you see or have any questions about that, we can go from there. I can always get a quote when you're ready.
+Rob Butts: You what I'm gonna have to do, just so is yeah, give me a budgetary quote. Start with King going out because I'll have to take it I have to also get the cost of the cert and all that. But and then I'll take it talk to Kristen and kind of go from there and see if they want to pursue that. All right.
+Emily deBettencourt: Yeah. No pressure. We just want you to be aware of it and know that it's something we offer. So definitely mull it over. I'll send you the details and we can go from there.
+Rob Butts: All right. Um
+Rob Butts: Trying to think was anything else I got to talk to you about or well while you're on. I don't know you I mean we're all going through our uh
+Rob Butts: Our cms evidence right now, so for our next self assessment. Yeah. Yeah, great time. I don't know what we're gonna be doing this right away. Let's put it, yeah.
+Emily deBettencourt: Don't worry about it. I just wanted to make sure we have it and it's a nice add on to your subscription. It's something we offer my customers who have it. Really love it. So yeah.
+Rob Butts: Yeah. No. I think it might be worthwhile like I said just uh
+Rob Butts: May take a month or 2 before we really do it. But yeah. Yeah. I appreciate all the information. I think I got a pretty clear picture of what we got and I appreciate everybody's time. So
+Rob Butts: All right.
+Emily deBettencourt: All right. Sounds good. Thank you. Rob. Nice to meet you. Amy and Wagner and we'll talk soon. Thank you, Chris weekend. Thank you. Bye bye.

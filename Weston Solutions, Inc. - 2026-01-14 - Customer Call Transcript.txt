@@ -1,0 +1,35 @@
+Account: Weston Solutions, Inc.
+Call Date: 2026-01-14
+Duration: 00:04:58
+Participants: Emily deBettencourt, Philippe Rodrigues, Jeffrey Bonner
+
+======================================================================
+
+Emily deBettencourt: So
+Emily deBettencourt: Thanks. All right. Hey Jeff. So I how wanted are you to today? Make sure I quote I'm you good appropriately. How are you for doing well this connector option that you're looking for. And Phil, let me know that you guys had a conversation and you're interested in moving to to the hosted version. Is that right?
+Jeff: If the price is right?
+Emily deBettencourt: Okay. So can you just give me a little bit of background here? are you guys self hosting your sim connector today?
+Jeff: Yes. Yeah. Okay. Running in our ware environment. That's what I thought. Okay. Linux machine. So so it seems like every once in awhile loses connection for one reason or another. And then we got to get Phil on the phone and it's usually a few hours going back and forth, sending logs and trying to figure out what's going on. So it might be better if he could do that in the background or whoever is in control of that. Yeah.
+Emily deBettencourt: Yeah. I will be honest with you. I think you are our only customer that's currently self hosting their connector. Um
+Jeff: And we've been doing it for a while. We were one of the first ones.
+Emily deBettencourt: Yeah, I think so. I had another customer self host for a while they switched. Um
+Emily deBettencourt: Yeah. I think you're the only one as of today. So anyway, let's just look at some pricing here. So the fully hosted version would be 300 a month. You should be paying 200 a month right now. So it's really not that much more up to you.
+Jeff: Right. Yeah. Yeah. Is that built into our the our PreVeil contract already?
+Emily deBettencourt: What you guys are. Yeah, you're paying 200 a month for the self hosted version. You've already paid through September 30th of 20 26. If you want to switch over. We could work with you on that. And then I would just send you an invoice for the remaining
+Emily deBettencourt: 8 months of your contract, 7 months of your contract for that additional cost. And then next year, I would just renew for the proper amount.
+Jeff: Okay. So
+Jeff: Is anybody else on anyone? I don't know who like the technical person would be. But um
+Emily deBettencourt: I did invite Phil, but he didn't join us. So it's just
+Jeff: Yeah, I saw him on the invite, so yeah. What would be the process for switching that over? Do we just build a new one? here?
+Emily deBettencourt: He could work with you on that. I know he can stand up the connection in like 30 minutes over our call. He just needs a bit of information from you in advance to get everything going with our partner on that. And then yeah, you guys would just meet for a quick call and get it connected.
+Jeff: Okay. Yeah, because we I think we're right now we're sending
+Jeff: Sending the logs internally to a connector I'm just trying to figure out how I guess I can just discuss that with him just trying to figure out how we would get the logs sent from your instance to our internal server I guess okay
+Jeff: So that might be possible.
+Emily deBettencourt: Yeah. If the price isn't shocking to you and it sounds like something you want to do. I'll suggest that you meet with bill as a next step and then get everything started. And then once that's live, we'll just start the billing from that point. So okay.
+Jeff: Send me over the quote information. Sure. I'll discuss it with the internal team and then we'll go from there.
+Emily deBettencourt: Okay. I'll just assume a start date of February, one to co term with your current subscription. And yeah, I'll give you the quote for that and we can go from there. And if you want to work with bill on details and next steps, I'll loop him in on the email too.
+Jeff: Okay. Yeah. We're actually currently going through a security audit right now. So. Okay. Hopefully, that'll be done by February. Okay. We don't want to make any changes during that time. Yeah. We'll be checking on these things to make sure the logs are working and yeah, yeah. If we need
+Emily deBettencourt: To change the quote, that's no problem either.
+Jeff: Okay. Sounds good. Okay. Thanks, Jeff. Great. Thanks, Emily.
+Emily deBettencourt: Yeah. Talk to you soon.
+Jeff: All right. Sounds good. Thanks, bye.

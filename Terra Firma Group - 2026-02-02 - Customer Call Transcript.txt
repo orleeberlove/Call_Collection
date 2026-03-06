@@ -1,0 +1,62 @@
+Account: Terra Firma Group
+Call Date: 2026-02-02
+Duration: 00:12:25
+Participants: Robin Barrow
+
+======================================================================
+
+Robin Barrow: So
+Robin Barrow: Thanks for joining. Hi, Brian, this should how are be you a fairly quick call? Fine. Just an intro call to me. I'm your customer success manager. I'm gonna go over what you signed up for and then talk about next steps on getting started. Okay. Are we expecting anybody else to join I just saw you on the invite?
+Brian Kaiser: But it's just me.
+Robin Barrow: Okay. Great. Yeah, I see that you have 3 users, one of them being admin and you also purchase a compliance accelerator accelerator, which is the PreVeil pass bundle. And that all sounds great and accurate. Yep. Awesome. So if you don't mind sharing cord gave me a little bit of background, but I want to hear from you as well. Why do you all need PreVeil? What are you hoping to get out of it?
+Brian Kaiser: And yeah, uh, my wife and I have started basically a government contracting company and we're both prior army retired. I've done some contract work myself, but mainly getting into the space and a mentor of my wife's that's been in a contracting company mentioned PreVeil. And I like the fact with the past going ahead and getting the C M C C or CM whatever
+Robin Barrow: Cms, it's a yeah.
+Brian Kaiser: I keep with all the acronyms, the different websites and everything, yeah.
+Brian Kaiser: But basically getting certified for that. Which would help if there were certain contracts that we wanted to bid on. That requires that. And then um
+Brian Kaiser: We're also kind of so new as a company that that would make us more attractive to prime as a subcontractor having that certification to be able to if they had a contract that they wanted us to subcontract on to be able to have that capability. So
+Robin Barrow: I love it. So do you all have any contracts yet? Are you looking to get yourself?
+Brian Kaiser: Now, we're like, let's see was it November. So only a couple of months that we've even had the LLC, but we just got certified by small business association as women owned and service disabled, veteran and veteran owned and small business so we just go search and we're digging into sam.gov and all that kind of stuff. So
+Robin Barrow: Love it. Well, cheers to you. I mean, going in business with your wife is a feat in itself because I don't know if my husband would ever go into business with me.
+Robin Barrow: But that's awesome. No happy to hear that. And I just want to show you real quick. So that's great. As far as being attracted to those primes. We're seeing more and more prime to reach out and ask if customers. I know they're working towards, mm. But do you have something that can help manage and store C UI today? with the goal to be CMC level one or CMC level 2 self certified there and then on getting fully certified by C 3 Pao. So you're in a good spot. The compliance accelerator, did Corey go over this at all with you?
+Brian Kaiser: No, not very much. Okay.
+Robin Barrow: So you're gonna see an invite come through your email shortly from PreVeil dot town LMS. What this is? It's it takes you really green. What a cms all the way through. How do I square one ten? So all this content is really great. It's based out of a learning management system. So you have videos you have artifacts. It's a lot of content. It's kind of take you some time to go through. I guess are you brand new to cms or have you been
+Brian Kaiser: No. I mean, as a contractor, I of course had to meet the requirements to handle C UI and all that kind of stuff, but as far as actually doing the certification as a company. Yeah, it would be completely so like, I'm looking at some of the documents that are listed there. And yeah I mean, I know of them, but have I really dug into them now?
+Robin Barrow: Okay. And honestly, it's easier to start from scratch then to rebuild. Yeah, yeah. You're in a good place. But yeah. No, I would say um
+Robin Barrow: I would go start from the top and kind of work your way through, but if you were like, give me the meet this is the any docs package. This is where you're gonna find all our template or fill able template documentation.
+Robin Barrow: For cms level 2. This these documents have been approved by C 3 Pao they have. They are fully completed. I don't even love calling them templates because of how completed they are. You could I always advise I mean, it's based on a midsized company, but if you took the Acme company and structured your security infrastructure right around it, you're in a good spot. Okay. This SP is 185 pages. It is extremely detailed. Do I think you're gonna have 185 page SP? Probably not. But it's a great example of what a 1 10 company looks like and what they expect. When going through the assessment. You'll this is available to you. Obviously, the PreVeil language is gonna stay the same. We have a lot of company customers that will say, oh, I already have an SP in place. They'll go ahead put out their current CSP and then put it into our template because they're this just already has the language that A C 3 PO would be looking for. Okay. And if i talk in acronyms or what is that just stop me because I swear sometimes I say them and then I forget what they actually an
+Robin Barrow: S 3 is easy. It's certified third party assessor. Um
+Robin Barrow: Officer maybe is though could be. But so that's
+Robin Barrow: You we have certified C 3 PO partners that when you get to that place, you're not there yet. And you're ready to get certified for level two, just reach out to us and we can refer a couple of companies.
+Brian Kaiser: Okay. But yeah. And then the other
+Robin Barrow: Piece that I always say, it's great to point out in the accelerator is our endpoint configuration. This is the number one question was asked by customers. Okay. Great. Thank you for giving me PreVeil, but how do I secure my computers and how do I secure my network that we created this? It actually tells you how to go about configuring them.
+Brian Kaiser: Again, that was gonna be one big question because I literally
+Brian Kaiser: Just signed got us. Microsoft 365.
+Brian Kaiser: Have more of an official email. And eventually if we
+Brian Kaiser: Get a domain. We'll have the shorter shorter email addresses that I'll have to transfer that over to you, but having this kind of instructions to be able to melt the 2 together because that's what I was kind of looking forward.
+Robin Barrow: Yeah. So these are all Microsoft products. The recommendations, obviously, if you find a cheaper version go for it. But again, all our documentation is gonna be around Microsoft products and and that's we recommend and it actually points to the controls that they help me.
+Robin Barrow: Controls and objectives I should say. So again, this is about the configuration. You can download this is a weird view. It doesn't usually look like this, but
+Robin Barrow: Oh, I hope I didn't just mess that up.
+Robin Barrow: I'll just add myself back to it. There we go. So yeah, this is a doc that you can download to.
+Brian Kaiser: And it's available. Um
+Robin Barrow: Great. Let's go back this. And then with this you also get 6 30 minute sessions with the compliance team. So this is a really good area. If you have any questions, you get stuck on any of the controls, reach out to them. You can book right here. You can also email them. So if you have any one off questions that require a short answer, just shoot them an email and they're happy to answer and it won't count against your time.
+Brian Kaiser: Okay.
+Robin Barrow: So that's the accelerator I've added you already. Let me know if you need me to add your wife as well. Happy to do so. I just need her email.
+Brian Kaiser: Okay. And
+Robin Barrow: As far as the PreVeil platform. Well, I should say before I move on any questions on the compliance side, the accelerator or anything like that?
+Brian Kaiser: No, it looks like I'll be game fully employed going through.
+Brian Kaiser: Yeah. Oh, yeah. It's
+Robin Barrow: It's a lot of content for sure. I mean, what I'm seeing generals and beast, but yeah, you if you have questions just as you go through, feel free to reach out.
+Robin Barrow: Okay. The PreVeil platform, this is the easier part. When you I believe I sent over instructions, but I'll send over a follow up email as well. All you need to do is download the platform on the computers that you intend to use PreVeil for. So like, the ones that are going to be managing and storing UI. You download PreVeil and you create your org. The steps will be listed out in the instructions I send over. It shouldn't take you longer than 20 minutes, but once you do that, you schedule time support team and they'll bring you through a full training of the platform. So I would just say do that first invite, your wife. Assuming you are gonna have 2 separate devices. Maybe if yeah. Yeah, you should that. But yeah, once you get the org setup, you can invite your wife. She'll receive an invite to her email and then she can go ahead and download on her device as well. And I would say both of you just join that meeting and you can have both your computers up and click along as they train you? Okay. They're gonna have you share screen. So one of you can share screen and then
+Brian Kaiser: Great.
+Robin Barrow: And then lastly, you don't have to do any data migration because you're new. And then yeah, for me, I'll schedule a time for us to connect again, 90 days. I think we're out to April. Maybe may can't do math right now. But I'll find out and I'll send over a random calendar invite. It's really just a placeholder meeting. Just so you know, you can it's a time for us to connect, make sure we're feeling good about the platform. All your questions have been answered in a timely manner. Your onboarding went well. But again, I'm your main point of contact. So if any questions come up between now and then or if you want to give me a shout my cell phone and my signature and I can give you my calendar.
+Brian Kaiser: As well. Sounds great. Yeah, I mean that's
+Robin Barrow: Really all I had
+Brian Kaiser: It's
+Brian Kaiser: Um
+Brian Kaiser: Yeah. I mean, I think right now we have our personal computers and we were looking to buy one specifically for for the company. So it may take a little bit of time before we actually put it on a system. Yeah. I would go through like, a bunch of the training stuff probably first, so. Um
+Robin Barrow: That works.
+Brian Kaiser: Somewhere in there and that next 90 days or whatever. I'll have done all the things that you just talked about. So
+Robin Barrow: Yeah. Either way, if you don't like, I have customers that are like, oh, we had a fire elsewhere and they'll hop on that 90 day check and it's a good time to reconnect and get back on track. So it's okay to if you did it, right? great. But yeah, I'll let you go. And if anything else comes up, just feel free to reach out. Just like I said, keep an eye out for that accelerator email login because it does expire after 24 hours, not a big deal if you forget, but it's just easier. And then yeah, keeping an eye on an email from me shortly.
+Brian Kaiser: All right. Thank you. All right. Thanks, Brian. Thanks Robin.
+Robin Barrow: Have a great day.
+Brian Kaiser: You too. Bye. Bye.
