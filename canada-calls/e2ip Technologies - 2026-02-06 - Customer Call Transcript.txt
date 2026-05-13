@@ -1,0 +1,57 @@
+Account: e2ip Technologies
+Call Date: 2026-02-06
+Duration: 00:08:24
+Participants: Robin Barrow, Michel Turcotte
+
+======================================================================
+
+m . turcotte: So
+Robin Barrow: Hi, Michael, how are you? I apologize my camera's. So blurry. Hey, hi, Robin. Hey Friday.
+m . turcotte: Yeah, ho exactly you're mute. Thank you.
+Robin Barrow: So yeah. Tell me what questions do you have?
+m . turcotte: Yeah, exactly. I always prefer to do that live. So it's nice to speak with you guys. Yeah. We've been with you for a while we are a Canadian company. So one of the challenge we have is with the double regulation, Canada, us all that stuff that you were planning or you having the possibility to have a tenant in in Canada, is that possible and how does it work?
+Robin Barrow: As in like a AWS environment or? Yeah. Okay. I have to ask our support side. I know some of us have spun up a couple of separate tenants within. For instance, we have individuals in we have some in yeah. Cross overseas. Yeah, they're all over. So yeah. I'm sure it's possible, but I just have to ask okay. I just and I also have to ask what it would be like to move you all if it's gonna be like, a huge uplift.
+m . turcotte: Yeah, exactly. So that's one of my question. I don't need that now because we still to do and with the Canadian they are still a bit late in some area, but so but I need to know what's the plan moving forward? We might wait for the next renewal, but I need to have a plan at least and understand what's involved in that. So that was my first question, of course. The next one um
+m . turcotte: I see we have 10 terabytes of gov cloud storage. Is that per user or per tenant? How does it work? So it's not clear?
+Robin Barrow: It's per tenant. You can always purchase more in increments of 5 if you need more. Okay. Are you I don't have access to your back end, but are you approaching?
+m . turcotte: That. No, no. Not at all. But because now we will get more and more involved and I just want to understand when I signed a contract, exactly what are the term. We were still okay. That there's no challenge for that. Okay. That's good. For the G platform. Yeah. When we listen to the video, we had the feeling that is already pre filled with all that stuff with all the compliance. But now I see that as a separate line item. So that was a bit of my confusion. I thought it was included with the GRC
+Robin Barrow: Oh, the the compliance accelerator included? Yeah. No, it's a separate line item. It's you saw the platform, but it's if it's cost a problem. Are you were you a little concerned about that?
+m . turcotte: But I was just I said when you listen to the video said oh, we got the JIRA now. Everything, is it?
+Robin Barrow: Sounds like it's
+m . turcotte: I see. Yeah, there's a price for go perfect. That's great. And what you need to buy the compliance. So it's a little bit confusing price wise. It is a part is though like
+Robin Barrow: Yeah, let me yeah. I have to kind of push on marketing to change the language within the accelerator because it is getting pretty confusing. I have had customers, but okay. Add me to the G R C O T it's additional cost so you're not alone there. But okay. Again, you all have been a customer for a long time so I can see if we can get some discounting as well.
+m . turcotte: Yeah, that would be great. Last thing. Yeah, we've been for with you for a while is the usage presently. We have 3 admin because we'd like to have a backup. We have 2 admin that administer and we have a backup. So and I see 2 on the admin console right now is 3 the exact account for that. As for the user we don't have too much recently got only 2 user, but we will expand that to 5. So I will be 3 man and 5 user and for this year. So if you can change that will be
+Robin Barrow: The one thing one note I'll make so we did change our pricing regarding standard users in admin. Did you notice that at all on the contract?
+m . turcotte: I think we had that before. It was
+Robin Barrow: A different oh, you did. Okay.
+m . turcotte: Okay. We have that. But I must admit that the previous invoice were not very clear. Let's put it that way. But yeah, we add the different pricing for the admin and the user because yeah, admin just do the admin stuff and nothing else. So uh
+Robin Barrow: Okay. You wanted to say 3 and 2 or sorry, say that again?
+m . turcotte: So I will need 5 for the user and 3 for the admin.
+Robin Barrow: Okay. Okay. We can do that.
+m . turcotte: So that would be good. So yeah, if you can get us some something for the compliance discount, that will be very appreciated. Sure. How long is it to get it feedback on that?
+Robin Barrow: That should I could probably do that by Monday. Yeah. Could you all are you all aren't that close to your
+m . turcotte: Yeah, we're still it's march, but we have time, but if you get an answer today, I'm ready to move so. Okay. Right. The one thing
+Robin Barrow: I'm just a little confused on the users. I apologize, Michael. So each admin user has to have a standard user account, so for your contract.
+m . turcotte: Oh, no confused. Okay.
+Robin Barrow: Yeah. I consider the admin an upgrade to the standard. So if you have 5 users you will have 3 of those will be considered admin. So it's really like, 5 and 3 that means you have 3 users and only 2 standard users. So what you need is 5 standard users and 3 admin. So the contract should read 8 and 3.
+m . turcotte: Okay. We pay for the user plus the admin for the same same account.
+Robin Barrow: Yes. Yeah. It's um
+m . turcotte: So
+Robin Barrow: It's like it's because you have an upgraded. Consider it like an upgrade to the standard user the admin account. So it's less. It actually is working out to be the same pricing as we had before. But let me see. I'm gonna look at your last renewal with us.
+m . turcotte: Yeah. Because today I got the 2 user and 3 admin as of today, so. Yeah.
+Robin Barrow: But right now, I'm yeah, I'm seeing one, two, three, 4 5. Yeah. Okay. So last year you had our old pricing, which is 36 and 50 six? Okay. If you can if you combined we increase your prices by $2. So if you combined 36 plus 20 that's 56. So for you it's now 38 plus twenty, which is 58. Okay.
+m . turcotte: It's written there. It's just confusing, please.
+Robin Barrow: It is, yeah.
+m . turcotte: Make it more clear because I don't need 10 users. So I said because it's written oh, you have the admin console for super user. Okay. Perfect. They don't do any transaction. My super user. They don't just do the it admin stuff. Yeah. That's why I'll
+Robin Barrow: Fix it. Yeah, I'll fix it. And again, I what I see it on what you're currently using. I'll just based on what I see and then if you need more, just reach out to me. So right now I'm seeing the 3 and 2 exactly 5.
+m . turcotte: This is what I use today in 6 months. Probably probably different. Hopefully, we'll get the this finish and get the certification and increase the account, but this is what we have today. So
+Robin Barrow: Yeah. We'll do that. Okay. And then I'll work on a discount.
+m . turcotte: That will be great. Great. And the platform. If you can activate that as soon as I sign it will be good. So if we can I know you had a promotion at some time. So it's a few days before. So if we can activate that earlier, that would be great.
+Robin Barrow: Yeah, of course. We that's fine. Yeah. Well, you can have access to it before your actual contracting. Okay.
+m . turcotte: Perfect. Just make sure we don't wait. I sign in, we need to wait. So everything will be at the same time, but no.
+Robin Barrow: No, you're good there.
+m . turcotte: Perfect. So my question so thank you very much. Always good to deal with you guys. So yeah.
+Robin Barrow: No, I appreciate it. And yeah. Sorry for my Friday, I was a little late here today, but no problem.
+m . turcotte: Problem. Okay.
+Robin Barrow: I'll send this over shortly and thank you so much for working with us again.
+m . turcotte: Thank you very much. Have a nice day. A nice weekend. You too. Bye. Bye.

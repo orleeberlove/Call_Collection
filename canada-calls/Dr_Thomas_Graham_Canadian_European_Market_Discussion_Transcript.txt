@@ -1,0 +1,225 @@
+Transcript
+Date: 2026-04-28
+Account: Dr. Thomas Graham (C3PAO/Consultant)
+Conversation: Canadian & European CMMC Market Discussion - C3PAO Perspective
+Speakers: Orlee Berlove (PreVeil) + Dr. Thomas Graham (C3PAO/Consultant)
+
+=============================================================================
+
+Dr. Thomas Graham - 1:38 - Hey orlee.
+
+Unidentified Speaker - 1:39 - Hello Thomas.
+
+Dr. Thomas Graham - 1:40 - How you doing?
+
+orlee berlove - 1:44 - I'm doing well. How's it going with you?
+
+Dr. Thomas Graham - 1:46 - Getting adjusted to being back on the East Coast time like normal, so.
+
+orlee berlove - 1:55 - Got it. Understood, so where were you? Where were you? Yeah, where were you in Europe? Curious.
+
+Dr. Thomas Graham - 2:07 - I was working in Belgium but we actually stayed over in the Netherlands because we were down kind of, it's kind of southeast Belgium around Herstel and Liege. So we stayed right across the border in Maastricht. Maastricht Treaty, I remember that from a, it was like a big environmental Yeah, but no, we've been over there, or at least I've been over there, several times in the last six months. And I'm going back in June to speak at a FCA event up in Brussels.
+
+orlee berlove - 2:48 - Oh. Interesting.
+
+Dr. Thomas Graham - 2:55 - So anyway.
+
+orlee berlove - 3:01 - I'm looking for my questions here. All right. So I guess in the cases that you're in, working on these European incidents, are they looking to meet CMMC requirements? For the most part?
+
+Dr. Thomas Graham - 3:31 - Yeah they have to because there's companies all over the world that have contracts with the department and if it has the default 7012 calls they have to meet the requirements just like anybody else does.
+
+orlee berlove - 3:46 - So these are Canadian sorry Canadian these are European companies yeah European companies that that have our, yeah. All right. Anyway, I have, so first of all, I found my questions here. I'm just looking. Finally found them.
+
+Dr. Thomas Graham - 4:07 - All right. You stalled appropriately, so how about that? All right, there you go.
+
+orlee berlove - 4:12 - I had to create a bunch of lists of questions. So I guess one of the things, you guys, I thought to talk to you because you guys have been working with a bunch of Canadian customers is my understanding.
+
+Dr. Thomas Graham - 4:24 - Yeah, we've had, we've got a few different clients in Canada, uh, as well as other places around the world now.
+
+orlee berlove - 4:33 - So like five, 10.
+
+Dr. Thomas Graham - 4:36 - Um, to be honest with you off the top of my head, I don't know, just because Jeremy's team is all over the place. I know personally I've worked with two. In Canada and five over in the European theater currently.
+
+orlee berlove - 4:59 - So my interest is mainly in Canada for the following reason. Let me just, in the interest of full disclosure. So we're trying to understand how we can kind of like get into the Canadian market more. And so part of that starts with just doing a lot of research, having a lot of conversations like this and understanding, you know, first of all, are they, Are these people trying to meet CMMC from the US or Canadian CPCSC? So far, most of our conversations have been on CMMC, but I'm sure eventually a lot of them will be on Canadian CPCSC. I feel I need a little scorecard to keep all these acronyms straight. So trying to understand, first of all, how many various people, how many Canadian companies people have been working with. And so I guess the question is, what is is triggering their move in the cases that you're talking to? Is it Canadian CMMC, American CMMC?
+
+Dr. Thomas Graham - 5:57 - Primarily it's American CMMC. They have the contracts generally through the Canadian Ministry of Defense. And the Ministry of Defense has the contract with the US departments. And the requirement is because- Wait, stop there a second.
+
+orlee berlove - 6:14 - So it's not like General Dynamics saying I need you to produce this widget. It's through a third party.
+
+Dr. Thomas Graham - 6:23 - No, no, no, no. So there's two avenues. The first is what you've mentioned is that, you know, General Dynamics, they may have a contract that a Canadian company is a subcontractor. To them all. So they still have to meet CMMC. So that's, you know, that's the first avenue. The second avenue is that they have direct contracts, but the way a lot of them get them is it flows from the U.S. Government to the Canadian Ministry of Defense under JCP.
+
+orlee berlove - 7:04 - Uh-huh.
+
+Dr. Thomas Graham - 7:05 - Uh, this joint something, I can't remember the acronym off the top but I know it's called JCP.
+
+orlee berlove - 7:12 - I think it's Joint Compliance Program.
+
+Dr. Thomas Graham - 7:14 - Could be. But then the Ministry of Defense is who the Canadian company basically has the contract through. So the Ministry of Defense would act as a intermediary in the whole process.
+
+orlee berlove - 7:35 - I guess, do you know how many go each way? It's kind Kind of in the end, it's the same thing. The company needs to become CMMC compliant.
+
+Dr. Thomas Graham - 7:45 - As far as an exact number, to be honest with you, I don't know. I know. When I first looked at it about a year and a half ago, maybe it was a fairly large number that, you know, had contracts with with U.S. Whether it be the Department of Defense or even other ones.
+
+orlee berlove - 8:13 - And so JCP is working with DOD as well as all the other government agencies. Do we know how many companies in Canada are these defense manufacturers? In the U.S., they originally said 80,000. That was probably lowballing it. I've had 700 Canadian companies might need CMMC compliance. Do you have any sense of those numbers?
+
+Dr. Thomas Graham - 8:41 - Yeah. You take the number, you multiply it by three and you have a more accurate number.
+
+orlee berlove - 8:47 - All right. I like that.
+
+Dr. Thomas Graham - 8:50 - Well, I mean, here's what you got to understand, orlee. When the rule came out when they were still, I think, the Department of Defense or now is the Department of War. Whatever they're calling themselves. The numbers that they had visibility into are the primes that are awarded the contracts. So when you see an 80,000 number or a 60,000 number or whatever they say, that is indicative of what they can see from the primes on the contracts. They don't track all of the subs, all of the vendors, all the service providers, that all of these prime organizations are utilizing. For instance, I mean, you mentioned GD earlier. They may have GD Canada. They may have GD Canada Aerospace or whatever. And those companies, while having an American parent, would be considered a Canadian company. So now, because of that, if they have contracts, you know, right now with the U.S. Department, and it has that DFAR 7012 clause, they have to go through CMMC. The original intent of, you know, CMMC and CSCPC was to have reciprocity, but the Canadian program, well, not right now anyway, because the Canadian program started with REV3 and of course the US programs on REV2.
+
+orlee berlove - 10:25 - Right, right. So hot off the presses, we were talking about this on our Slack channel. So I think apropos to this, you know, The Canadian version is not the same, although some partners are saying that they are virtually identical. So, I mean, I'm saying that more to highlight the fact that they are different and that meeting one does not mean that you've automatically met the other. Let's put that off for a moment. So most of the companies that you're talking to are working, are coming to you because of U.S. MMC. Have they come to you for the CPCSC?
+
+Dr. Thomas Graham - 11:09 - Some of them have talked to us but since the as far as I know the assessments still aren't live they were trying to get it off the ground I think last March or April with some pilot programs when I when I was talking to the ministry but I don't think any they've had any assessments to date.
+
+orlee berlove - 11:29 - Yeah I think They don't even have assessors in Canada, so.
+
+Dr. Thomas Graham - 11:34 - Yeah. And I don't know, but the both programs, you know, once the U.S. Department goes to Rev3, they're both going to be based on Rev3 and Hello.
+
+orlee berlove - 11:56 - Hello.
+
+Dr. Thomas Graham - 11:59 - The definition on the data designations are different. From one country to. Also, yes.
+
+orlee berlove - 12:10 - Sorry, I'm turning off my video.
+
+Unidentified Speaker - 12:12 - Can you hear me?
+
+orlee berlove - 12:13 - Yeah, I'm turning off my video because I think that was taking up bandwidth. I was going to ask, is there even an assessment for a framework for assessing CPCSC? My understanding is no.
+
+Dr. Thomas Graham - 12:30 - There is, but it's not in use and it's not final. That's why you don't have the assessments going on.
+
+orlee berlove - 12:39 - Okay. So, all right. So the answer to the question of what's driving urgency is that it's almost entirely CMMC flow down as opposed to CPC. And when you're doing Canadian companies, I guess the question is the next issue is that of data residency. So I've seen so far, there's kind of a mix in terms of the companies requiring U.S. Data, being okay with U.S. Data residency or Canadian or requiring Canadian data residency. What has been your experience and understanding there?
+
+Dr. Thomas Graham - 13:17 - It's a very, Tightrope when you when you're looking at a lot of the international stuff Hello Thomas Thomas I can't hear you Hello.
+
+Unidentified Speaker - 13:47 - Thomas. Hello.
+
+Dr. Thomas Graham - 14:16 - I'm sorry, orlee. I lost you. So I don't know how much of that you heard. But the short version is both countries have concerns around it, whether it be Canada or Europe, Canada to a lesser degree.
+
+orlee berlove - 14:35 - Yeah. So it's kind of depending on where the request for the contract comes from Like if it's coming from JCP, they might be more sensitive to data residency than if it's coming through a US contract.
+
+Dr. Thomas Graham - 14:49 - Well, JCP is kind of one of the programs to where they can get access to US contracts.
+
+orlee berlove - 14:59 - Right, but if it comes through JCP, does JCP say, yeah, we'll do this contract, but the data has to be in Canada?
+
+Dr. Thomas Graham - 15:08 - No, not specifically.
+
+orlee berlove - 15:10 - OK. So both countries have concerns. Sometimes it's, yeah, I guess I'm trying to understand the circumstances under which Canada kind of raises its hand. Because I've heard of the instances where they've asked it to be housed in Canada. And I'm just trying to understand when and why that happens.
+
+Dr. Thomas Graham - 15:37 - As far as the when and why, it's Canadian PII. It's Canadian Citizens Data or Canadian Intellectual Data is generally where you see stuff like that. As far as the U.S. Data, they really don't have any governance over that because that data is owned by the U.S. And that's the dilemma that they're trying to work through. I know the organizations that I've worked with, they're doing it primarily on-prem and using technologies provided by the department to be able to pass that information back and forth. Uh-huh.
+
+orlee berlove - 16:23 - So they're doing it on-prem and that kind of avoids it having to be in AWS or Prevail or anything alike. Mm-hmm. So that's interesting. I'm just, yeah, but then they kind of lose all the beauty of having in the cloud, that becomes a pain.
+
+Dr. Thomas Graham - 16:48 - Yeah, but it's part of the cost of doing business in those arenas. I mean, it's like I said, whether it's Canada or Europe, those are the restrictions because a lot of times when you put it in the cloud, to a certain degree, I mean, you lose control of where the data is replicated, who has access to it, so on and so forth. And that's the concern. From these various government entities and I mean it's a larger concern for the organizations because now they have to try and navigate it if they're going to have contracts with other foreign nation states.
+
+orlee berlove - 17:27 - So my understanding has been that something like GCC High cannot be used if you're a Canadian company because all data has to be in the U.S. Is that correct?
+
+Dr. Thomas Graham - 17:41 - Sort of So, the U.S. Data is the U.S. Data. That data can't be governed by Canada or any other country because it's U.S. Data. The requirement on stuff like GCC High or, you know, some of the other ones out there is that the owning entity has to be in the U.S. And that's where those companies are having issues.
+
+orlee berlove - 18:12 - So if you're, okay, so if you're General Dynamics and you have a kind of General Dynamics Canada with, so they have a U.S. Address where all the stuff is like a U.S. Post office, is that kind of the situation we're talking about here?
+
+Dr. Thomas Graham - 18:27 - I mean, possibly. I honestly to that side of it, but I've heard some organizations are trying to go that route.
+
+orlee berlove - 18:43 - Well, so it's essentially if your company has a U.S. Mailbox, then you can use GCC-HI. But small mom-and-pop contractor in Alberta is probably not going to have a U.S. Address, so they cannot use GCC-HI. Okay.
+
+Dr. Thomas Graham - 19:00 - Possibly.
+
+orlee berlove - 19:02 - So you're essentially telling me it's kind of unclear.
+
+Dr. Thomas Graham - 19:07 - Oh, I'm telling you it's clear as mud.
+
+orlee berlove - 19:10 - All right. Because we've been on this idea that you can't use GCC High if you're a Canadian company, but that's not entirely true.
+
+Dr. Thomas Graham - 19:21 - It's not entirely true. There's worker As far as how those workarounds specifically work, I haven't gotten into that side of it yet.
+
+orlee berlove - 19:37 - Yeah, it seems like talk to, it's no matter like who we've I only done a few of these because there aren't that many companies that are trying to go after these contracts, which is surprising.
+
+Dr. Thomas Graham - 19:48 - Well, it's not that they're not trying to go after the contracts. What you have to understand is kind of how the contracting process has worked over time in the department. So historically, any time a new requirement It was generally an additional year or two before it made its way to these companies located in other countries, or even Micronesia, or any of those locations. The problem with this, and that not a lot of folks are understanding, is that it's literally based on those clauses in the contract. And if you have it, cool, and if not, you can't get awarded that contract, that option year, or potentially a POP extension on your current contract.
+
+orlee berlove - 20:41 - Okay, so there's now no like grace period for these Canadian companies, so they haven't kind of been drinking the Kool-Aid for the past six years the way the U.S. Has.
+
+Dr. Thomas Graham - 20:51 - Yeah, not in, I mean, not to this point, no.
+
+orlee berlove - 20:57 - Uh-huh. So when you look at the Canadian companies' tech that you've been talking to, what tools are you seeing them use? Is Prevail a good fit there? Because if they're on-prem, obviously not. But it's kind of like, how can Prevail think about the Canadian market to make us a better fit? I guess that's kind of a multi-part question.
+
+Dr. Thomas Graham - 21:30 - Honestly, You guys could be an option in the arena if you could structure your message around you can confine this to only the data required, you know, to be passed back and forth or even stored for the contract. Because, you know, let me finish. Historically, you know, you guys solve two out of three problems, the storage and the transmission. It's the processing where the endpoints are brought in play. So the processing can still stay on those companies' endpoints, but to get it back and forth or even to store it, it can stay in your environment, so to speak. And then you can, I know you guys have restrictions on printing you know, some of the other things, but that's the part of the conversation that, you know, you and the rest of the prevail team can, can kind of have with some of these companies that look, do you utilize our tool? You don't have to put everything in here. It, and you literally can have just the components that you need to have those communications back and forth. And now, When you do that, you can still utilize your own endpoints and you're not necessarily breaking any of the rules, such as using commercial Microsoft to, you know, do email back and forth.
+
+orlee berlove - 23:14 - So I'm not getting all of that. Is that, so are you saying like a VDI solutions as essentially what you're suggesting to, no, no, no. Okay.
+
+Dr. Thomas Graham - 23:25 - I'm S I'm saying, normal service, the processing still happens on their hardware, on their endpoints. So, you guys solve the, you know, the transmission and, you know, essentially the storage requirements to get it from the department or, you know, whoever the prime is down to these Canadian entities. And now once it's in their environment, It's assessed as a hybrid. It's assessed, you know, on their hardware with the prevail overlay for the transmission and the storage.
+
+orlee berlove - 24:02 - But I mean, that's, that's more of a messaging thing than anything else. It's not really a technology change.
+
+Dr. Thomas Graham - 24:13 - Well, I mean, it's a technology change for them, but it's a messaging change for you guys.
+
+orlee berlove - 24:17 - Correct. That is what I meant. A messaging change. OK. Yeah. Interesting. All right. So. The tech stacks, though, that they're using to date, are they that different from the US?
+
+Dr. Thomas Graham - 24:37 - No. OK. Still Microsoft's, the Tenable's, the Qualys's, Rapid7, you know, it's still a lot of the same technologies, the MSP vendors that you know, support and they may be different, but technologies are essentially the same.
+
+orlee berlove - 25:00 - OK, and the gaps that they're facing, these companies, it sounds from what I've heard so far from talking to you and other. C3POs, it's that the main issue with a lot of these Canadian companies is that they're just like the US, but a couple of years behind in terms of their kind of their sophistication with CMMC or CPCSC.
+
+Dr. Thomas Graham - 25:29 - That's because they've concentrated on addressing the Canadian requirements versus having to address any of the U.S. Requirements because until CMMC come around, just like American companies, there was no validation they were actually doing what they were supposed to be doing. So you're back at square one.
+
+orlee berlove - 25:54 - Got it. So all right. And in terms of, I guess, is there anything about the Canadian context that makes, you know, that could, besides messaging, that can make our tool more valuable. I'm just trying, I guess it's kind of just double clicking on that issue of, you know, how do we break this, break into Canada? You know, maybe it's just the messaging, maybe it's also, sorry.
+
+Dr. Thomas Graham - 26:33 - I mean, not unless there's a Canadian FedRAMP equivalent that has some kind of reciprocity. But I mean, don't they? I'm not sure. I, I, I haven't honestly orally, I haven't had time to, to, to track that along with everything else I keep track of, but that, I mean, with your messaging, I mean, that could be something. So if there's. You know, equivalency between the Canadian program and the U S program on the FedRAMP side. Now you. You know, you can add that to your messaging and your banner and, you know, it could possibly solve a couple of problems for them. But you're primarily, when you're working with these and you're talking to these entities, it's a lot of on-prem. And that's due to a lot of the requirements. I know some of the larger vendors are working on foreign equivalents to what they've here in the States, but nobody's there yet.
+
+orlee berlove - 27:39 - Okay. Okay. Yeah. Have you guys been, how have you been getting kind of referrals? Are you working with a bunch of Canadian MSPs?
+
+Dr. Thomas Graham - 27:57 - No, they come to the conferences. Yeah. I mean, I, you know, I've even been up to CanSec and walked around and talked to people. Some of them, if they have Canadian subsidiaries to American, you know, like, you know, your GD example, then, you know, just work in or, or there's American parents, you know, knowing the name and then they refer them out to, you know, their subsidiaries and then they contact us. But yeah, there hasn't been a conference in, I think the last year and a half, two years, I haven't talked to at least somebody from a foreign nation state in talking about CMMC.
+
+orlee berlove - 28:44 - What are the big Canadian conferences? There's CanSAC. Are there any others?
+
+Dr. Thomas Graham - 28:48 - CanSAC's the big one.
+
+orlee berlove - 28:49 - CanSAC's the big one. Yeah. Don't you have to get some sort of permission to attend that?
+
+Dr. Thomas Graham - 28:56 - There's some requirements. On it yet to to be able to get in because I'll tell you trying to get into that thing it felt like I was trying to get into the pentagon so because I mean they were literally wanting verification of like different things and I was sitting here going well shit I can't pull it up on my phone because my internet here in Canada sucks right now and you guys don't have a wireless point so Give me a few minutes, but I'll get it for you.
+
+orlee berlove - 29:30 - Funny, funny. I guess just the last, this is kind of just a generic question. In terms of costs, well, I guess there's two questions. One, is the profile of the kind of Canadian clients any different from the U.S. Ones? Like, are they in a particular industry as opposed to the U.S. Ones where they seem to do manufacturing, design, software, so on? Is there a particular industry that they're focused on in Canada?
+
+Dr. Thomas Graham - 29:59 - Nope. You have manufacturing, you got aerospace, you got some R&D. It's just, it's like I said, I mean, it just depends on what the various contracts are looking for. Right.
+
+orlee berlove - 30:13 - And the cost of an assessment, is it that much different from a U.S. To a Canadian company?
+
+Dr. Thomas Graham - 30:20 - I mean, honestly, the process is the process. Generally speaking, since you're dealing with a lot of on-prem, I mean, you have to account for international travel to do those on-prem components and, you know, they may be more willing to have an on-site assessment versus doing a virtual assessment just due to time differences and some of the information provided. You know, for example, one of the ones that I did, when we were starting to talk about some of their physical security, the guy that was responsible for it wouldn't even bring it up on their internal teams meeting. He actually walked down to the room and brought it up on his laptop just because that was their requirement, that it couldn't be shared over collaborative computing tools or anything else.
+
+orlee berlove - 31:18 - All right. I think that's all my questions. I just want to double-click really quickly on this idea of what we're talking about. In terms of the processing, storing, and transmitting of the CUI as the messaging for the Canadian company. Is that the perception of the Canadian company that it's a matter of ownership of the data? I guess I'm just trying to double-click and make sure I understand the pain point that that's solving.
+
+Dr. Thomas Graham - 31:55 - I'm sorry, orlee. Can you repeat the question, just the specific question? Yeah, no problem.
+
+orlee berlove - 31:59 - Yeah, so I just want to make sure I'm understanding the messaging issue that we talked about earlier in terms of how to better kind of put prevail into the Canadian mindset. And you said it was, you know, focus it on that, potentially that we're kind of a FedRAMP equivalent, but structure it so that their primes can directly share the data with them. And I guess that's kind of, understand what is, how would you formulate the pain point that they are experiencing? Cause I'm not sure I completely got that.
+
+Dr. Thomas Graham - 32:32 - Hmm. I mean, one of the bigger playing points is transmission of CUI because, because the department has said encrypted CUI is still CUI. So that means they aren't supposed to be using commercial Microsoft to do it back and forth. Historically, that's what the ministry has told them to use.
+
+Dr. Thomas Graham - 32:53 - Got it.
+
+orlee berlove - 32:55 - Is that the Ministry of Silly Walks?
+
+Dr. Thomas Graham - 32:58 - Yes. It's the Ministry of Defense in Canada. Okay.
+
+orlee berlove - 33:02 - You said the ministry. I have to ask if this was a monthly reference or...
+
+orlee berlove - 33:07 - No, no, no, no.
+
+Dr. Thomas Graham - 33:08 - No, the Ministry of Defense is the equivalent to the Department of Defense slash Department of War here in the U.S.
+
+orlee berlove - 33:19 - Sorry, I shouldn't laugh at my own joke. I figure the Canadian Ministry of Silly Walks just walks around with Mountie hats.
+
+Dr. Thomas Graham - 33:32 - No, unfortunately, they're not Mountie hats, but you won't find them at any of the CMC conferences here in the States. If you go to the larger contractor conferences, they generally have a presence.
+
+Dr. Thomas Graham - 33:45 - Yeah, okay.
+
+orlee berlove - 33:46 - I understand I wasn't sure I was able to particularly articulate it in my own mind. So that makes sense now. Okay. I think that's it. You've been very helpful. Thank you, Thomas.
+
+Dr. Thomas Graham - 34:04 - No worries, orlee. Sorry about losing you there for a second.
+
+orlee berlove - 34:08 - No worries. Things going okay with you? Is there anything I can do to help you out?
+
+Dr. Thomas Graham - 34:13 - Help China?
+
+Dr. Thomas Graham - 34:14 - figure out how to finish cloning me so there's more of one of me to do all this stuff yeah okay I think one of you is enough for this world you're probably right yeah all right nice talking to you buddy thanks for all your help yeah I would
+
+===================================================================================
+
+END OF TRANSCRIPT

@@ -1,0 +1,345 @@
+Transcript
+Date: 2026-04-01
+Account: JE Bearing & Machine
+Conversation: JE Bearing & Machine - PreVeil CMMC Compliance Discussion
+Speakers: Jack O'Connor (PreVeil) + Jamie Tutt (JE Bearing & Machine/Demur Industries)
+
+=============================================================================
+
+jamie . tutt - 0:00 - Hey, Jamie. 
+
+jamie . tutt - 0:08 - It's just me. If Matt Hey, joins, Jack, he how are kind of you? Got the spiel Good. Yesterday, How are you today? So I don't Very good. Think he's in. Awesome. He Awesome. Didn't Are message we waiting me, for Matt, but or we'll is it just you just today? Start. I 
+
+Jack O'Connor - 0:16 - Think No problem. Yeah, awesome. Where are you calling in from? 
+
+jamie . tutt - 0:21 - So located in Tilsonburg, Ontario, just outside of London. 
+
+Jack O'Connor - 0:25 - Gotcha. 
+
+jamie . tutt - 0:27 - So right now I work, so there's 2 companies that we're going through CMMC for. One is where I work out of J.E. Barrigan Machine, and then our parent company, which is Demur Industries in Regina, Saskatchewan. 
+
+Jack O'Connor - 0:43 - Gotcha. And how do you spell that? 
+
+jamie . tutt - 0:47 - Demur? D U M U R. 
+
+Jack O'Connor - 0:52 - Demur Industries, got it. 
+
+Jack O'Connor - 0:57 - Cool. And then, yeah, and I actually, I think I I have have, you down as the JE Barron, you said, right? Yeah, correct. Gotcha. And, I think it looked like you guys had actually checked out, PreVeil in the past. Were you part of that team? 
+
+jamie . tutt - 1:16 - I wasn't, no. I wasn't. 
+
+Jack O'Connor - 1:19 - Gotcha. No worries. Cool. Well, anyway, I appreciate you taking. Some time. I'm sure Matt gave you a little bit of the rundown, But, do you want to kind of just tell me a little bit bit about what you guys do, what kind of requirements you're running into? 
+
+jamie . tutt - 1:35 - Matt, we've been going through getting certified now for a bit. Matt had commented on when he found you guys and before the conversation he had yesterday, he said it really seemed like a pretty good system. You guys had. We, we've been, let's just say, taking longer than I wanted to with this and just trying to do General Dynamics, my biggest customer, is really putting the pressure on me. They've got a program. 
+
+jamie . tutt - 2:07 - They want me involved with, but I need my Level 2 or I guess if I go back a bit. So, a year and a half, 2 years ago, instead of self attesting to Level 2 and just doing the audit before. November, we went the route of having a third party. Give us an assessment. And of course, we got a fail, right? Which is kind of, we knew, and I think everybody would if they did that. But the problem is, I'm on a program that has that requirement, right? 
+
+jamie . tutt - 2:44 - Now. And if we had self attested and said, yeah, we'll be fine, we'll be ready, and then done the work, I could take this work, work. But because we don't want to lie, we know we're not ready, we know we're going to be, but I can't self attest, so I can't take this work. And my customer is saying you've got to figure a way out around this, and we've been trying to come up with a path and it just doesn't seem to be, we're struggling, and of course, we're starting to lose time and we really want and I to want to see see what we can do. Do if there's any other options. So we've enlisted a third party, but like, I'll be honest, we've been working on this for a year. 
+
+Jack O'Connor - 3:23 - Yeah, 
+
+jamie . tutt - 3:25 - Where I'm being told that I've got another 6 months for the work ahead of me and that my guy wanted to ask for more time on top of that. And of course, I'm at the risk of losing out on some significant business. So yeah, I mentioned this, I thought, well, it doesn't hurt to kind of get more information. So we can make sure that we're heading in the right direction. 
+
+Jack O'Connor - 3:47 - Yeah. 
+
+jamie . tutt - 3:49 - And I watched Matt send me the YouTube link. I watched. It briefly. I was on the road last week when he sent it to me. Yeah. But I kind of, it made the video itself made some sense. But just trying to see what we have for options. And I'm I know, not 5 sure what's going on. 
+
+jamie . tutt - 4:06 - Years or plus ago, when this was all initially started to be talked, about, of course, like anything else back then it was this huge daunting task and I think over the last year, things have been, not that the program simplified, but just how to get there simplified. So I'm just I don't want to say that I'm ready to pull a trigger because of course I've got to run this back to my my ownership. 
+
+jamie . tutt - 4:33 - And then also talk to my IT guy that's currently in the middle of this, but if I'm being honest, I just want to ensure that we're on the right path, but if there's any opportunities to work with a company, say yourself, to get there faster than my, from my standpoint, is is in charge of the sales. Funnel, I want to kind of give us all the opportunities to get where we need to be as effectively and as quickly as we can. 
+
+Jack O'Connor - 4:59 - Yeah, definitely. Well, we can jump in and see if it'll be a good fit. Fit. So I guess to go back on something that you mentioned, obviously, you mentioned General Dynamics is putting some pressure on you. Were they hoping to have you at a certain self assessed. Score? Is there an expectation there? 
+
+jamie . tutt - 5:22 - Well, they just basically said, and again, I know that I think it's a score of 110 or something like that, or 120. That's the 
+
+Jack O'Connor - 5:29 - Total, yep. 
+
+jamie . tutt - 5:31 - So I know that there was like a self, when you do the self assessment, if you kind of pass, and I don't even know what the pass grade would be on that. But like, you could say, okay, I'm self assessed, we're good to be ready for November to do our audit. That's kind of the point that they need me to be at. Yeah. Because we got a low score and did the third party, support? Our ownership is like, and I mean, this. They're saying we don't want to lie and go back and say, oh, yeah, we're fine. We rethought it over. We self assessed. We're okay. We know we have work to do, or at least we're being told we have work to do by this third party. And again, then you question, okay, well, is all this work necessary? Or at least I'm questioning that. 
+
+Jack O'Connor - 6:20 - Yeah, so I guess what do you guys have done at this point? Have you used anything to handle handle CUI or done anything in terms of documentation? 
+
+jamie . tutt - 6:31 - No, and that's, I guess, the struggle. We spent the first few months, they had us upgrade, we upgraded infrastructure, servers and all that kind of stuff. I know we've started to roll out some things, but again, we've always had the previous version of, not CUI, but I forget. The other abbreviation. FCI? Yeah. Yeah. So like we've always been able to handle and we've had secured servers and all that, but getting that CUI, yeah, that's where kind of one of our shortfalls have been. 
+
+Jack O'Connor - 7:09 - Gotcha. And. How does, I guess, how does it look with CUI when you guys get it? are you downloading it or are you receiving it on on email. Email? 
+
+jamie . tutt - 7:21 - So we receive it primarily on email with a secure download link with a password, encrypted password, and then we download it from our server. 
+
+Jack O'Connor - 7:30 - Okay. And then, do you guys have an on prem server? 
+
+jamie . tutt - 7:34 - Sorry? 
+
+Jack O'Connor - 7:35 - Do you guys have an on premise server? 
+
+jamie . tutt - 7:37 - Yes, we do. Okay. 
+
+Jack O'Connor - 7:41 - Gotcha. And then do you guys do any of the sending or are you just receiving it and then you're doing any work that needs? To be done? 
+
+jamie . tutt - 7:48 - We do send it out to third party for outside processing and stuff like that. Again, we've done the basics before, like you track it when it goes out, probably not as good as we should have, but we have had that process in place. 
+
+jamie . tutt - 8:14 - Have to send back out to finishers and stuff like that. 
+
+Jack O'Connor - 8:18 - So like your subcontractors. 
+
+jamie . tutt - 8:20 - Then? Our subcontractors, correct. 
+
+Jack O'Connor - 8:22 - Gotcha. And aside from your on prem server, are you guys using something like 0365 for commercial email? 
+
+jamie . tutt - 8:31 - Yeah, we have 365, yeah. 
+
+Jack O'Connor - 8:35 - Cool. Well, I appreciate. All of that. That's very helpful. So I'll kind of jump into things on the PreVeil side. And feel free to jump in with any questions. Yeah, yeah, for sure. So this is kind of what PreVeil will look like here. And it's something that essentially, you'll install and you'll have on your device to access in your browser, which is what I'm showing here on my right side of my screen. Okay. It'll act. A pretty standard email inbox. So. This is just where you'd be able to receive any information and send out information. Now, you'd be able to maintain maintain the same kind of workflow that you have with General Dynamics where you're receiving a link, you're downloading that link, and then you can just store it on your on prem server as I'm sure you already are. It. Sounds like what the main gap is for you guys. 
+
+Jack O'Connor - 9:24 - Is that sending and receiving. So essentially, and again, I mean, even if you wanted to, you could also just start to receive information from General Dynamics. In here as well and make things a little bit easier. 
+
+Jack O'Connor - 9:39 - But whichever is easier for you, I guess. But then in terms of that sending, you would also have PreVeil to be able to compose messages, attach any CUI that needs to be attached, and then you can send it to the subcontractors for any finishing that needs to be done. Okay. Now, essentially, the way the PreVeil works is that it'll work work alongside your commercial. 
+
+Jack O'Connor - 10:03 - Environment. So on my left side of my screen here, I'm in O365. So you guys will be able to maintain that commercial environment and that'll just act as normally with any information that doesn't need to be encrypted. However, with CUI data, you'll have the ability of just plugging PreVeil in. So you have the second inbox, that's handling any encrypted data. 
+
+jamie . tutt - 10:27 - So, it'll filter what it sees as you? Encrypted and put it to that second email? 
+
+Jack O'Connor - 10:31 - So not quite. Essentially, this is how PreVeil works. Typically, on the left here, I've got this blue square being my device, and I've got my commercial email here. You're using your regular commercial email address and then going through that commercial 0365. Cloud, right? Right? Right. Again, that'll act as normally, nothing's touched. There. On the same device, device, you can also have PreVeil using that same email. 
+
+Jack O'Connor - 10:59 - Address. The difference is when I'm sending something out of PreVeil, I'm going through that AWS GovCloud and now being sent to whatever third party needs to see it, for example, if it's a subcontractor of yours. Now, vice versa, when I'm sending something out, the third party accessing, that info will need to access a secure PreVeil portal to get that information. Information. 
+
+jamie . tutt - 11:24 - So we give them like a login and a password type of thing? 
+
+Jack O'Connor - 11:27 - Well, essentially, they would just set it up on their own, you wouldn't even need to give it to them. But yes, then they'd set up a portal and in that same portal is where they can send things back and it'll route into that PreVeil inbox there. So it's kind of completely separate in that sense. Right. So, I mean, nothing will even really need to be filtered filtered. Because as long as that third party is using the portal, everything will show up in the encrypted inbox as it should. 
+
+jamie . tutt - 11:57 - And now, when the customer sends us CUI, is there a special email they send it to or do we flag that coming from this customer and automatically drops into the PreVeil encrypted box? 
+
+Jack O'Connor - 12:11 - Yeah, so that's something I guess for you guys to decide, whichever is easiest. Easiest. So, I mean I mentioned, it sounds like you guys are receiving a commercial email with a link to that CUI, correct? Correct. So, you can still do that and go to that link and download the CUI, obviously making sure that you're downloading it onto that on prem server, which is keeping it secure. So you can still just do that workflow, or if you wanted to, there is another workflow here where you we can could set you guys up in a subdomain. That way, in that subdomain, from whatever encrypted service General Dynamics is using, they can just send things directly to that subdomain address, and then that will be routed into your encrypted. Mailbox. Okay. So, whichever is easier for you, I guess. 
+
+jamie . tutt - 13:04 - Right. 
+
+Jack O'Connor - 13:05 - Does one sound like it might be better than the other? 
+
+jamie . tutt - 13:09 - Yeah, yeah. So so this, so I guess, so your system is primarily control of receiving and sending and then storing through our own on premise, server, the control of how the CUI comes in and comes out of the company, correct? 
+
+Jack O'Connor - 13:29 - Right. So, I mean, you're like, and I guess like, did you guys want to maintain that on prem server? Or did you have have a preference there? 
+
+jamie . tutt - 13:40 - No, the intent is to keep it on site because we do a lot of other non controlled CUI work. Yeah, 
+
+Jack O'Connor - 13:49 - So I mean, and this is an option as well, like you'll have a PreVeil drive too. So if you wanted to still maintain that on prem server for any commercial information, or just non CUI information, you can do that. And then you could just use PreVeil for any CUI data. So it can be 
+
+jamie . tutt - 14:07 - Stored in the cloud on your drive? 
+
+Jack O'Connor - 14:09 - Yeah. So this would all be in the AWS, GovCloud and meeting the encryption standards for CUI. You'd have 10 terabytes to store in here as well. Okay. So, I mean, it might just make things easier just because you've got one place for commercial data, one place for CUI data. 
+
+jamie . tutt - 14:28 - Okay. So... Go ahead. Ahead. No, no, I just, I'll let you finish. Yeah. I'm there. I might, I'm, I'm, I'm, I'm thinking through things, but yeah, go on. 
+
+Jack O'Connor - 14:38 - No, no, go ahead. I'd actually like, I'd rather kind of talk through these workflows. If you've got something. Yeah, 
+
+jamie . tutt - 14:44 - No. So I guess just trying to understand and I know Matt said he said, basically you guys you have a, like a one time setup, and then you have a monthly month. Yeah. Subscription, I believe is what he said, for this type of service. Now, is there any issue with the amount of users that would have access to this email that would have to use the CUI? 
+
+Jack O'Connor - 15:18 - Do you guys have an idea of how many people are touching CUI? Yeah. 
+
+jamie . tutt - 15:24 - Say in the office, not the production floor, but the office itself, 1, 2, 3, 4, 5, 6, probably a dozen people. 
+
+Jack O'Connor - 15:40 - Okay. So, yeah, that's totally normal. That's a pretty normal range that we kind of, work out of. 
+
+Jack O'Connor - 15:52 - Guess one benefit of keeping the on prem server rather than storing things in PreVeil is that people who are only touching that CUI. Internally, they wouldn't even need PreVeil. So really, are all 12 of those users doing the sending and receiving? 
+
+jamie . tutt - 16:11 - No, you probably cut that into a third, 4 or 5. 35, yeah. So yeah, 
+
+Jack O'Connor - 16:16 - So then in that case, that's kind of what PreVeil prevailed makes things easier for, is that you can actually cut that down. So. Then all you guys need to do is have PreVeil for whoever needs to send and receive. Anybody else, they can just access that CUI in that on prem server that you have set up. 
+
+jamie . tutt - 16:35 - Right, okay. Yeah, because I think that was always my concern. Are we trying to do too many controls for everybody. When we're we don't need doing it? To? I think Matt mentioned you guys used the analogy of if your company is a house, but your CUI control, you can keep it in the bedroom, that's all you really need to worry about controlling. 
+
+Jack O'Connor - 17:01 - Exactly, yeah. Essentially, what that is your organization and your infrastructure is your house. And then PreVeil is just a safe that you're putting in your house for that CUI. So your maintaining everything else, but PreVeil is just a little piece of that you're going to be able to securely store things and send things in. 
+
+jamie . tutt - 17:23 - Right. Now, as far as sharing internally to the production floor, do you guys have any tools or anything like that takes care of that or the PreVeil product is primarily for sending and receiving? Yeah, so, 
+
+Jack O'Connor - 17:39 - Well, I mean, again, it depends. Depends. So that's where you may want further users in Drive, because we do have things like I can create a folder with everything that someone needs for. A project. And I can share that out by copying. A link. Or I can go into my details here, and I can put in someone in my organization, and just share this folder with them, so they can access it and do whatever work needs to be done. Right So I mean, I guess whatever is an easier, easy workflow for you guys. 
+
+jamie . tutt - 18:10 - Right, so if I say if Thomas Lee was one of my machinists on the floor, I could share that drive with him, he could access his, electronically. He could access his drawings Right And then basically say okay, like you can, we're compliant based on that, 
+
+Jack O'Connor - 18:33 - Right? Right? Yeah. That's a great way to do. Things. I guess the other way to do things, if you wanted to keep the PreVeil users as small as possible, is then you could only have the users for those who are sending and receiving with General Dynamics. And with your subcontractors. In your example, Thomas doesn't even need to have a license. I can just receive any information, move it into that, secure on prem server, and then that's where Thomas can access that CUI. 
+
+jamie . tutt - 19:04 - Right, so I guess maybe you can fill me in on my uncertainty here. 
+
+jamie . tutt - 19:11 - When we're trying to get to this level. Two I've been led to believe, and I'm assuming this is right, that there's also controls. About how that CUI is dealt with on the shop floor. Is that the case? Case? 
+
+Jack O'Connor - 19:29 - Yeah, that's correct. But honestly, I mean, they're pretty reasonable. And also, we provide kind of guidance for things like that as well. So aside from the platform that's doing the sending and receiving, you'd actually have like, access to our knowledge base here on things like securing your endpoints, scoping your boundary, doing that self assessment. So you'll have our 
+
+jamie . tutt - 20:23 - And I know there was the basic cost in about a 3 month time window if we need other policies and procedures written for other areas that we need to cover for compliance, you guys help with that as well if we need to as an extra service? 
+
+Jack O'Connor - 20:40 - Yeah, so essentially we already have all those written out. So you get all of our documentation, our policies and procedures. So you guys can just just... Leverage that. And it's all matching the PreVeil system as well. So, I mean, you'd be able to have all of that, and then kind of just put in any specifics about your company as well. So obviously, like things about your on prem server, things like that. And again, that's all included in this knowledge base as well. Like. You'd be able to kind of edit your documentation in this knowledge base. Here's Oh. So 
+
+jamie . tutt - 21:16 - Here's a question. The question. If we've done X amount of work, and again, I'm going to say this with as tactfully as I can, there's always a disconnect between any IT department and the rest of the shop. And thankfully so. I've got 0 clue of really what goes on in their world. And they get it, I don't, and I just try and stay out of it. 
+
+Jack O'Connor - 21:44 - Leave it to them, yeah. 
+
+jamie . tutt - 21:45 - Leave it to them. But this seems so much simpler than I've been led to believe, and trying to figure out our end game. So if I said to you, okay we've done X amount of work, like updated updated software done. Our know before training for cybersecurity and for all that etiquette and we've been told that's part of this. Is that really a qualifier to say we have to have, that of for CMMC, that we have to have trained every individual in the company about etiquette for using and what not to click on for email stuff? 
+
+Jack O'Connor - 22:28 - Not unless they are handling CUI. 
+
+jamie . tutt - 22:31 - Right, okay. Yeah. That's what I thought. 
+
+Jack O'Connor - 22:34 - Yeah, so it's, I mean, yeah, it can be like a subset of people. Who like, for example, Yeah, for my 
+
+jamie . tutt - 22:40 - Concern, we're training everybody, and it's going to take twice as long, 
+
+Jack O'Connor - 22:45 - Right? Yeah, no need to do that. So. Just anyone who's handling CUI needs to be trained on it. 
+
+jamie . tutt - 22:51 - Right, right. But like office staff and people that never see it don't need to be. 
+
+Jack O'Connor - 22:56 - Yeah, they're out of 
+
+jamie . tutt - 22:58 - We could also triage what employees even on the shop floor, see the CUI and what don't. 
+
+Jack O'Connor - 23:04 - Exactly. Yeah. Exactly. 
+
+jamie . tutt - 23:05 - Exactly. So if I said we've done a bunch of legwork, right? And systems and upgrades. And I can't say if we're 20% there or 30% there, but let's say we were just starting. We've got a company of we're 60 people with probably I said, probably people at the most that need to send and receive CUI. There's probably another, on top of that, another 30 to 35 people that on the shop floor that need to read and open CUI, right? But, not send and receive, just need to open it. With that type of parameter, what would you say? And again, I'm not going to hold you to anything, but just give give No. Me some idea. What would an approximate cost and what would be an approximate time you would need me to say to get this done so we could do our self assessment and say we're self attesting to be ready for level two? 
+
+Jack O'Connor - 24:13 - Yeah, well, I mean, self assessing is easy to do. Realistically, you guys could get PreVeil in place and self assess right then and there, like in the same week. Okay. Have like a maybe not the best score, but you'd have a decent enough score. And. Then the idea of that is you kind of just are working off of that score. So like that timeline is very quick and very achievable. So I guess I mean, that's kind of why I asked at the beginning, whether General Dynamics had a certain number in mind. 
+
+jamie . tutt - 24:46 - Well, they were just, so what I was under the understanding is we needed to self attest that we were at level 2 even though we haven't done the audit. 
+
+Jack O'Connor - 24:56 - So they want you 110, essentially? 
+
+jamie . tutt - 24:59 - Essentially, yeah. 
+
+Jack O'Connor - 25:01 - Okay. So in that case, I mean, that'll typically like we see companies take on the quicker end a couple of months, on the longer end 7 months. So I'd say on average, you're looking at probably about 4 or 5 months to get to 110 out of 110. Okay. 
+
+jamie . tutt - 25:19 - Now, if we you're going to decided we wanted to go further with this with you guys, if we could kind of do a bit deeper dive and see what all of your check we'll just call it all of your controls that you need us to meet, if we said of, say there's 50 and we've met 20 already, then that helps expedite. Our timetable. Yeah, 
+
+Jack O'Connor - 25:44 - Definitely. And I, actually I, have a shared responsibility matrix that I can send you that actually shows everything that we're covering. Okay. Yeah. 
+
+jamie . tutt - 25:57 - Okay. All right. So, yeah. So, like I said, if we devoted a lot of time to this you could do it in, you could say I'm being requested to have this ready by, they and they said, said the first to middle of June, I think I could probably swing the middle to end of June, which gives us 3 months, right? Yeah. And, it wouldn't be necessarily undoable, it might be a big challenge, but it's not like we still need 6 or 8 months, particularly since we've already supposedly done a lot, right? 
+
+jamie . tutt - 26:35 - And again, I think it makes it easier. If we understand that, we don't have to do it for only control the stuff that are people that are going to have touched the CUI. 
+
+Jack O'Connor - 26:45 - Right. Exactly. So yeah, you don't need to do the entire company. Okay. Yep. 
+
+jamie . tutt - 26:51 - All right. So I guess the really thing is, I'm going to talk to the GM and myself have been working on this. I've been because of course, we're both concerned, we're missing opportunities of business. So I think what we want to do is you know, I'm going to circle back with him on this. And I. Think the thing is, if we think this is maybe something that could help, kind of maybe going through that sheet of yours and just really seeing how far along we are, which might be able to give us a better in depth timetable of how long we realistically could, or how quickly we could realistically do this in. 
+
+Jack O'Connor - 27:32 - Yeah, yeah. I mean, did you manage mention that you guys self assessed pretty recently for GD? 
+
+jamie . tutt - 27:39 - No, it's like a year. Well, yeah no, sorry, we did a self assessment. And we had like a score of like, I don't know, like 100. Right? Okay. And then we got the third party. And we got like a horrible score, right? 
+
+Jack O'Connor - 27:56 - Gotcha. Gotcha. But. 
+
+jamie . tutt - 27:56 - Again, I've had the concern that is the third party place and the consultants making us jump through a bunch of hoops that are just costly and not really needed, right? 
+
+Jack O'Connor - 28:09 - Yeah, I mean, probably not. So was that just like a gap assessment from like a consultant or something? 
+
+jamie . tutt - 28:18 - Yeah, we had a gap assessment done by like, yeah, a third party consultant in the US. 
+
+Jack O'Connor - 28:25 - Okay. You 
+
+jamie . tutt - 28:26 - Know, and then they've offered to help us write, policies, Paul, and procedures. But when I see your system where you've got templates there and you just got to plug some stuff in, 
+
+Jack O'Connor - 28:35 - It 
+
+jamie . tutt - 28:36 - Doesn't take long. And the thing is, like if I said we could devote a team of 6 or 7 of us at the management level to work through this, that's going to expedite the time too, correct? 
+
+Jack O'Connor - 28:46 - Oh, absolutely. Yeah. When. 
+
+jamie . tutt - 28:48 - You say 3 to 6 months, typically, is that like one or 2 IT people working on? 
+
+Jack O'Connor - 28:54 - It? Yeah, if you guys had a team of folks working on this, I would say 100%, you could be on the sooner end of that 2 or 3 months to get this done. Okay. Yeah. 
+
+jamie . tutt - 29:04 - Okay. Okay. This is good. Okay. Well, is there anything else you feel that's worthy of you telling me or we kind of, I think, my standpoint, 
+
+Jack O'Connor - 29:16 - I guess I'll jump into the price if you'd like. 
+
+jamie . tutt - 29:19 - Yeah, for sure. 
+
+Jack O'Connor - 29:22 - Let me just pull that up for you. Here. And actually, by the way, before I pull that up, did you have a preference here on whether you'd like to see, just because there's a little bit of a price difference, would you like to see the subdomain or would you like just like the typical PreVeil portal? 
+
+jamie . tutt - 29:42 - I think the typical PreVeil portal to start with anyways. 
+
+Jack O'Connor - 29:45 - Sure. 
+
+Jack O'Connor - 29:48 - I think that makes sense as well. Well. And. You can always add that. Whenever if you need to. Yeah. But yeah, it doesn't, I mean, it doesn't sound like you guys will need that. So. 
+
+Jack O'Connor - 30:10 - So this would be for that 5 users who are doing the sending and receiving. Receiving. 
+
+Jack O'Connor - 30:20 - So you'd have 5 total users here with encrypted mail and drive. Being able to send, receive, do whatever they like. $38 per month per user. One of those 5 would be an admin. I'm. Happy to make more of them admin if you want more. It's an additional $20 per month. This charge here, and I'm sorry, this is actually for that subdomain, so you wouldn't need that. This charge here is for that documentation, including our CMMC knowledge base, things like that to walk you through that. 
+
+Jack O'Connor - 30:55 - Sort of stuff. That's the price for the 12 month period. And then just a single time fee here for onboarding and setup to help you guys get going. Okay. 
+
+jamie . tutt - 31:07 - All right. And so that gives us 12%. 12 months. Is this price an ongoing annual price? 
+
+Jack O'Connor - 31:17 - So this is your first year price. So obviously the second year you would drop, like onboarding. And. Typically, these prices are paid up front, but we do have options for things like quarterly or monthly payments if you'd like. 
+
+jamie . tutt - 31:34 - Okay. So, the... On a year two, sorry, which is it the CMC knowledge base that would come out on year two? 
+
+Jack O'Connor - 31:45 - You can. That's definitely an option. So like, theoretically, in this first year, you would get your documentation done. So you would be able to drop that. And then you'd also drop your onboarding because you'd already be set up. So really, in year. Two, you'd be looking at this just to maintain the licenses. 
+
+jamie . tutt - 32:05 - Of then the if questions we about the services wanted that we have. To continue to keep on updating our policies, you keep that 5K in. 
+
+Jack O'Connor - 32:10 - Correct. Yep. 
+
+jamie . tutt - 32:12 - If you wanted to. Yep. All right. That's reasonable. Yeah. Okay. 
+
+jamie . tutt - 32:21 - So, I, I, yeah, I, I, 
+
+jamie . tutt - 32:29 - And so your program here, we'll call it, when we do the, you had down, and I can't remember on that, checklist, you had your self assessment done early on, and then you had your gap assessment, and then you had your final assessment. Yeah. Your final assessment is where we would need to gain the, or just be, we would have to do that ahead. To say we're ready going for to be the able to do that. Audit to get our perfect score at that final assessment, correct? 
+
+Jack O'Connor - 33:04 - So do you mean like the gap assessment? 
+
+jamie . tutt - 33:07 - Yeah, I guess I'm wondering at what point do I get my perfect score to show GD that I can take work? 
+
+Jack O'Connor - 33:12 - Yeah, so 
+
+jamie . tutt - 33:13 - There's a couple of 
+
+Jack O'Connor - 33:15 - Ways. So it sounds like if they just want you to be self assessed you guys could get everything done. And you can, by the way, you can do more than one self assessment. So like, if you wanted to get PreVeil in place, immediately do a self assessment, you can do that and then just start working on your documentation from there. And then again, once you get to 110 out of 110, and you're ready for that final assessment, you can also self assess before that. So that way you can say, hey, GD, we are 110 out of 110 self assess. That's what? 
+
+jamie . tutt - 33:50 - I need to figure out. So that finalist assessment, that is the third party assessment that comes in and does the audit. 
+
+Jack O'Connor - 33:59 - Yeah. So before that, you can just do a self assessment just to tell GD that you're ready to go and you're just waiting for that third party. 
+
+jamie . tutt - 34:08 - Do you think if we had a team like that to get us that 110 score without the final audit, we could do that in that couple, 3 months if we really put a push on it? 
+
+Jack O'Connor - 34:18 - Yeah, 100%. Okay. Yep. 
+
+jamie . tutt - 34:22 - And, depending on the resources we put to it, maybe even sooner? was your 2 to 3 months on the fast end, did that include the final assessment, or was that outside of the final assessment? 
+
+Jack O'Connor - 34:34 - I guess, so I mean, that kind of depends, obviously on how quickly you can schedule one. Right You can definitely get one scheduled ahead of time and start scheduling with that. 
+
+jamie . tutt - 34:47 - Today. I don't need that. I just need to do that to get my score to 110 before the final assessment. I can wait till November to get my final assessment. I just need to go back to GD and say, I've done. My self assessment. I've got a 110 out of 110. 
+
+Jack O'Connor - 35:03 - That's 
+
+jamie . tutt - 35:04 - What I need to give them an idea. How long and if you're saying you think that to get to that point, maybe about can two, maybe two, maybe 3 months. 
+
+Jack O'Connor - 35:17 - Just worry about the final assessment in a couple of months or whenever you need it. 
+
+jamie . tutt - 35:24 - Right, right. On. 
+
+Jack O'Connor - 35:26 - That November timeline. 
+
+jamie . tutt - 35:28 - Yeah, yeah, okay. Well, this is good. Okay, well, what I'd like to do is I will get with my GM tonight or tomorrow. We'll have a conversation. This is worth chasing. You're okay to send me over that documentation? 
+
+Jack O'Connor - 35:48 - Definitely. Yep. 
+
+jamie . tutt - 35:49 - And then what I'll do is, if it's okay with you might want to maybe jump on a call with the 3 of us. Yeah. If we kind of just review it, and then we push it up to our ownership and say, okay, look, how are we going to do this? What, are we going to do? Yeah. To me, if we can hit that timeframe, it's definitely something that I think if we can do what we're talking about here, to me, it's a no brainer. 
+
+Jack O'Connor - 36:19 - Yeah, well, I'm glad to hear that. Do you want to throw some tentative time on the calendar for next week and we can see if we can bring some of your teammates on? 
+
+jamie . tutt - 36:30 - Hold on here. Let me see if I got my calendar. Here. Here. Or actually, I want to move on. This thing. You mentioned you had 1:00 o'clock tomorrow? 
+
+Jack O'Connor - 36:43 - Yeah, let me see. Is that still open? Yeah. 
+
+jamie . tutt - 36:46 - Hold on. Let me just see here. Got to check his calendar. 
+
+jamie . tutt - 37:06 - Says he's not, but I'm gonna, this is, him and I are hot enough on this. Let's tentatively put something in. If he can't make it, I'll email you by the morning first thing. 
+
+Jack O'Connor - 37:17 - Yeah, we can just move it to next week if he can. 
+
+jamie . tutt - 37:20 - Send me the invite, I'll send it to him, and if he can't, I'll get back to you. But, I really don't want to, because I'm going to need a little bit of time to run this up. My ownership and the board. So if I could get moving on this I said, I know it's gonna take me a little bit of legwork to get signed off and then we're gonna have to have the conversation with Adam. Who's kind of going through this right now and our IT team. But let's do that. And then I'll give you a heads up either way in the morning at the latest. 
+
+Jack O'Connor - 37:49 - Yeah, that sounds great. Otherwise, yeah, we can just move to next week if we need to. 
+
+jamie . tutt - 37:53 - Yeah, we will for sure. 
+
+Jack O'Connor - 37:55 - Awesome. Cool. Well, Jamie, I'll send you that info. Otherwise, yeah, I'll wait to hear from you in the morning. 
+
+jamie . tutt - 38:02 - Okay. Sounds good. All right, Jack. This has been amazing. Appreciate. The time. Absolutely. Look forward to kind of further in the conversation. 
+
+Jack O'Connor - 38:08 - Me too. Have a good one, Jamie. I appreciate, it. Thanks. Take care. Bye now. 
+
+===================================================================================
+
+END OF TRANSCRIPT

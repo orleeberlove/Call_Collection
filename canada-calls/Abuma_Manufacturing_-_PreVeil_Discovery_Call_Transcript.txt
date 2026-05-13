@@ -1,0 +1,177 @@
+Transcript
+Date: 2026-03-16
+Account: Abuma Manufacturing Limited
+Conversation: Abuma Manufacturing - PreVeil CMMC Compliance Discussion
+Speakers: Mark Hughes (PreVeil) + Noel Lesperance (IT Manager, Abuma Manufacturing/Armotool)
+
+=============================================================================
+
+Mark Hughes - 0:00 - Hey, good. Morning, Todd. This is Mark over at PreVeil. How are you? 
+
+Mark Hughes - 0:14 - Good morning. This is Mark over at PreVeil. 
+
+Noel Lesperance - 0:17 - Good morning, Mark. 
+
+Mark Hughes - 0:19 - Hi. Looks like we got Noel and Todd on the line. Here. Yes. All right. Well, good. Morning. Thanks. So much for joining. The call. I really appreciate you reaching out and setting up this meeting. 
+
+Noel Lesperance - 0:33 - Yes, sorry. I'm just trying to figure out. It looks like I joined the meeting twice here, so I'm just figuring out my audio. 
+
+Mark Hughes - 0:40 - Oh, no worries. I can hear you just fine. 
+
+Noel Lesperance - 0:43 - That's fantastic. So Mark, just to introduce myself, myself. My name is Noel Spranz, obviously I'm an IT manager for Armotool and for Abuma Manufacturing. Both the companies that my team here, who are both in the call, we support both companies. Armotool is the parent or sister company of Abuma. 
+
+Noel Lesperance - 1:14 - Both are controlled. Goods. Goods. Both will need to be certified for CMMC, which we're seeking compliance for right? 
+
+Noel Lesperance - 1:23 - Now. We're in the process of documentation and implementation. Along the road, we found because we are using a lesser version of 365, we found out through a C3PAO that isn't compliant and it must be no longer in scope. So the question is, how do we receive CUI via email and still remain in compliance? So PreVeil had come up as a possible solution for that. Sure. And. So we're just trying to nail down some numbers here, but can you provide some and a little answers to a couple of questions that I have? Certainly. Let me pull up my questions for you. So the first question I have is PreVeil FedRAMP Moderate. 
+
+Mark Hughes - 2:24 - FedRAMP Moderate Equivalent, yes. We are. 
+
+Noel Lesperance - 2:27 - Equiv. So you do provide all the documentation for an auditor to prove the equivalency. 
+
+Mark Hughes - 2:35 - Yes, and we have over 70 customers that have already achieved a 110 score on their CMMC Level 2 assessment conducted by a certified third party assessor. 
+
+Noel Lesperance - 2:44 - Right, perfect. Okay, that's great. 
+
+Noel Lesperance - 2:50 - Question number 2 is, so we have, for Abuma, we don't have that many users at Abuma, it's rather a smaller company. There's 45 employees and out of those 45 employees only 6 are currently receiving CUI via email. Okay. I've confirmed that this morning with the general manager. 
+
+Noel Lesperance - 3:20 - Is it possible to have one account and forward, have all your customers forward to that one account and have 6 people as have remote access to that one account to download that email? Or? Is that not compliant? 
+
+Mark Hughes - 3:41 - That is not compliant because you need on the activity. Logs, you need to record the activities of each individual user, whether utilizing a system like PreVeil as part of CMMC. Level 2. So each one needs their own separate, login, their own separate account to track the activity logs. So you would need 6 user likes licenses in this case. Okay. 
+
+Noel Lesperance - 4:01 - Fair enough. So I guess the question is the obvious questions are going to be like, I looked on your email or your website. And how are we, how would, basically I'm going to need a quote for 6 licenses, I guess, at this. Point. How will this 
+
+Noel Lesperance - 4:25 - So I assume that your platform is based on, it's in the US then? 
+
+Mark Hughes - 4:31 - Correct. Yes, yes. We are hosted in the FedRAMP. High AWS GovCloud that has data centers in the continental United. States. There's AWS East in Ohio and AWS West in Oregon. They're backed up multiple times daily and staffed by US. Personnel. But. We have many Canadian clients that are based in Canada that utilize the PreVeil system today, so we are an international company. 
+
+Noel Lesperance - 4:57 - So you're in Ohio and where else? 
+
+Mark Hughes - 5:00 - Well, that was, so that's AWS. We are based in Boston, PreVeil is. But the AWS, GovCloud, which we are hosted in, that's where the data centers are based in Ohio and Oregon. That's part of our, that's part of the makeup of our system. Gotcha. 
+
+Noel Lesperance - 5:15 - All right. That's good. Because when there's problems, with the networks it's good to know where these data centers reside. Okay. I'm just trying to think here. What else am I missing? I know you also do file sharing. 
+
+Mark Hughes - 5:37 - Yes. Yep. Absolutely. Could. 
+
+Noel Lesperance - 5:39 - You explain a little bit about that? I guess the other question is how does this all work for a company just starting out? Thank, Obviously, you. All of our documentation would have to change to support, PreVeil, right? And as a source for receiving CUI. So all of our data flow documentations would have to be updated to reflect that. 
+
+Noel Lesperance - 6:10 - I'm just looking at your spreadsheet that you're showing here now. 
+
+Mark Hughes - 6:13 - Yeah. Just wanted to kind of give the high level overview of what we do because we do, of course, have our encrypted email and file sharing, which is our core product for the technological side. But you're talking about documentation, and needing to update with that. Should you choose to use PreVeil. So I just want to touch on what we provide from that standpoint. So from the technology, side, yes, 6 user licenses and that would provide licenses to give your users encrypted email and file sharing. That provides support for 102 of the 110 controls for CMMC Level 2. So it does quite a bit, not everything. No one solution. 
+
+Mark Hughes - 6:57 - Does. Noelle, I forgot to ask you a question earlier. Would you potentially be working with any ITAR data as well? 
+
+Noel Lesperance - 7:06 - There are some contracts that do have ITAR mentioned, so I would say yes at this point. 
+
+Mark Hughes - 7:15 - Okay. Well, the system is also fully ITAR compliant, so we already have you cover from the ITAR standpoint, there. So basically what you would be doing is providing the 6 licenses to those individuals and creating this enclave for your CUI and ITAR. We're not going to have any impact to your current Office 365 system. Everyone keeps their commercial outlook and everything. Else. We're really setting up a separate network. That's going to be solely there for the purpose of storing, processing, and transmitting CUI and ITAR. So, the tech... 
+
+Noel Lesperance - 7:51 - What's the process, Mark, if we were to go this route, which it kind of looks like we have to go this route, what's the process for getting getting current CUI out of our commercial Outlook cloud? 
+
+Mark Hughes - 8:10 - Yeah, is that like a secure server that you have the CUI on today? It's? 
+
+Noel Lesperance - 8:15 - In 365 commercial, right? 
+
+Mark Hughes - 8:18 - Huh. So what I will say is that very typically when a customer onboards with PreVeil, in this instance, you have the 6 users, U's. You probably have a couple of administrators that are going to be managing your internal program. So after an order form is signed in about one to 2 days, you'll have a dedicated customer success manager assigned to your account. That individual will reach out to schedule your onboarding session, which is a one hour, sorry, it's a one hour technical call to set up your administrative accounts and have a recorded training of the platform. After that, it's just a matter matter of inviting of fact. The remaining 4 users to set up. Their accounts. So that can be done in a matter of a few hours. It can be done very quickly. That one hour call can also be set up. 
+
+Mark Hughes - 9:07 - So you can ask our technical team how you migrate your current CUI from the Office 365 system over to the PreVeil network. So that will then ensure that you're securing all of your CUI So we can certainly help in the migration process process. As part of that onboarding session. 
+
+Noel Lesperance - 9:28 - Would that be professional services after the fact, or it's just a here's how you do it, kind of thing, get your administrators to get that data over? 
+
+Mark Hughes - 9:37 - Yeah, that's actually part of our services. So with our licensing and we have a one time session for that onboarding call, call. That's included in that. There's no additional additional cost after the fact. Nice. 
+
+Noel Lesperance - 9:53 - What questions am I forgetting to ask, Mark? 
+
+Mark Hughes - 9:59 - Well, no, that's a great question. Because on. 
+
+Noel Lesperance - 10:02 - This CMMC journey, sorry to cut you off we found that we've had to implement multiple pieces of technology to support the CMMC. Journey, basically. Basically. And sometimes we've made decisions that we've had to retract on. I want to make sure that this is something that is, obviously, a C3PAO is going to find compliant. I'm just curious, are there any pain points that could arise, that we're not privy to? 
+
+Mark Hughes - 10:42 - Well, what I'll say say is that it's always every company is different. And. So I think what I'll just say is how we help through this, process. So one of the other things too, you're talking about the documentation. And in addition to the licensing of the software, we also provide a service that's called our Compliance Accelerator. So I've got that on the screen, right? 
+
+Mark Hughes - 11:03 - Here. So what the compliance accelerator does is that it gives you a number of support resources after you deploy your PreVeil provision. Enclave. So. What we're going to do is we're actually going to provide you with documentation templates and that'll include things like system. Security, plan, plan of action milestone worksheet, policy samples. You might have some of, you probably sound like you have some of the stuff already in place, but I think one thing that would be helpful from that standpoint is that we give you the system security plan, which is pre filled with the 102 controls. Controls that we provide support for CMMC, Level 2. So if you wanted, you could actually take the information from this SSP template and you could just cut and paste it onto your current documentation. 
+
+Mark Hughes - 11:49 - For those 102 controls, we provide support for. And that way, instead of having to go and update everything yourself without any help, we can at least give you this template. So we have all of the data that you can simply move over to your existing documentation. 
+
+Noel Lesperance - 12:05 - Okay. So basically, it's the PreVeil specific information that we would need to populate. The SSP. Because we've been working on our SSP for, obviously, for a couple of years. Now, right? Yep. Is this just PreVeil specific information as it pertains to the SSP? Or is it you're providing full documentation for a CMMC audit. 
+
+Mark Hughes - 12:35 - Well, in all honesty, the SSP template that we have, we gave that to a certified third party assessor partner of ours. And they said that would get a 110 score. If it went through a level 2 audit. So a lot of our customers will actually take the template and make it their own SSP just by replacing their company information with the fake company that we have on the template. And then they already have the 102 controls controls. All that information is already pre populated. And they just simply take and they fill out the remaining 8 controls. Think about things like secure access to your facilities and writing your policies and trainings. Those are the remaining controls that we don't really support from a technology standpoint. But. What I will say, Noel, is that we also have support that. 
+
+Mark Hughes - 13:19 - You can access directly here at PreVeil. We have a number of certified CMMC professionals on site. Staff. And. So part of the accelerator is that if you have questions around your documentation or just anything ongoing as you prepare for your audit, you can access this team for Zoom calls. Or there's also a dedicated compliance email. So you'll actually have live people you can talk to if you need any assistance. As you go about this process after your PreVeil, Enclave has been deployed. 
+
+Noel Lesperance - 13:49 - That's very useful. We do are have... Working with a couple of external security companies that are helping us along on this journey. Already. Some documentation obviously has already been supplied and we are populating that now. And I think we're probably about 70%. There. So we've already made quite a large investment. As you know, the documentation is quite extensive when it comes to this, right? But we're not like we're working on. 
+
+Noel Lesperance - 14:22 - Baselines, for instance the hardware and software and security baselines. And we're kind of, there's not a whole lot out there for templates. For those types of things, right? So is the compliance accelerator an add on feature or is it included in the subscription? 
+
+Mark Hughes - 14:44 - It's an add on feature. So it's optional. Optional. You can decide if you want to subscribe to it from. The start. I will say that you could also just start with the 6 user licenses. And if you determine that the accelerator is something you want to add, you can always add it on at a later point. Okay. I was 
+
+Noel Lesperance - 15:03 - Just going to say, if you want to add it on as an optional feature in the quote, that would be 
+
+Mark Hughes - 15:09 - Great. I'll be happy to do that. And I'll also provide you with this PDF here on the accelerator. Just to give you an outline of what it does. But yeah, it's something that's very helpful. And we know for our customers that are starting from scratch, this is great because it gives them so much, right? Away. For those that are already established. Yourself, it's something that can be helpful if you need that last, kind of extra assistance for the final mile of preparing for your audit. But truly, that's up to you. So I'll just put it in there as an add on and you can determine if it's something you'd want to start with or wait to see if you need to add it on in the future. 
+
+Noel Lesperance - 15:44 - Okay, fair enough. 
+
+Noel Lesperance - 15:47 - So, just to be clear, the quote for today, Mark, will be for ABUMA, A B U M A Manufacturing. 
+
+Mark Hughes - 15:57 - A B U M A Manufacturing, okay. And. 
+
+Noel Lesperance - 16:01 - We're in London, Ontario, Canada Oh, 
+
+Mark Hughes - 16:03 - Alright. 
+
+Noel Lesperance - 16:04 - I don't know if a Canadian supplier makes any difference to you in terms of compliance, but for us, we still have to follow all the, obviously, the CMMC US compliances. 
+
+Noel Lesperance - 16:19 - There is also Armo. Tool, that's spelled, A R M O hyphen. T O O L Limited. They are a bigger company, Separate from Abuma, which will have considerably more users. I'm still trying to nail down those numbers this morning, but once PreVeil, we have a successful model with rolling out PreVeil with Abuma. Plan would be to cookie cutter the same compliances over to 2 Armotool. 
+
+Mark Hughes - 17:03 - Got it. Okay. No, that sounds great. I would 
+
+Noel Lesperance - 17:07 - Argue, there's probably triple the amount of users for Armotool. But we'll cross that bridge when we get to it. 
+
+Mark Hughes - 17:17 - Yeah, absolutely. Now, would that be a separate entity? Yes. Okay, got it. Oh, very good. So I'm going to make sure I enter both of those companies into my system. Confident that a boom manufacturing will be successful with a PreVeil deployment. So I'll. Just make sure that if Armo does follow suit. That I'll be your point of contact for that secondary process of getting them set up with CMMC. MMC. But the other nice thing too, is that whenever you have a parent company and subsidiaries, you'll also have the same dedicated customer success manager over here. So that ensures that you have, kind of the continuity of relationships and communication and everything else. So that'll be good for me to just put that in the system. 
+
+Noel Lesperance - 18:01 - It'll be, one thing I'll mention is that when it comes to communicating with me via email for these types of quotes and that sort of thing, the only difference is the domain. So my email address is nlasperance at abuma.com. And for ArmoTool. It'll be the same at armotool.com. 
+
+Mark Hughes - 18:31 - Gotcha. 
+
+Noel Lesperance - 18:31 - A R M O T O O L.com without the hyphen for the domain for the email. 
+
+Mark Hughes - 18:40 - Yeah, let me just make sure I have the one in the system here, Noel. Okay. Alright, so I've got the Abuma email address on your main account here. So. That's where I will send the quote to after our conversation. 
+
+Noel Lesperance - 18:55 - Fantastic. Yeah, so we are interested in both the email Enclave and the File Share. We're currently using another FedRAMP. Moderate File Share right now for quoting, which also, well I shouldn't say it's a File Share, it's a quoting system that is FedRAMP. Moderate, equivalent. But. It would be nice to see how your package works, and perhaps that might be a better solution for some pain points that we're having with paperless parts. 
+
+Mark Hughes - 19:33 - Yeah, I just honestly, I've had, this is the third conversation in as many days where people have brought up paperless parts. So we've heard that they're a FedRAMP. A system that we would work in tandem with from a standpoint of quoting. So we definitely have many manufacturers that are in the same boat that are using those kind of systems. What I'm going to do, Noel, is that when I send over the quote, I'm also going to send over a couple of links that provide you with demos of both the encrypted email and the encrypted file sharing components of our platform. So that'll show you how the system works. And. Just put it out there. 
+
+Mark Hughes - 20:14 - If you decided, hey, we'd like to see a live demo of the platform. At some point, we could set up another call like this and I'd be happy to walk through the platform and answer any questions that you have. But I. Think with the quote and the demo links, hopefully that should give you enough information on PreVeil and the support that we have. And I'll also put in our presentation template here. Here. So what I was showing today, it has some additional detail around how our system works that you can utilize as well. And again, I know, we only had a 30 minute session set up here, so if you feel you want to have a second call to answer any other questions or see that live demo, that's definitely something we can also set up if that would be helpful to you as well. 
+
+Noel Lesperance - 20:56 - Well obviously it's the questions will come up as to how it is that We are accessing your Enclave. Is it through an Outlook client? Client or do you have your own client or is it only done through a web browser? things like that, right? So maybe a demo might be a good idea. I don't know how quickly you could scramble something like that together, but obviously we're getting, we need to be compliant and certified before November of this year. 
+
+Noel Lesperance - 21:30 - Obviously time is of the essence. What availability. Do you have for a demo? 
+
+Mark Hughes - 21:37 - Let's see here. So I think if we could put 30 minutes on the calendar. Today I'm pretty booked. Up. Tomorrow is much more free. Are you on Eastern time? Yes. Okay. Let's see here. What about 11:00 o'clock, Eastern tomorrow? Yeah, 
+
+Noel Lesperance - 21:57 - We could do that. 
+
+Mark Hughes - 21:58 - Okay. So Noel, let me do this. Let me send an email to you. Can. 
+
+Noel Lesperance - 22:03 - We do 1130? 
+
+Mark Hughes - 22:05 - Yeah, we can do 1130. That's no problem. 
+
+Noel Lesperance - 22:07 - Let's do that. 
+
+Mark Hughes - 22:08 - All right. So Noel, what I'll do, I'll send the invitation to you. If you want to just forward that on to Todd and Jerome. I don't have their emails. So, if you just could forward to that. And anyone else who would like to I'd like to join join. With the second session. I'll send you the links today so you can have a preview of the platform, VDI, but then we'll go through a live 
+
+Mark Hughes - 22:33 - You All Ware, I'll be there to answer questions as we go through. 
+
+Noel Lesperance - 22:41 - That'd be great. 
+
+Mark Hughes - 22:42 - Okay. Well, let me do this, Noah. I will get you the quote and the links today, and then I'll send over the invite for the demo tomorrow. And then after that, if there's any other information need, I'll be happy to provide it. Otherwise, yeah, I'll just go ahead and get that on the calendar now and we'll plan for our second session on Tuesday morning. 
+
+Noel Lesperance - 23:00 - That would be great. If you want to send me a copy of this recording, I can forward it off to the general manager of Abuma. 
+
+Mark Hughes - 23:07 - Sure, let me just... Recording... Okay. And... Okay. All right, I will get on those right now and we'll look forward to talking to you tomorrow. 
+
+Noel Lesperance - 23:19 - Thanks, Thank you. Mark. 
+
+Mark Hughes - 23:20 - You got it. Have a great rest of your day. You too. Bye. Thank you, Mark. Bye. 
+
+===================================================================================
+
+END OF TRANSCRIPT

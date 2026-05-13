@@ -1,0 +1,507 @@
+Transcript
+Date: 2026-04-16
+Account: PWM Hydraulics
+Conversation: PWM Hydraulics - PreVeil CMMC Compliance Discussion
+Speakers: Mark Hughes (PreVeil) + Saqib Ali (PWM Hydraulics) + Christopher (PWM Hydraulics) + Sarah (PWM Hydraulics) + Fernando (PWM Hydraulics)
+
+=============================================================================
+
+Mark Hughes - 0:00 - Okay, good. Afternoon, everybody. This is Mark over at PreVeil. 
+
+Saqib Ali - 0:04 - Hi, Mark. Hi. 
+
+Mark Hughes - 0:04 - Hi there. 
+
+Saqib Ali - 0:06 - We're just a few in a room here. Here. We have Christopher on the line as well. He's part of our project team as well. 
+
+Christopher - 0:13 - It shows me twice, which is pretty awesome. 
+
+Saqib Ali - 0:17 - You're the only ones. 
+
+Christopher - 0:19 - I have my old business one. 
+
+Saqib Ali - 0:23 - So 
+
+Christopher - 0:24 - It shows both of mine. No big deal. 
+
+Mark Hughes - 0:28 - Got it. So I think Saqib, Christopher, Sarah and Fernando, is that everyone we've got on today? 
+
+Christopher - 0:33 - Yes, sir. 
+
+Mark Hughes - 0:34 - All right. Right. Excellent. Well, I think it's just the 4 of you. You weren't expecting anyone. Else, correct? 
+
+Saqib Ali - 0:39 - No, that's it. 
+
+Mark Hughes - 0:40 - Okay. Awesome. Well, I appreciate you setting the call up with us. Here. It. Sounds like our good friend Patrick Cowling at Cowling & Associates had recommended us to you, and that's kind of what's brought us together on our call today. 
+
+Saqib Ali - 0:52 - Yeah, there's been a few people. We've been talking to CMMC consultants, and there's been There's been a few people who've, and auditing firms who've said PreVeil and mentioned PreVeil a few times. So we kind of wanted to get a chance to chat. Yeah. 
+
+Mark Hughes - 1:10 - Great. You've been recommended by quite a few people. 
+
+Saqib Ali - 1:13 - So yeah. I'm familiar with your 
+
+Christopher - 1:15 - Product. I came from the DOD side of the house or Department of War or whatever it is. This week. So I'm familiar with PreVeil. I used to sell on the FedRAM. 
+
+Mark Hughes - 1:22 - Oh, awesome. Okay. That's great to know. Well, tell me a little bit about your organization, specifically around your business needs around CMMC. I'd just like to learn about you first. And then that'll help me kind of tee up to our conversation afterwards. 
+
+Christopher - 1:37 - Is that a me or a Sarah one, Sarah? 
+
+Saqib Ali - 1:39 - You can go, Chris. I do want to mention that we might be potentially working with a partner to help us configure our PreVeil space and all that kind of stuff. 
+
+Saqib Ali - 1:52 - So yeah, I just wanted to prefix by saying that just eventually we'll have someone, a consultant helping us with the configuration and all that kind of stuff. 
+
+Mark Hughes - 2:03 - Yeah, I've actually been in touch with that. Partner. They mentioned they were working with you. So when we provide pricing, it'll actually come through them. So that. Just lets you know, I think that's a vigilant sec that you're working with. 
+
+Christopher - 2:16 - I. 
+
+Mark Hughes - 2:19 - Talked to Jen earlier today, she knows that I'm going to send her after out. Our conversation. Today, I'm going to send her the information she needs to provide a quote. So Jen from Vigilance. Sec will be giving you that PreVeil pricing. 
+
+Saqib Ali - 2:30 - Awesome. Thank you, Mark. 
+
+Mark Hughes - 2:31 - Yeah, for sure. 
+
+Christopher - 2:32 - So our organization, we're an engineering firm, manufacturer. We're in every single space you could possibly imagine. Land, sea, air, oil, gas, ag, mining. Now we're getting into the lovely world of defense. My background is in DOD, FedRAMP, GSA type sales, startups, so that I'm familiar with the world of CMMC since about 2019. My idea is that we're going to do a CUI Enclave, keep a real small, real focused, kind of tight knit, and kind of isolated so that it won't impact the rest of the business scope, and use like a vigilance MDR to to capture all the slippage. And keep it as lean as possible while allowing the scope to expand. 
+
+Christopher - 3:21 - As the demand signal is dictated by the DOD. Got it. If that makes sense. Yeah. Obviously. Right now we're not sitting on a contract because L3, Northrup, everybody's dropping a letter. Nobody's doing the work, right? Now. Once that demand signal drops, we'll be able to know. So the goal is to keep as much of scope as possible while allowing us to expand as and as that demand signal. Centers. Comes online. So if we get a Boeing tomorrow and they're like, oh, well, get this certain, you're going to build fuselages or whatever, obviously the 2 machines and the little enclaves going to need to have rapid. Expansion. And I don't want to trigger a new audit before the tri annual. Sure. 
+
+Mark Hughes - 4:00 - Understandable. That's very helpful. I appreciate that, Christopher. Out of curiosity, now, as of today, are you currently handling any CUI on premises or is this more like future preparation for 
+
+Christopher - 4:12 - Contracts? Future prep right now and to be fair, one of our other avenues are, so one of our portions of the defense business is a NATO company and obviously NATO is going to be ISO 27001. SOC 2 Type 2. It's not going to be anything CMMC and per them, they don't let anything go into a cloud. So I still have to be able to go up. I got an Enclave right here and I got an Enclave, right? Here. I got America Land of the Free Home of the Hot Dog. I got the NATO guys trying to figure things out, right? Here. And I got the Canadian Maple Leaf, right? 
+
+Christopher - 4:46 - Here. That's the overall vision for how I see us handling CUI, SCI, things of that nature. That's the overall encompassing vision. But I don't want to trigger that second audit because so many companies are, when they expand, they're not understanding that they're changing little operational scopes and that's going triggering these audits. 
+
+Christopher - 5:08 - To be able to expand into that square footage as dictated by the defense primes or Department of War. 
+
+Mark Hughes - 5:22 - Okay, perfect. And then. Also, would you potentially be working with any ITAR data in the future? 
+
+Christopher - 5:29 - Depending on the Department of War, yes. It is a distinct possibility. I mean, anything built there is going to obviously be subject to ITAR, CAGE, codes, all that. When the process of doing the refresh on the CAGE code or getting the new CAGE code for the entity, that is not completed. Yet. But yes, that is the overall, obviously anything statewide would likely be ITAR. 
+
+Mark Hughes - 5:51 - Got it. Okay. Very good. And then for the Enclave, just from like a starting point, do you know about how many employees might might need access to have a license with PreVeil for that enclave? 
+
+Christopher - 6:03 - To the actual license from PreVeil? So, PreVeil is per user access, correct? 
+
+Mark Hughes - 6:08 - Correct. And they can have multiple devices on that one user license. 
+
+Christopher - 6:11 - Right. Multiple devices, one user per license. 
+
+Mark Hughes - 6:14 - Correct. Okay. 
+
+Christopher - 6:16 - Sarah, what did we say? 10? Yeah, 10. 
+
+Saqib Ali - 6:20 - 10? For computer users. 
+
+Christopher - 6:23 - No, no. So you can have multiple devices to together. Keep. So I can have 30 endpoints if it's yours, but it's your access that is per license for PreVeil. So the user becomes the license, not the endpoint. Am I saying that right? 
+
+Mark Hughes - 6:38 - Yeah, absolutely. 
+
+Christopher - 6:41 - So how many users do we have? A? Couple of engineers that actually need the CUI. They don't need to be able to go to the space. They need to be able to access the CUI. So how many people actually need to be able to get into the Enclave? Or less. Ten or less? Yeah. Do you guys have a minimum on that, Mark? 
+
+Mark Hughes - 6:57 - Three. 
+
+Christopher - 6:58 - Three? Okay. Does it go by a scale? Is it by five? Is it buy one, get one free? Do you got a 50%. Off, like big and tall? What. Are we working with here? 
+
+Mark Hughes - 7:06 - Yeah, it's individual. So you have individuals. If you start with ten, and let's say you needed to add another license in a month, you can just reach out to us and ask us to activate that. We'll prorate that licensing fee for whenever it's activated. If you went over a... Yeah, yeah. So yeah, it's just, we don't make you buy blocks, which is one at a time, so we can scale with you as needed. 
+
+Christopher - 7:26 - Okay, so you guys just sell it to typical pass, just individual license per user, not endpoint. 
+
+Mark Hughes - 7:33 - Exactly, exactly. And if someone left, you could always repurpose the license to the replacement, so you don't need to buy a new license. They're interchangeable. 
+
+Christopher - 7:39 - That was my next question, because a lot of people are like, oh, no, that license is to him, you have to deprecate this license. And... And... Okay. How many devices per user? 
+
+Mark Hughes - 7:50 - Unlimited. Oh!. 
+
+Christopher - 7:54 - Interesting. Okay, what do you count as a device? Anything with a Mac address? 
+
+Mark Hughes - 8:00 - I mean PCs, laptops, smartphones, tablets we have a mobile app for the smartphones and the tablets. We always say you want to keep your compliance boundary as small as possible, but if you have someone that has 2 or 3 devices, install PreVeil on each one. I. 
+
+Christopher - 8:15 - Have a boss with 3 phones and like, a laptop and like, several assistants. He's a very busy man. So. As that happens, I need to, in my mind, be able to go, okay, This is your CUI phone is where I'm thinking. This is your CUI phone. This does nothing else besides that. When it's done, throw it in a locked drawer, like whatever you got to do, right? Okay, so it's unlimited licenses for that. So what, do 10 guys? I don't even think we need 10, dude. 
+
+Saqib Ali - 8:43 - We 
+
+Christopher - 8:50 - Need? One for an engineer, 
+
+Saqib Ali - 8:51 - 2 for engineer, one for the enclave computer, itself, one for 
+
+Christopher - 8:57 - The enclave. The user going to the enclave is the license. 
+
+Saqib Ali - 9:02 - Yeah. So 2 engineers. And accounting. One for accounting. 
+
+Christopher - 9:07 - Two Engineers, Accounting, Corey, Karen. 
+
+Saqib Ali - 9:11 - Karen? Does production need to go in there? 
+
+Christopher - 9:14 - So not even Karen. So we got 4. 
+
+Saqib Ali - 9:17 - Yeah. Less than 10 for sure. 
+
+Christopher - 9:20 - It's going to affect our pricing model, right? Oh yeah. 
+
+Saqib Ali - 9:24 - Let's say 5 then. If it affects our pricing, 5. 
+
+Christopher - 9:28 - Yeah. We'll start with five, Mark. Yeah. 
+
+Mark Hughes - 9:30 - We'll start with 5 and we modify it. It's not a problem at all. Well, starting yeah. 
+
+Christopher - 9:35 - Point for us. It's divide by 5 and you guys don't give a discount, I'm sure, because the way your model is, you're not giving discounts. Oh, buy five, get one free. It's not 
+
+Mark Hughes - 9:43 - Happening, right? Right, right. We don't give discounts unless you go over 30 users. Then we get volume discounts at that point. 
+
+Christopher - 9:48 - Yeah. Okay. Yeah. So we'll start with 5. 
+
+Saqib Ali - 10:01 - Per 3 users? 
+
+Mark Hughes - 10:02 - Yeah, so that's like a starter package that we have for like, 3 users or less. Above that, then it's a different model where we quote the 5 users and then individual services beyond that, because the PreVeil pass includes a compliance accelerator, which I'll talk about here in a moment. But after about the three, then it's broken, out. So it's users and the 
+
+Christopher - 10:26 - Compliance. I see businesses 30. So obviously, GovCommunity is going to be the one we need. What, is that per user typically? 
+
+Mark Hughes - 10:37 - Well, the pricing is going to come from VigilantSec, so I'm not sure what it's 
+
+Christopher - 10:43 - Going to be. I just meant like, do you guys, is it by what is the what is, what quantifies cost? how many users, the data point, or is it just like your end retailer or is it just per deal? Deal. Mean? 
+
+Mark Hughes - 10:55 - It's per user. And then we have some additional modules that when we walk through today, I'll determine whether you need them or not, just kind of based on your business. So it's really just by the users. And then there's a few other things you can add on. But. That's really the only thing. I mean, we give you 10 terabytes of storage with your subscription, so you don't have to worry about extra storage costs. And then all of our tech support, everything that's bundled in with the user licenses as well. 
+
+Christopher - 11:20 - Oh, okay. So that includes 
+
+Saqib Ali - 11:23 - Updates and that kind of stuff? 
+
+Mark Hughes - 11:26 - Everything. Yep. All updates, all versions. Yep. You'll get notifications. When we do an update. And it's usually, we have a new version coming out every few weeks. So. 
+
+Christopher - 11:33 - I have to ask the FedRAMP question of the day, which I'm sure you hear this one a lot. Why, why go with PreVeil over like a GCC High? 
+
+Mark Hughes - 11:43 - Hmm. No, that's a good question. I mean, at the end of the day, and GCC High will get you compliant. Compliant. I'm sure they have a good amount of customers that have gone through an assessment and gotten a 110. Score. We've gotten over 80. So we're already a proven solution in this marketplace. We average, probably one to 3 each week that go through an assessment through a C3PAO and get the 110. 
+
+Mark Hughes - 12:06 - Score. So what we say is that, do you really need everything that goes into a GCC? High? Because a lot of times, GCC High will say, well, you need to do a migration from your Office 365 or Google Workspace or whatever it is, and then you got to set everybody up or you have to set up a whole new tenant and then do this migration and buy licenses. And a lot of times these people are getting sticker shot because they're getting 6 figure quotes for something that we will come in for a one 10th or 21 quarter of what that cost is. 
+
+Christopher - 12:38 - I am the anti GCC High guy. I hate GCC. High. I think it is the most most overpriced, overinflated way to make an enclave, but it is the standard on the hill. It's what a lot of people use. So I just wanted to hear it from you. Like. That is really what it comes down to is, do you actually need the capabilities of GCC High? It's not any more secure. It's just way more expensive. 
+
+Mark Hughes - 13:00 - Exactly. I mean, if the entire business like, is 100 employees and they all handle CUI or they have thousands of employees and they just need more functionality, it makes sense. But if you're 30 employee company and 5 people need to have access to it, a 5 user enclave with PreVeil, can meet all those requirements. We do this without breaking the bank. 
+
+Christopher - 13:19 - Right. Okay. That answers. All my questions. 
+
+Mark Hughes - 13:24 - Great. So just for the team, I'm not sure if you'd like, but what I can do is I can just walk through maybe a little bit of how PreVeil helps with the compliance and then just show you some and some of the other features that we have. Of open it up to see what would be beneficial to PWM, answering other questions, and then just keep letting me know what I can share with you. I'm happy to do so here. 
+
+Christopher - 13:46 - Today. Absolutely. 
+
+Mark Hughes - 13:48 - All right. Well, let me do this. Let me start. I want to talk about the how we help with compliance, because some people are quite familiar with us. We're getting more traction in the industry. We have over 2,500 customers globally. Now. So not just here in the US, but Canada, Europe, Australia, Australia, Japan, we are truly everywhere. And I think as we've looked at where we fit in. 
+
+Mark Hughes - 14:12 - The market, I mentioned earlier, that being able to serve small to mid sized enterprises in the defense industrial base and providing them with enclaves so that they're not doing these massive migrations and huge projects, it's really helping us grow in that instance. Because it gives those companies the ability to compete with some of the larger competitors out there that might be able to afford a GCC High. And. So what PreVeil's doing is that, I mean, there's really 3 core services around. Here. Sounds. You're already talking with our partners in the network, so you're good to go with VigilantSec and whoever you're working with. 
+
+Mark Hughes - 14:51 - Where we're going to come into that part of it, is that the technology itself is the email and the file share. Sharing. So, we're creating a completely separate environment from your Office 365. Commercial space. We're just going to give access to the 5 users initially and then that secure enclave is separated so that you now have a solution that is not only ITAR compliant, but it also provides support for 102 of the 110 and Controls for NIST 800 171 and CMMC Level 2. 
+
+Mark Hughes - 15:25 - Technology is quite a bit from that standpoint, and that's what some of the customers we have, they say, this is great, this is what we need, but we do also have the ability to provide compliance support after you deploy the Enclave. And just to touch on what that is that after our customers deploy the PreVeil platform, they need to have some additional resources as they prepare for that Level 2 audit. So I did just want to walk through this compliance accelerator and explain what it is. Just want to get to see if this is something you think would be valuable for you, and then happy to give you more detail on it. But the accelerator is a resource. It's a separate subscription from the actual licensing, and it gives you access to the compliance team that we have internally at PreVeil. We have a number of certified CMMC professionals on staff, compliance. 
+
+Mark Hughes - 16:18 - Experts. We have 4 former customers that have now joined this team to walk new customers through the process of setting up their Enclave. And they're accessible by Zoom, calls. We also have a dedicated compliance email. So you can actually interact with a live human being to get those answers. And. They can address any questions you have around any of the 110 controls, ITAR, DFARS, NIST, things along those lines. 
+
+Christopher - 16:45 - What's the cost for this? 
+
+Mark Hughes - 16:46 - Yeah, so again, that's going to come from the Vigilance Sec quote. I mean, it's going to be, 
+
+Mark Hughes - 16:55 - I don't know how they're going to quote it. Out. It's usually depending on the size, it's in the thousand, a few $1,000 it just depends on the size. I. 
+
+Christopher - 17:05 - Don't want to give up. 25 grand or something. 
+
+Mark Hughes - 17:09 - It's definitely less than that. 
+
+Christopher - 17:10 - It's a single day being broker. 
+
+Mark Hughes - 17:13 - Exactly. Exactly. So it's in the thousands, but it's not more than 10. I mean, that's and even less than that. So that'll give the range. So when you get the quote, you won't see no. It won't be a 5 figure quote. You'll get from Vigilance Sec. 
+
+Christopher - 17:27 - Yeah, no, that's why I wanted to make sure and say we could stop there at that. But no, okay. 
+
+Mark Hughes - 17:31 - Yeah. So yeah, and then there's documentation templates that we give you for a level 2 SSP and all the supporting documentation around that. There's a learning management system that I've I've got on the screen, here. This provides videos that walk you through pretty much every step from scoping your boundary to getting ready for your final assessment. And there's resources on this learning management system. 
+
+Mark Hughes - 17:53 - So you could actually come and schedule one of those compliance calls directly on the site. There's a lot of great links to DFARS and awareness and training videos and other compliance resources. So this accelerator is just meant as a means to be another way for you to get ready for your audit. So. That's something that we don't just drop the software off at your door and wish you good. Luck. We're really working with you every step of the way. And. So we're also going to work with your C3PAO and your consultants all together. So we're sure that when you go through that audit, we're confident you're going to get a 110 score. 
+
+Mark Hughes - 18:32 - Awesome. Other questions on the accelerator or any other detail I can provide on that? 
+
+Christopher - 18:40 - For your documentation for your accelerator, do you do anything with incident response playbooks? 
+
+Mark Hughes - 18:47 - We don't for the incident response. Plan. I don't believe we have a template for that. Now, one of the things is that's one of the controls outside of our scope. So even though we might not provide it, you could always ask us questions about creating an incident response. Response. Plan. I mean, we've got a lot of customers, we can share some best practices or things along those lines. So. That's really where it comes into the accessing the compliance team, asking their advice, they can assist with that part of it, even though it's outside of the scope of what we 
+
+Christopher - 19:15 - Offer. Yeah, no, that makes sense. 
+
+Mark Hughes - 19:22 - Great. So honestly, the Enclave can deploy in a few hours with 5 users. You're looking at a one hour onboarding session to get your administrators set up and operational. There's probably, you're gonna have one to 2 admins as part of this enclave to be the super users. After that session, they activate the remaining 3 or 4 licenses. So you get this enclave up and going as quickly as you need it to. And again, we're a proven solution with over 80 customers that have gotten that 110 score and averaging 1 3 each week. So you can be rest assured that you have a solution that does work. And. Just to give you an idea, the diagram here, just gives a visual on how we work with you. So your Commercial, Office, 365, all the employees using Outlook and everything. 
+
+Mark Hughes - 20:09 - Else, that remains the same. We separate. The Enclave into the FedRAMPi AWS GovCloud. So now I'll CUI and ITAR is stored. When it comes into, you're a customer or whoever is sending that to you, it comes into our Enclave, it's encrypted, and when you need to share any emails or files, we use FIPS 140 3 encryption modules as required by the DOD for NIST. 800 171 and CMMC Level 2. 
+
+Mark Hughes - 20:43 - Now it sounded Now it's the like... AWS. 
+
+Christopher - 20:44 - PreVeil GovCloud. Is PreVeil on AWS? You. 
+
+Mark Hughes - 20:48 - Were hosted in the AWS GovCloud, 
+
+Christopher - 20:50 - Correct. Okay, 
+
+Mark Hughes - 20:52 - So they do all the backups and everything for you. 
+
+Christopher - 20:54 - That's, what I was going to ask next. 
+
+Mark Hughes - 20:56 - Yep. So you don't have to worry about a thing. Everything is maintained in the GovCloud, and that's backed up multiple times daily. Now, the question I was going to ask you is, we talked to earlier about in the future, you're going to probably be receiving CUI from customers and other third parties. 
+
+Mark Hughes - 21:14 - I think I heard too, that you will probably need to also be receiving that from potentially .mil email addresses or DoD primes. 
+
+Christopher - 21:22 - It could be a .mil, it could be a DoD prime, it could be at Lockheed. Martin. Whoever's going to require and dictate is going to be kind of what it is, right? 
+
+Mark Hughes - 21:32 - Who knows. 
+
+Christopher - 21:34 - With the states, right? Now. I'm an American. So I can't tell you tomorrow who's going to be pushing what. 
+
+Mark Hughes - 21:40 - Right. Yep, there is fluctuation, but we understand that when it comes to third parties, you'll need to interact with them. And. There's 2 different ways that you can do that with PreVeil. So the first method is for the non military, the non DOD primes. The non DOD, not. 
+
+Christopher - 21:58 - Army, not mil, the not add DOW or 
+
+Mark Hughes - 22:01 - Yeah Joe at manufacturing.com things like that. These small businesses, subcontractors. Typically, in those cases, they may not have a secure system like a PreVeil or like a GCC High or whatever it is to handle CUI. So when you need to send CUI or receive CUI from them, if they don't currently have a license, you can invite them to join PreVeil for free through a service called PreVeil Express. 
+
+Christopher - 22:32 - Yep, and this is just your portal, right? 
+
+Mark Hughes - 22:34 - Exactly, exactly. So again, you can invite them to join. It takes them 2 minutes to set up their free, account. They don't need to install any software. And. Then once they have it's a browser based solution. They can use it. Anytime. And there's no cost to you or to them. A GCC High, for example, they'll charge you for every guest license. So we don't do that. So. That's another differentiator between us and Microsoft. 
+
+Christopher - 22:57 - That's literally what I was just thinking, because people get that $100,000 bill with that stupid second license charge. 
+
+Mark Hughes - 23:03 - Exactly, exactly. Exactly. So that helps us when it comes to those types of third parties. But we also realize that you will need to work with the DOT Mills and the DoD primes of the world that are going to be more hesitant. We do have some people at Lockheed and some of the other DoD primes that use PreVeil Express, but you might have a different division that dictates no, we already have a secure system in place. That's what we need to use when it's handling encrypted CUI. 
+
+Christopher - 23:29 - Yeah, the us.army.mil might have a little bit of hesitation of uploading into a portal. I think it actually not. I mean, when I was in the AR poster, so. 
+
+Mark Hughes - 23:37 - Yeah, Christopher, you're spot. On. And so, for those specific entities, they might be already using for file sharing. They might be have a secure FTP, like DOD save or 
+
+Christopher - 23:48 - GCC. Yep. 
+
+Mark Hughes - 23:48 - That's fine. So, for the file sharing, that's typically what these organizations are going to do. For the emailing, that's where we have found a couple years ago. We came up with a solution called the email relay. And what the email relay does. Is that when you need to email a .mailer or a DD Prime or receive an email from them, the email relay creates a secure subdomain so that they don't need to sign up for PreVeil Express or they don't need to do anything else at all. You will maintain a list of email addresses or email domains that go through this email. Relay relay. So when you send an encrypted email from PreVeil at 
+
+Christopher - 24:29 - PWM. It's directly against the list. Exactly. It's like an ASCII control list for email. 
+
+Mark Hughes - 24:35 - Precisely. It shows up in their secure system and they don't do a thing on their end. It's seamless. So when they respond, back, it comes back to the relay and that encrypted email arrives in your PreVeil mailbox. 
+
+Christopher - 24:47 - Very cool. Okay. And you guys do work with DOVSafe? 
+
+Mark Hughes - 24:50 - We do. Yep. Hundreds of not thousands, of customers that use DoD Safe in tandem with PreVeil. 
+
+Christopher - 24:56 - Okay. Is that still the big thing? Is DoD Safe? 
+
+Mark Hughes - 25:01 - It really is. We're still finding that. So. That's what the majority of those dot Mills and DoD Primes. 
+
+Christopher - 25:05 - Are using We know, today. How many solutions they've tried to replace DoD Safe. 
+
+Mark Hughes - 25:08 - With, man. I can imagine. 
+
+Christopher - 25:11 - It's like nobody has this. DoD Safe is fine. It works. It's super simple. It's secure. Secure. I've never heard of a problem with it, but they keep trying to replace it. So I just stopped, trying to figure out what it was. 
+
+Mark Hughes - 25:22 - Sure, sure. So basically, I. Just want to stop here. When you have the PreVeil Express and the email relay, that'll help you interact with 100% of your third parties. I. Just want to stop and ask the PWM team if there was any other questions on that or anything else about how PreVeil helps with CMMC, Level 2 compliance. 
+
+Saqib Ali - 25:41 - In this diagram, PreVeil Enterprise User, DBCO, this is all all non CMC and CMC. Both are in one windows. Is it like that. Or there are different, different non DOD things, they should be separate or they should be within the same. 
+
+Mark Hughes - 26:03 - Scope? Oh, everything here is included in the same PreVeil Enclave. So there's nothing separate about the email, relay. I mean, all that's maintained in our Enclave. So really the separation that you're looking looking at at here is simply between your commercial systems and PreVeil. So that's where the separation happens. You keep your commercial office 365 and then all CUI, all ITAR, any other sense of data is stored and housed and PreVeil, and that's where all the encrypted email and file sharing takes place as well. 
+
+Saqib Ali - 26:30 - But in our case, there are different systems, different networks, and most probably the domain controller and all those sort of things will be different for CMMC. 
+
+Christopher - 26:41 - Oh, I see what you're saying. So one of the other things is like, because we deal with a lot of other customers that are not within scope of ITAR, that are not actually allowed to be within scope of ITAR. Okay. So we're going to have those, is that what you're talking about, Ski Pho? We're going to keep those segmented? 
+
+Saqib Ali - 26:55 - Exactly, not mixing up the... 
+
+Christopher - 26:57 - Yeah, so like all of our CUI for anything related to ITAR was going to use PreVeil. When we get to our NATO clients that don't let us put anything in the cloud, that's going to an enclave probably sitting 5 feet away, which will just be this, but it won't be PreVeil, obviously, right? It'll just be us making a replication of this as best as we can using no. Third party, just having it be super simple laptop. Endpoint. And. That's probably what our other 2 enclaves will look like until Canada gets with the CPCSC or decides to make reciprocity and then we just have a PreVeil for Canada. 
+
+Mark Hughes - 27:36 - Gotcha. So, are you just asking how you ensure that the appropriate encrypted emails come through PreVeil rather than another another different manner for that other separate enclave? 
+
+Saqib Ali - 27:50 - Like the mailbox, the Outlook, our Gmail, the existing one that we have already is a separate thing. Like you guys will bring on the table E Mail. Systems that is a separate license and separate domain. All of that will be under PreVeil, right? 
+
+Mark Hughes - 28:08 - Correct. We 
+
+Saqib Ali - 28:09 - Will not be using the one that we have right now in the PreVeil system. 
+
+Mark Hughes - 28:15 - Sorry, you're talking about using the same email? Address? I'm sorry, I'm not understanding. 
+
+Saqib Ali - 28:19 - Same emailing system like at PWM Hydro. 
+
+Mark Hughes - 28:22 - Oh, I'm sorry. Okay, yeah, yeah. Thank you. I now understand. So PreVeil is not actually email. It's end to end encryption that's built to look like email. So there's actually no email servers involved with us. Everything is through the GovCloud. So. That's why you can actually use the same business email you have at PWM. Today. So like, here, for example, you can still use that for your commercial email, but you can also use it for PreVeil as well. So you don't need to maintain a second email address with the PreVeil platform. 
+
+Christopher - 28:50 - That's why you have the SMTP and the IMAP proxy. 
+
+Mark Hughes - 28:53 - Correct. So you're 
+
+Christopher - 28:54 - Not letting data collide and just go long in the state. Is there an RSA encryption? 
+
+Mark Hughes - 28:59 - 5th140 3 encryption. 
+
+Saqib Ali - 29:02 - It doesn't like, it's a relay sort of thing. Like our Fernando, it will become a relay sort of a thing and it will be... 
+
+Christopher - 29:15 - We're going to still use our same emails, it'll still be our same DNS. This is going to be just, this is the encryption incredible model that sits as I'm think of a man in the middle of tech, right? This sits in the middle and lets everything talk and be encrypted. 
+
+Saqib Ali - 29:30 - But Chris as you yeah. Exactly. PWM dynamics domain is yeah, exactly. 
+
+Christopher - 29:35 - Yeah, it'll be just the domain for the dynamics. The hydraulic stuff will never touch. These will never touch this cloud. 
+
+Saqib Ali - 29:41 - So we will be using those licensing, like licensing thing for PWM. Dynamics, which have we have acquired from Office. 365. We have Office 365. 365. So we will be using those licenses? 
+
+Christopher - 29:55 - He's asking when we get the email that would go into this cloud, is what he's asking, I believe. The emails, would just be our emails. 
+
+Saqib Ali - 30:04 - Our emails. 
+
+Christopher - 30:05 - We just have to tether one to the PreVeil solution. 
+
+Saqib Ali - 30:10 - Okay. Yeah. 
+
+Mark Hughes - 30:11 - And let me show you, I'll just kind of show you that the software here. So when you first install PreVeil on any device, this is the browser view that shows up. So all 5 of your users are going to have a mail console for the email. And then the drive console will be for the file sharing. Of the five, you'll probably have one or 2 that will have admin privileges as super users. Those individuals will also have this admin license, which I can explain a little bit in a moment here. But with the mail functionality here, here, you can compose secure emails right here in this browser and they'll all be encrypted when they're sent to whichever recipient they're going out. 
+
+Mark Hughes - 30:50 - To. When you utilize, Microsoft Outlook, we do also have an Outlook plugin for PreVeil. So, just to give you an example here, I've got my Outlook up. And this is my commercial Outlook. This is my mhughes at PreVeil.com. So this is not encrypted. These are just standard email. Emails I send day to day. Ask a coworker, do you want to grab a cup of coffee? Things? Like that. So everyone at PWM keeps their commercial Outlook. But for the 5 users that can install PreVeil, they'll have the ability to add a second encrypted inbox as part of their Outlook. And that's what this encrypted Mark Hughes inbox here, it's the Microsoft Outlook plugin for PreVeil. 
+
+Christopher - 31:34 - So I guess what he's I. Think what he's asking is how do we make the this email go from the regular to the encrypted? Like what do you what is the end user change? 
+
+Mark Hughes - 31:45 - Yeah, so what they'll do is here I'll give you some examples. So in the encrypted inbox. Whenever they open up an email, it's going to be secured. So I just open it in inbox. My encrypted email, it's got the message encrypted banner encrypted next to my name. So this will make sure I have a secure email message. 
+
+Christopher - 32:02 - What about inbound? Example, I want to send Mark Hughes at PreVeil an email, but I needed to go to the CUI. Inbox. I'm not even telling you it's coming. I'm just sending you CUIs. I told you I'd send it 3 days ago and I forgot. How do I navigate to the encrypted mailbox? 
+
+Mark Hughes - 32:19 - So either they'll need to have a PreVeil Express account set up, or if it's one of your Mills or DoD Primes, then you would want to set them up on the email relay ahead of 
+
+Christopher - 32:29 - Time. So you have to in process them to together. Give them the other key to get into the encryption? 
+
+Mark Hughes - 32:35 - Yes. So they need to, in order for them to send you a PreVeil email, they either need to have the Express account or they need to have the email relay. So. Just to kind of as an example, here, if it was an email relay, and I'll just let you know, the email relay was just renamed. That it's originally called email. Gateway. They're the same exact That's the exact thing. Thing. So, let's say that someone told you, and let's say it was, they say, we're going to send you CUI, they're just a standard manufacturer, you send them an invitation to join PreVeil Express. If it's a .mil, if it's a .gov, if it's a DoD Prime, they might say, well, we've got a secure system we're going to use. Then what you would do is you would enter either their individual email address or their entire email domain under the gateway list, and that will ensure when they send it comes through PreVeil into that secure inbox. 
+
+Christopher - 33:23 - Do they need any sort of key on their end or can I just upload, like Mark it'll come from a Mark Hughes at PreVeil. Can I just put your information into that filter for the Gateway or do they still need to go through the Express? 
+
+Mark Hughes - 33:38 - No, it can just be through the Gateway. So either, like I said, they can just do the Gateway or the Express, they would do one or the other. 
+
+Christopher - 33:45 - Okay, I just wanted to make sure and then DOD share obviously. Okay, yep. Trega. 
+
+Saqib Ali - 33:52 - Good. Does. 
+
+Mark Hughes - 33:53 - That fully answer your question? 
+
+Saqib Ali - 33:55 - Yeah, yeah. It seems like that. But email itself will be stored in Office Cloud, like Microsoft Outlook Cloud, because right now we have 
+
+Christopher - 34:06 - Your regular email will. 
+
+Mark Hughes - 34:07 - Yes. But the PreVeil CUI, all that is separated from your commercial. It's all in the AWS. GovCloud. So what you're seeing here is all AWS. GovCloud. When I go back to that Outlook integration. Integration, all of the MQ, my commercial inbox, that's Outlook, and that's commercial, encrypted. Mark use, this is all AWS GovCloud. These are totally separate. 
+
+Saqib Ali - 34:28 - Perfect. Yeah, this is, this was my so if 
+
+Christopher - 34:33 - I onboarded with you, or we decided to go this round, we onboard, who does our cloud configuration to make PreVeil CMMC. Compliant? Because out of the box, you obviously wouldn't be who handles the configures out on us? 
+
+Mark Hughes - 34:46 - Mean, there will be a number of different services. I mean, we'll obviously get your enclave set up and then you'll have access to our compliance team for just questions and things like that. And I think if you're working with Vigilant Sec and some of these other consultants, they're going to assist you as well. Some of the things that you'll need, of course, to do internally, but it sounds like you have other services that will assist with that. So it's going to be a whole team effort here. 
+
+Christopher - 35:07 - I didn't feel it. Well, by something like, oh, you gotta set up a lamp stack or something crazy or I gotta send up something. Some as a pointer. I didn't know if you needed any of that or if you guys were just kind of one in the box solution. 
+
+Mark Hughes - 35:18 - Yeah, Yeah, we'll set up the Enclave and then we'll work with the rest of the team to make any configurations as needed. There probably won't be need to be much, but our team will be able to assist if that does require any changes. 
+
+Christopher - 35:31 - Okay. So we don't even need technically an endpoint in an Enclave for this to operate because it's just going to be on Amazon GoProd, right? 
+
+Mark Hughes - 35:41 - Correct. Yep. So that. 
+
+Christopher - 35:42 - Also solves that problem guys and how we wanted, how we were saying put a computer in a room with a camera and all that to access it. You don't necessarily need to do. That. This takes care of all of that to an extent. I mean, as far as the compliance goes of the email portion of this, you don't need a server in a room anywhere. You don't just, just use this. Correct. 
+
+Saqib Ali - 36:03 - Our server will be required for or CCT, I liked in it. Case of other such sort of things. I was going. 
+
+Christopher - 36:11 - To ask that, could we filter, if I had closed caption cameras for the purposes of maintaining CUI on an endpoint and on a machine, can I filter that data stream into PreVeil? 
+
+Mark Hughes - 36:23 - Oh, that I would not know. I don't. 
+
+Christopher - 36:27 - Think so. So that would then keep another close loop. And that'll handle like 3 controls for CMMC because the data is never leaving them just goes right in into the enclave. 
+
+Mark Hughes - 36:36 - That question, I would not know the answer to. I've never been asked that before. 
+
+Christopher - 36:40 - You know what I'm saying. Though, right? Because I mean, the data has to go to a server, which is then keeping CUI because it's tend to be observing of CUI is still CUI. So I have no way to do that. So I'm wondering, can I filter that information into this by attaching it to an email and attaching it to the filter? 
+
+Mark Hughes - 36:59 - Yeah, I'm not the one person to ask that. Yeah. I think that's something you want to ask a certified CMMC. Professional. I. 
+
+Christopher - 37:06 - Don't know. I. 
+
+Mark Hughes - 37:09 - Don't know. It's an interesting question. There's technical resources. We could ask that would have the answer to that. I'm not that technical resource, so I apologize. No 
+
+Christopher - 37:21 - Problem, no problem. It was just one I was like, oh, I might be cheap out. I somewhere else. This is an expensive industry. Understand, 
+
+Mark Hughes - 37:33 - I understand completely. What else would be helpful? I know I've kind of walked through the how PreVeil, a little bit about the functionality. Is there. Anything else with the 10 minutes, we have left here information wise that I can share with you or anything that you'd like to see. We haven't covered yet? 
+
+Christopher - 37:50 - So, 
+
+Saqib Ali - 37:50 - Let me ask some questions. So basically, we will have a Windows operating system on our computer and we will be doing RDP to PreVeil system or it will be a VPN. How does it work? 
+
+Mark Hughes - 38:10 - I guess some VPN. 
+
+Saqib Ali - 38:14 - Wait, 
+
+Christopher - 38:14 - Repeat the question and I can translate. I got both sides of the house. 
+
+Saqib Ali - 38:18 - Yes, please. Like how we will access the PreVeil PreVeil system? Is that. 
+
+Christopher - 38:24 - How you access the Enclave? 
+
+Mark Hughes - 38:26 - Yeah. Yeah. Okay. Thank you. So PreVeil is installed at the device, level. So PCs, laptops, smartphones, tablets. Now, when you install PreVeil on a device, it also comes with a cryptographic key on that device. So you'll continue to log into that device however you do today, whether it's a fingerprint, a facial recognition, an MFA. And. Then once you securely logged into that device, device, the cryptographic key within PreVeil will then authenticate your access to PreVeil data on that device. So you don't actually need an extra password or anything else to use PreVeil. We built it that way. Because one less password is one less thing for an attacker to guess or steal. So that's all seamless. And again, that just happens at the initial onset. 
+
+Mark Hughes - 39:07 - When you install PreVeil on a device, the cryptographic key comes automatically with that installation. 
+
+Christopher - 39:13 - So when you start up the device, it just goes since, Sinex, SYNAC, ACK. It just allows access, finds the keys, gives you open access. Do you have to do it every time you log in or is that just once per? 
+
+Mark Hughes - 39:26 - I mean, when you log, you just log into your devices like you do every day. And the cryptographic key automatically happens. So there's nothing else. Additionally, you have to do beyond the logging into your device. 
+
+Saqib Ali - 39:35 - We don't have any software let's say I log into a computer with my Windows. Username and password, then I I can go to the server. Do not need to click anywhere on the desktop to go to the PreVeil system. It's just me on that. Computer. Once I logged into that. Computer, it became a PreVeil system. Correct. And the email system over there will be basically Outlook and whatever other... Do you guys have any software for CAD? Like Solerberg, Libra, Libra, that would be ours or yours? 
+
+Mark Hughes - 40:12 - That would be yours. Yeah, we have a lot of manufacturing customers that use SolidWorks and Autodesk and everything. That. So, the CAD systems are outside of our scope. But, because we work with so many companies that have to, they might have to take a file out of PreVeil, put it in the CAD system to modify it, save it, and then put the file back into PreVeil. You can store 
+
+Mark Hughes - 40:33 - Any unstructured data in PreVeil. But CAD systems will require that you do the modifications mod in those different technologies. So that goes back to the access to our team when you're building your policies and procedures and how you handle CAD. We can give you the examples of what our other customers do to keep the CAD process in your compliance boundary, but CAD is outside of the technological scope of PreVeil's platform itself. 
+
+Saqib Ali - 40:59 - To be honest, I was thinking of this System as a, you cloud know RDP, a computer that we have rented now on XYZ database warehouse. And we are just going to do RDP on that one, like RDP 192.168. And then once we have access to that computer, that provider PreVeil will be installing, Outlook over there and certain other software, Adobe and those sort of softwares over there. But it's not like this. 
+
+Christopher - 41:41 - I don't know what the data sets look like for SolidWorks, but the thing is, I guess you who could start and PreVeil. Prevail. 
+
+Christopher - 41:59 - Like I guess you kind of could. Yeah, 
+
+Mark Hughes - 42:01 - It's just the modifications. If you're going to change a file, that happens in the CAD. 
+
+Saqib Ali - 42:08 - Okay. 
+
+Mark Hughes - 42:10 - We have hundreds of customers that do this, and we can share best practices as you kind of figure it out for your own environment. 
+
+Saqib Ali - 42:18 - Good. Like it will be the same system, but PreVeil and CAD software were installed both on the same system. System. 
+
+Mark Hughes - 42:26 - They can be, yes. 
+
+Saqib Ali - 42:28 - And it can be different also, yeah. Okay. Yeah, 
+
+Christopher - 42:35 - They're asking where we store our CAD files. 
+
+Saqib Ali - 42:41 - What else do we have? One second. That's all I have. Yeah, one sec. 
+
+Christopher - 43:11 - How long have you been in this space, Mark? You mind me asking? 
+
+Mark Hughes - 43:13 - Oh, myself, 4 years, almost. 
+
+Christopher - 43:17 - Sassworld, world? Sassworld, 
+
+Mark Hughes - 43:19 - I've and Sassworld. Been in Sass for over 20 years. Now. So I actually came from a different industry before that, but I had some experience selling into, I came over because a lot of higher education institutions use PreVeil for research. Purposes. So I had some experience there. And then because as we grow now, I'm selling to them and the defense industrial base, so on and so forth. So yeah, it's before. 
+
+Christopher - 43:42 - Years in July. One of my startups. I was a director of sales at was a Pearson partner and a Pearson Vee partner. So I got to see that higher ed space of fun. And. That's the first time I heard about PreVeil and I was actually thinking, where the heck have I heard of it? And when you said higher ed, I was like, 
+
+Mark Hughes - 43:58 - Pearson. There you go. Yeah, we're familiar with Pearson, definitely. Great. Any other questions that you have? Any other information that I've not shared yet. That would be valuable? 
+
+Saqib Ali - 44:09 - Oh, yeah, that's good. Always good. MDR we are... From Vigilance, will it be able to communicate with your system? And? What about the audit log? Do? You guys have an audit log software management system where we can see who have access and all sorts of things? 
+
+Mark Hughes - 44:30 - Yeah, do you have a SIM today to use Huntress or Arctic, Wolf or Splunk? 
+
+Christopher - 44:36 - We don't have a SIM, it's gonna be, we're gonna have to figure out something with the MDR from Vigilance. Sec. And then I'm writing on recommendations about it. Either any of the 3 you recommended would be. My recommendation. Splunk were a little small to need that scale for. Arctic. Wolf, depending on the model you get, can be a little cheaper. So maybe something like that. 
+
+Mark Hughes - 44:55 - Yeah. So the activity logs in PreVeil as of today, you can manually export them if needed. But when you do deploy a SIEM in the future, we have a SIEM relay tool that will automatically feed the activity logs directly into SIEM. 
+
+Christopher - 45:08 - So then I can feed them back with the MBR and I can get an actual data set and data feed. Do you have any that you recommend that actually integrate well? 
+
+Mark Hughes - 45:17 - I mean, we're at SIEM. Agnostic. So, I mean, honestly, Arctic, Wolf, Splunk, and Nectar are our top 3. Huntress is coming up more and more, but it doesn't matter. So we can work with any SIEM that you choose. 
+
+Christopher - 45:28 - I have a background working with Huntress, so yeah. Okay. 
+
+Christopher - 45:34 - Samo Gomen aren't really that agnostic because the languages are all different and that when you go to export data, you get corruption and you go to table it out and it doesn't work. 
+
+Mark Hughes - 45:44 - Right, right. So far so good on most. We haven't had really many instances of, if there are Sims. 
+
+Christopher - 45:49 - You've never heard of before. Ruins, all the ones that matter. Splunk, Art of Wolf, Nectar, Huntress. There's nobody else I'd consider. So 
+
+Mark Hughes - 45:54 - You're good. Very, very good. So what I'll do here is I'll work with Jen over at VigilantSec, I'll share our meeting conversation today and then I'll just let her know 5 users for your initial enclave. And then some of those additional services the email relay and the compliance accelerator. I'll have her have that quote and have that sent over to you. But any questions you have about PreVeil after this, feel free to contact. Me. I'll send an email with my contact information just as a summary from today and then I'll work directly with you or with VigilantSec. Vigilant Sec or however it is as you get closer to making a decision on what you want your Enclave to look like. 
+
+Christopher - 46:34 - That sounds perfect for me. If you guys have any other questions, let me know. You guys have anything? 
+
+Saqib Ali - 46:40 - Yeah, thank you. Yes, thank you, Mark, for taking the time to walk us. Through. Really appreciate it. 
+
+Mark Hughes - 46:44 - Happy to do so and we're very happy you're considering, us. So thanks for your time today and I will let you go. We'll be in touch. Soon. And again, thank you again. 
+
+Saqib Ali - 46:53 - Thank you, bye. 
+
+===================================================================================
+
+END OF TRANSCRIPT

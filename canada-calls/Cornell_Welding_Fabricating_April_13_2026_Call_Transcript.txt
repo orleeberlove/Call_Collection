@@ -1,0 +1,303 @@
+Transcript
+Date: 2026-04-13
+Account: Cornell Welding & Fabricating
+Conversation: Cornell Welding & Fabricating (Canada) - PreVeil CMMC Compliance Discussion
+Speakers: Mark Hughes (PreVeil) + Greg Cornell (Cornell Welding) + Jamie (Cornell Welding - Owner/GM)
+
+=============================================================================
+
+Mark Hughes - 0:00 - Morning, this is Mark over at PreVeil. 
+
+Mark Hughes - 0:07 - Hello, can you hear me? Hi, is this Greg? 
+
+Cornell - 0:10 - Yes, this is Greg and I'm here with Jamie. 
+
+Mark Hughes - 0:12 - Oh, hey Greg, hey Jamie, how are you? Doing today? 
+
+Cornell - 0:14 - Great, how are you? 
+
+Mark Hughes - 0:16 - Good, good, thank you very much for taking the time to meet with me, I. Very much appreciate it. You bet. I know, my colleague Maddie had set this conversation up between us, and just speaking with him. Briefly, sounds like Greg, you recently had joined Cornell and have been tasked with their CMMC 2.0 compliance, Alliance. So, you just want to set this call. Up. Sounds. Like one of our consultants had recommended. Us. I, don't know if that was Patrick, Cowling and associates by chance? Yeah. Okay. Very good. Very familiar with that. So yeah, I'd love to just maybe learn a little bit more about Cornell, kind of what's driving the CMMC compliance and specifically what I can share with you today about PreVeil's capabilities. 
+
+Cornell - 0:56 - Quick from me and then I mean Jamie will obviously give the history. Jamie's owner and general manager. Jamie's been here, how many years have you been? 12 years. So for myself, I have an engineering and manufacturing background. I know Jamie from the past, that's what brought me on here. I'm very into specs, understanding requirements, summarizing, that sort of thing. So. That's part of the reason I think they brought me on. Cornell is 29 employees, give or take. Take. I think we're hiring, so maybe it's 30 today. Right, we're 31. Twelve of them are office. 
+
+Cornell - 1:35 - Employees. So I would say 12 of them touch a computer. The guys in the shop will just be logging in. No. They just scan in with a ticker tape thing, right? Yeah, they don't touch the computer. Three plasma tables, which will touch the network. Sorry, not plasma, but 3 cutting tables. Two are laser, one's plasma. We have external IT support, so we don't have HR or IT or anything, we're pretty small. It's handled by a third party. They do remote in or they drive here, they're literally a block. Away. We do manufacture parts for the defense. 
+
+Cornell - 2:15 - Industry, it's probably what percent of the business, Jamie? No, it's over 50. Over 50. So the intent with any sort of growth and the next size 5 or of the 10 years will likely be to grow in that industry, but also our other industries. So there's a, my point is this isn't strictly a defense business here. So we do have opportunity to maybe shrink our enclave to whatever makes sense. And. Then that brings me to we're basically fresh with CMMC. Like I said, I've got some background in compliance and stuff like that. I did controlled goods at a previous company, so I'm somewhat familiar with CMMC. I'm a kindergarten. I've spent 3 weeks. 
+
+Cornell - 2:56 - Now, reviewing it. I feel like I have a master's degree. Getting close. Jamie can speak to what brought us to where we are today, though. Like Craig. Said, we do quite a bit of business for the military, well, over 50% of our business. And General Dynamics in London. They do have a contract coming through. Soon, I believe starting at the end of this, year, wherever that does require to be CMMC level 2. It's only the one 
+
+Cornell - 3:24 - Order right now that's going through, but if that kicks off into a big order down the road type thing, if you don't get orders now, you're not going to get orders then. So kind of, with talking to people, it's going to come regardless, you're going to have to do all contracts, you're going to have to be CMMC certified. So it just kind of put us into high. Speed. I did look into it a bit myself to try and implement this, but with my other daily duties and then starting off fresh from this, it was like, there's no way I wouldn't have the time to do it. So. That's where we brought Greg on. He's probably done more in the last 3 weeks and I would do the next 6 months if I had to do it myself. So, so yeah, he said we're fairly new, so I'm not really sure what you guys all offer. 
+
+Cornell - 4:06 - As far as your cloud service. If, you can kind of enlighten us a bit on that and then we'll kind of go from there. 
+
+Mark Hughes - 4:11 - Yeah Yeah, I'm happy to. So if I heard you correctly, it sounds like that this is in preparation for this contract with General Dynamics. So out of curiosity, is there any CUI that you're handling today or is this truly more in preparation for working with that contract? 
+
+Cornell - 4:26 - It's more in preparation for future contracts. Okay, 
+
+Mark Hughes - 4:28 - Very good. There would 
+
+Cornell - 4:31 - Be CUI I guess we deal with today. Okay. It's just not for the contracts that require CMMC. 
+
+Mark Hughes - 4:39 - Okay, very good. With the CUI you handled today, is that stored on a secure server? Or what are you doing with that currently? 
+
+Cornell - 4:46 - Everything's on a server. 
+
+Mark Hughes - 4:47 - Everything's on a server. Okay, gotcha. Got it. Would you require potentially any ITAR compliance, any ITAR data in the future as well as CUI? 
+
+Cornell - 4:59 - Assume yes. Okay, got. 
+
+Mark Hughes - 5:01 - It. And so it sounds like since, as you mentioned, it's kind of fresh with CMMC. So when it comes to things like documentation and system. Security plan, in addition for a secure enclave for storing, processing, and transmitting CUI, would you also find it valuable if there's a company that also provides support around documentation and helping you prepare for your CMMC audit? 
+
+Cornell - 5:26 - Yeah, I guess we're looking to see what that looks like from your guys' perspective. Perspective. 
+
+Cornell - 5:33 - I know you in your brochure here I have it talks about your templates and this and that, but we're already out of the gate a little bit with our consultant. So maybe they're similar templates I don't know, but you'll have to tell us what that looks like. 
+
+Mark Hughes - 5:46 - Yeah absolutely. Patrick. He doesn't work I think he works with some of that on the side with the consulting aspect. We're not consultants. 
+
+Mark Hughes - 5:54 - But we do have some services that Patrick will actually work with you when it comes to deploying your CUI Enclave and then how we help you as a company prepare for that audit. So what I can do, Jamie and Greg, is I'll share my screen here in a moment. What I'd like to do is just first of all walk through how we help you with your CMMC and ITAR compliance. And any questions you have, just feel free to jump in and ask. And then at the end of that, if you'd like to see a demonstration of the platform, I can walk you through how you could use the system as well, if that sounds good to the both of you. Yep. Okay. Very good. Give me one second here. I'm going to share my screen. 
+
+Mark Hughes - 6:42 - All right. That should be popping up in just a moment. Here. Okay. Can you both see that? Yeah. Okay. 
+
+Mark Hughes - 6:51 - So truly, before Patrick mentioned us, had not heard about PreVeil? This is the kind of the first time you're seeing and hearing from us? hmm. Okay. Well, let me just give you kind of the background on us and where we fit into the industry, because when it comes to working with our customers helping them in their CMMC. Compliance journey is truly our bread and butter. I'd say well over 90%, maybe even 95% of our customers are small to mid sized enterprises, enterprise that are working with defense contracts. And as part of that will either need to now or in the near future adhere to CMMC compliance. And with PreVeil, we've been around for over 10. 
+
+Mark Hughes - 7:34 - Years. We have over 2500 customers globally. So although we're based in the US, we have dozens and dozens of Canadian. Clients. We also work with customers in Europe, Japan, Australia. So, we are an international internationalist. Presence. As well. What we're doing with our customers is there's actually 3 different ways that we're helping them in this CMMC. Process. And the first of which is to provide them with a secure enclave for their CUI, ITAR, and any other sensitive data. So PreVeil's platform, it's an encrypted email and file sharing. 
+
+Mark Hughes - 8:11 - System. It provides support for 100 of the 110 controls for CMMC. Compliance. So it does do quite a bit, doesn't do everything because there are certain controls like physical securities and writing your policies and trainings that you'll address outside of PreVeil. But I'll touch on that in a second where we can help. I should also mention. We are fully ITAR compliant as well. So any ITAR data that you would handle in the future, we fully meet that compliance compliance. With our technology. 
+
+Cornell - 8:45 - Is that, it's maybe too general of a question, but is that 100% compliance with the 102 controls, or is it like a shared responsibility, but can we just say we use PreVeil and that's the end of it? 
+
+Mark Hughes - 8:57 - Yeah, you're, that's a great question. So. What I have, Greg, I'll send you after the call, I have a shared responsibility Controls, matrix, which outlines all of the 110. 
+
+Mark Hughes - 9:10 - And the 102 that we provide support for. In those 102 controls, 37 will be fully inherited, and then 65 are going to be partially inherited. So you might have some controls that there are 6 objectives, PreVeil addresses 5 of them, but the sixth may be you need to write a policy and training for it, which would be outside of our technological scope. So, that's where our system subsides today, and again, I'll send you that document after the call. 
+
+Mark Hughes - 9:42 - Here. Perfect. Yeah. Now, when we talk about the post deployment of PreVeil, because setting up your Enclave is the first thing. And you mentioned 29 employees, but really only 12 are going to be touching your computer. Of the 12, do you have an idea of how many potentially could be storing processing? I mean, it's probably more than what So, we what need. Are the things that potentially could be storing, processing, or transmitting CUI Okay. 
+
+Cornell - 10:07 - Data? From my perspective, and I spent the last few days going over process here, but I'm still, I still got to get into the weeds of our process, but I'm, because I'm reading the legal side of this, I'm saying one, let's do one. 
+
+Mark Hughes - 10:21 - How can we do one? 
+
+Cornell - 10:22 - I think realistically though, it's going to be 5 or 6. 
+
+Mark Hughes - 10:26 - Five or 6. I mean, it's 
+
+Cornell - 10:27 - Probably more than what we need. Okay Okay. 
+
+Mark Hughes - 10:30 - That's fair. And. It's good to know because the other component of our technology is that we're creating an enclave so that you don't need to rip and replace your current infrastructure and go with a whole brand new secure system for all your employees. Are you on Office 365 or Google Workspace today? 
+
+Cornell - 10:49 - No. What. 
+
+Mark Hughes - 10:51 - Are you using for email? 
+
+Cornell - 10:54 - Just Outlook. 
+
+Mark Hughes - 10:55 - Outlook? Okay. No. So, what we do is we create this enclave securely for those 5 to 6 users. And. That's why our system not only can be set up quite quickly, but also much less expensive than some of the larger players Microsoft out there. Because some of these larger competitors of ours will say you need to move your entire business over to their secure system. That comes at a very hefty price tag and more often is cost prohibitive for a lot of the customers that seek out PreVeil. So our Enclave is what we do, we set that up for you first. 
+
+Mark Hughes - 11:32 - And now you have an environment for CUI and other sensitive data, but then it's the process of preparing for that CMMC level 2 audit. And. What we do for that component is that we provide a service called our Compliance Accelerator. And what the accelerator does is it provides you a lot of different resources to help you get prepared for the audit. The first thing that is I think the most valuable is the access to our compliance team. So we have certified CMMC professionals on staff, compliance experts. If you need to set up a 30 minute zoom call with them or you just have a single question, you can use our dedicated compliance email. Talking to a live human being being, they'll get the answers around any of the 110 controls for CMMC or other questions around ITAR, DFARS or anything else compliance. 
+
+Cornell - 12:27 - How is that divided up? I know you're not consultants, but they don't know our business. Are there manufacturing experts or that sort of thing that are in your tool chest? 
+
+Mark Hughes - 12:43 - Well, they're registered we have a couple of certified CMMC professionals, so they know, like we have 2500 customers across all facets of the defense industrial base. We have, I think we're getting close to almost 80 now that have already gone through a CMMC level 2 audit and have achieved a 110 score. And that's aerospace, manufacturing, law. 
+
+Mark Hughes - 13:06 - Firms, I mean, anyone who touches CUI, anyone who needs CMMC level two are team taking can help address them around any of the controls. So. We have hundreds and hundreds of manufacturing clients, so we have a lot of expertise on our staff around working with those companies and getting them to that Level 2 compliance. So they do have a lot of background that they can share with you and best practices shared by your other manufacturing clients as well. 
+
+Cornell - 13:31 - Great. Okay. 
+
+Mark Hughes - 13:32 - Now the team over here has built a number of tools to provide to you. So when you deploy PreVeil, professionals, you also get access to our documentation templates. So we will give you templates for things like system, security, plan, plan of extra milestone worksheets, policy samples. Just to give you an example. 
+
+Mark Hughes - 13:53 - Here, we created a system security plan for Acme, Inc., which is a company that does not exist. But. We built this to be an assessment ready document that contains all the information around the 102 controls that PreVeil provides support for. So we have network diagrams in here. It's got a ton of information. I mean, honestly, some of our customers that are starting out, they have no SSP or very little documentation, they could take this template, swap Acme Inc. For their own company info, and they'll make this their system security plan going forward. Others will just cut and paste if they've already started an SSP, but it's extremely valuable and it also saves you a ton of time and money rather than doing everything yourself from scratch. 
+
+Mark Hughes - 14:43 - So the SSP is just one of that, as I said, we have standard operating, procedures, shared responsibility, matrix, and on top of that, when you have this documentation, we also have a government risk compliance tool, which I'm showing you here. And this allows you to upload your system security plan into a cloud based environment. So instead of having to manually manage the SSP and fill it out by Excel or Word, this cloud based environment will manage everything for you. It gives you better visibility and control over to where you're at with your documentation. As an example. 
+
+Mark Hughes - 15:20 - Here, I clicked. On one control. It shows all the different objectives, what's been addressed, addressed, what is still remaining. So, it allows you to assign action, items. There's a policies and procedures library to store any supporting documentation you need. There's a risk management tool involved, a full reporting suite. So, this tool will again, allow you to manage your SSP much more efficiently and that's all included in this compliance bundle as well. 
+
+Mark Hughes - 15:53 - Okay? Then lastly, there's also a learning management system, which I've got on the screen. Here. This gives you videos that walk through pretty much all the different steps of the CMMC2 preparation. So from scoping your boundary to getting ready for your final assessment, we have videos narrated by our compliance team here. There's also a number of resources that you can access from this learning management. System. So like I said earlier, if you want to schedule one of those compliance calls with one of our members of our compliance team, you can do that, right? Here. There's also a ton of links for DFARS, for compliance, for awareness and training. Videos. So again, all of this is in one bundle with this compliance accelerator. 
+
+Mark Hughes - 16:35 - And that works in tandem with our encrypted email and file sharing. So, we just don't give you the software and say, good luck, hope it works for you. We are very committed to making sure that you have all the support you need. As you prepare. To engage a certified third party assessor and go through that level 2 audit. Let me stop there for a second. Jamie, Greg, any questions on that? Is this something that would be valuable to where you're at currently? 
+
+Cornell - 17:02 - Yeah, for sure. Okay. Very good. Yeah, I gotta consider or assume too. That having you guys as our provider for all this information. Carry a lot of weight as well when it comes to the second party inspection or the third party certification, right? 
+
+Mark Hughes - 17:21 - Exactly. 
+
+Cornell - 17:22 - We work... You're well known for what you're doing, so... 
+
+Mark Hughes - 17:25 - Right. And that's another component that if you have not already engaged a certified third party assessor, we have dozens of companies that we work with. And several of them have Canadian offices that we can put you in touch with. So these are companies that we have worked with for many years. We share a lot of mutual customers that have already gone through the level 2 audit and been certified. So. If you want us to make a warm introduction or give you some ideas of who to contact at the right time, just ask and our customer success team will happily do that for you. 
+
+Cornell - 17:56 - Perfect. That was going to be my next question is, did you guys have a company you prefer to use? 
+
+Mark Hughes - 18:00 - Definitely. All right. So the other thing about this. Is that with like a 5 6 user enclave? We can deploy this very quickly. Quickly. So we're not actually going to be disrupting your current environment. How it works is currently using Outlook, your commercial systems. 
+
+Mark Hughes - 18:20 - Today, everything remains the same. So we're not going to impact the 12 office employees on their day to day business. Really. The only difference is that we're going to create a separate network for those 5 to 6 users, and we're going to give them PreVeil licenses that they'll be able to install implement. On devices that you approve for them. So, you'll have full control of what types of devices they use to handle CUI, PCs, laptops. We also have a mobile app for smartphones and tablets. So PreVeil will function on any device that you wish. The Enclave will then, that's where all of your CUI, ITAR, any other sensitive data is now stored. It's backed up in the FedRAMP high AWS 18th. 
+
+Mark Hughes - 19:03 - GovCloud multiple times, daily. The backups, occur, so you don't have to worry about any of that. And then we also utilize FIPS 140. 3 encryption modules, so if you need to email or do a file share, whether it's internally or with a third party, all that will be fully encrypted per the standards required by CMMC. Level 2 standards. 
+
+Mark Hughes - 19:26 - Now, I would assume you'll probably need to share CUI CUI, receive CUI from third parties like your customers and vendors, correct? Yeah. In that sense? 
+
+Cornell - 19:38 - Log on to a portal, right? Now, right? Just for Militex. 
+
+Mark Hughes - 19:43 - So what we will do is that if the third party you're working with does not have a secure method of transmitting CUI, today, we have a service called Prevail Express, which is actually, it's included in your licensing. This is not an additional fee at all. It provides the access to your third parties to sign up for a free PreVeil. Account. And you can certainly invite them or they can come to our website and sign up themselves. If you wind up inviting them, they'll get an email. 
+
+Mark Hughes - 20:14 - That's similar to what you see on the left hand side here. It explains. What PreVeil Express is, who is sending it to them and why. And. Then when they click create account, it takes about about a few minutes. 2 minutes for them to get their portal. Access. They do not need to install any software. So this is all a browser based solution and you can have an unlimited number of guest accounts. We will never charge you for any third party access. 
+
+Cornell - 20:40 - So I guess I have a question, actually this might not be like really your scope of expertise, but the one thing that's kind of came up that we've never been able to get like, a definite answer from anybody is we deal with a lot of like, subcontractors that do say machining, coding, heat treating, all that for us. If they're not CMMC level 2 certified, does that mean we can't use them anymore? 
+
+Mark Hughes - 21:01 - No, no, not at all because you know, that's their business. So if they actually don't have any specific contracts that require them to meet those DFARS clauses and be CMMC level two, you can absolutely communicate with them. As long as you have a secure method of transmitting CUI, CUI. You are covered from the Cornell standpoint. So it's really on that business, whether they require CMMC level. 2 or not. For you specifically, though, PreVeil Express will give you that tool that you need to receive CUI from them. So you're covered from that aspect. 
+
+Cornell - 21:34 - Okay, perfect. 
+
+Mark Hughes - 21:35 - So we're 
+
+Cornell - 21:36 - Covered, I guess, legally, but at the end of the day, the flow down requirements would require them because they're handling handling CUI to be certified, right? 
+
+Mark Hughes - 21:47 - Again, it potentially could be. You are right. I mean, it just depends on that. 
+
+Mark Hughes - 21:52 - Business. So if they are not CMMC Level 2, give us their name and we'll be happy to talk to them. But I think it's just a matter of speaking with them and what their specific requirements are. They may at some point need to get to that Level 2, but it just depends. So that's where we recommend, you. Know, know, talk to our experts over at PreVeil. At the very initial beginning, a lot of times a customer will schedule that first call with our experts and they can kind of give you some more advice on how to handle third parties. But as of right now, it just is on third party by third party basis, whether they need to address those flow downs or not. So that is the how we help with CMMC. CMMC Level 2. And I, just want to stop there to see if you have any other questions before I show you a demonstration of how the platform works. 
+
+Cornell - 22:48 - Nope, I don't. No, I'm good. Okay. 
+
+Mark Hughes - 22:51 - Well, let me do this. Let me come over here. And what I'm going to show you is how PreVeil is set up. And it's very easy to use. I mean, it's encrypted email and file sharing. It's not anything too. Complicated. We do have some integrations inexperience with Microsoft, Outlook for email and also are using Windows devices primarily at your business? Yeah. Okay, we also have a file explorer integration for file. Sharing. So I'm going to show you both of those here in just a moment. Please. Feel free to ask questions as we go through here. 
+
+Cornell - 23:23 - Okay, what about like we use Autodesk? So we have the vault. And that's where we currently are ISO process is that we would save files to the vault and that's where we check in, check out and approve and release drawings and we'll take a general dynamics drawing, for example, and I don't know if we save it in, we don't save those in the vault, right? We just recreate? No, the original ones we would save in the vault. Okay, so we'll actually save original CUI in the vault and then we'll create our own Cornell version of that drawing with our own manufacturing requirements, Expectations of the Customer Drawing and then Save Them to the Vault. So that's not in a Windows based File Share. 
+
+Mark Hughes - 24:07 - Sure, if you wanted to keep any, you can keep any unstructured data in PreVeil for File Share. So. If you wanted to take those drawings, and upload them to a format, PreVeil can store them and they can be shared there. If you need to modify them, that probably needs to be done in that vault. And you can certainly move that out. We have a lot of manufacturing customers that have that same same process. So if you need some advice on how they're doing it, we can certainly share that with you. But. You can actually store the data and PreVeil and transmit it as needed. 
+
+Mark Hughes - 24:39 - Does that fully answer your question? Yeah. 
+
+Mark Hughes - 24:43 - So every one of your users is going to have both a mail function and a drive function, which is the file sharing. Now of the 5 to 6 users, You. Might you might only only have have one or 2 users. One or 2 2 of those that will have admin privileges. Those admins will be managing the overall program. So I'll touch on this. At the very end, here. But I first wanted to cover what your entire user base will have at their disposal when they utilize PreVeil. So the browser view you see here, this of course, allows you to send, receive encrypted emails very easily. And this is, again, it's compatible with any email system. 
+
+Mark Hughes - 25:20 - System. Out there. Now, because you use Outlook, you will also have the capability of utilizing the Microsoft Outlook plugin for PreVeil. So, what that includes is, I'll open up my personal Outlook here and I've got my mhughesprevail.com. This is my commercial inbox. So, this is no CUI goes through here. It's all non encrypted, emails. Emails. And I'll continue to use this commercial inbox even after PreVeil is deployed. 
+
+Mark Hughes - 25:53 - Below that you're going to see a second inbox that says encrypted Mark Hughes. Now this here is the Microsoft Outlook plugin for PreVeil. So it's completely separate, this is not touching my commercial Outlook, this is all hosted in the AWS GovCloud. This secure inbox. Will allow me to send and receive CUI internally or with third parties. You'll see here. There's a message encrypted banner with our logo and encrypted is next to my name. So I know it's a secure message. Now aside from that, it's just like, typing up. Any other email in Outlook. So if I typed in Cornell CPUI, it's secure and I'll add a small attachment to this specific email. 
+
+Mark Hughes - 26:38 - So basically what happens is that when I send that it's encrypted again, using those FIPS 140, 3 encryption modules. That email is now at rest. So it will be stored securely in the FedRAMPY AWS GovCloud until that email is opened by another PreVeil. User. In this instance, I sent this to my colleague Paul. So you see here I'm in Paul's account here in the browser. And. So when he opens that secure email, he can provide a response back. And that completes the secure transmission of an encrypted email between 2 2 PreVeil users. 
+
+Cornell - 27:11 - So, do you have separate email addresses then? 
+
+Mark Hughes - 27:13 - No, you actually can use your business email. So both of my, these are both mhughes at PreVeil.com. PreVeil is not actually email, it's end to end encryption that's built to look like email. So there's no email servers involved here. So that allows you can use your Cornell email address with PreVeil and you don't need to manage a second email account. 
+
+Mark Hughes - 27:38 - And then we've also built a couple of functions. Here. So you'll see I've got a non encrypted email on the screen and maybe I've got a brand new customer that I've just won, John at abc.com. And as I'm typing this email, I realize I'm about to send him a folder that has CUI in. 
+
+Mark Hughes - 27:57 - It. So I need to secure this message. You can easily do that just by coming to the top here and clicking clicking turn on encryption. You'll see now that secures this message with PreVeil. And also a message popped up at the bottom here. PreVeil does not recognize John's email address. He's a brand new customer. He does not currently have any PreVeil access. So. What will happen is when I send this email, the first thing John gets is the invitation to join PreVeil Express. And. So once he gets the invite, infusion, he can click on the link, sign up in 2 minutes for free, and then he'll have access to his own PreVeil portal and this encrypted email will be sitting in his own PreVeil mailbox. 
+
+Cornell - 28:42 - So you remembered their mid typing that you needed to turn on encryption. What if you don't remember? I can't remember. 
+
+Cornell - 28:50 - Does that pop up, able to come up when you create a standard email just as a... Section of the code right now. And it talks a lot about that putting on pop ups to remind people that they're in a secure server or whatever. So that pop up is nice to say on your screen there, it's nice that it says it doesn't recognize that user, but previously before you turned on encryption, is there a pop up that'll say, are you sure this isn't special needing encryption? 
+
+Mark Hughes - 29:18 - Yeah, so that would be a data loss prevention tool that would do that. PreVeil doesn't have that technology, technology. But there are other systems out there that will do that, and we work with all DLPs. We don't identify CUI, but we do make sure that it is secured when it's transmitted. So we can certainly advise you on some DLP tools that you could utilize. That would have that kind of pop up. PreVeil specifically just does not do it within its own platform. 
+
+Mark Hughes - 29:48 - And I'd also point out too is that the Outlook plugin is optional. Some of our customers want to say no matter what I send, I want it to be secured. So. That's why we have the browser view here, because any email that's sent or received in the browser is always going to be encrypted and secured. And again, it will also recognize non prevail users. So that same invite will happen. So. If you wanted to avoid any instance of accidentally sending CUI in the commercial inbox, you could of course use the browser view for all all email of transmissions that. As well. 
+
+Cornell - 30:21 - That might be almost a better way to go, right? It kind of takes the guessing game out of it. 
+
+Mark Hughes - 30:27 - And the other thing, too, is that in this admin tool, we have a tool called the Trusted. Community. What this does is that it's an extra level of security when you are working with third parties. So you'll maintain a list of email addresses and email domains that you can send and receive Encrypted. Emails, Email and files with. If you turn this on, this prevents you from sending an encrypted email or file to an address or a domain that's outside of this list. So. If I sent an encrypted email to an address outside of the current list that I have, PreVeil will block that email from going through and will send me a note saying they are not part of your trusted community, So henceforth. They cannot receive encrypted. 
+
+Mark Hughes - 31:10 - Emails from you at this time. Time. It might mean they're not a trusted account or it's possible they're a new customer and then your admins can simply add their email address or email domain here to add to that list. 
+
+Mark Hughes - 31:24 - Got it. 
+
+Mark Hughes - 31:28 - Aside from that completes my overview of the email. I just want to stop and make sure I answered all your questions about email before we jump into file sharing. Yep. Hmm. Okay. All right, so the PreVeil drive is our file sharing. Mechanism, very much like OneDrive or Dropbox. So I also should mention, we're going to give you 10 terabytes of storage with your PreVeil subscription. And for 99% of our customers, that's more than they'll ever need. I always like to say, I hope you win so much business and grow. So large, you'll need to buy more storage from us at some point. Point. That's probably further down the road. Road. So you're gonna be set with 10 terabytes for a good amount of time. 
+
+Mark Hughes - 32:11 - So the one other thing I did want to mention here and just to show you is that we also have an integration with Windows. Explorer. Now it's optional, whether you want to use this or not. You turn it on or off and you can do that at an item level. Just to show you what it looks like, let me just back up here for a second. I'm gonna open up my Windows Explorer. Okay, there we go. 
+
+Mark Hughes - 32:36 - So what I've got here, I've set up a secure inbox in my Windows. Explorer. Hide this and open that back up. There go. Okay, so you'll see here I've got a secure folder. I've got an item in here. It's got a green circle with a checkbox. 
+
+Mark Hughes - 32:51 - And that means it's encrypted and currently syncing with Prevails. Drive. If I move this to the right here, you'll see that this item here is the same as the item here on the left. So that item has a green circle, the down arrow. So this the active sync between Drive and Windows. Explorer. If you wanted to create a brand new folder here, call. It Cornell CUI. And once that's been created, if you want to sync this with Windows Explorer, all you have to do is come over to the right, click sync. It takes just a couple of seconds for that sync to activate. And once it does, when you go back to that same secure folder, you'll see the Cornell CUI folder is now accessible here as well. 
+
+Mark Hughes - 33:38 - So you may choose to just do all your file sharing in the browser here, but just to know that the Windows Explorer can be turned on or off if you wish. 
+
+Mark Hughes - 33:47 - Sharing, click the share button on the right. And then you'll invite your recipients. They're already using PreVeil, an orange bar will show up next to their name. So that means they either have a PreVeil license or PreVeil Express account. But if we had a situation like our friend John at abc.com, just like the email file share, if they don't recognize the email address, it will pop up here. And if you share this folder with them, again, the first thing they get is the invitation to join PreVeil Express. 
+
+Mark Hughes - 34:21 - Now with file sharing, you can select permissions for the level of access that they have to the contents of the folder. The most restrictive is view only, so they can only view it, what you're sending them. They cannot print, they cannot edit, they cannot download, and they cannot delete. 
+
+Mark Hughes - 34:37 - Read only allows them to view the contents, but they can also download to their device. Edit allows them to make modifications. Edit and share would allow them to share with other users. Users. So once you've got a permission selected, you have the option to set an expiration date. It is not required. But if you have a project that's ending say on the 30th, you can set it that the system will automatically revoke Eric's privileges to this folder as of the 30th. If you don't do it, yourself manually beforehand. 
+
+Mark Hughes - 35:13 - Once the folder has been shared, it will be then encrypted. I should also mention that every single recipient of an encrypted email or file from PreVeil will be notified. So they will get very similar to this email. Here. This will actually come to their commercial inbox because it's not any CUI or anything sensitive data. It's simply a notification that an email or file has been sent to their PreVeil account and they can click the link right here and be taken directly to their own own website. Account to access that encrypted information. 
+
+Mark Hughes - 35:48 - So far so good on file sharing? 
+
+Mark Hughes - 35:53 - Other features here on the drive I wanted to point out. There is a copy link feature here. So what this does is it creates a hyperlink to the item in the drive. The link itself is not CUI or ITART. So it actually gives you some flexibility as to where it can be stored or shared. Some of our customers store it in SharePoint or in ERP or an accounting system. You could also send the link over Teams or Slack or whatever messenger you use, or even an unencrypted email. So the link is fine by itself. If someone was to click the link to open that item in the drive, it would require 2 things. Number one, one, they need to have a PreVeil license or have a PreVeil Express account. And the second is they either need to own that item in their own drive or someone would need to have shared it with them beforehand. 
+
+Mark Hughes - 36:52 - And the final component here, the edit feature. So you can edit any kind of document here, I've opened up a brand new document here. Let's actually make some changes. Here. Call this version 1.0. So I'm going to save this Word document here. And so I've made that change. I'm doing this all in the PreVeil cloud. So what's happening is that's going to update this new version of the document, but any previous version of the document that I've modified, I can go to the version history here and I can access any of the previous versions I've worked on. I could revert back to a specific version or I could download revert it back to a specific version or directly to my device, if I wanted. 
+
+Mark Hughes - 37:37 - And that's my overview on Drive. So again, I just want to stop and make sure I've answered all your questions around file sharing up to this point. 
+
+Mark Hughes - 37:45 - Yeah, I'm good. Yeah. Well, great. Well, just again, the admins, just to show you here, they're going to have oversight over your users, The Trusted, Community. We talked about, Activity, Logs, Logistics. Any event that occurs in PreVeil, that will be timestamped with the topic and the device. You can filter those reports by timeframe and by user as well. Do you by chance. Have a SIM over there like an Arctic Wolf or a Splunk that you're using? 
+
+Cornell - 38:15 - I'm going to say no, just because I haven't heard. What is that? 
+
+Mark Hughes - 38:20 - It's a logging tool, so any logs from a other systems log in, are managed in a SIEM. The reason I ask that is that if a company has a SIEM and they want to export logs into the SIEM, we have a tool that does that. But if they don't, in your case, if you ever needed to export the activity logs for any reason, you would simply use this data export tool, right? 
+
+Mark Hughes - 38:45 - Here. And that basically is the admin request whether it's data, export export of activity logs, or maybe one of your employees is leaving and they need to give the PreVeil data to their replacement. So they simply go in here and select what data is needed by user, content, and date range. And. Then when they click Get Started down here, it does require an approval by at least 2 other people over at Cornell. So those approvers are and Notified. And if they both, in this case, these 2 approvers say yes, then and only then is that encrypted data sent to that administrator. 
+
+Mark Hughes - 39:24 - And that is the overview of PreVeil. So again, just if there's any other questions about the platform or if you thought of anything else or just around how we help address CMMC. Compliance, I'll open it up to the 2 of you. Now, if there's any remaining topics you'd like to discuss. 
+
+Cornell - 39:39 - Well, the one question I have with your guys' system with the, you said 10 terabytes of data and everything? Everything. If we were to go with you guys and all, and I say down the road, we chose to dump our entire system with you guys. So we didn't have like servers and stuff anymore. Would that be an option? 
+
+Mark Hughes - 39:56 - So you talk about your entire like system, like you put all of your data on there, non, non encrypted and everything? Yeah. I mean, you certainly could. It is an option. We have had a few customers that have done that. Most do want to keep their commercial systems and their CUI separate. Separate. But it is an option. So I would probably say if you got to that point, I would ask our compliance team on their thoughts of pros and cons around it. But yeah, you certainly could if you wanted to. 
+
+Cornell - 40:25 - Yeah, that's a question. My brother, he's a computer guy and he deals with some of the CMMC stuff and all that as well. With the company. He owns. And the first question he asked me was, why the are you still using servers? 
+
+Mark Hughes - 40:36 - Yeah, that's what a lot of companies are doing. Doing. They're moving everything from the servers into the cloud. And that's why PreVeil is such an attractive option because it is cloud based, backed up in that AWS GovCloud. And now it does give you the ability to transmit CUI with the email and file sharing mechanism. Okay. All right. If you have no other questions, what I can certainly do, Greg and Jamie, is I can put together a price quote for you. For the 5 to 6 users and they'll also include the compliance accelerator in there as well. Greg, I'll also send that shared responsibility matrix your way. So you can see all the 110 controls and which one of the 102 we provide support for. I just want to see. 
+
+Mark Hughes - 41:21 - Is there any other information that would be helpful for me to share with you after this call? 
+
+Cornell - 41:26 - On the quote, is it a per user per month, kind of subscription based? Thing? Is that how it works? 
+
+Mark Hughes - 41:32 - It's an annual subscription. So actually, what I can do here, let me actually just pull something up here and share this with you. And then is 
+
+Cornell - 41:38 - It tiered based on number of users? up to 10. Users, it's this much? And up to 20, it's this much? And so on? 
+
+Mark Hughes - 41:46 - So, what I'll do here, let me share my screen. Here. I can actually show you the quote and how we structure this. 
+
+Mark Hughes - 41:53 - And what I'll do is I'll take this and I'll customize it for you and send it your way. Immediately afterwards. So this is our pricing. Price. So. What you'd be looking at is that you will say 5 users, just let you know, you can always add more users at any time. So if you want to start with five, and then say maybe a month later, you needed a sixth user, you can add that just ask your customer success manager to add a user and then they'll prorate the licensing fees for that new user you've added. 
+
+Mark Hughes - 42:25 - So basically what you're looking at here is yeah, it's an annual fee and then the compliance accelerator, you're actually under 10 users. So you actually you're a tier lower than that. So I'll take that down. So basically, what you're looking here. If you want to have what would you want to have one or 2 admins? Two. Two? Okay. So you'd be looking at the 5 users, 2 admins and the compliance accelerator GRC bundle. We have a small one time onboarding fee to get your accounts. Set Up. So, for your business, you'd be looking at $8,400 per year. 
+
+Cornell - 43:00 - Per year, initial term, what's second term? 
+
+Mark Hughes - 43:05 - So, I mean, it just depends if you add any users. Okay, it's not like 
+
+Cornell - 43:11 - A promotion where it's 50% off the first year. 
+
+Mark Hughes - 43:15 - Yeah. And honestly, the price increases, we've never had a price increase of licenses more than and 5%. 5%. So we're not going to double your pricing year. 2. We've had competitors that have done that. At obviously the behest of some of our newer customers, but we're typically average, say a 5% price increase for renewal. 
+
+Cornell - 43:35 - Which is expected with today's market, right? So... Correct. That's currently in Canadian? 
+
+Mark Hughes - 43:40 - This one is in US dollars, today. Okay. So I'll customize this quote for you. 
+
+Cornell - 43:52 - Yeah, go ahead and send that shared responsibility form over as well. Is there. Anything else you need? No, that's good. And I can, I'm sure I'll have some questions come up. Do you do I need to arrange another caller? Can I shoot you an email? 
+
+Mark Hughes - 44:06 - Either way. Yeah, I'm available. If you want to set up a call to discuss, or if you just have a couple questions over email, happy to address. If I don't hear back from you. First, Greg, one should I check back to see if you have any additional questions? 
+
+Cornell - 44:20 - You'll hear from me. If you don't hear from him by the end of the week, reach out to him. 
+
+Mark Hughes - 44:25 - Gotcha. And Greg, I have your email address. Jamie, can I get yours, so I can send the quote to you as well? 
+
+Cornell - 44:30 - Yeah, it's just jamiew.cornell.on.ca. 
+
+Mark Hughes - 44:36 - Okay. And that's Jamie, J A M I E, correct? Yep. Right, Jamie W. At Cornell. Okay, got it. All right. I will get those over to you today. Thank you very much for the time. It was a great meeting. Both of you and Greg. Yeah. Like I said, if we don't talk, I will connect end of week and I'm here the whole time. So feel free to jump in and ask questions or just give me a call. That's easier. 
+
+Cornell - 44:57 - I do have one last 
+
+Mark Hughes - 44:58 - Question for you. Don't mind. Yeah, please. 
+
+Cornell - 45:00 - People using your guys's program and all that. What. Are you guys finding as far as success rate for getting the level 2 third party certified? 
+
+Mark Hughes - 45:08 - I mean mean, honestly, we've had almost 100% of our customers get certified on the first audit. We maybe in the very beginning of this process have had one or 2 that didn't make it. It was for reasons outside of PreVeil. So. Keep in mind that our team and the certified third party assessors. We work with, if we recommend one to you and you wind up working with them, They're very used to working with our documentation and processes. So. That's why we see a high success rate. Some of our C3PO's also give discounts when you work with us and them because they're so used to us. So just ask us if you'd like to make some recommendations. We know we're the ones that might give a price break on those audits when you work with PreVeil. 
+
+Cornell - 45:53 - Yeah, it's more of a bonus of working with somebody that knows you guys and kind of knows the shared responsibility type thing. And the success rate with you guys, right? So that's worth more than anything, right? There. There. 
+
+Mark Hughes - 46:03 - Yeah, definitely. And. You could always go to our website and look at our partners page and just see all the companies. But ask us if you want to whittle it down to one or two, especially if we know they are working with our Canadian customers, and then they'll be happy to connect with you. 
+
+Cornell - 46:17 - Are there many Canadian locations? I was kind of led to believe that there wasn't any that do the third party certifications. 
+
+Mark Hughes - 46:24 - So we have I think there is one that is Canadian based, but we have a lot of customer or C3PO's they're based in the US, but they either do work internationally or they may have a Canadian office. So our partner team knows who that is and they can put you in touch. Fair enough. 
+
+Mark Hughes - 46:44 - Fantastic. All right. Any other questions? 
+
+Cornell - 46:47 - No, that's good for me. 
+
+Mark Hughes - 46:49 - All right. Well, I will get this over to you immediately and we'll be in touch. Have a great rest of your Monday, gentlemen. Appreciate, the time. Thanks. You got it. Bye. 
+
+===================================================================================
+
+END OF TRANSCRIPT

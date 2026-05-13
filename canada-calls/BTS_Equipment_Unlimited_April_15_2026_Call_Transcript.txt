@@ -1,0 +1,271 @@
+Transcript
+Date: 2026-04-15
+Account: BTS Equipment Unlimited
+Conversation: BTS Equipment Unlimited - PreVeil CMMC Compliance Discussion
+Speakers: Jack O'Connor (PreVeil) + John Williams (BTS Equipment) + Ronnie (BTS Equipment)
+
+=============================================================================
+
+John Williams - 0:03 - Watch it. Every year. Still go out and play and still have that fantasy. That one day somebody will call me up. 
+
+Jack O'Connor - 0:15 - I mean, I think that's a I think that's something with every dude, right? 
+
+John Williams - 0:19 - That is. 
+
+John Williams - 0:25 - It's a fantasy. But I like, what Brian Scalabini once said to him. Fan where he said that you are so far away from me that I am so far away from LeBron James. Yeah, 
+
+John Williams - 0:39 - And I thought, oh, okay. I see how far I gotta go. 
+
+Jack O'Connor - 0:42 - Yeah, it is pretty crazy. I mean once you see it up. Close, just how good those guys are, it's insane. 
+
+John Williams - 0:53 - And how fast I'm the game is when you sit and when you want. 
+
+Jack O'Connor - 0:58 - A big soccer fan. I played in college. Same, sort of thing. First time I went over to Europe and watched those guys play live, it's so much different than watching it on TV. 
+
+John Williams - 1:18 - Yeah. So you going to the World Cup this year in Boston? 
+
+Jack O'Connor - 1:22 - I am. I'm going got to... My tickets. I'm going to a game. 
+
+John Williams - 1:26 - Which game, are you going to see? 
+
+Jack O'Connor - 1:27 - I'm going to Scotland versus Haiti. 
+
+John Williams - 1:30 - Okay. 
+
+Jack O'Connor - 1:31 - Yeah, so not necessarily a barn burner, but I'm just happy to be there. 
+
+John Williams - 1:35 - Yeah, that's true. It should be fun. 
+
+Jack O'Connor - 1:39 - Yeah, absolutely. I'm excited for it. 
+
+John Williams - 1:45 - Okay, it's 11:00 o'clock. Come on, Ronnie. 
+
+Jack O'Connor - 1:50 - No worries. Worries. We got pretty much the whole hour. So. Have you guys just been running into some CMMCs, kind of stuff? 
+
+John Williams - 1:59 - Yes, we just finished the CMMC level one certification. Nice. And now he wanted to go to the CMMC 2. So tell me what you do since I'm waiting for him. Yeah, so 
+
+Jack O'Connor - 2:15 - I'm an account executive here. Oh, here's Rob. Ronnie now. 
+
+Ronnie - 2:19 - Hey guys. Hey Ronnie. Yes. 
+
+Jack O'Connor - 2:23 - How's it going today? 
+
+Ronnie - 2:25 - Just another day. 
+
+Jack O'Connor - 2:25 - Awesome. I love it. You. 
+
+John Williams - 2:28 - Got to put in California, Ronnie. Another day in California. 
+
+Ronnie - 2:33 - Yeah, sure. Yeah, $10 a gallon and just nuts. 
+
+Jack O'Connor - 2:40 - Yeah, yeah, it's fun, stuff. Stuff. Well, I appreciate you taking some time. Here, Ronnie. John and I were just chatting a little bit about where you guys were at. He mentioned that you guys just got CMMC Level 1 compliant and now kind of going towards Level 2? 
+
+Ronnie - 2:57 - Yeah, we got to go Level. 2, unfortunately. Well, one, we're already a prime contractor on the demo. Got it. And go for contracts. So they're gonna start making that a requirement. And even though I feel it's odd, because we don't deal with any of the sensitivity information. 
+
+Jack O'Connor - 3:16 - Okay, so you guys don't have any CUI? 
+
+Ronnie - 3:19 - No, we don't really need it because we're strictly a demolition grading and utility contractor, so we play in the dirt. Yep. 
+
+Jack O'Connor - 3:27 - Understood. So it's pretty much just a contractual thing? Correct. Gotcha. 
+
+Jack O'Connor - 3:36 - And I mean, yeah, that's perfect. Perfect. And so are you how familiar are you with PreVeil and kind of what we do in the space? 
+
+Ronnie - 3:44 - I'm partially understanding the guy that was helping us with our level one. He's I believe he's a partner with you guys. Oh, OK. So that's Eric, Jessen. Yeah, Mastery or Maastricht, I forget. And then I've kind my of done my own research of everything. It seems like you guys get your own little hub, almost like a Ignite or usage or something like that. 
+
+Jack O'Connor - 4:15 - Yeah, exactly. It's essentially a repository to be sending, receiving, and storing any CUI information. It sounds like, for your case though, of course, it would just be a matter of just checking the box really, and just meeting those requirements and having it in the event that you do receive any CUI, which makes things easy. So essentially this is what it'll look like. 
+
+Jack O'Connor - 4:40 - Here. You'll just kind of have this, like I said, kind of email and drive here to be sending and receiving information in the event that you have some, we'll give you the obviously the user minimum because you have no CUI. And again, kind of just you'll have it in place. Just mainly to check that box. But of course, in the event that you receive CUI, this is kind of where you'd be operating out of. 
+
+Ronnie - 5:10 - Gotcha. 
+
+Jack O'Connor - 5:12 - Otherwise, are you familiar with like, the documentation requirements? 
+
+Ronnie - 5:19 - For level two? Right. No, not exactly. 
+
+Jack O'Connor - 5:23 - Okay, so that's essentially the second thing that PreVeil will cover. So. First thing is the compliant email and file sharing. That'll be pretty straightforward for you. Second one is the documentation. Essentially, it's kind of just having your system security plan policies and procedures, essentially saying what exactly your organization looks like, how you're staying compliant, who's within your compliant, boundary, things like that. Gotcha. Again, I mean, should be pretty straightforward, but we're providing all of that documentation for you. So. It'll really kind of just be to check the box and have that in place. And then lastly, you'd be able to kind of leverage our partner network here to meet with a C3PAO and get that final assessment once that time comes. And to kind of jump into the documentation, 
+
+Jack O'Connor - 6:20 - This is kind of what it looks like. So you'll have this portal to kind of work out. Of. Are you familiar with the GRC platform? 
+
+Ronnie - 6:29 - GRC, going a little bit of depth. I probably am, but I'm just not sure what the acronym. 
+
+Jack O'Connor - 6:34 - Yeah, no worries. So it's a governance risk and compliance tool. Essentially, it'll kind of just help you to manage your compliance. And really your documentation. So you'll have like a live score calculator. Here. When I click into the actual portal, here, I've got all 110 of these NIST controls laid out for me. I can see what's implemented, what is not implemented. And like I mentioned, our documentation is preloaded into here as well. So. This is the sort of thing that you'll kind of go through, edit this documentation for any specifics of your company, and then you'll pretty much be all set. I mean I said, said, it's going to be pretty straightforward if you guys are not even handling any CUI. 
+
+Ronnie - 7:19 - Yeah. I mean, I guess they might handle, consider some of the building work that we do, but none of it's really infrastructure. It would only be the plans that we receive and that's it. 
+
+Jack O'Connor - 7:33 - Yeah. And I mean, are you guys sending that to any subcontractors or anything? that? 
+
+Ronnie - 7:38 - We do have the I mean it's only mainly asbestos type of stuff or soils type of stuff. So nothing would be related in regards to any of the actual 
+
+Ronnie - 7:55 - Structures or MEPs of the buildings. 
+
+Jack O'Connor - 7:59 - Gotcha. I mean in that case, I'll just I'll run through it really quickly. But again, this will act like a pretty standard email inbox. So you'll need to be able to to compose a message and attach that file to it to send out to whoever needs to see it. And really what would happen is you just put in their commercial email address, regular email address here, and they'll be invited into a secure PreVeil portal to access. 
+
+Ronnie - 8:24 - That. Got it. So. It's like a DOD safe? 
+
+Jack O'Connor - 8:27 - Exactly. Very similar. Okay. 
+
+Ronnie - 8:30 - Yep. I have heard a few instances where the government wasn't able to open your guys's portal. Is that something you guys are working on with them to figure out? 
+
+Jack O'Connor - 8:43 - Well, are you sending things straight to and from the government as well, like in email? 
+
+Ronnie - 8:50 - That's what it would... Yeah, so like, if they're trying... I have other clients and friends that are using the PreVeil and they're saying they've had issues a couple times times where the government wasn't, they've sent the document through the secure part of PreVeil and they were able to open it. 
+
+Jack O'Connor - 9:09 - Okay, and that was in the portal, correct? Yes. Gotcha. So, yeah, essentially we do have kind of a workaround for that. Typically, this bottom part here is how PreVeil operates. So, this is my device here on the left. I've got my commercial email set up. Up and then I've also got PreVeil set up. Here. When I send something out for my device on PreVeil, it's going to that AWS. GovCloud. So if I were to send to a government entity, essentially, I would send them just I showed you and they would set up that portal account to access that information. 
+
+Jack O'Connor - 9:50 - Now typically... You're relying 
+
+Ronnie - 9:51 - On the government to do that. 
+
+Jack O'Connor - 9:54 - Sorry? 
+
+Ronnie - 9:55 - Our issue is that you're relying on the ET or the CM to set up a portal. Right. They're lazy. 
+
+Jack O'Connor - 10:05 - Right, of course. So this is the alternative way that we typically use for this sort of scenario. Okay. This way, we'll set you up in a subdomain. So that way, essentially, they won't need to set up a portal on their end. They can just send information seamlessly with you with this subdomain, and it'll still route. Secure inbox. So yeah, so it's I mean, essentially, like from their end, you'll just say, hey, Ronnie, make sure whenever you're sending me CUI or anything. That, you're sending it to this subdomain. That way I can receive it in a secure manner. And. Then it'll work vice versa as well. So whenever you're sending information, you can just send it into into their whatever encrypted mailbox they're using. Got it. Yep. Does. But 
+
+Jack O'Connor - 10:51 - That kind of cover what you were looking for, there? Yeah. Perfect. Otherwise, any other questions on kind of the platform or documentation? 
+
+Ronnie - 11:02 - Not really. I mean, I'm kind of interested as like, would it be, I'm trying to see like dollar wise, because we're going to go, if we're moving over to the cloud, John's well aware of that. If it would be make more sense for us to move everything just to PreVeil or just move only the government contracting that we do to PreVeil? 
+
+Jack O'Connor - 11:25 - Yeah, I mean typically we recommend just moving the government information over there just so you can kind of have a separation. The nice thing about PreVeil is that you can kind of have the best of both worlds. So it's PreVeil is for government information. Anything outside of that is for like, non CUI or non non government information. That's. Typically, the best practice. But I mean, it's up to you. You'll have 10 terabytes of drive data here. So whatever you want to store in there, whether it's CUI or not, you can just store in there. 
+
+Ronnie - 12:00 - Okay. Yeah. Because we essentially would only need technically only 5 to 8 users. Yep. And even that would be minimal typo of information we'd be using. Yeah. So like, there's just sending, especially like, when we send our badging information, you'll need that. So, yeah, 
+
+Jack O'Connor - 12:20 - Yeah, definitely. Okay. And so that 5 to 8 users, those are really the only people kind of handling information from these government contracts. 
+
+Ronnie - 12:30 - Yeah. And only 2 of us would actually be heavily involved with moving the project management side of things around and things like that. Sending things to the government. Government. 
+
+Jack O'Connor - 12:39 - Gotcha. Gotcha. Perfect. Yeah, I mean, so otherwise really to kind of recap, essentially, if you got PreVeil in place, that would cover all of the sending, receiving and storing capabilities that you'd need. And. Then you'd really just be able to go ahead and leverage our documentation in here to complete up to 102 out of 110 for those NIST controls. Really what's remaining and what would be your responsibility is those remaining 8 controls. And. That's purely like, physical controls. So. That would be things like locks on doors, locks on file cabinets, employee trainings, things like that. Okay. 
+
+Ronnie - 13:21 - And then you guys have C3PAs that you guys work with? 
+
+Jack O'Connor - 13:26 - Yep. So we partner with plenty of them. So. We're happy to recommend you once you get to that point. Point. And kind of the benefit of that is that those assessors are actually very familiar with PreVeil. They're trained on our documentation as well. So once you do get an assessment, it'll actually end up being like discounted because they're already going to be pretty familiar with kind of your setup. Okay. Yep. Otherwise, any other questions? Or do you want to jump into some pricing? 
+
+Ronnie - 13:57 - John? 
+
+John Williams - 14:00 - No, I'm good. Go ahead. 
+
+Jack O'Connor - 14:03 - Cool. While I'm pulling this up, did you guys kind of have a timeline in mind of when you wanted something like this deployed? I? 
+
+Ronnie - 14:12 - Mean, I'd like to try to get it done by summer, middle or end of summer. That way I. Don't worry about getting it done by November. 
+
+Jack O'Connor - 14:21 - Like you mean like BCMMC compliant? 
+
+Ronnie - 14:24 - If it's possible, I know it's gonna be rough. Because I know the auditors are booked. 
+
+Jack O'Connor - 14:29 - Yeah, I mean, even though, I mean, you could still kind of get to the point where you're ready for an assessment. Though. Yeah. And just ready for a get to the point where you're 110 out of 110 and kind of just waiting for a 
+
+Ronnie - 14:45 - Self assessed completed. 
+
+Jack O'Connor - 14:45 - Right, exactly. Yeah. 
+
+Jack O'Connor - 14:51 - Let's see, so I'll pull up some pricing here for you. 
+
+Jack O'Connor - 15:00 - So this is kind of what it would look like here for everything that we've gone over, and this would be for the first year. 
+
+Jack O'Connor - 15:09 - So this is on the lower end. Here. It's really just $3, $8 per month per user. So if you wanted to go up to that 8 range, we can absolutely do that too. 
+
+Jack O'Connor - 15:20 - But this is for that 5. Each user will have encrypted mail on drive. One of those 5 would be an admin as well. A single time fee just for setting up that platform will help you guys get trained on everything as well. Even migrate any information into PreVeil that you want in there. Okay. Your email relay is for that subdomain. 
+
+Jack O'Connor - 15:42 - Setup. So this is for that seamless communication with the government. Government. And then your compliance accelerator and GRC tool is for all of that documentation, policies, procedures, and then the GRC, of course, to kind of manage that and be able to walk through that in that platform that I showed you there. Okay. So this would be your total for that first year. And then I mean, really, in second. Year, you're dropping things like these one time fees, and you can even drop things like the documentation. As well. So really that's kind of your year 2 cost for just kind of maintaining the licenses and the GRC there. 
+
+Ronnie - 16:25 - Okay, and then what if we were to sign like a multi year? 
+
+Jack O'Connor - 16:28 - Yeah, we can do that too. And. It'll just kind of lock in your price essentially. Yeah. Okay. Were you guys interested. 
+
+Ronnie - 16:35 - In that? Yeah, I'd like to see what a 2 or 3 year agreement would be. Yeah. Because, I mean, if we're going to do this, I'm not going to just after a year skip out. I'm going to invest the time and everything into it. Yeah, 
+
+Jack O'Connor - 16:50 - For sure. So essentially, in that case, you would just drop the one time fees here. So. That's what it would look like in year 2 for having if you were in a second and third year agreement. Okay. 
+
+Jack O'Connor - 17:07 - Typically I mean, those would be paid annually, but would you want to pay annually or was that kind of an upfront thing that you were thinking? 
+
+Ronnie - 17:16 - Probably annually. Because there's always ads or anything like that come on users. Yeah, definitely. I would probably want to go ahead and pay for one, two, three, four, 
+
+Ronnie - 17:32 - Five, 6. 
+
+Ronnie - 17:35 - Would say 7 or 8 users. Yeah. 
+
+Jack O'Connor - 17:41 - You said 7 or eight? 
+
+Ronnie - 17:43 - Yeah. Let's just say... 
+
+Ronnie - 17:46 - I mean... It would have to be like everybody in the office. What? It would have to be like everybody in the office. It would just be... Sorry, I'm talking to Melanie. She's in here with me. No, No, that's okay. Okay. It would just be you, Liz, doesn't D. Really do anything with payroll. Doesn't have to. And my mom doesn't do anything with badging. So. It'd be you, me, Jordan, Bryce, if we could bring up this other estimator, Keith. 
+
+Ronnie - 18:21 - Alfonso. No. 
+
+Ronnie - 18:24 - Yeah, I would just say 7. Just to be safe. 
+
+Jack O'Connor - 18:29 - Again, this is kind of that first year. And then you just dropped those one time fees. So that would be the for like second or third year. 
+
+Ronnie - 18:44 - The first year was to 12,000 230 what? 
+
+Jack O'Connor - 18:50 - 12,200. 
+
+Ronnie - 18:56 - Minus the 1,000. So it's 11,232. Okay. 
+
+Jack O'Connor - 19:02 - Yep. And I'm happy to send this agreement over to you as well. Did you want to see that? Did you want me to just send a 2 year and a 3 year for you? 
+
+Ronnie - 19:12 - Yeah. Send me a 2 year and a 3 year. Broken down by each year, obviously. Yep. That way I can just put it in front of ownership. Ownership. Yeah. 
+
+Jack O'Connor - 19:22 - Definitely. Definitely. 
+
+Ronnie - 19:25 - Oh, and then John will be able to get a 7. 
+
+Jack O'Connor - 19:30 - Yeah, and also, you can add users as you go. Obviously, I'd recommend starting it on the smaller end. And then if you need eight, nine, ten, whatever it may be, you can always just add those midterm as well. Well. Okay. Cool. Any other questions at this point? Or anything else I can go over? 
+
+Ronnie - 19:53 - So what is the process if we move forward and onboard? And then what is the average cost for a company such as ourselves for a C3PA, audit? 
+
+Jack O'Connor - 20:05 - Yeah. So timeline to kind of get things set up is usually pretty quick. One thing I'll say is that the email relay can just take a week or 2 to get set up after the actual platform. Platform. But, typically, the platform can be set up within the next week of signing. So. It's pretty straightforward there. And then in terms of cost for a final assessment, it does depend. I mean, for you guys, it sounds like it's a pretty straightforward use. Case. So I think that the price that we're hearing is anywhere in between 15 or 30,000. And, once you do get that assessment, that's essentially good for you for the next 3 years. For the audit? Correct. 
+
+Ronnie - 21:00 - John? 
+
+John Williams - 21:03 - Yes, sir. Okay. 
+
+Ronnie - 21:05 - What would be our timeline to move everything over to cloud? How long. Would that take us and difficult? 
+
+John Williams - 21:16 - It won't be difficult. Probably too long as it could take about 2 weeks to move everything over. 
+
+Ronnie - 21:27 - So if we were to start, sorry, Jack, just trying to think out loud. Oh yeah. Start beginning of May. We can probably onboard. With PreVeil either the 18th or 25th and then probably the second or third week be pretty much ready to be able to find an auditor by then. If we were to find the auditor, Jack, do we go through you guys or how does that work? 
+
+Jack O'Connor - 21:57 - You can do either. So you can let us know and leverage our assessor network. We'll make some recommendations for you. If you guys want to go outside of our recommendations, that's totally up to you as well. 
+
+Ronnie - 22:10 - Okay. Yep. Yeah. I mean, if you could send me over this pricing, we'll say for now. 7 users. Sure. And then assume we get everything ready by middle of May to onboard. Yeah. And. Then let me know if you guys have contacts to see who has availability, say September to do the audit, September, October to do the audit. That would be really helpful. 
+
+Jack O'Connor - 22:44 - Sure. Do you want me to make this the start date. 515 for you? Yeah. Cool. Awesome. I'll shoot that over to you. And obviously, let me know if you have any any questions, questions. Or anything like that. 
+
+Ronnie - 23:02 - Is there a monthly payment option? Yes, 
+
+Jack O'Connor - 23:06 - There is monthly payment options. I would have to double check if we can do that for multi year. But typically, if you were to do monthly, even for the first year, it would just come with a 10% upcharge. 
+
+Ronnie - 23:20 - Okay, that's how important there's a benefit of paying for the whole year versus monthly. So it's only 10% off. 
+
+Jack O'Connor - 23:26 - Obviously, I guess the benefit of doing multi year would just be locking in your price. So then, even as price changes. Come year after year, you still have that price that you're paying annually. So that's kind of the benefit there. Otherwise, in terms of annually versus monthly, it really just has to do with that 10%. Upcharge. But we do have somewhere in the middle, so if you wanted to commit to to just a single year, we do have quarterly payment options as well. And that comes at no additional upcharge. 
+
+Ronnie - 24:00 - Gotcha. Okay. 
+
+Jack O'Connor - 24:02 - So there's a couple of options there. 
+
+Jack O'Connor - 24:05 - And I know you mentioned kind of just running it by ownership and going from there. What. Sounds like a good next step from here? 
+
+Ronnie - 24:15 - I just need to run it. Like I said, talk to ownership. Ownership, I'll probably be able to talk to them in detail about it, Monday or Tuesday. I'll be able to kind of brief them over Friday because I have to be out of town. Tomorrow. And then I just got to get with John who's on this call to kind of make sure we're all aligned on a timeline. So probably the end of next week. 
+
+Jack O'Connor - 24:41 - Cool. Do you want to throw a quick time on them and we can sync up and see where things stand? Stand. 
+
+Ronnie - 24:48 - Let's see what date is that. 
+
+Jack O'Connor - 24:51 - That would be the 23rd and 24th, Thursday and Friday. 
+
+Ronnie - 24:56 - Yeah, let's just go with the 24th, about 10:00 a.m. Pacific. 
+
+Jack O'Connor - 25:02 - 24th, you said? Yeah. Sure. 
+
+Jack O'Connor - 25:09 - Sounds good. I'll just throw that on I mentioned. Let me know if you have any other questions. Questions in in the meantime. Meantime. 
+
+Ronnie - 25:15 - Sounds like a plan, bud. 
+
+Jack O'Connor - 25:16 - Awesome. Thanks, guys. I appreciate it. Thank you, John. 
+
+John Williams - 25:19 - Thank you. Bye now. 
+
+===================================================================================
+
+END OF TRANSCRIPT

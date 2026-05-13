@@ -1,0 +1,145 @@
+Transcript
+Date: 2026-04-28
+Account: FirstCall (Travis Sands)
+Conversation: Canadian CMMC Market Discussion - C3PAO Perspective
+Speakers: Orlee Berlove (PreVeil) + Travis Sands (FirstCall - C3PAO/Consultant)
+
+=============================================================================
+
+orlee berlove - 0:00 - Oh my gosh.
+
+Travis Sands - 0:01 - Yeah. It's all good. All good. All a good busy.
+
+orlee berlove - 0:07 - Good busy is a good thing.
+
+orlee berlove - 0:08 - For sure.
+
+orlee berlove - 0:09 - Well, I appreciate you taking the time to talk to me. I know we don't have that much time, but just to give you the sense of what this conversation is about, we're trying to understand the Canadian market. We've had probably, I don't know, about a hundred calls with potential customers in the past few months. They have probably about 60 or 70 Canadian customers. I'm trying to understand that market a little better from the standpoint of what is it that is driving the Canadian market and also from the standpoint of where Prevail might have gaps and so on. I guess with that in mind, the first question is, I've reached out to you because I heard you had experience working with Canadian companies. How many of you are assessed or are in your pipeline?
+
+Travis Sands - 1:02 - Yeah, so good question. We're actively working with one on their CMMC and CPCSC. We are sent over a statement of work and discussing with a second one. And then we've also worked with one previously that was Canadian. And both Canadian and US operations and they were in the defense industry. And then we've also worked with a company over in Germany. They have different locations all across the world, one in China as well. So, you know, data residency, data sovereignty. I have a tough time pronouncing that word. You know, familiar with all those and NATO, ITAR, export controlled information, that sort of thing.
+
+orlee berlove - 1:57 - Yeah. All right. So you've said a couple of things. So what is triggering them to move in the case of CMMC? Is it a contract pressure from a specific U.S. Prime or are they being self-motivated?
+
+Travis Sands - 2:13 - Yeah. Also, we've worked with another one, now that I think about it, But yeah, I think it's all, I mean, pretty much like all the vendors in the ecosystem, it's just a prime contractor trying to really come down on this and that's where the pressure is at. Now, I do know that Canadians specifically, they're starting to see some pressure from the Canadian government for CPCS. And from what I've been able to look up online, I haven't really seen all that much pressure or any sort of deadlines or anything like that with CPCSC, but I know that, you know, it's something on their radar as well.
+
+orlee berlove - 3:12 - Yeah. So from what I was reading on CPCSC, cause I was trying to understand that a little bit too, They're based on REV3. It doesn't sound like there are any C3POs in Canada that are able to assess. A lot of it is self-assessment at this point. Yeah, I guess I'm trying to understand that because a lot of what we see is just US flow down to Canada and a lot less CPSC. So I guess what is driving urgency? Is it CPCSC or Canadian? USCMMC?
+
+Travis Sands - 3:49 - Yeah, so definitely the more pressing deadline and more pressing need for Canadian contractors is CMMC. And I think CPCSC is kind of like when CMMC first came out, there was a whole lot of, you know, oh, my God, the sky is falling sort of rhetoric around that. But from what I've been able to there aren't any like firm deadlines on that. And there aren't, you know, any CPCSC three PAOs or anything like that. So, you know, I think the pressure is more so from CMMC, that's the more pressing deadline, but Canadian companies are, you know, hey, this guy is falling, what do we do? How do we comply with both CMMC and CPCSC?
+
+orlee berlove - 4:47 - Yeah, that's kind of a little bit of a challenge because one's on REV2, the other's on REV3. So how do you have your office place geared to meet both of those? Like do you have constantly maintaining two sets of books? That sounds almost impossible.
+
+Travis Sands - 5:04 - Yeah, so good question. And what we are doing with our current client we're working on this for both CMMC and CPCSC. We're focusing on applying the REV2 controls across their entire network. And then, of course, they've implemented Prevail. So all of the US CUI ITAR data will be housed in Prevail. The Prevail recommended baseline for M365 commercial, and then for Down the line, what we're planning to do is for any Canadian controlled goods data, there will be a couple of different Microsoft tools to make sure that that data stays within Canada in there. I think it's, I don't know if it's Cloud Logger. I had it pulled up in one of my 50 different tabs earlier today.
+
+orlee berlove - 6:03 - So that's, yeah, Canadian. So if you think about the trifecta, a bunch of standards that many of these Canadian companies are meeting. One is CMMC, one is CPCSE, one is ITAR. Then there's Canadian controlled goods. What do they call it formally? Controlled goods or just CCG? Yeah.
+
+Travis Sands - 6:29 - I say controlled goods. There's probably more definite term than that, but you know, whenever I talk with clients, I say controlled goods data.
+
+orlee berlove - 6:43 - So, and is that ISO based or what is that?
+
+Travis Sands - 6:47 - Controlled goods data. It's basically the Canadian version of CUI data.
+
+orlee berlove - 6:54 - Okay. And so then they, if you want to comply with that, you have to essentially meet something similar to NIST 800?
+
+Travis Sands - 7:06 - Yeah. So basically CMMC equals CPCSC. Right. Data equals controlled goods data.
+
+orlee berlove - 7:16 - Okay. And so in order to meet the control goods, you have to pass the CPCSC.
+
+Travis Sands - 7:22 - Yes.
+
+orlee berlove - 7:23 - Okay. So, and for that, you have to have the data residency. So how has that been looking? Are they just going into a commercial server in Canada or what type of government controlled data centers are there? Like we have AWS GovCloud in the US.
+
+Travis Sands - 7:49 - Yeah. So I believe, and I would need to get one of my Microsoft architects on here that can speak a little bit better to it. But we're able to use data residency settings and I believe it's customer lockbox and just like with prevail purview sensitivity labels to help make sure that that data stays within Canada. So I believe that there's some protected a protected B. Sort of data, but ultimately, ultimately, I believe that FedRAMP is equal to a CCCS medium, just to throw another acronym into our conversation here.
+
+orlee berlove - 8:40 - Okay, so that's the Canadian standard for FedRAMP.
+
+Travis Sands - 8:44 - I believe that is the equivalent. But yeah, I mean, can't store control goods in GCC or GCC high as obviously that's in the US.
+
+orlee berlove - 8:56 - Right. So let me just dig before we kind of dig, we're kind of digging into a little bit of the nuts and bolts here. I just want to kind of ask a couple about the assessment mechanics here. So you're doing assessments for Canadian companies. Are they fully remote traveling? Are you able to do them remote or you have to be on site?
+
+Travis Sands - 9:21 - We can do them remote. So I've not done a C3PAO assessment on a Canadian organization yet, but for the companies we've been helping prepare, everything has been remote.
+
+orlee berlove - 9:34 - And the typical client size, small, medium, industry, readiness level?
+
+Travis Sands - 9:41 - Around 100 employees. That's probably the average.
+
+orlee berlove - 9:46 - Lots of different industries there, Travis?
+
+Travis Sands - 9:49 - Manufacturing, engineering.
+
+orlee berlove - 9:53 - And the readiness level, how ready are they when they come to you?
+
+Travis Sands - 9:58 - Normally not too ready.
+
+orlee berlove - 10:00 - That's not much different than the U.S. though, is it?
+
+Travis Sands - 10:02 - Yeah, no, no. And, you know, they come to us and they say, hey, we know we need to get CMMC compliant, certified, and we also have heard about CPCSC, can you guys help with both?" And, you know, we said, yes, we can. We'll start out with CMMC, get the entire network up to the CMMC NIST 800171 standard. Obviously for the C3PAO assessment, only those CUI assets that have prevail on them will be in scope and the network, but for CPCSC, The plan is to take them and pretty much do a Delta assessment against REV2 to REV3, and then make sure that they are able to get up to the REV3 standards and pass that. But, you know, CMMC is the first stepping stone for them.
+
+orlee berlove - 11:05 - And then you want to make sure, and your data will be stored in that Microsoft?
+
+Travis Sands - 11:09 - Canadian, yes. For control goods.
+
+orlee berlove - 11:12 - So the tech stack that they're using in Canada, is that pretty similar to the tech stack that they have in the US? Or what techs are you seeing them use?
+
+Travis Sands - 11:25 - Yeah, pretty much the same. I think the Canadian MSPs use slightly different tech stacks. I don't think a lot of them are using Kaseya and ConnectWise as much, but they do. Use similar sorts of things. But overall, yeah, pretty similar tech stack, a lot of them Microsoft based products and solutions.
+
+orlee berlove - 11:51 - So are there common control gaps you're seeing Canadian companies that are different from the U.S.?
+
+Travis Sands - 11:59 - I think I think data residency is probably the biggest one that they haven't really thought about and haven't been able to really, you know, how do we separate out the CUI ITAR US data from the Canadian one and make sure we're compliant with both. But, you know, other than that, specifically Canadian, not really as the same issues as that we're having in the US, you know, there's no SIM implemented, there's no change management process or pretty much the top two. Okay.
+
+orlee berlove - 12:35 - And just kind of not understanding that everything has to be documented and that they have to live it, like the whole kind of cultural shift. That's perhaps, I mean, that's what I'm hearing from the organizations here in the US, right? The cultural shift towards CMMC is as difficult as all the documentation and technology shift.
+
+Travis Sands - 12:58 - Yes.
+
+orlee berlove - 13:00 - So the status sovereignty thing is kind of, of where I'm a little curious because you said it's become a concern in talking to Canadian customers. So that's kind of like something we're wondering, like if a Canadian customer, well, let me actually step back because it's a kind of a couple-step question. So if a Canadian company came to you today and said they needed to be ready in six months, Who would be a good fit? Would Prevail be a good fit? Are there a lot of other companies that you would kind of push them towards? Who is kind of in the mix?
+
+Travis Sands - 13:45 - Yeah, I mean, good question. And depends a whole lot on the situation, yada, yada. But, you know, in general, I mean, a Canadian company without a US mailing address is not able to get a GCC or 10 and get approved for that. We've tried before and just what we're not able to. So you know, we would push prevail for the most part, unless there was something. Different. Special about them that I can't that I can't think of right now, but You know, within six months, let's implement prevail. Get the baseline down documentation. And et cetera, and go from there and then focus on CPCSC afterward.
+
+orlee berlove - 14:34 - So you said a company without a US address. So if you had General Dynamics and they had a subsidiary in Canada, they could use GCC High, right? Because they have a US mailing address. Is that correct?
+
+Travis Sands - 14:53 - I believe that is how the application process goes. Those for GCC high.
+
+orlee berlove - 14:58 - Okay. But if general dynamics is, you know, doing mom and pop shop in Canada as a subs, uh, as a, uh, float flowing down data to that mom and pop shop and, you know, independent company, they could not use GCC high based on our experience.
+
+Travis Sands - 15:17 - No, they have not been able to get approved for, um, GCC high.
+
+orlee berlove - 15:23 - Okay. So how can, if you were kind of me, you know, talking to Randy and Sanjeev, how would you tell them, like, what can we do to be more competitive in this Canadian market? Yeah, what should we be doing to be more competitive here? Is it standing up something in Canada? Is it working with more Canadian MSPs? It's kind of an open-ended question.
+
+Travis Sands - 15:51 - Yeah. I would, I wouldn't, I would not necessarily stand something up in Canada. You know, I think that most companies that are going to require CPCSC are also going to require CMMC. You know, if there's a Venn diagram of all the different companies, I would say, you know, 90% Canadian companies that need CPCSC are also gonna need CMMC just because, I mean, the US spends more money on defense than anyone else. So, you know, so I wouldn't necessarily send anything up new for Canadian. I think maybe going after Canadian MSPs could be a good option for you guys. Guys, you know, I think that they like a lot of MSPs are getting requests from their, from their clients about, hey, we need to CMMC, we need to CPCSE, how can you guys help? And being able to explain how Prevail, you know, through Purview, data sensitivity labels, CUI, our data residency requirements for CMMC is gonna help their clients. I think that would probably be the easiest pathway into the Canadian market.
+
+orlee berlove - 17:31 - Yeah, and figuring out how to store an AWS in Canada, right? What type of restrictions we would need. Yeah.
+
+Travis Sands - 17:41 - I know the bigger, another issue in particular for international clients are their export controlled information, export control licenses, things like that. Now, I'm not a export control lawyer or anything like that, of course, but I think that organizations do need to be aware of that before implementing We had a German client who bought Prevail and then they had some with their export control license because every time they put ITAR data in Prevail and then re-download, re-synced it to their local device, that was an export control event.
+
+orlee berlove - 18:34 - Ooh, okay.
+
+orlee berlove - 18:39 - So I guess they would need kind of like cloud lock so that things are never downloaded permanently to the endpoint.
+
+Travis Sands - 18:49 - Yeah. That's probably something that would need a deeper conversation with, with more of an ITAR export control expert than I could provide.
+
+orlee berlove - 19:02 - Right. And I mean, assuming in Canada, if they're dealing with ITAR, that's also an issue.
+
+Travis Sands - 19:12 - What do you mean by that?
+
+orlee berlove - 19:14 - So if a Canadian company is dealing with ITAR that they get from, I mean, just similar to the German company you described, right? If they're dealing with ITAR data and they try and download it to their local device, it becomes an export event. Am I understanding that correctly?
+
+Travis Sands - 19:29 - Yeah, that's what their legal team had told us. So we had to pivot and do an on-prem solution for them to store their CUI ITAR data within Germany because that is what the export control license that they got from their client. That's what it says they are allowed to do.
+
+orlee berlove - 19:51 - Got it.
+
+orlee berlove - 19:53 - Okay. All right. In the meantime, I think those are a lot of my questions. I guess one last question, though. Is there anything about the Canadian context that makes a partnership with a particular tool vendor like a Prevail or GC, Microsoft, or Kiteworks more valuable or more complicated? I guess, how can we be the most valuable to, more valuable to a Canadian base? Besides data residency, are there things that we could do with our product?
+
+Travis Sands - 20:48 - I'm guessing, and I don't know, but I would guess maybe the CloudLock could be a good solution if that is viable for export controlled information or I heard you guys are also coming out with a VDI solution.
+
+orlee berlove - 21:13 - Yes. So that could definitely help.
+
+Travis Sands - 21:16 - Yeah. Yeah. Something along those lines for export controlled information, but, you know, I think overall being able to, the data residency definitely helps in helping them meet their FedRAMP requirements and also meet their CPCSC data residency requirements.
+
+orlee berlove - 21:39 - Travis, thank you so much for your time. I appreciate it. It's been really helpful.
+
+Travis Sands - 21:44 - No problem. Let me know if there's any other questions or anything we can do to help.
+
+orlee berlove - 21:47 - All right. Appreciate that. Thank you, sir.
+
+===================================================================================
+
+END OF TRANSCRIPT

@@ -1,0 +1,201 @@
+Account: Calian
+Call Date: 2026-01-08
+Duration: 00:31:32
+Participants: Robin Barrow, Paul Attner, Anthony Rayner
+
+======================================================================
+
+Robin Barrow: So
+Paul Attner: On a second.
+Paul Attner: I started working on something else, of course. Okay. No, you're good. Hi, Paul, yeah. How are you? I see I turn my camera anything. I don't know. Here it is. Okay. I don't do zoom very often.
+Robin Barrow: Majority of my customers, don't. I always say we need a team license here. Let me just make sure I got everything. So this is your welcome call. Are we expecting anybody else on?
+Paul Attner: Tony's driving to Baltimore for some reason. Okay. All right. Then it's just us.
+Robin Barrow: Thank you for your flexibility. I apologize. I had to reschedule just that time of year when the million sickness is going on. So but I'm glad you're here now. Let me just make sure I got everything pulled up. And yeah, I'm your customer success manager. I'll be your main point of contact moving forward here at PreVeil and today's goal. I just want to go over what you all signed up for. Talk about next steps on how to get started. And then yeah. And just kind of go over why you all need PreVeil and get an understanding there. I know you probably shared with Zach, but I just want to hear for myself. So to go over what you signed up for I see 20 users in total 2 of them admin, you also purchase the accelerator and the same connector. Does that all sound accurate?
+Paul Attner: I don't know what that is.
+Paul Attner: The what
+Robin Barrow: Sorry, what?
+Paul Attner: I don't recall signing up for it now.
+Robin Barrow: The same connector.
+Paul Attner: Same click. I don't know what that is. Yeah, I don't know. Maybe
+Robin Barrow: Let me just make sure.
+Robin Barrow: Maybe I hold on.
+Paul Attner: I don't think we have 2 admin either. So I don't think that's me. I had a Kyle.
+Paul Attner: Okay. Yeah. So Kyle works in Canada. He's one of our Canadian guys, who works up in our parent company. Okay. Us, we're focused on really the us market and government services. Okay. I know I was gonna tell you, Kyle, did is probably talking to you guys. But um
+Paul Attner: I don't know how they're moving. Um
+Paul Attner: So I actually sent your link to them to to investigate. So I'm glad they actually did it. So yeah. Um
+Paul Attner: So we have a couple of customers government prime that are now trying to flow down to cms stuff to us, right? Asking how many controls are you guys even, right?
+Paul Attner: Trying to get to. So we do not have Microsoft government high here. So but from what I run a new website, your product could work with this regular office 365
+Robin Barrow: Yes. Yes, it does. I just want to confirm so. I think I'm confused the Canadian company. They did purchase PreVeil. So they actually did go through a purchase PreVeil, so you all don't have her bill yet.
+Robin Barrow: You
+Paul Attner: Do not okay. They may pass it down to us. I'm not sure.
+Robin Barrow: Okay. I don't know if you all when you I guess I'll ask when you all go through. Um
+Robin Barrow: Your cms process or when you need to submit a score or anything like that, are you reporting to one page code or is there multiple cage codes?
+Robin Barrow: Um
+Paul Attner: That's a good question.
+Paul Attner: I'm gonna say it might be 2 cage codes that we have a teleport also. That's here in the us and they have their own page code. Yeah. Okay.
+Robin Barrow: So yeah, that it might be a separate purchase in that case, because you have to you'll have you'll need to have separate organizations. But yeah, that's what I just went through. That's what Kyle and team or the Canadians had had purchased.
+Paul Attner: Our e mail. My e mail address is managed by Canadians, right? The it group that manages our IT stuff is out of Canada. Okay. All right. So even though if we have a separate page code if there if the it group bought the stuff that might still flow it down to, they might yeah, we're part of the it system, right? So here we use an Exostar right now. Okay. I hate the product a lot. Because it's sort of in here, is it in teams? I think they did it in teams and it's just pinging a but to log in there and it's a pain in the to and they give you some crazy email for people to send the CI documents to and it's just tough to work with. When I saw your stuff. It sounded like if our group gets our own office 365 account, right? Personal computers or whatever. We'll get a separate computer or even from the corporate one. So we're on different systems. I don't want the Canadians be able to see what potentially what we're doing, right? even though they are 5 I just for form was I think we might just get our own many computers on our desk in if we do that. Just wondering does your product would still work and how that would how we would implement it and kind of get an idea what the costs are?
+Paul Attner: Yeah.
+Robin Barrow: Looking at I yeah, I'll probably the sales team will be able to provide pricing and all that fun stuff, but I'll give you the rundown. So PreVeil works. It's encryption keys that are installed on the back end of your computer. So each user has their own encrypted key. So that's where it remains, secure end to end. It does plug into some your commercial account for your office or I should say outlook. But it operates and it's we have an email and drive function. So you'll have your own drive similar to what you would use, let's say one drive or google drive. That's completely separate. Okay. You
+Paul Attner: And it's encrypted. The one drive is encrypted. So even if I use my work computer, the Canadians couldn't see it, the it group couldn't see it, because
+Robin Barrow: They could not see it. No. Unless it was shared with them through PreVeil. And the way for I'll just say it does not connect to teams. It's completely separate. So if you were to say if you were to communicate with someone outside of PreVeil, that does not have a PreVeil account, it sends them an invite to join PreVeil and it's they get access to what we call PreVeil express. I would even say for you I would sign up PreVeil express so you can play around. It's a free version of PreVeil. You
+Robin Barrow: They would either get an invite for that or we have another function. This is kind of getting the weeds called email gateway. And that would that requires a sub domain from you all. And then you would whitelist the communicate the people that you communicate with mostly within PreVeil. So then the emails would flow from PreVeil and through a secure sub domain and they don't have to sign up for PreVeil express for you all
+Robin Barrow: I might be is it called? How do you pronounce your company name? Is it
+Paul Attner: Kelly Calian.
+Robin Barrow: Calian, okay. It'd be secure dot Calian.com, that would be the sub domain. You can there's 2 options you can take there for the email function. But drive it is it's shared or you can have your personal drive and share it with nobody. So it's up to you.
+Paul Attner: Okay. For someone to send me a UI document, I need to send them. The one way is to send them an invite. And then once they accept it, they got to PreVeil software on their computer and then send it to us and the internet encrypted.
+Robin Barrow: Yes. Yep. It will be encrypted and done.
+Paul Attner: And to end, right? And that's how you guys become compliant with cms.
+Robin Barrow: Correct. Yep. So you say we share 102 controls. If you install PreVeil ran away. Did nothing didn't do any documentation or anything like that? You get around 40 controls?
+Paul Attner: That 40 controls, okay.
+Paul Attner: How do we get to 100 and not ten?
+Robin Barrow: 110. So I will show you
+Robin Barrow: Outside of the PreVeil platform, we have a whole other compliance side of PreVeil and we have something called the compliance accelerator. So what this is it's a 10 step guides getting compliant. We take you really green. What is cms? Why is important all the way through how do you score one ten? just to highlight some areas for instance, how do I secure my network?
+Robin Barrow: Majority of our documentation around Microsoft products. So is this but this will say okay.
+Robin Barrow: Come on computer.
+Robin Barrow: If I need to secure my endpoints, we went through broke out, how you secure your endpoints, what products you need and what controls they point to. And we actually go through and tell you how to configure set products.
+Robin Barrow: So we've broken this all out. Um
+Robin Barrow: Another piece I would say is our documentation a lot of our customers purchase us just for this piece only. We have something called the acne docs package, which is a fully assessed documentation package. We brought this to A C 3 Pao. Acne is a fake company and said, hey, bring this through a full assessment. As if we're this fake company is going through level 2. They went through and approved it all. And I wouldn't even say they're templates, because they're completely filled out. And one of our a lot of our customers do they take our language and adopt it to theirs their security infrastructure if needed, but you have the bones of what you will need to get fully compliant this spot.
+Paul Attner: Example of a completed document. That the C 3 Pao approved.
+Robin Barrow: Correct. Yeah. This is the system security plan. Obviously, if you use PreVeil, the PreVeil language will stay the same.
+Robin Barrow: Co flow.
+Robin Barrow: But yes, this is fully completed. As you can see. This document is 185 pages, so it's very dense in very detail.
+Paul Attner: On page one, we have 20 minutes.
+Robin Barrow: Good. I wouldn't even our compliance team. It's like another language that they wrote, but it's very helpful and very detailed. The nice part about this too, is that with the compliance accelerator and the documentation, you get access to our compliance team. So you get 6 30 minute sessions with them to do a call just like this or you can email them and those the emails don't count against your time. If you have any one off questions that don't require a long answer, they will go through all right and email you and provide an answer. Yeah.
+Robin Barrow: Yeah. That's uh
+Robin Barrow: One of our offerings is not only the platform then also the compliance back it up.
+Paul Attner: Did you have did I do also offer consultation to for a longer amount of time? to come sit and do the documentation for us? Is that we don't
+Robin Barrow: Yeah, we don't do that, but we do have a ton of partners that will offer that that work directly with us. So we have if you go to PreVeil
+Robin Barrow: I don't know if you've been to our website often. But if, for instance, if you say if you get all your documentation done and you're ready for a full on assessment, we have C 3 Pao that we work with. You're looking for a consultant. This is who we would refer you all to main spring is a good one unbiased to them because they're one of my customers, but
+Robin Barrow: And if you want a local one, you can
+Paul Attner: See, how you write your stuff, it's kind of easier to go with them.
+Robin Barrow: Sorry, say that again.
+Paul Attner: They're familiar with your how you guys write your information. So
+Robin Barrow: Exactly. Yeah, especially when I
+Paul Attner: Say now, they know. So yeah. They know you're writing style already.
+Robin Barrow: Exactly. Especially for the C 3 Pao, for sure.
+Robin Barrow: And yeah, all these are great partners that we would recommend videos. Really good one.
+Paul Attner: I did go through to yes. CC class.
+Robin Barrow: Oh, you did.
+Paul Attner: Yeah. Unfortunately, I went through it. I'll never pass that testing.
+Robin Barrow: I have to go through uh
+Paul Attner: I don't.
+Paul Attner: My role is not doing this stuff. So I'm dealing with business development customers and stuff. So what every day you kinda it's you have it for 5 minutes and then if you don't practice it, you lose it very quickly.
+Robin Barrow: You do, yeah.
+Robin Barrow: That's for sure. You're like on my side. So I do
+Robin Barrow: Customer success and deal with customers, but they want us to get a PO
+Paul Attner: Yeah, I think I took the Edwards class. You might have your own class that you guys go through. Yeah.
+Paul Attner: So that. So let me let's go through your products real quick. So you talked about the PreVeil express, which I can download for free. Yeah. What does that give me
+Robin Barrow: That gives you access to email and then a limited drive. So it's a very low storage. Um
+Robin Barrow: Excuse me and you couldn't share out. So it's a very limited as far as a function, but
+Paul Attner: Like company. So everyone I can't invite someone to it unless they're already on PreVeil express. Yeah, you
+Robin Barrow: Yes, you wouldn't be able to invite.
+Paul Attner: I can't go to an outside person. Okay.
+Robin Barrow: But you can go literally right to our website here.
+Robin Barrow: And select create a free account come on computer if you go to products on our website and go create a free account. Okay.
+Paul Attner: And your regular products very similar to this. So if I wanted like this sort of almost like a demo, what it would look like?
+Robin Barrow: For us, yeah. Yes. I mean, the regular products, a little more in depth. My demo environment is not great. Again, I the sales side would have a more detailed demo, but it's fairly simple product. Here's your mail. Let me make sure I'm not
+Paul Attner: This is not what star is at all.
+Robin Barrow: It's separate so
+Paul Attner: What I wanted them to be. This is oh, okay.
+Robin Barrow: That's good to hear. Yeah. We have the email function, the drive function and then this is the admin function. So if you're going to be the admin on the account, you would go ahead and you would have all these additional tabs, but
+Robin Barrow: This is what I was talking about. The secure email gateway that's if you don't want your individuals that you're communicating outside, you would add them to the gateway that's an additional product the same connector, that the Canadian side purchase that is pulling the logs directly from PreVeil and putting them into your the same solution that they would use or sim. However, anyone likes to pronounce that. So
+Paul Attner: How does this work with my like iPhone for instance, or mobility? Does does this product work on that or is it stuck just a desktop only?
+Robin Barrow: You there is a an app as well, a mobile app that you can use with mobile apps and CC, it gets a little hairy, but again, the capability is there?
+Paul Attner: Yeah. I don't necessarily think we need it. Yeah. But because usually when let's you're traveling.
+Paul Attner: Our CEO in only so he might want it because he never brings his laptop.
+Robin Barrow: There we go. That must be nice. I always bring the laptop everywhere. The other piece of
+Paul Attner: Explain.
+Robin Barrow: Um
+Paul Attner: I'm gonna happy I were caught talking tomorrow.
+Robin Barrow: There you go. I love that.
+Paul Attner: Um
+Paul Attner: Yeah. So walk me through your product list on what each one does that would be helpful or you can email that to me. Yeah. I see like I kinda got a little bit complicated. I wasn't sure exactly what we needed.
+Robin Barrow: Sure.
+Paul Attner: To do maybe
+Robin Barrow: I'll tell you that would be helpful.
+Paul Attner: Tell me what we need.
+Robin Barrow: Yeah, I'll do that. There's one other thing I wanted to show you real quick before we dive into that real quick. The so because they're encryption keys installed on the device, it can sync to your file server. So for instance, you'll have a secure PreVeil folder that's located on your desktop. And you can also have it plugged into your email so I can show you real quick. Let me just get to an email. That's not gonna show you everything in my inbox.
+Paul Attner: We don't have a server everything's in the cloud without
+Robin Barrow: Oh, it is. Okay. Then you could do a cloud block settings. So then it wouldn't sync down to your the local device.
+Robin Barrow: That is an option. It's just some of our customers like to be able to have the local copy as well. And then this is what you will see for this is gmail, but look works. Similarly. You'll have the secure inbox again. It sits on top of your commercial account, but this is the plugin. So you'll see your secure messages. This is what it would look like. And if you want to compose an e mail again because I'm in the secure inbox, it automatically is encrypted. But if you don't want to encrypt, you can toggle it off. So it says if you have to see the PreVeil key, encryption is on.
+Robin Barrow: Encryption is off. So if you were to write an email to someone that doesn't have PreVeil and I can do it to you. So and you can see what the invite looks like. Let me just make sure I have your
+Paul Attner: Paul dot at at Calian.com. That's
+Robin Barrow: Easy enough. Let me just copy it. I'll send it to you can see what the invite looks like and you'll actually be able to sign up for PreVeil express from that invite.
+Paul Attner: Oh, okay.
+Paul Attner: Um
+Robin Barrow: Yeah. It's fairly simple product.
+Robin Barrow: It's not gonna be it is what I like about it. That's separate from your day to day, but if you want it to be integrated with your day to day in the sense that you want the outlook plugin or you want to sync locally, you can
+Robin Barrow: Yeah. I'm just gonna write a test email.
+Paul Attner: And it could yeah. You could work with the it stuff as well or anything along those lines. Yes. Yeah. Um
+Robin Barrow: Okay. I just sent you an email, but yeah. So kind of walk me through what you're looking for and then I can tell you the products that we have that. Yeah, hopefully you can solve your problems.
+Paul Attner: So it's a message high blah, blah, blah create account. Okay, good. Yeah, we deal with a lot of the prime the large primes and some of the smaller ones. And so that is starting to flow to see us requirements now. We also use Sam to get opportunities to try to. We don't bid direct yet because it's just a couple of us right now. So we really a lot of our products fit into a bigger solution. So like the government might ask for like an a 10 and all the install at all that stuff we need to do a piece of it, right? but a lot of the documents they're sending out in our UI and even in Sam. So I want to be able to download it to my computer, which when you have your secret secure area, you can download it, right, and be able to read it. And then I can then talk to multiple primes, potentially who might be bidding on it. Once I see the document, I can determine. Oh, yeah, I'm sure this prime or these 2 primes are probably going to bid it and call them and tell them we have a solution for x,_y and Z and then a bit. So so so we want to be able to read the cms stuff on Pam and then we also now we're getting the flow downs from the primes as well. Saying we went to re recently and wanted to parents cyber security questions. So we answered 15 20 stupid documents we had to fill out for them, you know. Yeah, we don't have slave labor here. Okay. No.
+Paul Attner: Documents and but then when it came to cyber security, that was the only one that we failed was a cyber security one because we're not okay. So because the system not so Kyle up in Canada, they were gonna get one potentially for the whole company and then flow it down to us, which they might still do. But we might still consider doing some separate as well. Okay. Yeah. I mean, we have the domain Calian dash us.com. So we you know, we could easily just go into office 365 and create and just by 5 or 6 of those accounts for ourselves. And use your software to just tell people who want to send the co stuff, send it there.
+Robin Barrow: Right.
+Paul Attner: Right. So
+Robin Barrow: I mean, yeah, you could do that. I mean, it sounds like if you're communicating so if you're downloading from Sam, that's easy. You can just download right into your PreVeil drive. That's simple enough. If you're communicating a lot outside of PreVeil and you're using prime or if you're commuting directly with the do a lot of them, I shouldn't say a lot of them, some of them are like I'm not gonna use PreVeil express. Like that's not for me. We're in GCC High. This is what we use.
+Paul Attner: Right.
+Robin Barrow: That's when the email gateway function would come into play. And that's I always say that's just save some friction. If you want to start out with express see how far you go and then after the fact purchase email get way. That's okay, too. Perfect. Um
+Paul Attner: Can invite the prime to send me CEO documents or ITAR stuff then?
+Paul Attner: Expressed and it doesn't work.
+Robin Barrow: Yeah. If they have to join express in order to start communicating with you, yeah.
+Paul Attner: All right. As opposed to. If I buy the other product, they just have to accept it the encryption then
+Robin Barrow: They'll get a secure email, right to their commercial account intent.
+Paul Attner: Yeah. They can send then then it gets a certificate, I guess goes in their system when they send it to us, it's encrypted.
+Robin Barrow: Correct. Yeah. When they if they email you back would said documents, it's going directly into PreVeil because it's coming through the gateway. So you'll see it securely in your PreVeil inbox.
+Paul Attner: Yeah. So that certificate kind of separates the commercial emails my account to with the confidential one already security. Yes. Cool. Yeah.
+Robin Barrow: So it's called a TLS certificate
+Paul Attner: Right.
+Robin Barrow: Yeah. And we have companies that we work with that will will recommend to you to use. But they're pretty affordable from what I've seen. I think they're like 100 bucks for a year, maybe a little bit more, but
+Paul Attner: No, lunch this week.
+Paul Attner: Um
+Paul Attner: Yeah. We're trying to get something that's affordable as well. And that works. Yeah, I gotta of course, I want to get tracked back with Kyle and see what they're up to. My only concern with this, we can implement this, which is great. We might pass some of the cyber security stuff from this area stuff from that customer the prime for now, even if we're not seeing is, but I think they might get the 40 controls, but are they gonna spend the time to really get 110 done? That's my concern.
+Robin Barrow: Right. And that's where the accelerator comes in. Um
+Robin Barrow: It's a beast you. I think you have to define your scope and then understand if you need level one or level 2 if you're working directly with Sui and you have those Dr 70 12 clause plus. Yeah, yeah. You'll need level 2. And then you can find out a lot of people are gonna need an assessment probably soon. But no, I shouldn't say soon, a lot of people are gonna need an assessment. A lot of people are getting by with just a self assessment, so you can figure out
+Paul Attner: What you need. We can get to the self assessment part, then we can invite and whenever they're ready, we can do it. Yeah.
+Robin Barrow: Um
+Paul Attner: So like, I don't think
+Paul Attner: Product was that expensive for what we need no. Um
+Robin Barrow: Again, I
+Robin Barrow: From my standpoint, how many users would you have?
+Paul Attner: The I think we're all going to have like between 5 and 10.
+Robin Barrow: 5 and 10. Okay. I can I think because
+Robin Barrow: Calian, they are the Canadian side. They had up to 20 users.
+Paul Attner: Yeah. Because they have some defense guys up there in Canadian defense and that, yeah.
+Robin Barrow: Yeah. I have to go back to Zack and team, but it should be
+Robin Barrow: I would have him price you out of 10 and I can he can probably do that.
+Paul Attner: Today, yeah. Don't send it to Kyle. This is just separate. Yeah.
+Robin Barrow: I'm curious. How did you get my email? Or my calendar, I should say.
+Paul Attner: Um
+Paul Attner: I think I just went on the website and asked for a demo. Oh, okay.
+Robin Barrow: Oh, okay. That's why you got directed to me because the Canadian side already booked time with me. So there you go.
+Paul Attner: That's good. Welcome to you, but they were moving slow and they were looking at a couple of other things as well. And I kept telling them put playing around and make a decision and yeah, stuff seems easy. And when you show me the demo, just what it looks like. It is super easy.
+Robin Barrow: It's super easy.
+Paul Attner: It's compared to Exostar. Do you have a lot of
+Robin Barrow: Data that you need to put into, you would have to put into like, CI data today. Are you storing a lot?
+Paul Attner: No.
+Robin Barrow: No. That was just my first question, yeah.
+Paul Attner: A lot of times. We just tell the primes don't send it to me. Just tell me what you need. Okay.
+Paul Attner: Don't tell us the opportunity to just say you need 9 meter intent or you need x,_y and Z product. Just tell me what you need. Don't tell me what it's for that, yeah.
+Paul Attner: You get around to see you are the issue, but it would be ideal because it could be doing more potentially be missing stuff because we don't have it. Yeah.
+Robin Barrow: No. And that's a lot of our customers have purchased that for that now. They're like all right. There's an opportunity here. Yeah. And some of them are getting the full CMC level 2 assessment and going through all that, just so they can start bidding on contracts. So some of them aren't even technically doing any government work yet.
+Paul Attner: Well, yeah. And we're talking about becoming an SLA company and our CEO the CEO is like, yeah, yeah, go get your a company. We're like, yeah. But we need AD 2 54 for that and you need to have a contract and if you want to get a contract, you're gonna have to be cms approved and blah blah, blah. And if I go to government high route for outlook then the companies like summit 7 want like 120,000 on recurring and a couple of 1,000 a month to manage it and for 5 or 10 people, it's a lot of money for. If I had 40 people there might be. Okay, fine. But for like 5 or 10 people, it seems to be very expensive.
+Robin Barrow: No. That's why a lot of customers they're piece mailing it. So all right, I'm gonna buy defender. I'm gonna buy the smaller team solution, whether it be we work with a company called nectar. If you go GCC High
+Robin Barrow: For you all. I don't think it makes sense because you're smaller, but it's I think it's like a 15 grand install implementation. And then you have the reoccurring monthly or yearly cost of what it looks like for each license, but it's the implementation is can kind of get you. But um
+Paul Attner: You guys offer GCC High as an option?
+Robin Barrow: We do not know. We're trying to replace we're not gonna fully replace GCC High for the bigger guys. But yeah, we want all of the smaller guys. So yeah. A lot of customers though that have CC. I use us for third party communication so they don't have to purchase the guest accounts within GCC High. So they can just use this for emailing.
+Paul Attner: Right. Yeah. That's pretty much. It's just the documents we don't need anything fancy.
+Robin Barrow: Doesn't sound like it for
+Paul Attner: Me it's my AR stuff we got to store. So that would be
+Robin Barrow: We do cover ITAR. Yeah. I
+Paul Attner: Scheduled a half hour. I don't want to make you run over.
+Robin Barrow: Oh, yeah. I just realized
+Paul Attner: It's 11:00 o'clock guy in our teleport our coo there. And cool. I might ask you to do it like an hour meeting next time and have those guys join? Just have them go over it. Okay. Sure.
+Robin Barrow: I'll probably have one of our sales reps join. I'm gonna talk to Zack to to see. Would you like him to send you over pricing or would you want to wait?
+Paul Attner: Send something over. Okay. Just look at it and then we can get another call with these other guys and see where we can go from there.
+Robin Barrow: Okay. I'll have them price you out for the 10 users and at least one admin and then potentially the email gateway just so you can see what it looks like.
+Paul Attner: Yeah. And would you
+Robin Barrow: And the compliance stuff too, just in case.
+Paul Attner: Yeah. Okay. Awesome.
+Robin Barrow: Well, thank you Paul for chatting and yeah. Look forward to chatting with you soon.
+Paul Attner: You sir. Bye, bye. Bye.

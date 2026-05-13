@@ -1,0 +1,173 @@
+Transcript
+Date: 2026-04-28
+Account: Insight Assurance (Adam Glover)
+Conversation: Canadian CMMC Market Discussion - C3PAO Perspective
+Speakers: Orlee Berlove (PreVeil) + Adam Glover (Insight Assurance - C3PAO)
+
+=============================================================================
+
+orlee berlove - 1:22 - Okay, yeah, I'm just waiting to talk to Adam. Yeah, just trying. This is part of my Get Smart on Canada, just talking to a couple of partners. Looking for a new job already?
+
+Unidentified Speaker - 1:44 - it.
+
+orlee berlove - 2:10 - Good morning, Scott. Can you hear me? Let me try to restart. Hey Scott, can you hear me? Okay, perfect. Yeah, I can't see or hear you. I don't know, maybe it's a Zoom. I can try to send over a Teams or a Google Meet as well.
+
+orlee berlove - 3:59 - Let me do that actually. You know what, I'm wondering if any of my stuff is interfering. Let me just try and go to the couch. As long as I'm waiting. Here. Yeah. Okay. Awesome. Yeah. Didn't have a notice. Yeah, yeah. Okay.
+
+Unidentified Speaker - 5:53 - There's, there's usually like, yeah. And then in some cases, it's like, yeah.
+
+orlee berlove - 6:03 - So Yeah. Yes. He was kind of like, Hello, Adam. Hey, how are you? Good. How's it going?
+
+Unidentified Speaker - 7:13 - Busy.
+
+orlee berlove - 7:14 - Yeah.
+
+Adam Glover - 7:16 - Busy, busy, but all good. Are you guys going to be at the Midwest conference?
+
+orlee berlove - 7:22 - Some of us are. Some I know Sam will be and maybe someone else. Anyway.
+
+Adam Glover - 7:31 - Actually, I think maybe we see if we have a dinner lined up with you guys.
+
+orlee berlove - 7:35 - I thought we did. I think we do. I think you do.
+
+Adam Glover - 7:38 - Yes, we do. Radical and you guys and us on Thursday night. Yep.
+
+orlee berlove - 7:44 - I'll be one radical dinner.
+
+Adam Glover - 7:46 - Perfect. And I think I have dinner with you guys because I got invited yesterday. I don't know if it was like a mass invite or if it just came to me. But I think we have dinner on Monday night at CMMC day as well.
+
+orlee berlove - 8:01 - Oh, yeah, that's probably with Dan. No, I think that was just a couple selected people.
+
+Adam Glover - 8:08 - Oh, nice, nice. Okay, perfect. So we'll be seeing a lot of each other here in the next few days. Maybe not me and you directly, but in general, we will. Indeed. So I guess you had questions about the Canadian version, right?
+
+orlee berlove - 8:25 - About the Canadian version, but also Canada. So here's the situation. We're trying to grow our presence in Canada, and I'm trying to dig in a bit. And so I have questions to try and understand a little bit more about the lay of the land, kind of where Provel is a good fit, where we're a bad fit. So let me just start with a very high level question. So how many Canadian companies have you actually worked with either as an assessor or as an advisor? How many are in your pipeline? What industries are they in?
+
+Adam Glover - 9:02 - That's a great question. And to be honest with you, I don't have those statistics, but I will say probably just a small amount. I would say definitely less than five, probably in the like three to five range. Right now it's not a huge number. We are starting to get more and more inquiries and we've started to look into it ourselves. But unfortunately, not a lot of information out there. We recently joined CADCE, actually our membership, they finally processed our membership today actually, because we're trying to go to CANSEC at the end of May, and you can't go to CANSEC without a CADCE membership. So we finally got that done today, so we'll try to get our name up in that Canadian market a little bit more. But from a seed perspective, I know it's a little bit different for you guys.
+
+orlee berlove - 10:02 - Can you just translate some of those acronyms CANSAC and CADCEI?
+
+Adam Glover - 10:07 - Sure, let me drop it in the chat. So CANSAC is there. It's short for their Canadian Security Conference, so it's the largest defense conference in Canada. Okay. There are, it typically sells out and there's typically over 700 people in attendance for that one. So I would compare that to like probably like National Cyber Summit or something like that one, something like that one in America. It's definitely way bigger than like CS5 and stuff. So, and then in order to get, in order to even attend HandSAC, you have to join an organization called CADC. So C-A-D-C-I. They're like the organization that, for lack of a better term, they run the CADSAC conference, amongst other things. So, did you guys go to DMC in Orlando? DMC? Yeah, DMC, the Defense Manufacturing Conference. No, we didn't. No, you didn't? Okay. So, the reason I bring that up is we tried to go. I live in Orlando, so I just tried to drive down there and go, and I couldn't because in order to attend that conference, you have to have some government force like DD 70 20 or something some random number after DD form blah blah I don't know what the number was but anyway this form has to be approved by the government in order for you to attend so I sort of equate CanSec to that so you have to join you have to join this organization to be a member to even attend. And then there's the Canadian Standards Council, so now I'm speaking more directly from a C3PO's point of view. So we reached out to them, I don't know, a few weeks ago, and then like last week, maybe the week before, we heard back. And long story short, they don't have any, nothing's in place yet to become a C3PO in Canada. They're like, well, we hope to have more information by the summer.
+
+orlee berlove - 12:46 - What does that mean in terms of companies who want to become CPCSC compliant? It means that they're just doing self-attestations at this point?
+
+Adam Glover - 12:56 - Yeah, they're just doing self-attestations. I'm not dug into the pure differences between the levels and stuff like that in Canada. Obviously, we know theirs is based on REV3, so it's slightly different than American version, but it's also my understanding you have to go up the level chain. So like in America, you can, if you need a level two, you just start at level two. You don't worry about level one. But in the Canadian version, you have to start at level one and work your way up to level two and work your way up to level three, so on and so forth. So I don't know. Short answer is I don't know the answer.
+
+orlee berlove - 13:40 - Okay. Well, so in of these Canadian companies, what is triggering them to move? Is it contract pressure from a specific U.S. Prime or self-motivated? What are you seeing?
+
+Adam Glover - 13:53 - So yeah, it's contract pressure from the government. So depending on the agency, and it's nuanced too because of politics, right? As we are today with the current American administration and the tariffs and all of that stuff. So we've started hiring, to get ahead of it, we've started hiring Canadians for our assessment team, just in the off chance that these companies are like, yeah, we need this, but we're not hiring an American assessor to do it. I don't know if that, I don't know if that'll actually happen or not, but that's kind of a little bit of the scuttle we're hearing in the market. So we've done that just to kind of get ahead of it. So the Canadian government is who's mandating it, very similar to the American government. Like our Department of War mandates it, they're mandating it. Now where the distinction is, is there's no reciprocity, right? So if you operate in the Canadian DIB, you're technically supposed to get both. But I've also heard, and again, this isn't proof, it may just be rumor, but I've also heard that some organizations will accept the American version and not force you to get the Canadian version. I don't know if that's true or not true, but...
+
+orlee berlove - 15:16 - Well, so let me ask you, what are you seeing? Are you seeing signals that CPCSC is driving urgency or is it still entirely U.S. Slowdown? U.S. CMS?
+
+Adam Glover - 15:28 - That's a good question. So I I would say it's a little bit of both. So obviously the American one is driving flow down, and they've likely already been scrambling towards that. But when they finalized level one for Canada in the rollout of level one, I think a couple of weeks ago now, then people started scrambling and started talking about, well, hey, what's this CPSC thing, right? So I still think it's a little bit of both, The problem is that from our perspective, the Canadian government is so disorganized with everything. Like they made the announcement and they're like, well, we don't know. We don't know. So the other aspect is not only do they, from our standpoint as assessors, not only do they not have a mechanism for us to become a C3PO, they don't have an equivalent mechanism to EMAX. So the big question mark we have is, all right, well, where do we submit this stuff and who generates the certificate?
+
+Unidentified Speaker - 16:30 - Right.
+
+Adam Glover - 16:33 - And the response we get is, well, we don't know. We're working on it.
+
+Unidentified Speaker - 16:36 - We're working on it. Okay.
+
+Adam Glover - 16:38 - So, I mean, from your guys' standpoint, I think it would be good to just start getting in that market and getting your name out there. Because obviously you guys are going to be needed, right? People are still going to need enclaves in that environment.
+
+orlee berlove - 16:53 - So, well, so let me, let me dig in on that. So let me just try and summarize where we, where we've talked to. You're looking at Canadian clients. They're kind of across the board in terms of size and many industry manufacturing. I would assume a lot of it is, is that correct?
+
+Adam Glover - 17:11 - Yeah. I mean, generally speaking. So that's the other interesting thing is like the, the American government put out statistics, whether they're reliable or not, who knows, like they said, there's like 300,000, organizations that need it. A lot of people think there's way more than that. That's not an accurate number, but at least they put out numbers. The Canadian government hasn't put out any numbers. So we have no idea how big the Canadian dib is. We know it's smaller than the American dib. We don't know how much smaller. And the other component of that is there's a lot of crossover, right? So like Lockheed Martin, Boeing, the big guys, they're everywhere. So they're going to cross-pollinate between American companies and Canadian companies. So the question is, and the unknown is, how many purely Canadian DIB companies are there? So how many CPCSC or whatever their crazy acronym they have is, I still mess it up all the time, but how many pure companies are going to need that versus how many are just going to be piggybacking off the American version? We don't know.
+
+orlee berlove - 18:23 - Right. Well, so I talked to a couple of our Canadian customers and they said to date they've been able to kind of piggyback on CPCSC based on, you know, kind of operating under the umbrella of a company they are contracting for. So that is an NM1. So I don't know if that's kosher, if that's kind have like, uh, with a nudge and a wink. So.
+
+Adam Glover - 18:55 - Right. Yeah. Yeah. I don't know. It's interesting. We're, we're preparing for it. We're doing our best to, you know, get out ahead of it and lay the groundwork. So when, when they get ready, we're, we're there and we're off to the races. Cause we want to be kind of on the bleeding edge of that.
+
+orlee berlove - 19:13 - Um, Well, how ready are they when they're coming to you?
+
+Adam Glover - 19:19 - From the Canadian side? Yeah. Or just in general?
+
+orlee berlove - 19:24 - Canada, Canadian.
+
+Adam Glover - 19:27 - They're about like the American companies, to be honest. There's not a huge distinction. I wouldn't say they're more ready or less ready. They're about the same. Companies in general are all over the place. Some of them are more ready than others, good way to put it.
+
+orlee berlove - 19:43 - Okay. When you're looking at the Canadian companies, their tech stacks, when you're talking to them, are you seeing them use a lot of the same tools that their American counterparts?
+
+Adam Glover - 19:55 - Yeah, for the most part. They're predominantly still using Microsoft and the GCC High environment, as well as AWS and their GovCloud environment. Yeah. So no real distinction there.
+
+orlee berlove - 20:10 - Right. One of the things that's kind of, you know, we're wondering is, okay, is Prevail kind of a slam dunk in terms of being a choice here? Because they can't, if they're a Canadian company, they can't use GCC High. Is going to be troubling. There are other, you know, other than Prevail and GCC High, there are other companies like Kiteworks and Virtru. I guess the question is, does Prevail show up at the obvious choice or what choices are they looking at when they come to you?
+
+Adam Glover - 20:49 - So the Canadian ones that come to us, at least the ones that have come to us so far, and again we're not super well known in that market, which is why we want to get up to CanSec at the end of next month, but they're coming to us through Canadian partners that we have. Like Cobalt, Mirai, trying to think of the other one off the top of my head. I can't think of the name. I know the guy's name, Janu, but I can't think of the name of his company. But anyway, we have several Canadian partners and they're coming to us through those partners. So it's not like we're cold calling or they're just coming to us because we're inside Assurance or it's a BDR related lead. It's a partner related intro.
+
+orlee berlove - 21:38 - Okay. And so what type of solutions are they looking to for protecting their CUI, or whatever they call it in Canada, control goods?
+
+Adam Glover - 21:57 - That's a good question. I mean, I don't know. I don't have a great answer for that question, to be honest with you. It's a lot of the same tools, I would say. I've not seen a crazy distinction between them. And again, we haven't done enough of this yet. So I'm not speaking super intelligently here when I'm trying to be as helpful as I can. But that would be a better question for the partners that are introing because we haven't done. So we've been introed and we've talked to these people, but we haven't actually done any assessments for them yet. So I can't speak to what technology they have and what might be different or not different. But they're still utilizing FedRAMP.
+
+orlee berlove - 22:45 - They're using, well, they're using Canada's FedRAMP, or are they using the CCCS medium? That's kind of Canadian FedRAMP?
+
+Adam Glover - 22:55 - Right, yeah. So.
+
+orlee berlove - 22:57 - Which means they're storing data in Canada?
+
+Adam Glover - 23:02 - Yeah, I guess. I don't know. But to your point, I know that the CC, it's three C's, right? Is the Canadian version of FedRAMP.
+
+Adam Glover - 23:13 - FedRAMP, right.
+
+orlee berlove - 23:15 - And that's where they're storing their data. So data sovereignty was going to be my next question. So it seems like these are companies that need to meet CMMC, but they're storing their data in Canada. Is that correct?
+
+Adam Glover - 23:29 - So that's the nuance thing, right? If they're a purely Canadian DIB company, which again, we don't know how many of those exist, then I would say yes, that is what they're doing. Now, if they're a hybrid DIB company, so if they're working in America and Canada, I can't see them standing up two separate enclaves.
+
+orlee berlove - 23:56 - That wouldn't make any sense. That'd be expensive, and yeah.
+
+Adam Glover - 24:00 - They're not going to stand up a, you know, whatever we just said, CCCS enclave for the Canadian data, and then stand up a FedRAMP enclave for the American data. That doesn't make any sense.
+
+orlee berlove - 24:13 - I mean, for GCC High, they can't, right? Because the data can't leave the U.S.
+
+Adam Glover - 24:18 - Right. In that case, yes.
+
+orlee berlove - 24:21 - So they'd have to have something like AWS, I don't know what other competitors store their data on.
+
+Adam Glover - 24:38 - Medium. I mean it says they, I'm just looking at the Microsoft website, it says they have a Canadian version of right. They don't call it GCC high, but it's basically the same thing.
+
+orlee berlove - 24:57 - OK, so in that case the data can't leave the Canadian.
+
+Adam Glover - 25:03 - Actually, they are calling it GCC and GCC high.
+
+orlee berlove - 25:07 - For Canada. That's why it's called GCC and GCC.
+
+Adam Glover - 25:12 - So they're saying so like this article this. Paper says the, hang on let me scroll back down, says Office 365 equivalent to CCCS medium. And then when you scroll down it says the Office 365 government community known as GCC is available for the United States as well as contractors holding data on behalf of the United States.
+
+orlee berlove - 25:45 - That's GCC. That's GCC. But GCC-HI has to be resident in the US.
+
+Adam Glover - 25:53 - Then GCC-HI is used by federal agencies in defense of industrial base and government contractors. Yeah, I don't know. Short answer is there's too many unknown. Because I mean, if we're in, you know, we could potentially be in the same boat then. Because we have a GCC high tenant. And then we use prevail inside of that GCC high tenant.
+
+orlee berlove - 26:25 - Right. I mean, the thing with GCC high is that the data has to stay in the US. And if they have ITAR, which is fine if they have and which you use it for right to control your data here. And if you have ITAR, you can use GCC high, but if you have GCC, which could be used in Canada, you can't use it for ITAR data.
+
+Adam Glover - 26:48 - Correct. Yeah.
+
+orlee berlove - 26:52 - Okay. So data sovereignty is the concern. I guess, it sounds like you're kind of grappling with it now as we speak, like what are the concerns there? Has your customer talked to you issue? Or is this?
+
+Adam Glover - 27:10 - No, they haven't mentioned anything about it yet. No. But again, it's so new. You know, we've, we've been doing intros and, you know, partner calls and stuff like that. But we haven't actually done any of the work yet. I think part of the problem is Canada is still figuring it out as much as you know, as much as we've asked questions. They're, they're sort of sloughing us off and saying, we don't know that yet. It'll be in the summer, so on and so forth. So I think there's still too many unknowns from their side in terms of how they're going to treat it.
+
+orlee berlove - 27:48 - So it seems like more companies in Canada for now, if I were to, since that's still being figured out, probably the best place to start is just Canadian companies eating meat, U.S. Because that figured out. The issue is though, data sovereignty, whether that needs to be in Canada or the U.S., and I guess that depends on the company. I don't know. A company that is looking to be assessed.
+
+Adam Glover - 28:20 - Right. I would say it would be, yeah, dependent on the company and their contract, right? Right. Will whatever the form of Canadian will the contracting officer allow them to store that in a GCC High environment as an example? Or does it have to be in some Canadian-only environment? I don't know. Right.
+
+orlee berlove - 28:47 - So let me ask you some questions that are perhaps a little bit selfishly focused on Prevail. So if a Canadian company came to you today and they needed to be audit ready in six months, would you tell them to, what would you, I guess, where would you tell them to start? Obviously build their scope, determine their scope. Would you tell them to, what would you tell them in terms of kind of technologies and solutions?
+
+Adam Glover - 29:16 - There are. I mean, that's a good, that's a great question. I mean, again, I would say short answer is I don't know. Because we don't have enough information to say that. To your point, if we know, hey, the Canadian version is going to force you to stay within the Canadian boundaries, or there's going to be some level of reciprocity where the technology can overlap, I don't know enough about it yet to be able to intelligently answer that. But once we have more information, if somebody were to come to us cold, not through a partner, then be able to make referrals, whether that's to you or to somebody else or whatever is sort of to be determined.
+
+orlee berlove - 30:07 - I mean, I guess another way of looking at that is based on your early conversations, are there things that Prevail should or can do in order to be more ready for the Canadian market other than data sovereignty? I guess also getting partners. Getting partners like you guys have out in the Canadian market.
+
+Adam Glover - 30:27 - Yeah. I mean, I think from your perspective, certainly the biggest thing would be that, that Canadian sovereignty, figuring out what you need to do from a FedRAMP equivalency standpoint. So the CCCS or whatever it's called, does that require, is that a, is that a exact one-to-one? Does that require something additional in terms of whatever your body of evidence may be for these clients? And then looking to see if, like you guys are in AWS, right? GovCloud. So can you store that Canadian data in that environment or do you have to go somewhere else or whatever? I don't know. Those would be the things I would look into. And then outside of that, and really just visibility for the prevail name, getting your name out in that Canadian market. Right.
+
+orlee berlove - 31:25 - All right, Adam, I think that's kind of the extent of my question.
+
+Adam Glover - 31:29 - I don't know how hopeful I was. I knew this would be a super productive meeting because we had a lot of question marks as well, but I wanted to help however I could.
+
+orlee berlove - 31:38 - Yeah. I mean, we had probably about 50 Canadian customers. Um, so. Anyway, we're trying to figure out how to. How to kind of expand that.
+
+orlee berlove - 31:56 - Yep, yep.
+
+Adam Glover - 31:59 - Understood. Well, yeah, if there's anything we can do to help, feel free to feel free to reach out and let us know. Happy to help any way we can. Alright. Otherwise, look forward to. I look forward to seeing the team out in Wichita and then again in D.C.
+
+Adam Glover - 32:17 - All
+
+orlee berlove - 32:18 - Talk to you soon. Yep. Thanks.
+
+===================================================================================
+
+END OF TRANSCRIPT

@@ -1,0 +1,67 @@
+Account: Daltec Canadian Buffalo
+Call Date: 2026-01-26
+Duration: 00:07:02
+Participants: Robin Barrow, Anand Saji, Michael Chisholm
+
+======================================================================
+
+Robin Barrow: So you're muted if you're trying to hi talk Michael. How are you?
+Michael Chisholm: I muted myself, I guess I did the yeah. Waiting waiting for an end. Man is really the guy who's doing the hands on stuff here. Oh.
+Robin Barrow: Sure. Yeah, we can give it a few.
+Michael Chisholm: Sound
+Michael Chisholm: Yeah.
+Robin Barrow: Happy to wait. I know, I've just see I'm making sure I pull everything up here. Um
+Robin Barrow: How's everything in Ontario or
+Michael Chisholm: We're a little snow here.
+Robin Barrow: Yeah. I was going to say where are you down in the I'm in New England. So I'm in
+Michael Chisholm: New England. Yeah. Okay. Really good. It down there.
+Robin Barrow: Yeah.
+Robin Barrow: We're just top edge.
+Michael Chisholm: Top edge of it because we were here we're well fair. City of Toronto got really hit and we're just we just got a little dusting.
+Robin Barrow: So
+Robin Barrow: Yeah. Other
+Michael Chisholm: Way around usually we further North. You're already getting more snow you get, but it's the other way around.
+Robin Barrow: So same thing. Yeah. Same thing, happened for like New Hampshire and Vermont. They got a lot less snow than us. For whatever reason we're by the water here in Lindsey, we got 2 feet.
+Michael Chisholm: So
+Robin Barrow: Yeah. That's
+Michael Chisholm: That's enough.
+Robin Barrow: Yeah. We're just digging out something like that. How they have the lake effect apparently, it happened with the ocean.
+Michael Chisholm: Yeah. Yeah. Yeah, I think of usually here it's Buffalo is at the end of like, are they usually nailed the wind comes down the over the lake and then yeah. Do it on the we often end up saving snowplows to Buffalo to help them out get
+Robin Barrow: Crazy. Yeah, just hold a second.
+Michael Chisholm: Stick my head around the corner here and see where Anand is.
+Robin Barrow: No worries. Okay.
+Michael Chisholm: So
+Michael Chisholm: Well, apparently the snow scared Anand away. He's he's he's not at his desk working from home today.
+Robin Barrow: Anyway.
+Michael Chisholm: So just to sort of an update here from what we have to fill in place in the last note I have here is from Anand ing Marcel submitted an application for J P certification. I haven't heard from the money yet as yet. Okay. Once we've gone to form a proceed to use a platform to communicate, so we're still waiting for the JP certification. Okay. We have the software in place and I have we do administration stuff on it. But we're not actually using it quite yet.
+Robin Barrow: Okay. Okay. Let me just I'm just taking a look. Okay. Yeah, I see you all are implemented. The only thing I would oh, and you have your amount of users, you're good. Yeah. And you all didn't have any issues when installing or how did your onboarding process go? I know it went pretty well. Yeah, we
+Michael Chisholm: Sort of a new new to all of us here. But we had uh
+Michael Chisholm: We had I do it was it Chris? Yeah, Chris went through and helped. Help us on that one. Yeah. Yeah, it went yeah. He was quite helpful. I just zipped through it and got us going. So we're
+Robin Barrow: Okay.
+Michael Chisholm: So I'm just looking at here and I'll keep getting the only thing. I keep getting email saying encrypted email saying from PreVeil and they keep saying to update. And it's like for you to well, when it was to update, which finally we want to do the other one was the one we're getting is say it.
+Robin Barrow: I'm sure it's a health check reminder. Yeah, health.
+Michael Chisholm: Check reminder. Yeah, I don't see it here. But health saying that we don't have a certain we call it excuse me there.
+Robin Barrow: A recovery group set up.
+Michael Chisholm: Recovery group. That was it?
+Michael Chisholm: Somewhere else. Didn't have a recovery and then Chris said no. Don't don't set that up. Okay.
+Robin Barrow: Oh, yeah. That definitely needs to be set up. And I can send a follow up email with all. Chris said don't set it up, I'm surprised by that.
+Michael Chisholm: Yeah, you set up a recovery group. We do have a yeah. But it was for something else. Um
+Robin Barrow: All right. Maybe I'll ping Chris and see what he meant by that, but usually those are pretty important. But I can ask them. No worries. I'm just pulling up my
+Michael Chisholm: PreVeil here.
+Michael Chisholm: That you have approval group.
+Michael Chisholm: Yeah. I keep yeah, keep getting messages for it to create approval groups and we have comments about the
+Michael Chisholm: Latest uh
+Michael Chisholm: Yeah. A particular thing had not to following users, have no recovery groups configured, PreVeil gateway.
+Michael Chisholm: So the gateway does not have a
+Michael Chisholm: And should we should have one for that?
+Robin Barrow: Maybe not. Maybe that's what Chris. Referring to let me see if I can get those health. Check reminders turned off for the gateway. Okay. All right. And then
+Michael Chisholm: We have some updates here. So I think we're just gonna say load then we'll do we'll run the updates when time comes
+Robin Barrow: Okay. No worries at all. Great. I mean, it sounds like things are up and running, but you just let me know if you need any help. I'll send an email just recapping our call. I know there was some confusion around billing. I think that's been sorted. Yeah. Since. Okay. And
+Michael Chisholm: That's that was a thing, but yes.
+Robin Barrow: Okay. I think
+Michael Chisholm: I think I said we don't go ahead with this thing. So we
+Robin Barrow: Okay. Yeah, that's typically how our billing works. But for next year in the renewal, we can talk about it and switching that process. But yeah, other than that, it sounds like we're all good.
+Michael Chisholm: Good. Okay. Thanks, Robin.
+Robin Barrow: No, thanks. My enjoy the rest of your day. Okay.
+Michael Chisholm: Happy. Happy digging still
+Robin Barrow: Digging. Oh, thank you. Yeah, that soon. Okay. Thank you. Bye bye. Bye.

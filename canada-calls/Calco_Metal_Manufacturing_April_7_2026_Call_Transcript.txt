@@ -1,0 +1,643 @@
+Transcript
+Date: 2026-04-07
+Account: Calco Metal Manufacturing
+Conversation: Calco Metal Manufacturing - PreVeil CMMC Compliance Discussion
+Speakers: Marco Calvanese (PreVeil) + Simon Liston (Calco Metal Manufacturing) + Helen Fleming (Accountant, Calco Metal Manufacturing)
+
+=============================================================================
+
+Marco Calvanese - 0:04 - Hello, hello, testing. 
+
+Marco Calvanese - 0:09 - Can you hear me all right? 
+
+Marco Calvanese - 0:13 - I cannot hear you. Hey, 
+
+sliston - 0:15 - Can you hear me now? 
+
+Marco Calvanese - 0:16 - Oh, yes, I can. Loud and clear. How's everything with you today? 
+
+sliston - 0:20 - I'm all right. My name is Simon. 
+
+Marco Calvanese - 0:22 - Simon. Okay, I saw it, as, I saw it spelled differently on the name. I just 
+
+sliston - 0:27 - Got my first initial and last name. 
+
+Marco Calvanese - 0:30 - Awesome, awesome. I saw that somebody else was in the waiting room here and I saw that they dropped off. Does everyone hear that will be joining us today? 
+
+sliston - 0:40 - Well Helen is going to join. 
+
+Marco Calvanese - 0:43 - Looks like Helen just joined and is in the waiting room now. 
+
+Marco Calvanese - 0:50 - Hello Helen. 
+
+sliston - 0:52 - You'll have to unmute. 
+
+sliston - 0:56 - You go. Okay. What do you have, Marco? 
+
+Marco Calvanese - 1:02 - Oh, this is awesome. Well, I have everyone here. I'd love to introduce myself. My name is Marco. Cavanese. I'll be your new main point of contact here from the PreVeil team. I'm here to help you any way I can help you in terms of getting a technology in place, understanding the process of CMMC, NIST, HIPAA, as well as helping you sort of help you in terms of getting a technology in place, understanding the process of CMMC, NIST, HIPAA, as well as of helping you help you in coordinate terms of getting a technology in place. All stakeholders for third party assessments. So I'm here to help. So I would love to understand your particular situation and what brings you into meeting with PreVeil today. 
+
+sliston - 1:36 - We are looking to become CMMC, Level 2 
+
+sliston - 1:42 - Compliant or certified. 
+
+Marco Calvanese - 1:45 - Okay. Okay. And. We are a very 
+
+sliston - 1:46 - Small business. We have 9 employees. 
+
+Marco Calvanese - 1:50 - Wow Wow, so good news for you. So Simon, that's going to make things a lot cheaper and also make things a lot. Less complicated. I have companies come in, saying they're looking to scope 100 to thousands of users into their CMMC Bounder. It makes things a lot complicated. So. This is something that will be a lot less sort of homework headache for you. 
+
+Marco Calvanese - 2:13 - Having a sort of smaller and scope of users. Features. I would like to fully understand your situation as well to help you as much as possible. There's, really 2 major big pieces when it comes to CMMCs. Getting the software and systems in place to align with the 100 tech controls, but then there's documentation. Now after you got all that in place, you need to fill out the paperwork to make sure it's filled out correctly. And it's a requirement of the framework. Do that's part of the sort of framework? 
+
+sliston - 2:50 - We've hired a consultant and we're kind of being walked through this right? Now. We've just started in the past 3 weeks. And we're just wondering what PreVeil can offer because our consultant also mentioned that PreVeil might be an option for holding any CUIs for us. 
+
+Marco Calvanese - 3:08 - But, we don't need to have 
+
+sliston - 3:09 - Anything online. 
+
+Marco Calvanese - 3:11 - That's exactly what we'll be used for. We'll also be used for storage. So a big requirement of CMMC storing the information. The inbound and outbound traffic is extremely important for managing that to make sure that data is being sent and received in a safe way. We're also storing it. So that's another thing that we're helping with and also monitoring. So just say if there was an incident that happened, the system will be able to catch the incident. And our system will be able able to do that. To So, some good news too, as well, we're solely built for CMMC, we support 102 out of 110. Controls. So, when it comes to that front, I don't like to say we're a one stop shop, but we're really close to it. So, do you mind if I share my screen and make all this come to life? 
+
+sliston - 3:57 - No. 
+
+Marco Calvanese - 3:58 - Alright, cool, cool. I don't know. So to kind of loop back to that sort of documentation, document, piece that I was talking about earlier. Is, one second, it looks like my computer screen is still loading. Can. You guys see that all right? 
+
+Helen Fleming - 4:18 - Yes. Awesome, 
+
+Marco Calvanese - 4:20 - So when you're working with a consultant, is that something, I was saying the documentation piece is a big part of this, is that something they're fully taking off your plate? Or is that something that they're going to be sort of working with you, alongside you, sort of helping you through? It, or they're gonna do a part of it and your team's gonna do a part of it. So how's that going to work for your company? 
+
+sliston - 4:40 - To be honest, we had one meeting with the gentleman and I'm not sure exactly what he is going to be offering other than giving us everything we need for information. I. Don't know if he's putting it all together for us or if that's an option or if that's something PreVeil does. 
+
+Marco Calvanese - 4:57 - So that is exactly why I'm asking this question is because we sort of saw that paying somebody to do this and that side of things. 
+
+Marco Calvanese - 5:05 - There's a lot of hidden fees and it's extremely expensive. So we were like why would a company that pay so much money when they can do it themselves and sort of go through our programs. That's? What we did. Our methodology here is sort of a sort of checklist. And the analogy. I always like to paint here is that we're going to give you the Lego set with all the things that we're going to Lego do. Pieces in the box with the instructions. It's just going to be in your team's hand to put together. You don't need to be an expert. We made this program for somebody that's never heard of CMMC before. We have 0 background in IT. So it's made for somebody that can go through it. And there has been companies and individuals that are in that sort of bucket that have gone through our program and got a perfect score on their assessment. Also made for an expert. Obviously being an expert whizzed through it would be a lot easier, but it's made for all audiences. So what I would like to say is that we will give you all the cMMC documentation that you will need with 75% of the answers already in it. 
+
+Marco Calvanese - 6:10 - And already filled out. Because we're supporting 102 at 100, Tech Controls, so we're going to write a majority of it for you. So then your team will be tasked with 25% left. And since we're not your company, the 25% is just gonna be stuff we can't write for you. Where are you HQ'd? The amount of users are gonna be regularly accessing the system. Where, are they gonna be accessing the system? Like? We can't write that for you, but we'll prompt your team to fill that in to check that box there and you can continue working through that. But just to show you sort of how this will work, would you see your team sort of doing something like that? Going through and saving money? As? 
+
+sliston - 6:52 - I said, we're a small family business and we're seeing what companies are having to go through to do this. We're looking, we're trying to build an enclave of 4 of us. I mean, we're very small and I'm not sure there's even a category for a company. Ours. What kind of toss am I looking at for something like this. For paying 
+
+Marco Calvanese - 7:16 - Somebody that come in and do it for you fully? 
+
+sliston - 7:18 - No. Oh, 
+
+Marco Calvanese - 7:21 - Well, I'll make sure to go. I want to make sure I go through all the line items to make sure that you're getting everything you need. And I'll make sure to go over a preliminary quote at the end to make sure to show you how much this will cost if you would find that beneficial. 
+
+sliston - 7:34 - Is this just a blanket cost per company or is it based on your company's size? 
+
+Marco Calvanese - 7:38 - Oh, it's definitely based on how many people are going to be regularly recognized. Accessed in the system per user. Okay. So 4 people will be 4 people a part of your PreVeil environment. But I'll make sure to go through all of our line items through our demo here to make sure that we're going over everything and understand our sort of product here. So you can get everything that you need. Because there might be some things you won't need and you want to be paying for things. You don't need. So I'll make sure to go through. 
+
+Marco Calvanese - 8:06 - This. And one of the big lianums here is the DOD compliance accelerator where we'll be able to give you all the CMMC documentation that is required for this. And like I was saying, it's a do it yourself, program. Do you see your team doing this yourself or you see yourself paying somebody to do this for you? 
+
+sliston - 8:27 - I'd like to have an option here and an option here. 
+
+Marco Calvanese - 8:30 - So, if you were to pay somebody to do this for you, it's probably Ballpark from from $20,000 2019. To $50,000. If you're looking to pay that kind of money. Are you looking to pay that? 
+
+sliston - 8:44 - If I don't have to, I don't want to. 
+
+Marco Calvanese - 8:47 - Yeah, well, hey, if you want to save a range of $30,000 to $50,000, this is what will save you. That money. We'll give you everything, but we're going to give you all the sort of verbiage and the sort of format of this. About where we can't write for you. As you can see, we're writing a lot of this for you. But where we can't, we're actually going to bold and bold lettering. This, where you're HQ. The amount of users are going to regularly access. The system. This is sort of, I just always like to sort of give a quick sort of intro to how the DOD compliance server works. But I know that your family business, I'm guessing, is your expertise in cybersecurity? And IT? 
+
+sliston - 9:31 - Absolutely not. 
+
+Marco Calvanese - 9:32 - So this is what this is built for, somebody that's in your shoes that doesn't have that backup, but this is for some, if you follow the instructions and you can be able to fill in your company specific information, this will be a way, a big way to save money. And we've built a lot of support around this because not having a sort of a background in this thing can be a lot. So. We've provided a lot of support. We'll give you all the docs. We'll also have a knowledge base that will coincide with our docs. So along with us, giving you all sort of the places that your team's going to need to fill this in and also filling them where we can. We're also going to give you access to our knowledge base. Set. So just say you're at a point where you're needing to fill in your company, specific information and it's not making sense. You can watch. This video. We have a whole bunch of videos that will walk you through exactly how to fill it out. 
+
+Marco Calvanese - 10:23 - And what you're going to need to fill will in. Be best. But just say the bolded lettering and the videos are not enough. We'll give you access to our compliance. Team. This is a part of the package. 101. Support. So you're not going to pay that. $20,000 to $30,000. We have a person here that can help and answer your questions. If you place your stock, they'll be happy to help. What? That's sort of how our DoD compliance server works. Any, sort of questions or concerns around that or anything you'd like me to go through again? 
+
+Helen Fleming - 11:01 - No, I'm good. 
+
+Marco Calvanese - 11:02 - Would you see your team going through and completing something like that? 
+
+sliston - 11:06 - Or? Well, it's just, there's no team. It's Helen and I doing this. 
+
+Marco Calvanese - 11:10 - Oh, well, I'll refer, if it's okay, if I can refer to you and Heather as a team. Is that, is that fair for 
+
+sliston - 11:17 - Me to do? Definitely. Let me tell you. 
+
+Marco Calvanese - 11:18 - Okay, so your team, would you see that you would want to go through that or are you still leaning more toward paying somebody to do this? 
+
+sliston - 11:29 - No, I think it's something we're capable of. If we're walking through step by step, that's why we're on this call to figure out what we're doing. 
+
+Marco Calvanese - 11:36 - That's awesome. So I always like to cover that vertical of our business because that's, in my eyes, is the hardest part. But I also want to let you know, and give know you some good news. With us being solely built for CMMC. And we've been in this ecosystem and helping companies through CMMC for many years, we've acquired a very big portion of the ecosystem and that is the CP3Os. And everyone else under the sun, someone that can install computers, MSP, anything we have, we're partnered with companies that are here to serve. 
+
+Marco Calvanese - 12:11 - And companies who seem to succeed. But on that front, when you're going to schedule an assessment, that costs money too. And I'm happy to say that all of our partners, the CBTO partners, will be giving you a discount on your assessment with you working with us. What kind of price. 
+
+sliston - 12:29 - Is a third party? 
+
+Marco Calvanese - 12:32 - What? What kind 
+
+sliston - 12:33 - Of cost is that? 
+
+Marco Calvanese - 12:35 - I can't hear you. What, did you say? 
+
+sliston - 12:37 - What kind of cost is that? 
+
+Marco Calvanese - 12:39 - Oh, for a third party assessment? No. $15,000 to $50,000. But you being in the range of 3 to 4 to 5 people, it's going to be falling between, I would guesstimate, $15,000 to $25,000 for your organization. 
+
+Helen Fleming - 12:58 - For the assessment? Yes. Okay. And. 
+
+Marco Calvanese - 13:01 - I do want to let you know that's a big part of where the DOD compliance server comes in, is that it's at the assessment end. Ready docs and it's a pass or fail. So our team is going to be walking you through this and guiding you step by step, making sure that everything is perfect. Because when you hire that third party assessor to come in and evaluate everything, they're either going to give you a pass or fail. So I'm guessing you would want to pass that on your first time around. 
+
+Helen Fleming - 13:29 - So you guys would do kind of like a pre assessment? Is that what you're saying? Saying? 
+
+Marco Calvanese - 13:33 - You could totally use our compliance team for a pre assessment. Yeah. Is that what your 
+
+Helen Fleming - 13:38 - Number two your second column here? Is that what that includes? Yep. Yep. Okay. 
+
+Marco Calvanese - 13:46 - That's why I say, I don't like to say we're a one stop shop. We're really close to it. So what we're going to be doing is giving you support 102 at 110 controls from a software standpoint. 
+
+Marco Calvanese - 13:59 - We're able to write a majority of the docs for you. But the third party assessor is totally outside the scope of us. Would you want me to dive into how the software will work and go through a couple workflows and show you how the system works? 
+
+sliston - 14:16 - Well, I 
+
+Helen Fleming - 14:19 - Was just trying to... The column one, the 102 of the 110 would be you guys supplying us with the documentation. And Right? Basically walking us through what needs to be spelled out. 
+
+Marco Calvanese - 14:32 - That would be the second column. Oh, that's also. 
+
+Helen Fleming - 14:35 - The second column. 
+
+Marco Calvanese - 14:36 - The second column is everything. You just said. But the first column is like the software that you'll be downloading onto your computer and using to send and receive emails and storing the information and also monitoring this. 
+
+Helen Fleming - 14:49 - Okay, so that's just the platform. 
+
+sliston - 14:52 - So if we're using PreVeil, we say this is the PreVeil program we're using. We're checking off all these boxes, already. Yeah, 
+
+Marco Calvanese - 15:01 - Yeah. That's what we were building. We were like, hey, how can we build something that can directly or correlate with as many controls as the gate as we can. And? That's what we did. 
+
+Helen Fleming - 15:14 - Now, would you work with our IT department or are you doing the IT portion? We? 
+
+Marco Calvanese - 15:20 - Will work doing. With you. We're doing the IT portion. 
+
+Marco Calvanese - 15:23 - Will, we work with your IT team? 
+
+Marco Calvanese - 15:25 - That's our compliance team. 
+
+Marco Calvanese - 15:27 - So I know that you're saying you have an IT team. 
+
+Marco Calvanese - 15:29 - Will your IT team be the one that would be tasked with going through all this for your organization? 
+
+Marco Calvanese - 15:33 - Or we mean, in terms of implementing and installing the system on your computer? 
+
+sliston - 15:37 - Right. Or, are you guys going to be our new IT team? 
+
+Marco Calvanese - 15:41 - Yeah. 
+
+Marco Calvanese - 15:43 - So you're 
+
+sliston - 15:45 - Going to be monitoring everything that needs to be multiplied? Monitoring and you're going to be looking after all the software that we need required to meet the CMC requirements? 
+
+Marco Calvanese - 15:53 - So there's an unbelievable distinction. That's not what we'll be doing. That will be following the responsibility of your organization. We're not going to be the ones that monitor your organization. That's what the MSP will come in and do if you want to pay them to do. That. Or. If you find that your team will be able to monitor and manage this framework for yourself, you could do it. It depends on what you feel most comfortable. So us checking your logs, making sure people aren't sending emails to the people. They shouldn't have, we're not going to be the ones to do that. Our tools are going to provide the tools for you to be able to do these things having history of logs, being able to see what device it was sent to, being able to lock people out of their account. Our software will be providing the tools for you to be able. 
+
+sliston - 16:34 - To... So you're selling us the software to basically give to our IT company who's looking after our IT right now and say, Here's what you need to install. 
+
+Marco Calvanese - 16:43 - Yes. And to make this come to light more, are you using Microsoft or Google? 
+
+Marco Calvanese - 16:52 - Both. Both. All right. Well, we're integrating to both. I'm going to show the Microsoft site because that's what I have. But just to make all this come to life is that we're going to be downloading on top of the system that you have today and make it compliant. Compliant. CUI cannot be touching the commercial Google Workspace environment and it cannot be touching the commercial Azure. Environment. It needs to be going through a FedRAMP high impact environment and a 5th, 1, 4th, S3, and Crypto Cryptography. And. That's exactly what this is. That's. What we'll provide to your team. So, you're going to have your regular commercial environment. And. This is a question for your team is how much of your work will be falling under that CMMC umbrella that you have? 
+
+Helen Fleming - 17:38 - Just the emailing of drawings. 
+
+Marco Calvanese - 17:40 - Back and forth. Wow. So very intimate. And we store. 
+
+Helen Fleming - 17:45 - All our drawings on paper on site. We don't actually store them on the cloud or any kind of computer, nothing digital. 
+
+Marco Calvanese - 17:56 - So if 
+
+Helen Fleming - 17:57 - Our customer wants us to quote on something they'll email us the drawing and encrypted and passworded and then we print the drawing and then we file it on site. So we could essentially even delete anything that comes in through the email, it can be deleted. It doesn't need to be stored. So that is all we have as far as CY is concerned. 
+
+Marco Calvanese - 18:26 - And this something that I always like to make clear? Is that you might not actually be needing or wanting a safe environment for storing your information. Like you said, you're storing it on paper, but the framework is requiring you to have a place to do that. So I'll let you know. 
+
+Marco Calvanese - 18:48 - There are companies that I have come in that are literally needing to install PreVeil. Just to say they have it, just to check a box. So it sounds like this is something that you'd be using very intermittently. Yeah. And there are some parts of this that you're not even going to need to be using. But. These are things you're going to need to have. It's a box checker. Our box, we're the definition of a box checker. We're giving you all the bells and whistles that you're going to need. Sounds you're only going to be needing to use the e mail portion and maybe there's a day that you'll need to be storing storming the information with us and our system. Up to you. But you'll need to have it to check the box. 
+
+Helen Fleming - 19:30 - Sorry, just anything that is emailed, say we print it for our internal use, but then we leave it in the email, PreVeil would be considered as storing it safely? Yep. Okay. 
+
+Marco Calvanese - 19:44 - Yep, we are going for this to be as easy to use as possible, as easy to implement as possible, possible, as cost effective. We want to take a lot of pressure off for Team Santa in terms of getting all the technical requirements in place because we're inheriting a lot of them for you. So. That's why we're a box checker. And a good place for me to, sort of provide some money is that we built their system for the exact sort of workflow way that we built. You have, a lot of companies that are receiving CMMC and needing to do this, it's a very small part of their business that is falling in this. So we thought of that. So we're like, hey, they're still going to have a ton of information flowing their commercial environment to the regular email. So why don't we just plug into their environment and make a complaint? And? That's what we did. 
+
+Marco Calvanese - 20:44 - Regular email address through your regular commercial, Google and Microsoft. Email. You'll still have it. Right there. All we're going to do is download and give you your safe environment, right? Underneath your current environment. 
+
+sliston - 20:58 - Box checker. 
+
+Marco Calvanese - 21:00 - The box checker. We're going to give you that box checker and then we're also going to just show you if you ever need, it. Sounds like there might be, I know it sounds like a very intermittent sort of case. Here, but if you're ever needing to send a message with PreVeil, we give you the ability to send mail by just clicking the button on or off. Most of the time you're going to send mail as you are today, you're not going to need to click the encryption button because it doesn't need to be protected. But when you are ever needing to, 
+
+sliston - 21:28 - Yeah, we want to have that option. 
+
+Marco Calvanese - 21:30 - Yeah, so giving you and then we also give you the option to work from our browser application. Depends on what you feel most comfortable. You could be working from... 
+
+Marco Calvanese - 21:42 - I thought I lost. You. I'm losing connection. Just you... I'm coming in clear. And everything's fine on the connection. Okay, awesome. And. So you'll have this also as well. It really depends on what you feel most comfortable. A lot of companies love working from their Google, Microsoft environments already working on. 
+
+sliston - 22:02 - Some people are working on the browser. Are you talking about what the inbox looks like and whose names on top? 
+
+sliston - 22:10 - Whether it's a Google or PreVeil? 
+
+Marco Calvanese - 22:14 - I'm sorry, I don't understand your question. Can you ask that again? 
+
+sliston - 22:17 - Are you talking about basically you say running from PreVeil versus say Microsoft or Google. So instead of running Gmail or Outlook, you're talking about me just running my inbox in PreVeil? 
+
+Marco Calvanese - 22:32 - Be working in parallel to your environment. We're gonna be giving you that box checking environment. You're going to need. We're gonna be giving you the box checking environment that you're going to need. 
+
+sliston - 22:45 - Okay, but I won't need to run through Google or Microsoft anymore for any email? 
+
+Marco Calvanese - 22:51 - Oh, you still need to continue to have the email that where your whole business lies on. Isn't your whole business? 
+
+sliston - 22:59 - Through PreVeil. 
+
+Marco Calvanese - 23:00 - Then? 
+
+sliston - 23:01 - Is this just an option for sending encrypted email? 
+
+Marco Calvanese - 23:07 - Boom! There we go. The PreVeil is only asking you to encrypt information and send information that is required to be sent and received through PreVeil. Anything falling under the CMMC. Framework. If you ever have any of that, it sounds like it's a very small part of your business, it will just live in PreVeil. But 99% of your business people doesn't are need to be encrypted at all. It doesn't even classify CMMC. So you'll still be maintaining the same environment. 
+
+Marco Calvanese - 23:35 - You have today. We're just giving you that environment for when you need it for CUI. You're not going to need to change anything. You're not going to change your email. Address, Wi Fi, computers, on download anything. We want this to be, and this is gonna, we set up a one hour onboarding session after that one hour onboarding session is concluded, your system will be up and running. So. This can be spun up extremely fast. Wow. And. So we're going to be also giving you a browser application where you can be asking this. We give you another option. It's just another place you can work, from. Both environments will be 
+
+Marco Calvanese - 24:15 - Marrying each other. So what is in your PreVeil, environment, what is falling under the CMC and CMMC. Framework, Framework. Will be reflected here in our PreVeil interface. Your commercial environment will not be here, but your commercial environment will be here on your plugin on your current system, if that makes sense. 
+
+Marco Calvanese - 24:32 - Okay. Does that make sense? Yes. Yes. So you have, I recommend if you're comfortable with working from your Google and Microsoft client you already have, PreVeil will just bolt onto it and give you that safe place. But we give you 10. Terabytes of storage. As I heard, this is something you're probably not going to be needing to use. We give it to you anyway, so it's going to be box checking. So give you 10 terabytes of storage to start. Would that be enough storage for your organization? 
+
+Helen Fleming - 25:04 - I think so. 
+
+Marco Calvanese - 25:05 - Awesome. So we give you that much. And then, like I said, we want this to be as easy to use as possible. So. We're going to be integrating to your, if Mac Finder, and if you're on Microsoft, onto File. Explorer. So File Explorer, this looks like a regular folder that you would be using today. That is not. That is a military grade. Safe. So if you ever are needing to store information with us, you just drag and drop it into the Prevail. Folder. CUI cannot live in OneDrive, Google Drive, so you just store it with us. Okay. Bradman, a lot of people deforce clauses are correlated with admin. Here. Again, cyber is important. That's a huge box. 
+
+Marco Calvanese - 25:49 - We're checking here. It's being able to have everything tracked within your CMC framework will be here. So if you did send a print up to an engineer up at NASA and they sent it to their friends, you'll have history of it. And this is something that either your team can be managing and monitoring, or you can pay somebody to monitor this logs for you. So that's sort of how that works. And. Then just say you sent a whole bunch of information out to Adam Sandler and he just told you that he lost his device, you will have the ability to lock down the PreVeil account from the admin. Console. So. It's a very powerful tool for when needing to protect your organization from a spillage event. But yeah, I went through sort of overall, the overall bells and whistles, what were we doing to help you? 
+
+Marco Calvanese - 26:35 - And so some of the, on. Places that were going to be helping check some boxes. But yeah, any sort of questions or concerns around sort of how this is working? 
+
+Helen Fleming - 26:49 - Helen? Helen? Well, just, so just using the email provider to send and receive, is that free with the software? Or does that come with like an annual fee? Fee? 
+
+Marco Calvanese - 27:03 - No, that's totally free for you to use your regular environment that you're paying for today. We're not going to be disrupting it at all. We're just going to plug into it and give you that environment for your CMMC. 
+
+Helen Fleming - 27:16 - Okay. So it sounds like your first column there, the simple, secure, compliant email and file sharing. 
+
+Marco Calvanese - 27:24 - Yeah. 
+
+Helen Fleming - 27:24 - That's pretty much all we're going to need. 
+
+Marco Calvanese - 27:29 - Yeah Yeah, that's a good way to say it. I don't like to say we're a one stop shop, but we're really close to 
+
+Helen Fleming - 27:36 - It. Yeah. Okay, that's all. 
+
+sliston - 27:39 - I got. So after an hour of downloading stuff, we have all the software that's required? 
+
+Marco Calvanese - 27:48 - Oh, 102 out of 110, yeah. 
+
+sliston - 27:51 - So you're telling me after an hour, we have 102 out of 110 covered? Covered? 
+
+sliston - 28:00 - Box checker. 
+
+Marco Calvanese - 28:03 - Oh, yeah. 
+
+sliston - 28:08 - Okay. 
+
+Marco Calvanese - 28:09 - So, yeah, when is your team sort of looking to start with something like this and sort of get your start working through your completing and getting a perfect score on CMMC? 
+
+sliston - 28:20 - We're looking to start ASAP. 
+
+Marco Calvanese - 28:23 - Okay. Okay. Well, do you want to see how much it costs? 
+
+sliston - 28:26 - Sure. 
+
+Marco Calvanese - 28:27 - Awesome. I'm 
+
+sliston - 28:28 - Sitting down. All right. 
+
+Marco Calvanese - 28:29 - All right. I'm going to present the plenary quote now. So how many people within your organization for the quote today, would you want to be quoted for? For whoever, for who will be needing to access our system? Four. Four. Four. And how many people do you think will need to have access to that admin console to have access to the logs, lock people out of their account, sort of be the super user, or want to oversee the operation? 
+
+sliston - 29:06 - One. 
+
+Marco Calvanese - 29:08 - One. 
+
+Marco Calvanese - 29:12 - And all right. So. What I'm going to do here is I'm going to present this now. 
+
+Marco Calvanese - 29:32 - Can everyone see my screen all right? 
+
+sliston - 29:34 - Yeah, but it'll take a second. It took us up. There we go. 
+
+Marco Calvanese - 29:37 - There we go. Awesome. So I'll break this down. So I, have you in for 4 users in total. 
+
+Marco Calvanese - 29:45 - One user will have access to the admin console and have that admin portion of the software that I was showing. You earlier. It has logs, be able to lock people out of their account. The sort of DoD compliance starter package comes with all the CMMC documentation that you're going to need for your assessment, the one on one support, the knowledge base, the checklist, and a project management tool for maintaining and monitoring your CMMC, framework. So that would be $6,000. And then for the one there's a one time onboarding fee, that will be $600. And that won't be the next year. So for a year 2 you'll take that off. So year 2 and years to come will be $8,064 for year 2 and years to come. 
+
+sliston - 30:31 - Each year? 
+
+Marco Calvanese - 30:32 - What? 
+
+sliston - 30:34 - Is that annual? 
+
+Marco Calvanese - 30:36 - Yes, that is annual. So for the first year, year. The total contract value will be $8,664. For year two, the total contract value... Nope, that's not 2. That's one. 
+
+Marco Calvanese - 30:54 - So the first year will be $8,664. The second year will be $8,064. We. 
+
+sliston - 31:03 - Just subtracted that $600 fee. That was easy, wasn't wasn't it? Boom!. 
+
+Helen Fleming - 31:09 - The 6000 DoD Compliance, Accelerator, why is that annual? 
+
+Marco Calvanese - 31:16 - That is annual because everything we have here is annual. 
+
+sliston - 31:22 - That's a great answer, I guess. 
+
+Helen Fleming - 31:24 - I'm just wondering because it says knowledge based in the 10 steps. I mean, once you implement that, That, why would you continually? 
+
+Marco Calvanese - 31:33 - Oh, because this stuff is constantly changing and we're going to be updating it and updating the documentation for you and we'll be giving you access to all these docs. So that will be something that will be on. That will be something that will be updating for you. So. That's why that would be something to be updated. 
+
+Helen Fleming - 31:53 - I imagine if those things update and we have to update them regularly that they will come into play during the every third year audit? 
+
+Marco Calvanese - 32:04 - Yes, they will. 
+
+Helen Fleming - 32:06 - Kind of what I'm under. 
+
+Marco Calvanese - 32:08 - And also there's a project management tool. That is something that you'll be living in to maintain that. And that's something that you would want to keep. You wouldn't want to have everything filled out perfectly and use the tool and then it just drop off and you don't have it ever again. That would be something you need to maintain. Same, sort sir. Of concept as the user licenses. You wouldn't want to have user licenses and cut off the user licenses. The second year, sort of how that works. 
+
+Helen Fleming - 32:38 - And this is all necessary just to email things back and forth. 
+
+Marco Calvanese - 32:41 - Yep, I know that checking a box and it being really intermittent is not usually useful. Something a company wants to do, but that's just what the requirement's looking for. 
+
+sliston - 33:02 - Yeah, I get the initial CMMC knowledge base and the 10 steps and here's everything you need to get your 102 steps. I can understand you charging $6,000 for that, but just to keep an eye for anything that pops over the next couple of years, you're purging 6,000. A year, just for that? I don't know, that seems crazy to me. 
+
+Marco Calvanese - 33:27 - Well, I want to let you know that's sort of how that program works. If. You really don't want to have the DOD compliance accelerator, so you don't want us to be updating this for you, and you want to sort of do that, yourself. We could cut that off if you would want to. 
+
+Helen Fleming - 33:53 - Well, I'm just wondering how does that affect our audit every 3 years? 
+
+Marco Calvanese - 33:58 - Is it easy to 
+
+Helen Fleming - 33:59 - Monitor the updates? 
+
+Marco Calvanese - 34:03 - I, we have a whole compliance team dedicated to that. Okay. Just monitoring that and updating these things. So it's a pretty big team and it's pretty technical stuff, stuff. But if you want to be tasked, if your team wants to be tasked with monitoring and doing all that, the GRC tool is something that would be not mandatory, but it would be the only thing that would need to be sort of maintained for those years, because that's where everything's going to be living. So that is $2,400. The DOD. Compliance at Sarver is $3,600 every year. But if you really want to drop the DOD compliance Composite, server, you don't want us to constantly be updating this and keeping your documentation up to speed, please, it will save you $3,600. 
+
+Marco Calvanese - 34:54 - But yeah, so if you were to drop off 
+
+sliston - 34:56 - That Over 3 years. What? Over 3 years, you mean. So. It's actually saving about $10,000. 
+
+Marco Calvanese - 35:04 - Would you say say about 10,000? 
+
+sliston - 35:10 - It would actually be 3,600 a year annually, I would say. 
+
+Marco Calvanese - 35:16 - That's up to you. That's something that's holding your team's hands and what you feel most comfortable. I'm just showing you sort of the breakdown of what it would cost if you were to not want that part of it. 
+
+sliston - 35:26 - I see what you're getting, how you lowered it to 2,400 because you lose out on the other part, on the DOD, but what am I missing out on for that? 
+
+Marco Calvanese - 35:35 - I guess you're gonna 
+
+sliston - 35:37 - Sell me on that. 3600 that I need to pay it and 
+
+Marco Calvanese - 35:41 - I'll pay it. No, no, I want to let you know that if you feel comfortable in your team, monitoring all the state departments and the cyber bees updates to the system, security plan, the plans of action and milestones and the artifacts, that will save you 3600 dollars. Feel comfortable with that, you won't need to pay for it. It's totally up to what you guys feel most comfortable. I see a lot of companies renewing it because they want our team to be doing that for them. Some companies have a CISO on their team that does it already, so they won't need to renew it. 
+
+Helen Fleming - 36:21 - Now, I understand the importance of updating the documentation and it would be difficult actually, to be able to to actually follow all the updates on a regular basis. But $6,000 for the initial setup, I'm just wondering the updating for future years, would be a lot less work than the initial setup fee. So. Why would it still be $6,000 annually? Moving forward? 
+
+Helen Fleming - 36:56 - Thereafter, because all you're doing is doing the updates. So I was just wondering why the cost is the same for updating as it would be for an initial setup. 
+
+Marco Calvanese - 37:11 - So I would recommend valuing it as not as a sort of initial setup. 
+
+Helen Fleming - 37:20 - Okay. I. 
+
+Marco Calvanese - 37:21 - Would look at this as sort of a program proselytist that your team is getting involved with that is going to ensure getting to that perfect score and also maintaining that perfect score. So I wouldn't look at it as like a startup cost. I'll look at it as being a part of the program or being a part of the program or not being a part of the program. So it depends on what you feel most comfortable. So. That's how we set it up. But if you feel comfortable updating these and staying on sort of doing doing that, yourselves, that'll save you $3,600. Year over year. If you were to say, hey, we're going to take initiative to monitor these updates, so this is what it will be for the second year. So. It will be $5,064 for you to maintain the tool, the licenses. Oh, whoa, this is not what it will be. This is what it will be for year 2. If you were to go. Without having to maintain it would be $4,464. What. 
+
+sliston - 38:22 - Does the maintaining do? What do you do to maintain is, I guess, my question. 
+
+Marco Calvanese - 38:28 - Maintain what? 
+
+sliston - 38:30 - You said we're not spending the $3,600 a year to maintain. 
+
+Marco Calvanese - 38:35 - So, our CISO is going to be regularly monitoring the updates in the industry. It's their job. And when they see something that needs to be changed or edited, they're going to go into the document and change it to make sure that your documentation is up to speed and that it's correct. 
+
+Helen Fleming - 38:53 - So every time the government puts in a new section or makes an adjustment to a section and you know, it's going 
+
+sliston - 38:59 - To be this, 
+
+Helen Fleming - 39:01 - This, and this, they're going to be not, they're monitoring those changes and they're implementing them into our system. Yep. Is kind of what you're saying, right? 
+
+Marco Calvanese - 39:10 - Right? Exactly what I'm saying. 
+
+Helen Fleming - 39:13 - Okay. 
+
+sliston - 39:14 - But, would we receive an email otherwise saying this has changed? The government has now brought this in as part of the DOD? 
+
+Marco Calvanese - 39:21 - I don't know if the DOD and the State Department of Cyber Airbase send out. Mass emails out to the whole industry. Oh, I meant to 
+
+sliston - 39:31 - PreVeil be notifying us. 
+
+Marco Calvanese - 39:33 - Oh, yeah, our team will be known of our team will be notifying you when there's changes going to docs. 
+
+sliston - 39:39 - Right. But when they notify us. If there were changes that needed to be made to the docs. So, if we didn't have that monitoring. 
+
+Marco Calvanese - 39:48 - No, if you're not part of the package there, you wouldn't be a part of the program. 
+
+sliston - 39:52 - If you're not paying for the program. 
+
+Marco Calvanese - 39:55 - No, because that's part of the program. That's part of the DOD compliance. 
+
+Helen Fleming - 40:00 - It would be up to us. 
+
+Marco Calvanese - 40:01 - To know what those 
+
+Helen Fleming - 40:03 - Updates were and we would have to make sure we made those changes to all our forms before the audit every 3 years. 
+
+Marco Calvanese - 40:11 - Yes, that's exactly right. 
+
+sliston - 40:12 - You're thinking we have to pay a company $15,000 to $25,000 every 3 years to come in and audit us? 
+
+Helen Fleming - 40:20 - Oh 
+
+Marco Calvanese - 40:21 - Yeah, that's using our partners and using the PreVeil system. I heard companies paying $150,000 for getting one assessment. 
+
+Helen Fleming - 40:36 - It's crazy. 
+
+sliston - 40:37 - Right we have 10 documents here that are CUI. 
+
+Marco Calvanese - 40:43 - You're literally one of the, I would, well, there are still some workflows of you actually using the system, but I, well, I know there's companies that come in, aren't going to use any of this. They're literally going through onboarding with our team, onboarding everything, getting all their docs complete and never using it. So I'm happy to hear that your team is someone that actually is going to be somewhat, you're going to be using it, but very intermittently. But I know what you're saying. It's definitely something that could be aggravating. For if this is something that you're not going to be really using a lot or, but yeah, that's just what the cybersecurity maternity model certification is looking for. 
+
+Helen Fleming - 41:25 - Okay, so is it possible for you to to email us this quote and then the gentleman that we're working with to help us implement the level 2 could maybe take a look and review your quote and see if it is something that he would recommend that we have? 
+
+Marco Calvanese - 41:47 - No, yeah, I can send you a screenshot. Did you 
+
+Helen Fleming - 41:49 - Mind doing that? Because I would feel more comfortable if he just kind of took a look and said, said, oh, yeah, this is 100%, you should definitely get this, or no, I can show you a way around this. If you just do this and this, you can do it on your own and save yourself that extra on the updates, right? He may have a website where we can get those or he may have another method of doing it. I don't know. 
+
+sliston - 42:16 - We're just trying to do what's best for the company. So? 
+
+Helen Fleming - 42:18 - Just I guess kind of like a second opinion. Opinion if that's all right? I. 
+
+Marco Calvanese - 42:22 - Please don't know. Please get as many opinions as you would like. I would yeah. And I know that when I sort of when we were talking about this earlier, you guys don't really don't even know what this person does. So. That's a big part of this too, is that you know, you don't even know who this person is and what they're providing you. I'm telling you exactly what we're going to be providing and how we're going to help you. Right. 
+
+Helen Fleming - 42:45 - No, he has helped set up a few few companies around the area. He's been doing this for a few years. Now. Oh, that's good. So he kind of knows the boxes that we have to check and the boxes that we can kind of half check. Not that we're half checking anything, but he can kind of give us different avenues, maybe different options. He is experienced enough with the CMMC level 2 2 to where he could give us a decent opinion. 
+
+sliston - 43:20 - But he also did recommend and speak very highly of PreVeil. Yeah, he does. 
+
+Marco Calvanese - 43:26 - That's really good. Yeah, we just don't know how 
+
+Helen Fleming - 43:28 - Much of PreVeil to 
+
+Marco Calvanese - 43:29 - Use. How much of 
+
+Helen Fleming - 43:32 - PreVeil, do we need to use? 
+
+Marco Calvanese - 43:34 - How much of PreVeil, do you need to use? Based off what we talked about today, it sounds like just the email portion. Yeah. Where you're storing and the process that you have today about everything's physical, there might be a chance that when you are receiving this information that's coming in, there might be a chance that you will have to have a copy on your laptop. And that will be, that's also a place that will be helping is you having a place to store the information outside of the Google and the Office sort of repositories they offer. But from also that, we're also going to be sort of helping you with the Google the monitoring things. So when you are receiving messages in our system is going to be tracking all that. So you'll have history of everything. 
+
+Marco Calvanese - 44:18 - So yeah. But in terms of I what your team's told me is not something you're going to be living in. Like you said it's gonna be something very intermittent. But I'm so happy to hear, do you happen to know the name of the company of the person you're working with? They might be a partner of ours. 
+
+sliston - 44:43 - No, I don't know. He has 
+
+Helen Fleming - 44:44 - His, he just had his own. 
+
+sliston - 44:49 - I don't know if he has a partner of yours. Is this $8,664? Is that US dollars? 
+
+Marco Calvanese - 44:57 - Yes. 
+
+Helen Fleming - 44:58 - Oh, this is US? 
+
+sliston - 45:01 - Yes. 
+
+Helen Fleming - 45:02 - Okay. 
+
+sliston - 45:04 - We're up in Canada. 
+
+Marco Calvanese - 45:06 - I did not know that. That. 
+
+sliston - 45:10 - Changes the price drastically. They can do it for next to next. 
+
+Marco Calvanese - 45:14 - Okay. 
+
+Helen Fleming - 45:19 - Well, and the Canadian government is not as far on the CMMC as the U.S. Is? Like their version of it? 
+
+Marco Calvanese - 45:26 - I want to let you know some good news. News. Sorry? I'm gonna let you know some very good news. JCP? 
+
+Helen Fleming - 45:35 - Yeah? 
+
+Marco Calvanese - 45:37 - That's the Canadian version of CMMC. We're compliant with the US version and the Canadian. So you can use us for both. So we're killing 2 birds with one stone. Everything you're gonna need for your JCP, we'll help you with. Everything with CMMC, we'll be helping you with. 
+
+Helen Fleming - 45:56 - Now No. Why is it that if we have JCP, why do we need to comply with CMMC? 
+
+Marco Calvanese - 46:02 - Because you'll be working with companies that are in the United States right? 
+
+sliston - 46:07 - Right. The DOD. 
+
+Marco Calvanese - 46:09 - Yeah. That's that would throw you into the bucket of having to comply with their laws too, as well. Well 
+
+Helen Fleming - 46:16 - Like take General, Dynamics, for example. We deal with General Dynamics Canada. But we do supply General Dynamics So if we were to take the General Dynamics U.S. Out of it, we wouldn't have to comply with the U.S. Is that basically correct? 
+
+Marco Calvanese - 46:32 - Correct. Okay. Yeah. 
+
+Helen Fleming - 46:35 - But since we do go to the U.S., we have to be compliant with both. 
+
+Marco Calvanese - 46:40 - Well, luckily for you'll be able to do both with our program here. 
+
+sliston - 46:46 - Well, I think actually Canada is accepting. The CMMC is level 2. T2, not accepting the Canadian version. 
+
+Marco Calvanese - 46:54 - That's exactly right. Any. 
+
+Helen Fleming - 46:57 - Chance after Trump leaves office. That might 
+
+Marco Calvanese - 46:59 - Change? I have I do not know. 
+
+Helen Fleming - 47:06 - No. 
+
+sliston - 47:10 - Okay. In your honest opinion, Marco, do you think we should have that monitoring monitoring? 
+
+Marco Calvanese - 47:17 - The in terms of 
+
+sliston - 47:19 - Being somebody to do it? It's 
+
+Marco Calvanese - 47:25 - Really what you feel most comfortable. If. You want to pass somebody on your team to monitor all of them, then I would say you won't. 
+
+Marco Calvanese - 47:40 - That would save you $3,600. But if you feel that you're don't want to be in charge of that and you want to put it in our hands, it's really what you want. It's up to you. 
+
+sliston - 47:59 - That was pretty close to an honest answer. 
+
+Helen Fleming - 48:01 - No, instead of annually monitoring it, could we pay you once every 3 years, just to update? 
+
+Marco Calvanese - 48:08 - Yeah, yeah. If you want to. 
+
+Helen Fleming - 48:10 - Is that an option? 
+
+Marco Calvanese - 48:10 - Yes, that is an option. So. If you are, say, you go get everything here and then year 3 comes around, you're like, Marco, we would like to have another DOD compliant. Accelerator. We'll give you all the updated docs and everything. So yeah, that's another way you can do it too. 
+
+sliston - 48:32 - That'll just be 35,000 because you got out earlier. So Well, 
+
+Helen Fleming - 48:38 - No. 
+
+Marco Calvanese - 48:46 - If we pay 
+
+Helen Fleming - 48:47 - The $8,600 now for the first year and say the next 2 years we took the $3,600 off and then on the third year paid the 8664 that would update everything? 
+
+sliston - 48:58 - No, the 8664 is gonna go up because we didn't pay the 3600 for the 2 years, so it's gonna go up by around $7,500. A price. 
+
+Helen Fleming - 49:07 - Sorry can I hear his answer please? 
+
+Marco Calvanese - 49:10 - So he would just be paying for the $3,600 in the year 3. So you'd be on the year two, you won't be paying for the 36 on the year 3 you'll be paying the 36 again. 
+
+Helen Fleming - 49:23 - Okay. So there is potential to save $3,600. 
+
+sliston - 49:27 - Yes. That was 72. 
+
+Helen Fleming - 49:31 - Well, you're one we're worded. Paying it down the road, but for the first 3 years we pay the first year, save. The second year, pay the third year, then after that again, yeah, we only save it in year 2. 
+
+Marco Calvanese - 49:47 - Yep. But 
+
+Helen Fleming - 49:48 - Still, that's $3,600 we save. That's. 
+
+sliston - 49:51 - Right, we're a small company. That's. 
+
+Helen Fleming - 49:54 - Why I'm the accountant. 
+
+Marco Calvanese - 49:55 - That's right. 
+
+Helen Fleming - 49:57 - Anyway, okay. Okay. Thank you. 
+
+Marco Calvanese - 50:02 - Of course. 
+
+Helen Fleming - 50:07 - Okay, well, I don't have any more questions. 
+
+sliston - 50:09 - Well, Marco, I think you've gone into detail. I think we have a very good idea of what this is now and what PreVeil can offer. And I want to lean towards PreVeil, especially when the guy we're dealing with already actually mentioned you guys and thought that's a That's a good good way idea. To go, but I'll have to go over accounting and see. Because again, we're now transferring this to US dollars and that just went up to 12 a year. 
+
+Marco Calvanese - 50:38 - I'm not familiar with the Canadian. Currency. I've never been to Canada before in my life. Helen, Box, VDI, Kiteworks, 
+
+Helen Fleming - 50:49 - PreVeil, LLC 1.37 to 1.41 exchange? 
+
+Marco Calvanese - 50:56 - What is the conversion? I'm going to just do US dollars to Canadian. It. 
+
+Helen Fleming - 51:03 - Fluctuates between 1.37 and 1.41. 
+
+Marco Calvanese - 51:07 - Okay. Okay. So just for me to know, how much will be in Canadian dollars. If you were to... I can figure this out. 
+
+Marco Calvanese - 51:17 - If you were to do this in Canadian. 
+
+sliston - 51:18 - I'm guessing 12? 
+
+Marco Calvanese - 51:20 - Is, 8664 it. 
+
+Helen Fleming - 51:22 - And I'm just gonna do a 1.4. Yeah, $12,129.60 Canadian. 
+
+Marco Calvanese - 51:30 - Okay, thank you very much for that. 
+
+Helen Fleming - 51:37 - That's all. 
+
+sliston - 51:38 - Do I have your email now because of this? Marco? 
+
+Marco Calvanese - 51:44 - Yeah, oh, yeah, you will, I'm on the invitation, let me see, I have everyone's email here, Simon and Helen, yes, I have your email, do you have my email on that invitation? 
+
+sliston - 52:01 - M. Calavansi? 
+
+Marco Calvanese - 52:02 - Yes. 
+
+sliston - 52:05 - How, do you actually pronounce it? 
+
+Marco Calvanese - 52:07 - Calvinese. 
+
+sliston - 52:08 - Calvinese, Marco. 
+
+Marco Calvanese - 52:09 - Calvinese. You're super close. 
+
+sliston - 52:11 - Okay, yeah, I tried to sound it out. 
+
+Marco Calvanese - 52:13 - Out. 
+
+sliston - 52:15 - Okay, I'm Calabas at PreVeil.com. 
+
+Marco Calvanese - 52:21 - Yes, and I will make sure to send over an invitation, well, I'll send over a screenshot of the quote, and I will send over our Steam MC one pager. But is there anything else I could do to assist while I have the team here? 
+
+sliston - 52:37 - Well, I think you've done enough. 
+
+Marco Calvanese - 52:38 - Awesome. Well, when would you want me to follow find up out? Or would you want me to wait to hear back from your team? 
+
+sliston - 52:46 - You can follow up with me by the end of the week. 
+
+Marco Calvanese - 52:49 - Okay. Awesome. Well, I'll put a note here to do that and I'll send us an email. She's come across me for the end of the day here, but it was a pleasure to meet everyone today. Virtually. Nice meeting you. Of course. I hope everyone has a nice rest of your day here. 
+
+sliston - 53:03 - Thank you. 
+
+Marco Calvanese - 53:04 - Of course. 
+
+===================================================================================
+
+END OF TRANSCRIPT

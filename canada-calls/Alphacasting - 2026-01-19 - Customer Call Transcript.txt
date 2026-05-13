@@ -1,0 +1,70 @@
+Account: Alphacasting
+Call Date: 2026-01-19
+Duration: 00:11:57
+Participants: Zackary Gilman, Remi Morasse
+
+======================================================================
+
+Speaker 1: So
+Speaker 1: Good.
+Unknown rep: Morning. Good afternoon.
+Speaker 2: Hi. Hello. Hi, hi, Remi, Zackary. Good afternoon. How are you?
+Unknown rep: Hello. I don't think we're waiting for anybody else.
+Speaker 1: Correct. Yeah.
+Unknown rep: Okay. Perfect. Well, to kick this off, my name is Zack. I'm from the PreVeil customer success team. I'll be your point of contact from here on out. This call should be relatively straightforward. It's just really to introduce you to myself. Go over some next steps and then some resources that are at your disposal here PreVeil.
+Unknown rep: But to kick off these calls, I always just like to hear a little bit about what brought you to PreVeil. I assume it's somewhere in the realm of cms level 2 requirements, but just like to hear from you guys first on on what brought you to us. Yeah.
+Speaker 1: Yeah. It's really for the cms. Technically we're going to for the level 2 or at least the level one and have something more shaker at what we have right now. Because right now I'm looking at some contract and nobody ask us level 2. So this is a little bit confusing right now.
+Speaker 1: Right. But yeah, we do a mentor space parts. We need something that is really all and we want to get out from here. So
+Speaker 1: I think PreVeil is the best choice for us for now and we can share with the spare that we have some file to that will be more easy.
+Unknown rep: Perfect. Well, that's great. Great context. And then it looks like for licenses, it looks like you guys have the 3 licenses with the one admin console as well as the compliance accelerator.
+Speaker 1: Yeah. To start down the road, we're going to add more license. I just I need the to have a base to build the system and when we're ready, I will buy more licenses to because at the end I think I'm going to have close to 30 license.
+Unknown rep: Okay. Well, yeah. So whenever you want to add more licenses or more seats, just feel free to shoot me over an email could definitely help with that whenever you guys are add on some more. And then just kind of going to next steps. So within that welcome email, I'll resend this in my follow up as well. In case you guys don't have that email handy. But the second link in that email is just to download the PreVeil system. Have you guys had a chance to like, download? It's
+Speaker 1: Already install and it's working on my computer.
+Unknown rep: Perfect. Perfect. So that's usually the next step is that download? And then from there you can book your onboarding. So that'll be like an hour long technical call with our onboarding team to kind of go over the admin console and all the technical features.
+Speaker 1: Yeah. I worked in the admin console. I check even some videos that you have. I need to take the appointment for the
+Speaker 1: The one hour you have 2 choices can be one hour or 30 minutes with question. So I'm going to figure out if I need one hour. I think we have both choice.
+Unknown rep: Yeah, I know we've got a couple of different options and then I'll send over that link again after this call. So you have it handy. Yeah, whenever you're ready, feel free to book that session with the team and they can help you set up that the admin console.
+Unknown rep: And then in terms of compliance accelerator access, like I said, you have up to 3 people within that system. Do you know who you like in the system? I can add both your emails or other folks if you have some people. My
+Speaker 1: My email is already there. I need to figure out the 2 of our user. It's not set up yet because I need to build a system. So I'm building really everything to start doing some try out. I just I have some question about because technically it's one share drive for everybody. They don't have individual drive. This is what I need to understand how it's working on the site when I know that there is will be easy. Yeah.
+Unknown rep: Okay. Perfect. So yeah, whenever you have those names for the compliance accelerator, just shoot me over an email and I can add them to that system.
+Unknown rep: Some other resources just to note with the compliance accelerator, you do get 6 30 minute sessions with our compliance team. So you're able to book time with them as well as 2 emails. I'll send this in a follow up as well. But you have support at PreVeil.com for any technical related issues. Sending them an email will automatically create a ticket. Serial have to track it that way as well as compliance at PreVeil.com as another email for any compliance related questions that you don't feel would make a zoom necessary.
+Unknown rep: The only other thing I had on on my plate, like I said, this call is very straightforward, but just to schedule a 90 day check in call. So probably looking at the third week of April from now I'll put down some time. Okay. And then if it gets closer to it doesn't work out. Feel free to change the time around. I can always adhere to you.
+Unknown rep: But that's kind of it for my spiel. I want to open it up. See if there's any questions. See if there's anything I can help address right off the bat here.
+Speaker 1: Right. No, no. Yeah.
+Speaker 2: Well, it's the same question I have Zach by the way, I'm from or we work with you as partners to implement it. And I'm helping the Remi organization for the implementation and documentation and the whole setup. Okay. So anyway, it's the same question I had to to core. I don't know.
+Speaker 2: You know
+Speaker 2: That time. Um
+Speaker 2: Regular usage. I mean, for day to day operations. Okay. My question was this admin account that they get is it considered compliant if they use it just to work normally or they should have another account that will allow them to use the system for day to day operations?
+Unknown rep: So you're talking in terms of the PreVeil account itself for day to day activity, yes. If you wanted to use
+Speaker 2: The account the admin is privileged. You can assign users, you can change the different access control for each user. So it's basically a privilege account. We're not talking about the windows account on the workstation. So it's a privileged account. So if I want to be compliant with cms, I'm not supposed to use it for day to day operations. Okay. Do we get another one? Or do we create another one? Or we have to subscribe to another one? what's the consensus on this?
+Unknown rep: So with the admin, you should be able just to use it as a regular PreVeil user. You would just have those extra admin the extra admin console. So you're able to use it and be able to transmit it. That way you just have those extra permissions. But
+Speaker 2: It's one of the requirements of cms. I think it's 3 point 1.6 or point 7 that says privileged accounts should not be used for regular use.
+Unknown rep: Yeah, let me check with our compliance team. I'm sure they've come across this before. In terms of the admin console, I don't know right off the top of my head, but let me check with them and then I can email the answer. Let's say I get that.
+Speaker 2: Okay. Fine. Because I always have this question when we have a new subscription, okay. You get one admin and 2 users and you consider it 3. That's fine. But they are not 3 normal users. They cannot have like, 3 business operations at the same time.
+Unknown rep: Right. Yeah. Let me check with our compliance team and I'll shoot over an email. I hear back from them.
+Speaker 2: Okay. All right.
+Unknown rep: Anything else that I can help address?
+Speaker 1: That's my only thing is free. I work with the PreVeil. So I created the for my drive and the folder and all this stuff. It just when I was talking with Cory, I have the impression that I can have. One say drive for all my user, not individual drive and I cannot find
+Speaker 1: The way to do it, do I create just a folder and I share it. I'm on my us are
+Unknown rep: Yeah. In terms of the shared drive, you're trying to get it to your regular users or you're trying to create a shared folder.
+Speaker 1: Yeah, but I see right now, we have just small background. We have the server with a shared drive where I have all my cat drawings. That my user access right now with PreVeil. It's more like they have their own folder, but technically, I don't want them to have their own folder. I want one folder for everybody.
+Speaker 1: So it's like one drive for other user or I need to say, use my account share with everybody and I like, I'm not sure if I like this way.
+Unknown rep: Yeah, there should be some shared drive capabilities. Let me make sure I'm gonna take that's probably a better question for our support team. I'll make sure they have some some good answers on that. But yeah, it should have some some shared drive capabilities because that's obviously a big piece of the PreVeil platform.
+Speaker 1: Yeah, because I know we can share a drive between user, but technically I need one main drive that is shared in automatically if the user connect on the shared wife. I create a user, is it a drive? So I come on shared drive, I will say
+Unknown rep: Okay. It looks like they have their own drive and not a common shared drive. It's just a folder that's owned by themselves.
+Speaker 1: Yeah. Now, I need one common, shared drive for everybody.
+Speaker 1: Okay. And
+Speaker 1: With the sub folder, I can give access to people for some some some folder like usual window stuff.
+Unknown rep: Yeah. I can check with our support team. They should have an easy fix for that. I'm sure it's a common question in terms of the shared capabilities.
+Speaker 1: Okay.
+Unknown rep: Anything else that I can dig an answer for you, yeah.
+Speaker 2: Questions.
+Speaker 2: What's that? Do we need to follow up with you for these 2 questions or another entity?
+Unknown rep: So I'll after this call, I'll jump off and I'll hit up our support team and compliance team and I'll send over an email. You'll receive an email from me. It'll be a general follow up email. And then I'll send a separate one once I find the answer to these 2 questions, so no need to follow up with me. I'll send over an email for both of these.
+Speaker 1: All right. Perfect. Perfect.
+Unknown rep: Anything else that I can help with?
+Speaker 1: While we're here and all for me, I'm good on my side.
+Unknown rep: Okay. Well, perfect. Well, you'll receive a couple of emails from me. One will be the first will just be that follow up email. Deal telling all we talked about as well as a link to book on boarding as well as some of the resources. And then the second one once I find those answers for you, I'll send over a quick email to you both. But if anything comes up in between now and the next time we talk feel free to shoot over an email. Always happy to jump on a call or help you guys in any way.
+Speaker 1: Perfect. Okay.
+Unknown rep: Awesome. Well, thank you. Both. Hope you have a good.
+Speaker 1: All right. Can you call me? Yes. Okay. Thank you.

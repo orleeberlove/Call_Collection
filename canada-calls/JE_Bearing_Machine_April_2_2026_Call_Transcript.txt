@@ -1,0 +1,241 @@
+Transcript
+Date: 2026-04-02
+Account: JE Bearing & Machine
+Conversation: JE Bearing & Machine - PreVeil CMMC Follow-up Discussion with GM
+Speakers: Jack O'Connor (PreVeil) + Jamie Tutt (JE Bearing & Machine) + Muthu (General Manager, JE Bearing & Machine)
+
+=============================================================================
+
+jamie . tutt - 0:00 - Hey, Jamie. 
+
+jamie . tutt - 0:07 - Hey, Jack. How are you? 
+
+Jack O'Connor - 0:09 - Good. How are you? 
+
+jamie . tutt - 0:10 - Good. Just waiting for my GM to jump, on. Should be here. Any second. I forwarded him over the invite. No. 
+
+Jack O'Connor - 0:23 - Worries, that sounds good. Give them a few minutes. Minutes. 
+
+Jack O'Connor - 0:34 - Was there anything specific you wanted me to go over? Or kind of just the same overview I gave you? 
+
+jamie . tutt - 0:39 - Yeah, just the same overview that you gave me. Yeah, and I kind of filled them in. I sent that thing that you sent me over to him as well, too. So I just really kind of wanted him to get up to speed. There's a couple things that I thought about after that we got off last night. That I kind of want to filter back in. But yeah, that was the gist. 
+
+jamie . tutt - 1:08 - Sounds good. 
+
+Jack O'Connor - 1:43 - Looks like he's on now. 
+
+jamie . tutt - 1:45 - Perfect. 
+
+Jack O'Connor - 1:46 - How's it going today? Today? 
+
+Muthu - 1:48 - Sorry, give me one second. I'm not sure you can hear me. No worries. 
+
+jamie . tutt - 1:51 - Yeah, we can. 
+
+Muthu - 1:57 - Let's see. 
+
+Muthu - 2:00 - Can you guys hear me? 
+
+jamie . tutt - 2:01 - Yep, we can. 
+
+Muthu - 2:05 - Okay, now I can hear you too. Perfect. 
+
+jamie . tutt - 2:07 - Perfect. Okay, great. Well, we got Jack here. Jack and I had to conversation call yesterday. Like I filled in on. I just kind of wanted him to run through it again. For yourself. I mentioned. Him, I, kind of had a couple more questions, but I'll leave those till the end. So we'll let Jack, we'll let you kind of give us kind of the rundown of what this is and we'll go from there. 
+
+Jack O'Connor - 2:36 - Yeah, yeah, that sounds 
+
+Muthu - 2:37 - Good. Before you go, Jack, thanks, Jamie, for that intro. I'm not sure if Jamie's already mentioned it, especially on my end, I'm still new to this whole atmosphere. So go in a relatively slow, but understandable format. 
+
+Jack O'Connor - 2:52 - The 
+
+Muthu - 2:53 - Main things we want to get out of this is the deliverables, the timeline, and what you're going to provide us at the end from all this and see if we can speed some things up from where we currently stand. 
+
+Jack O'Connor - 3:06 - Yeah, yeah, definitely. I appreciate that. Jamie gave me a little bit of an idea of where you guys were at, and mainly the gaps that needed to be filled. It. Sounds like you guys were on O365 using an on prem server to store that data. Essentially, your gap at this point would be the sending and receiving of information. PreVeil would be able to come in and be that platform for you to send and I TAR receive information. 
+
+Jack O'Connor - 3:37 - Data in a compliant way. Can you see my screen. Okay? Yeah, I can see it. 
+
+Jack O'Connor - 3:45 - Perfect. So this is kind of what PreVeil would look like here, and it would kind of just act like a standard email. Inbox. The only difference is, of course, it's up to the correct encryption standards to be able to handle send, send and receive CUI. So. This is where you'd you be able to do that. 
+
+Jack O'Connor - 4:03 - Sending and receiving, just compose any messages to send out. I think Jamie mentioned that you guys were sending to subcontractors, correct? Yeah. Yep. So that's how you would do that. And essentially, you'd just be able to kind of carve out this subset of users who only need to do that sending and Receiving. Receiving. So I mean, I think where we decided on it yesterday was about 5 of them or 5 of your employees would need to be doing that sending and receiving. And the rest can kind of just operate out of that on prem server handling any of that CUI data that they need. So, I mean, this is pretty standard. Otherwise, you've got Drive as well to be able to leverage for any other sending and storing. Of course, you have that on prem server to do any storing for, you can know, your needs. 
+
+Jack O'Connor - 4:58 - Also send out any folders to third parties by copying a link or I can go into my details here and just share it by putting in their regular email address. 
+
+Jack O'Connor - 5:14 - Additionally, on the mail side of things, we actually plug right into O365. So, you'll be able to maintain that as a commercial setup. And essentially, all of the employees who aren't handling CUI. Don't even need to be involved in this at all. So they can just maintain their regular commercial environment. That's going to be untouched. And. Same goes for even those who are handling CUI. The only difference is they'd also have PreVeil here as the second inbox to be able to send and receive that CUI. So Commercial O365 would still be used for any non CUI. Data, PreVeil, would just be here for that data that needs to be encrypted. And in this feature here, it's purely just for workflow. 
+
+Jack O'Connor - 6:02 - Purposes. So if you didn't want this plugin, you could always just do everything you need to out of this PreVeil view. 
+
+Jack O'Connor - 6:10 - Any questions at this point? 
+
+Muthu - 6:17 - Not for me. 
+
+jamie . tutt - 6:18 - Okay. No, I'm good. 
+
+Jack O'Connor - 6:20 - Jamie, is that everything that I should have covered on those points? 
+
+jamie . tutt - 6:24 - Yeah, no, I think that's good as far as this standpoint goes for sure. 
+
+Jack O'Connor - 6:30 - Perfect. I'll touch on the admin features as well. Really, quickly. This would kind of just be a list of your 5 users. You'd be able to access things like activity logs, showing who's doing what, when are they doing it, Admins and Edmunds. Are also able to export this data as well. So log data, mail and drive data. And this is covering controls. Being able to pull that data for incident response, which is required for CMMC compliance. Now, outside of that platform, we also offer our documentation here as well. So. Essentially we'd give you all of the policies, procedures, PreVeil. System. 
+
+Jack O'Connor - 7:15 - So all of the typical workflows, everything that we are covering in CMMC Level 2 is already filled out in there. 
+
+Jack O'Connor - 7:29 - So really, you would kind of just need to fill in the specifics of your company, obviously. 
+
+Jack O'Connor - 7:34 - The details of your on prem server, details of on prem your server, users, and the details of your users. Users, your organization, things like that. But most of the CMMC kind of workflow information is already filled out in there for you. 
+
+Jack O'Connor - 7:50 - And that also kind of comes with a knowledge base here to help and walk you through things like securing your endpoints, scoping your boundary, doing a self assessment and doing that documentation and things like that. So you'd have our resources, you'd also have access to our compliance team. If anything is getting you stuck, we're happy to jump on a call and help you figure that out. But essentially, I mean, it sounds like you guys were at a point where General. Dynamics was having you or was expecting some sort of a score from you, whether that be just a certain number or the full one. 110 controls. But, essentially, what PreVeil would do is allow you to get something in place to be able to handle that CUI in a secure way. Almost immediately. 
+
+Jack O'Connor - 8:42 - You could boost your self assessment score and then kind of just work on that documentation up until that 110 score. 
+
+Jack O'Connor - 8:53 - And I sent Jamie our shared responsibility, matrix yesterday, but essentially what the that would what that's covering is just everything that PreVeil is involved. With. And to give you kind of a quick breakdown of that, we're involved in 37 of those controls, fully being covered by PreVeil, and then an additional 65 of them are being supported by PreVeil and primarily our documentation. So that would essentially bring you to that 102 out of 110. 
+
+Jack O'Connor - 9:24 - And then those remaining 8 are purely just physical controls. So that would be things like locks on doors, locks on file cabinets, and having the proper employee trainings in place. So really, I mean, sounds like it might streamline your compliance for where you guys are at right now. Any questions at this point, or anything I can jump a little deeper into? 
+
+jamie . tutt - 9:53 - Moving to anything you need us to clarify? If I could jump in. 
+
+Muthu - 9:59 - Here, where are Yeah, for me... We? Go ahead. Because to me, the one thing, and maybe if Jack can't get this, maybe you might know it too, Jamie. Our objective of this. 
+
+Muthu - 10:17 - Is it to have the L2 conditional as we call it or is it to like or are we just going to get it with the 5 user or compliance foundation in place and say that we're secure for that end? 
+
+jamie . tutt - 10:36 - So, so really what where we need to be, Muthu is like, they're wanting us to be self assessed, Self Assessed, which my understanding, and I'm clarifying that with them currently, is 110, score, which what we need to do. 
+
+jamie . tutt - 10:55 - Is, that is the point where we're kind of ready to say that the auditor is coming in to do the formal audit. GD doesn't need the formal audit. Done, they just need that self assessment done to a perfect score. To say we're ready. And then this, there's two, as far as I see it, there's 2 aspects here. It's the controls and the handling of CUI in and out and the storage, which PreVeil can take care of that. That's their main core competency. The second part is having all the policies and procedures in place, which they have that package that allows us to do that. And to update that. There's a third small component, which is the training, which of course, we have to do, ourselves. Ourselves, but it's kind of broken up into those 3 main things. 
+
+jamie . tutt - 11:46 - Jack had mentioned you have your core, which I think you said was 35 or something like that, Jack, the other is 60 something and there's 8 controls that are left up to us. So, really we need to get to that 110. Score. The minute, we give that to them as a self assessment to GD, we're good to continue. We just then have to have our professional audit, our third party full audit done for certification by November. But really what we're looking at doing is getting that self assessment where we have a good score done up. PreVeil has a great point. I think I explained this to you, too, Mutu. Really, what Jack and I have been talking about. 
+
+jamie . tutt - 12:29 - And really where this focus needs to stand on is it's really on the CUI and the handling of it. And the more you control that, we don't have to roll out policies and procedures to areas of the company that don't have the use to handle CUI. You can, but it's just overkill. Jack, I think that's a fair assumption. We really just have to focus on who's touching CUI, how they're touching it, and making sure that all the policies and procedures for that handling are in place. And. You said, there's those 8 controls controls that are in place. That are more just company security, physical facility, security locks and in secure areas and that type of thing. But outside of that, we just need to focus on the people that are touching this and how that CUI is handled and secured and stored. 
+
+Jack O'Connor - 13:18 - Yeah, 100%. So yeah, I mean, essentially, Muthu, the point that we were kind of getting at yesterday is that it sounded like you guys were trying to entire company to CMMC compliance, which just isn't, it's not necessary. 
+
+Jack O'Connor - 13:35 - Really at this point. So you only need to have your subset of folks who are handling CUI in that boundary. And then even smaller than that, you only need PreVeil for those who are just sending and receiving it. Like I mentioned, the rest of them can kind of just work out of that on prem server and handle Okay. Any of that CUI data that way. Of course, they would still need to be involved in the employee trainings and things like that. But I think it sounded like it makes things a lot more manageable for you and also maybe streamlines your process as Jamie mentioned. It's something that it sounded like you guys were being pressured to get into. 
+
+Muthu - 14:22 - See, that's the thing. I want to get into. That point right there because I want to understand that. And what's really required from the self assessment score that you highlighted Jamie that we need to knock out. For my end, you know what I want. You're out there and you're pursuing and you're growing. Our business. Now this is a gap that's been identified or a blocker that's been identified as preventing us from securing some business from GDLS. Now, we have somebody, some internal working that is being done to remove that blocker. Now, the scope of, it seems from my understanding, I don't know. 
+
+Muthu - 15:02 - Now in details, and I'm getting more information, they are looking at providing this compliance to the entire infrastructure, it looks like, of the company. Now, is that the requirement, or is it like Jack was saying, and like you said, I did it yesterday, Timmy. On our phone call, we only need to do it as a small subset of the entire organization, only that area that controls that CUI. 
+
+jamie . tutt - 15:30 - Correct. So the key here is that exactly. We have to identify what and who and how the CUI is touched. And those are the things that really the government is worrying about is the control and it's also the access. Access. Access. 
+
+Muthu - 15:45 - And that makes sense to be honest. To. 
+
+jamie . tutt - 15:49 - Jack's point is you have 110 controls. 30, oh, sorry, Jack, what was it? 30 something PreVeil takes care of? 
+
+Jack O'Connor - 15:57 - Yeah, so 37 out of the box PreVeil is covering fully for you. And then an additional 65 of them are shared, meaning that we cover a portion and then you as the customer would cover a portion. And we use that. 
+
+jamie . tutt - 16:13 - For your templates. Right. 
+
+Jack O'Connor - 16:14 - So most of that is pertaining to the documentation, where obviously we don't know your specific exact setup that you have. So. There's some work to be done on your end. But like I mentioned, all the PreVeil information is filled out in there. And. Then those remaining ones that are fully your responsibility are just those physical ones. 
+
+jamie . tutt - 16:33 - Yeah, so really like where I think our time challenges, for instance, somebody moved through an accounting that we don't need to necessarily have all this implemented to them. And if we really control what controls we're doing, like we talked as an analogy yesterday with ISO, you don't need to write a policy or an SOP for every function of the business. 
+
+jamie . tutt - 17:01 - If it doesn't require one. And the more controls you put in place, the more work that's involved, but also the more auditing and the more policies you have to write. So. If we do this program with PreVeil, 30 again, sorry, 37, 38 are done with PreVeil. The 65, if we use their templates, we can check those boxes. Off. The other eight, we've already done with our key fobs for door. 
+
+jamie . tutt - 17:29 - Entry how we control coming in and coming in. The building. All that's already in place. To me, this seems like a pretty set thing. And again, I think. Really what we've got to do is ensure we're focusing on the areas that we really need to focus on for compliancy. If we're going over, that's great. We can still do that. But we just we should be worrying about, like you and I talked, Muthu, earlier, when we talked to our IT guy what are the exact minimum minimum requirements that we're going requirements to do? When we need to get our perfect score? Let's tackle those, cross those off. If we want to go further, hey, we can and we can do that, but we shouldn't be holding up our certification to do that. 
+
+jamie . tutt - 18:12 - Currently, right? Like to we can do those things, afterwards. And I. Don't think it's a bad thing to roll this all up to the company, but it's not a requirement, right? Now. 
+
+Jack O'Connor - 18:21 - Yeah, yeah. I mean, I think Muthu, it kind kind of depends of... On where General Dynamics wants you to be. And. It sounds like Jamie is communicating to get an exact answer, but some primes only want you to be at a certain number. I've heard 88 out of 110 is a popular one. Some may want you to be Jamie mentioned, fully 110 and just ready to go for that final assessment. Assessment. So Honestly, either way, it sounds like eventually you'll need to be 110. Really, PreVeil will help you get a large amount of the way there. We mentioned timeline just yesterday, as well. That can be done in really a couple of months. 
+
+jamie . tutt - 19:11 - Here's a question, Jack. Do you guys have any information that you could share as far as the success rate? let's say you have 98% of your customers that go on your platform, they're successful in compliancy. Do you have that? I guess where I think Mutu is coming from is like, ensuring that your system is what we're looking for in order to say, we need this is going to work so we can can run this up to our ownership group to say, we know this is gonna work and here's the proof in that. 
+
+Jack O'Connor - 19:54 - Yeah, so I mean, out of, we have over 3000 defense industrial based customers at this point. About 80 of them at this point have passed, 110 out of 110, third party assessment using PreVeil. Large majority are using our documentation as well. So PreVeil is very proven. Proven. Out of those 80, I'm not exactly sure how many total final assessments we've had, but I'm happy to find that number if you'd like. 
+
+jamie . tutt - 20:25 - So, is that 80 companies or 80%? 
+
+Jack O'Connor - 20:28 - 80 companies. 
+
+jamie . tutt - 20:30 - 80 companies. And the majority of the other ones that are there, they just haven't got their audits done correct. 
+
+Jack O'Connor - 20:37 - Yeah. Correct. Large majority are not at the point where they would even need an audit offer. Yet. 
+
+jamie . tutt - 20:42 - Right, okay. But they're working towards getting that perfect score. So then they can go to the audit, 
+
+Jack O'Connor - 20:49 - Right? Correct. And a lot of them are probably in the situation that we kind of described, where they are sitting at 110, self assessed, and ready for that audit. They're just waiting for the moment that they actually need to kind of kick that into place. 
+
+Muthu - 21:04 - So just for after the end of this, if we were to run through this, you're saying that we will get a self assessment score of 110? 
+
+Jack O'Connor - 21:14 - Well, I mean, obviously, there's still work to be done. It sounds like you have some physical controls in place. There's still going to be some work to be done on the documentation. But. Hypothetically, I mean, yeah, we have plenty of customers who are either at 110 or finally final assessed at 110. 
+
+Muthu - 21:34 - Is this going to get us... Us. What's the difference? Is this level 2 self ready or is it... Yes. Oh, that's what it is, level 2 self ready? 
+
+Jack O'Connor - 21:44 - Yeah, so... 
+
+jamie . tutt - 21:46 - Level 2... Yeah, sorry, Jack, go ahead. 
+
+Jack O'Connor - 21:48 - No, yeah, I was just going to say... Or SPRS. It's meeting... So SPRS is something that you guys need to do. So. That's, like doing that self assessment. So PreVeil is something that you'd put in place and it would boost your self assessments score greatly. 
+
+jamie . tutt - 22:05 - Yeah, and we just need to get that 110 self assessment. Score. We can then do the audit normal. We just need to get this score to the part where basically our CUI control for inbound and outbound and storage is in check, which again, that's PreVeil's main responsibility. The other big portion is the policies which they gave us the templates. So we just have to update that and add in how they work here. But the framework is there that saves a ton of time. The third is the training, which we can do that. Once we kind of have all that in place. And then the fourth is those physical controls for the facility, which I think 
+
+jamie . tutt - 22:49 - Most of those are already covered, Muthu. We did those early on. And then like I mentioned to Jack, Jack, a lot of these companies that take 3, 4, 5, 6 months have a team of 1, if not 2, people that do it. I posed the question. If we have a team of 4, 5, or 6 of us that all try and divide and conquer on this, he felt that even expedites that up. And that's where we got to that timeline of 2 to 3 months, we should be well within our capability of getting that done done. If we have the resources and the personnel devoted to making sure we put this across the finish line. 
+
+Muthu - 23:33 - Okay. 
+
+Muthu - 23:35 - Okay. 
+
+Muthu - 23:41 - I just have one question too. So if we get the self assessment score and then the audit that you're talking about, about, Jamie, was that professional audit where we get about a month or so to get through. Okay. Now, now I'm just thinking too, because, like you said, there's already some work there that's being done, Jack. And I think there's a certain timeline and it's the scope of that range. I don't know, confirm yet, but it seems like it is a much wider range than what we're covering here. And for whatever reason. Reason. Now, if we were to say, okay, 
+
+Muthu - 24:22 - We were to take both into consideration or into account, would that be a possibility? do it as a 2 track approach? Track one being the PreVeil option and then doing the smaller scale, immediate risk reduction, and then making sure we get this award, and then track 2 being the full readiness. Loud. The full scope of operations and what they're doing, the broader scope. I don't know. Is that something that can be done in tandem or in parallel? 
+
+Jack O'Connor - 24:56 - I guess the point is that you don't need to do Track 2. You can, but it's almost like you guys would be using resources for nothing. Folks who aren't handling CUI. Don't need to be involved at all. 
+
+Muthu - 25:11 - Like the transparency. I that. I like that. You're blunt like that because I need to know that. Yeah. And I don't know. I want to hear what Jamie, I'm going to ask him the same question right after his call or when we talk later. But the problem is, if I'm going to speak with, if you were, if you weren't, I would ask Jamie, why do we, why are we even doing that? Why did we... And I know it's... Maybe we can't answer with the people here here, but 
+
+jamie . tutt - 25:39 - I think we can move to you and I'll talk after. I actually have a couple I had another example that just popped up. This morning. And again, I'll run it through you when we're done. Here. But I think it'll solidify exactly what we're talking about, and show the the over redundancy that we're kind of working on. It'll be a great example. 
+
+Muthu - 26:02 - So you're sending that track to full scope, readiness. Even need to do, we just need to do track one, the immediate response and control the key areas that the CUI operations touch and CUI data. Yeah, 
+
+Jack O'Connor - 26:14 - And actually, I have this pulled up and this is an actual CMMC guide that was published for defense contractors. Might be a little small for you guys, but I mean, right? Here, out of scope, assets, assets that cannot process, store or transmit CUI. CUI. So. That's essentially saying we don't even need to worry about those guys. They're out of the CUI. Boundary. They'll just do their thing as they normally do because they don't process any CUI. So all we need to focus on are CUIs that are, I'm sorry, assets that are within that compliant. Boundary and handling or processing CUI. 
+
+Muthu - 26:54 - That's what makes sense. Jamie, I know you explained that part of it too, but are it's you able to send this spreadsheet, this PDF, Jack? 
+
+Jack O'Connor - 27:04 - Yeah, of course. 
+
+Muthu - 27:07 - Because this part, Jamie didn't explain it. Yesterday. I'm happy you actually follow this up, Puff. It bridges. A lot of concerns, I guess, the misunderstandings. 
+
+Jack O'Connor - 27:17 - Yeah, and I mean, I guess to answer one of your earlier questions on like, why are you doing that, right? Now? Now, I mean, I do think it's a common, misconception. A lot of folks kind of go into CMMC. Thinking, okay, I'm handling CMMC as a company. I have to just I have to meet it and everyone's involved. But yeah, that's not quite the case. And. So PreVeil is a great approach. For use cases, just like yours, because when there are a lot of folks out of that boundary, it just makes sense to make things smaller, have PreVeil for those users who just need to handle it. 
+
+Muthu - 27:56 - Right. Okay. I already have 4 minutes and I have a call at 1.30. We'll talk to you definitely. After, Jamie. I know we have an hour after. Okay, go ahead. My only other thing is, you already talked about the shared breakdown of responsibility, right? I believe you mentioned that earlier. Yep If you can actually have... What do you have it available or do you need more information to get a detailed implementation plan? 
+
+Jack O'Connor - 28:26 - I'm sorry, a detailed implementation plan, did you 
+
+jamie . tutt - 28:29 - Say? Correct. Yeah, I think, Mutu, what we would have to do is if we decided to go with this we'd have to kind of get on board with them. We'd look at all of their documentation when it comes to their policy. The CUI control in and out and storage that's done on their system. 
+
+jamie . tutt - 28:47 - System. We just integrate their system into our current system. And then the policies and procedures component, we'd have to basically pull all out, say there's 30 of those or whatever the number is, it's relevant, see how many we've done, figure out, okay, these are, this is exactly what you and I talked about with our IT department last week give us a list and a task, they have that list. So it would give us an actual roadmap. All we'd have to do is feather Who has in to... 
+
+Muthu - 29:16 - That list? IT or...? 
+
+jamie . tutt - 29:18 - No, no Jack does with his... He has all of the policies there that he showed us. They're all there. So you know, however money's on that list, we need to convert them to ours and then that portion is done. But this is the list we had asked our IT for that. 
+
+jamie . tutt - 29:34 - They really didn't produce. Jack has that roadmap. We just make sure we update all of those for us with our pertinent information. Information. And information. That's off the list. Then the only other 2 components are training those policies to the people associated with them. That touch them. And. Then the fourth last thing is just ensuring those other 8 controls, which are our facilities. Controls, locks and keys. Those are all checked, off. The 110. Controls, we already know what those controls are. So. That's your master list. You cross off. 
+
+jamie . tutt - 30:06 - PreVeil crosses off those 37 or 38. Automatically. The other 65, which are all the policies. Jack has, we know exactly what those are. There's your list here. And the other 8 we print off and say, these are your controls for your facilities. That's the roadmap. It's already there. Once we sign on, we get those things. We know what the roadmap is and we just start allocating them to individuals, checking them off. And the quicker, we get them checked. Off, the quicker, we get our self assessment score to to 100 and we're done. 
+
+Muthu - 30:37 - Okay, so just to real quick on that one, who are those individuals? Are those internal or external? 
+
+jamie . tutt - 30:43 - Maybe internal. 
+
+Muthu - 30:44 - Okay, so there'll be people like, say, Brent, Austin, whomever, right? 
+
+jamie . tutt - 30:49 - Yeah, and you and me, right? 
+
+Muthu - 30:51 - Yeah, I'm okay with that. Yeah, definitely. This is at the level where if we need all hands on deck, I'm available, and I know you are, and then we can pull anything else. Or else. Anything else? But okay, okay. I'm good with this. Okay, 
+
+Jack O'Connor - 31:07 - Perfect. Cool. Yeah, I know we're at time here, so I'll let you guys jump. 
+
+Muthu - 31:13 - If you can send me that assessment, Jack, and thanks for the run through. I appreciate it. 
+
+Jack O'Connor - 31:16 - Yeah, yeah, no, I appreciate the time. And Jamie, I guess I'll just coordinate with you for any next steps. 
+
+jamie . tutt - 31:21 - Yeah, sounds good. Will do. 
+
+Jack O'Connor - 31:23 - Sounds great. I appreciate the time, guys. 
+
+jamie . tutt - 31:25 - All right. Okay, thank you, Jack. 
+
+Muthu - 31:26 - Appreciate it. Hey, Jamie, I'll talk to you after. 
+
+jamie . tutt - 31:28 - Call me. 
+
+Muthu - 31:30 - Okay. 
+
+===================================================================================
+
+END OF TRANSCRIPT

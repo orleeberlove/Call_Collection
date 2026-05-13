@@ -1,0 +1,339 @@
+Transcript
+Date: 2026-03-31
+Account: Quinlan Defense Inc / RPX Industries
+Conversation: RPX Industries (Canada) - PreVeil CMMC Compliance Discussion
+Speakers: Jack O'Connor (PreVeil) + Matthew Quinlan (Quinlan Defense Inc - representing 5 Canadian defense companies) + Lorne (Lauren) (RPX Industries)
+
+=============================================================================
+
+Prospect - 0:18 - Team's in the world for 50 50. We started in 2004, but it was something like an old track for all scored sorts of by things. The Golden State. In reality, he was really different. United Kingdom in the past, 14 15. At this time, we had another one champion. We then go to 2005, the very first one was down for Liverpool, and then they could 3 3 and eventually won the championship. We could look at all the food they saved. We were in the stand. It was so great. 
+
+Prospect - 0:51 - Don't do that, I've never told you. And then we go to St. Pals, I don't even feel like anything 
+
+Prospect - 0:58 - Crazy, 
+
+Matthew Quinlan - 0:58 - But I don't think I'm wrong with so many 
+
+Matthew Quinlan - 1:01 - Have more soap, with your problems with labels, and clothes, 
+
+Matthew Quinlan - 1:50 - Morning, Jack. 
+
+Jack O'Connor - 1:51 - Hey, Matthew. How's it going? 
+
+Matthew Quinlan - 1:52 - It's going pretty good. Listen, I have a third person joining us and they're not here. Yet. Okay. It's okay. They say they'll be here. Any minute. If I can put you on mute and then if they're not here in 5 minutes, we'll start if I'm not taking too much of your time. 
+
+Jack O'Connor - 2:06 - No problem. That sounds good. 
+
+Matthew Quinlan - 2:08 - Okay. Thanks. Just one second. 
+
+Jack O'Connor - 2:09 - No worries. 
+
+Matthew Quinlan - 3:47 - Hey, Jack, I haven't got him here. Yet. I'm just going to keep an eye on my phone. We're actually at a private club, so I have to let him in. 
+
+Jack O'Connor - 3:55 - Gotcha. 
+
+Matthew Quinlan - 3:56 - But I'll let you get going here. So, we spoke to to Sanya and I'm here with one of my clients, which is a unique, well, relatively unique, I guess. Not only is it only one person that accesses CUI, it's a one person company. And so, very much looking forward to this demo. I've talked to a few of your clients about their experience using your product and it seems everybody's blowing their brains out with CMMC2. And then when we see what you offer, it kind of takes a lot of the pain away by the looks of it. 
+
+Matthew Quinlan - 4:33 - So I'll turn it over to you. So I'm Matthew Quinlan, I represent 5 Canadian companies in the defense space. We have a local major OEM for military, vehicles. And Lauren? Oh, yeah. Hi. Yeah. I'm Lauren from RPX. Industries. And I'm Matt represents me as well. So when he speaks of the one person show, that's me. Gotcha. Yep. So this has been a bit of a thing that's been looming. So. Hopefully, we can get some kind of resolution. So yeah, looking forward to it. 
+
+Jack O'Connor - 5:09 - Yeah, definitely. And so Matt, are you looking at MSP or like a consultant to them? 
+
+Matthew Quinlan - 5:15 - Well, I'm more or less like I'm basically business development, but I get involved involved in. A lot of things. I don't generally get involved with the day to day. So, for example, in Lawrence. Company, Lawrence deals with a lot of unusual asks of his main customer. 
+
+Matt Q - 5:31 - We're 
+
+Matthew Quinlan - 5:32 - About to start on a US Marine Corps contract. 
+
+Matt Q - 5:35 - Obviously 
+
+Matthew Quinlan - 5:37 - Has the FARs and DFARS that dictate that you have to be at this level. 
+
+Matt Q - 5:40 - Most of the Canadian and 
+
+Matthew Quinlan - 5:42 - Foreign, most of the Canadian and the foreign military contracts aren't there yet, but you know, they're going there. There. 
+
+Matt Q - 5:49 - By. 
+
+Matthew Quinlan - 5:49 - Virtue of doing this, then you've got the umbrella over. 
+
+Matt Q - 5:53 - All 
+
+Matthew Quinlan - 5:55 - Of your potential customers' customers. 
+
+Jack O'Connor - 5:59 - Gotcha. Yeah. And I'm sorry, was it Warren? 
+
+Matthew Quinlan - 6:03 - L O R N E. 
+
+Jack O'Connor - 6:04 - So, Lauren, what was the company name for your company? 
+
+Matthew Quinlan - 6:10 - It's RPX Industries. 
+
+Jack O'Connor - 6:13 - Got you. Yeah. 
+
+Jack O'Connor - 6:17 - And. So are you guys like, currently on contracts and handling CUI and things like that? 
+
+Matthew Quinlan - 6:23 - Yeah. So it's been a sort of a, I don't, I sort of don't have contracts that go out three, 4 years or whatever, but it's just sort of the business comes as it sort of, as the contracts are awarded to my customer. Yeah. And they flow down to me as required to build their vehicles. Vehicles. Most of the drawings are now, sort of CUI that come to me, so that's sort of where I run into a lot of the issue is that the drawings are controlled. And. That's where I need to be covered by CMMC. 
+
+Jack O'Connor - 6:59 - Too. Gotcha. What, does it look like right now when you handle that CUI? Are you just receiving it on email or from like a portal or something? Like 
+
+Matthew Quinlan - 7:09 - That? Yeah, so I get a link to my email and then it shoots me to another portal with like a two, they send 2 emails, one with a drawing link and one with a password. And. Then I click on the link that sends me to a portal, I enter the password and my email address, and then it opens up the drawings for me. I download them from there. 
+
+Jack O'Connor - 7:30 - Got it. And you're just, I assume you're just storing them locally on your device? 
+
+Matthew Quinlan - 7:34 - Yeah, I just, yeah, I just just, I just, keep them in a downloaded, sort of file. I'm really, really basic, right? Now. I don't have any technical knowledge whatsoever. 
+
+Jack O'Connor - 7:46 - Gotcha. No worries. And what are you guys using for, I guess, commercial? Are you guys on 0365 or something like that? 
+
+Matthew Quinlan - 7:55 - So, Lauren's not super... I somehow lost you there. Oh, you're back. I. So what I got and this is how technically like when it comes to this, stuff, how naive I am. I just use my email, providers, Yahoo, mail that's all I'm doing. And, I know that probably doesn't cut it anymore, but nobody's told me anything different up until sort of having going down this road, right? So it's just what I've used. I do finally have a domain like at rpxindustries.com. Matt actually, sort of helped me get that up and going. Going. Yeah, I think it's through Outlook, Matt. Yeah, so we have Outlook, like I mean, I use Outlook every 
+
+Matt Q - 8:35 - Day. So even. 
+
+Matthew Quinlan - 8:37 - After this call, I've mentioned to Lauren before we called you, Jack, that we'll get all of his email folded in under Outlook, because I think it makes a lot of sense anyway. And then and then I know that your software works very, very well inside that space. 
+
+Jack O'Connor - 8:50 - Yeah, that's why I was asking. And. Do you mean like get get it get him set up in like that Outlook view or actually be be and Sanya, PreVeil, able to get that out of a the way. LLC, subscribed? O365? Yeah, 
+
+Matthew Quinlan - 9:01 - Subscribed. O365. I think he already does actually. Because when I set up the domain, it was only about 6 months. 
+
+Matt Q - 9:08 - Ago. Lauren's been in business. 
+
+Matthew Quinlan - 9:09 - Doing this for 28 years. It's not a new thing, the business I mean, but what is new is these requirements to kind of funnel you into 365 and the customer demanded that they have a domain website email address. And. So we set that up. Maybe 6 months ago. And if memory serves, part of that service. 
+
+Matt Q - 9:34 - Is the 
+
+Matthew Quinlan - 9:35 - 365. Now, correct me if I'm wrong, Jack, but I can add additional emails into that, can I not? Additional inboxes. 
+
+Jack O'Connor - 9:43 - Yeah, you should be able to. Yep. 
+
+Matt Q - 9:46 - So 
+
+Jack O'Connor - 9:47 - Yeah, and I guess I'll show you what PreVeil kind of looks like in that instance, if that's kind of the plan pretty soon. So essentially, the idea of PreVeil, and Matt, it sounds like you already have a decent idea of what we're doing here, but essentially the idea of it is giving you a place to handle this CUI data in a compliant way. So right now your commercial O365 or commercial email and your commercial storage would not be up to the compliance. Standard to be able to host that CUI data. So now PreVeil will just be that environment for all of that information and your commercial setup can still just be maintained for any other data. Essentially, this PreVeil view that I've got on my right is my PreVeil inbox. So it'll act like a pretty standard email inbox to be able to send and receive. Now, I mean, it sounds like you aren't doing too much sending in receiving because you're just kind of going through the portal. But I guess, are you sending through, are you sending to like, subcontractors once you've downloaded that information? 
+
+Matthew Quinlan - 10:54 - Yeah, I'd say it happens not too often, probably maybe maybe 3 or 4 times a year, maybe at this stage. Now that may change as more people have to start adopting this and they start being a little more diligent of that. Stuff. I haven't had to do it too often, but it does happen. But what I've been doing, I've just been, because when I get the drawing, it tells me I can't send it basically unless it's encrypted. And I just go into some, I forget what I use, but I just do some basic encrypting. 
+
+Matthew Quinlan - 11:32 - Sort of thing. I said my potential supplier I just sent them the drawing and they have to open it with a password. So that's what I've been, sort of doing. 
+
+Jack O'Connor - 11:44 - Yeah, so it would essentially be the same sort of idea. So in PreVeil, when you do have to do those sendings, you just compose a message, like a regular email, attach a link or file to that CUI that needs to be sent. And when I'm putting in their commercial email address, essentially what's happening on their end is that they're receiving an invite into that secure. 
+
+Jack O'Connor - 12:06 - Security. PreVeil portal. So in that portal, they would set up a password and be able to access the information I've sent them in a secure. Way. So again, kind of replacing your commercial email just for that CUI side of things. And then you'd also have your drive here to be able to store all of that information. Now, before I jump into the drive side of things, on my left here, I've got my Outlook set up. And this top mailbox. That's just my commercial regular mailbox. So that'll act as it normally does with PreVeil and I'll be able to send and receive anything that doesn't need to be encrypted, but then I'll also have the option of plugging PreVeil right in. So this is kind of my second. 
+
+Jack O'Connor - 12:49 - Inbox, but this is all my encrypted data. So I'm viewing all of the same messages as I'm seeing in my PreVeil view as well. So kind of the point of it is just for easier. Each workflow. I'll just be able to see both my encrypted and commercial messages side by side. But if you wanted to do just commercial out of Outlook, and then just encrypted out of PreVeil, that's a perfectly viable option as well. 
+
+Jack O'Connor - 13:16 - Any questions at this point? 
+
+Matt Q - 13:19 - Yeah, sorry. So, Jack, with regards to this, just with the implementation. 
+
+Matthew Quinlan - 13:23 - Of this, and the proper handling of this, 
+
+Matt Q - 13:27 - How close. Does that alone get you? 
+
+Jack O'Connor - 13:31 - To CMMC? 
+
+Matt Q - 13:34 - Yeah. 
+
+Jack O'Connor - 13:35 - Yeah, so out of the box, PreVeil is supporting 102 out of 110 of those NIST. Controls. That also includes PreVeil's documentation package as well. So, I mean, there is still work to be done on the documentation side of things, but you'll get a pretty good amount of the way there. 
+
+Matthew Quinlan - 13:54 - I, Yeah, I yeah, we just got some music being piped in here. So we're gonna try to get that up. 
+
+Jack O'Connor - 14:00 - Oh, no, worries. 
+
+Matthew Quinlan - 14:01 - Yeah, so like I just have, nobody else has access, like I sort of had to go to, I had to go through a bit of a process, just to do like a self assessment. Yeah. I engaged with somebody in the local area and they gave me like, after back and forth, they gave me like a score of 102. 002. Okay. And it was like, they did all this remotely. And I'm sort of like, I have no idea. Honestly, how they got to that. I think not. Knowing anything about it, 90% of it was probably because like, I'm literally the only person that has access to it. Right. I remember him going through that checklist of the the thing and he's just going 
+
+Matthew Quinlan - 14:40 - Not applicable what I mean? Yeah. I think that was a big part of it. So I don't know how close, I am to getting to what I need. What. Do you need? 110? Is it? 110? Yeah. I don't know how far. I have such a basic setup. I don't know if I need to buy... I'm running old, Windows, 10 or something. Are there security issues I have to worry to make sure I'm... Or do I need to be at Windows 11 or whatever the latest greatest is or something? 
+
+Jack O'Connor - 15:16 - They're certainly not the latest and greatest. I mean, there are things like endpoint controls that you'll need to have on your device. And. This may be something to, I guess, bring up when you guys are looking for which Outlook subscription to go with, because a lot of the times those are included. So having things like anti, virus, anti malware, vulnerability scanning on the device, those are a lot of the times included in like an O365 license. So it may just be easier to go with that license. 
+
+Jack O'Connor - 15:47 - That's including all of those. Of course, if you don't already have something like that in place. But I mean, those are that's really like the main prerequisites for a device that's handling CUI. Otherwise, as long as everything's in PreVeil, the idea of it is you're going to be pretty much covered. 
+
+Matthew Quinlan - 16:07 - And what and the like, I really I just literally have one computer at the office and then I do a lot of people I do stuff from home. Does that complicate it at all by having a single computer at home accessing and one at the office? No, 
+
+Jack O'Connor - 16:22 - I mean, it doesn't necessarily complicate things. You would just have to have the endpoint controls on both devices. So, So, I I mean, mean, it's up to you. If you do have it's a device where you're doing more CUI work, I might encourage you to just have the endpoint controls on both devices. Up to you. If you do have a device where you're doing more CUI work, I might encourage you to just just maintain it on a single device. But. If you really wanted it on both devices, it's absolutely possible. 
+
+Matthew Quinlan - 16:44 - Okay. And what is the gap then, Jack? PreVeil out of the box is 102, so RPX subscribes to PreVeil after this phone call today. And to Lauren's point, he was told he's 102, but PreVeil comes as kind of certified to 102, and if you will. How do you close? 
+
+Jack O'Connor - 17:20 - CMMC, and this is all tailored out to the PreVeil system as well. It's fit for this fictional company, Acme, who is a PreVeil customer in this fictitious scenario, who's using PreVeil for a CMFC level, 2 compliance. So essentially, you'd obviously need to fill out the specifics of your company, devices being used, users who are handling CUI, company name, and things like that. But all of the CUI workflows and PreVeil. PreVeil's information is already completed in there. And. Then the gap from that 102 to 110 is primarily physical controls. So. That would be things like the proper locks on doors, locks on file cabinets when you need it, employee trainings, which would be pretty simple with just a single user. So a lot of those are going to be pretty straightforward for just the single user organization. 
+
+Matthew Quinlan - 18:23 - Yeah. I think like, I had to do a, I don't have it with me, but I had to do, I remember doing some kind of like a security plan to get to that 102. So is, would that, the one that I sort of had done, can I sort of, would it need to sort of be reformatted or could I work from that to sort of work within the scope of PreVeil or could I just leave it as is or what would I sort of do with that? Yeah, 
+
+Jack O'Connor - 18:52 - So it would definitely still, it would need work because now in this new scenario where you're using PreVeil, PreVeil would now be a part of your CMMC scope. So it would need revising, but I guess the easy thing is that you can just take the parts that we have and put them into the parts that you already have. So kind of just merge those documents. But you can absolutely still use that system security plan for anything that already have completed and that isn't pertaining to PreVeil. 
+
+Matthew Quinlan - 19:22 - Right, okay. And. So when we were on with Sanya, Jack, she talked about onboarding. 
+
+Jack O'Connor - 19:29 - And. 
+
+Matthew Quinlan - 19:30 - So obviously, okay, let's just say my company was obviously already existing in the Microsoft. World. How is onboarding completed? 
+
+Jack O'Connor - 19:42 - Yeah, it's pretty straightforward. So essentially, it's just about an hour long. Onboarding session. We'll schedule with you with our support team, they'll help you get everything installed, get you trained on PreVeil, even help migrate any CUI into PreVeil that you'd like in there. And then you're up and running. So it's pretty straightforward. 
+
+Matt Q - 20:04 - Okay, and you've 
+
+Matthew Quinlan - 20:07 - Kind of heard our scenario. What is, I mean, mean, with Lauren being somebody that isn't well read on this, is there somebody that you recommend? Is that a conflict of interest? Somebody that can take all the documentation that you just scroll through with the screen you're showing us right now and help us finish that? 
+
+Matthew Quinlan - 20:35 - And then also say, hey, here are the 8 things you have to do. Lock cabinets and all the very basic manual things to get us to 110. And, is that person then aligned with one of the C3 PAO assessors? And? So take us through the timing. So we're going to onboard next week. Okay, and then go from there. 
+
+Jack O'Connor - 20:59 - Yeah, so I mean say you were on board next week, I mean obviously, we could get you in touch with someone to do the documentation if you wanted. No, part of it. And essentially they could just do the documentation for you, complete. 
+
+Jack O'Connor - 21:14 - It. We have partners who are very familiar with PreVeil and familiar with our documentation, so they would kind of just be able to have a conversation with you surrounding what kind of setup you're using, so they know what to put in the documentation. Typically, I mean, obviously, it'll depend on partner to partner in terms of timeline on how quickly they can get that fully done for you. So, I mean, I can't really speak too much on that, but that would be kind of a separate transaction from PreVeil. And then there would be another separate transaction to actually get that final assessment. There. So it's kind of a, I guess. It kind of depends on if you wanted it all in one to be a consultant and assessor or something something a little bit separate. 
+
+Jack O'Connor - 22:14 - That checks out. 
+
+Matthew Quinlan - 23:29 - Jack? Hey, Matt. Sorry, yeah, we're back. We lost the internet there for a second, so I apologize for 
+
+Jack O'Connor - 23:34 - That. No problem. 
+
+Matt Q - 23:35 - Last thing we heard from you was we put you in touch with the person that was doing the paper, who could help us with the paperwork if we decided to go that route, and then we lost Jack. 
+
+Jack O'Connor - 23:45 - Okay, gotcha. Yeah, it's funny. Guys were, I was like, man, they are really focused. They're not even moving, right? Now. 
+
+Matthew Quinlan - 23:52 - And 
+
+Jack O'Connor - 23:55 - Then I realized, I was like, I don't know if I have them anymore. All right. But I'm glad you guys are back now. So, yeah, essentially, we have plenty of partners who are familiar with our documentation, our platform, so we can point you in their direction and they can do the all the writing that they need to for you. It'll depend partner to partner on how long that takes and probably price wise, obviously. So that's kind of a separate transaction from the PreVeil transaction. And. We do have plenty of partners who can do kind of the documentation and the final assessment as well. I mean, some of them may not want to as that might be a conflict of interest. 
+
+Jack O'Connor - 24:40 - But in that event we have completely separate assessors who are partnered with us as well. I mean, typically, I think an average timeline for everything is 5 to 6 months, just to give yourself. Some time. And that would kind of cover getting PreVeil in place. Again, theoretically, if this was next week, getting PreVeil in place to completing documentation and getting to a final Okay. 
+
+Matt Q - 25:09 - Yeah, and again, I mean, again, I know you've had lots of small organizations, you've had none smaller than this, which I think would simplify, and I talked to a couple of people that had 4 and 5 CUI users, and I guess Jamie's not going to be here in time for the meeting, we'll set up a separate meeting, it'd be great if it was with you, but I think they're in the, and I did get the costing of course, PreVeil is not making a lot of money off on somebody, like RPX because it goes by the user and your license, right? So it's really only the only recurring cost is $58. Do about that end of the business at all? 
+
+Jack O'Connor - 25:47 - Yeah. Do you mean like just the pricing? 
+
+Matt Q - 25:50 - Yeah. So, I mean, one of the things that I kind of heard was quite surprised quite frankly, by that is that it was a 12 month contract. Can it be a longer contract? Of 
+
+Jack O'Connor - 26:00 - Course, yeah, we're happy to do longer. Longer. I mean, that's a great way to obviously kind of lock in your price as well. 
+
+Matt Q - 26:08 - Okay. I'm going to go grab Jamie, if I could just have you hold for a second. He did just drive. Sure thing. 
+
+Jack O'Connor - 26:15 - No problem at all. 
+
+Matthew Quinlan - 26:22 - So, Jack, so with my particular situation, 
+
+Jack O'Connor - 26:27 - Lauren, I think I lost you there again. 
+
+Jack O'Connor - 27:07 - You back? Yep, I'm back now. It? 
+
+Matthew Quinlan - 27:09 - Just dropped out and came back by itself. It's because it's on my hotspot and my phone's in my pocket. 
+
+Jack O'Connor - 27:16 - Oh my gosh, no, worries. 
+
+Matthew Quinlan - 27:17 - Yeah, so basically I was just asking, do you think I could sort of, because I'm such a small and it's lean sort of organization, if you want to call it, you think I can get that down to say 3 months or something? 
+
+Jack O'Connor - 27:31 - A 100%. Yeah. I mean, again, it'll depend on the partner that you're working with and how quickly they can get that documentation done. But yeah, I mean, the documentation is the bulk of the work. So I mean, if you tell them, hey, this is a priority, I want this done in 3 months, and I'm sure we can find someone who more. Can do that for you. 
+
+Matt Q - 27:54 - Okay. Yeah, I noticed on your partner list there, Jack to your point, some have the C3PAO designation as well as several other designations. I mean, my next step is to call, well, talk to Lauren and see whether or not he wants to tackle the documentation by himself. 
+
+Matt Q - 28:14 - Because the answer on that is no. Or find somebody here locally that is just at a school that knows this documentation and can fill that out. You have the document like, well, you've opened some of these files, right? And in this case, the only difference would be it's pre populated with some of the PreVeil information because that's the system that potentially we would be using. 
+
+Jack O'Connor - 28:42 - Right. 
+
+Matt Q - 28:43 - Yeah, okay. Okay. And. So I talked to somebody that, obviously the recurring costs are the recurring costs, but I've spoken to some people that really got there quite inexpensively. And. So that's really, I talked to 2 in person, one I knew and one I was referred to by our end customer in Denmark, actually. And they really thought it really alleviated. 
+
+Matt Q - 29:15 - A lot of the pain. So I think that was the purpose of the day. And. So Jamie's situation is a little bit different. So. Is it fair to say that a lot of organizations struggle from 102 to 110? 
+
+Jack O'Connor - 29:30 - Honestly, I don't think so, no. I think the physical controls are fairly easy. I would say the bulk of the difficulty is in the documentation. Typically, there's 2 routes you can take with the documentation. You either do the work yourself and spend the time to do that documentation yourself, or you spend the money to have someone else do it for you. So I mean, obviously, for those that kind of just do it themselves, that's the more difficult part is just spending the time and making sure you're completing that. 
+
+Matthew Quinlan - 30:12 - Do you think so the fact that I got to 102, do you think I can sort of piggyback off the work that's already been done? That I spent 10 or 12,000 to sort of get to where I was? Do you think I could piggyback off what they've done to get me or is it sort of like starting right from square one and going through each of those protocols and having to redo everything again? No, 
+
+Jack O'Connor - 30:36 - Definitely not. Again, for parts that PreVeil is involved. In, you would have to edit those and make sure that PreVeil is involved in that security plan. But no, plenty of those should just be able to be used as is, as they've been written. So no, you definitely wouldn't need to start from scratch. 
+
+Matt Q - 30:58 - And but just to go back to an earlier earlier point you made, Jack if we were new, we didn't we hadn't even ever looked at cybersecurity requirements, before. Yeah. Subscribe to your service. We're 102 out of the box. 
+
+Jack O'Connor - 31:11 - Well, again, there's work to be done in the documentation. I mean, that 102. That's what the one. 
+
+Matt Q - 31:17 - Right. Right. That. 
+
+Matthew Quinlan - 31:18 - Would include the security plan and all 
+
+Jack O'Connor - 31:22 - That stuff. Right. So, I mean, broken down, essentially, Essentially, the system of PreVeil is covering directly 37. Out of those 110 controls. An additional 65 of them are shared. Controls. And. That's the documentation. So that's where PreVeil is covering a part. And then you as the customer would need to cover a part. So those are things where there is work to be done. You need to do something to complete the rest of those 65. But then that 65 and that 37 is bringing us to 102. Okay, so 
+
+Matt Q - 32:00 - My calls on behalf of RPX, my client, next week or this week, I guess it's only Tuesday, will be to call some of the partners and maybe also some people here. Maybe first start with some of those that have the C3 PAO and whether they would take us cradle to grave. Sure. And but to kind of describe and say, okay, listen, assuming we implement the PreVeil platform, we have a one user, one person company here. Do what Jack's doing and tell me, okay, how long is it going to take you to fill out the balance of the paperwork on our behalf? What's that going to cost us? And then in addition to that so that we can hand, if you're certified to that level, level, you're going to give me some kind of certificate at a company level that says you're good to go that we can show our customer. Right. So our next call, while Sanya really told us the cost of implementing your system, which is really quite simple, the next point is the documentation portion will get a cost on that. And then the last thing is that maybe that same 
+
+Matt Q - 33:12 - Person would say, okay, make sure you've and maybe Lauren already knows them, make sure you've got these physical controls in place. 
+
+Jack O'Connor - 33:21 - Yep. And, and I mean, so just to show you, give you some more visibility as well. This would be included with what you're purchasing with the PreVeil documentation as well. So you'd have this kind of knowledge and base here that's essentially showing you. 
+
+Jack O'Connor - 33:42 - I'm not sure why I have a full guide to doing this. Sort of thing. So putting in your antivirus, anti malware, you've got our recommendation for things like that, vulnerability scanning, and essentially you'd have this document to kind of guide you through implementing those sorts of things. Now, this also goes further into scoping your boundary, doing a self assessment, doing that documentation. So there is further guidance than just we're not throwing you documents and just saying good luck. 
+
+Jack O'Connor - 34:22 - So you'll have that. And additionally, I'll show you, kind of what the full pricing looks like here. 
+
+Jack O'Connor - 34:36 - Per month, per user for just the encryption and drive. But obviously, you would be the single admin making that $58 a month. Now, this is that charge for the documentation and guidance. So this would be kind of your total price there for the year for PreVeil. And then on top of that, obviously, would be the separate transaction of having someone complete that documentation. 
+
+Matt Q - 35:04 - Okay, so let's call it $5,000 a year. Yeah, so quite frankly, that's fine. We see that and I'm glad you brought that. Up. We weren't aware. It makes sense, quite frankly, but we knew about the $600 and we knew about the total fee on the others. We did not know about the 30s and that's recurring. Every year. So we started a to 3 year, it would be $5,000 a year. 
+
+Jack O'Connor - 35:34 - Right. And I mean, so honestly, full transparency, that doesn't need to be reoccurring. So like, essentially what you've purchased here in year. One is the documentation and that knowledge base. If you were to drop that in year. Two, you're dropping. The knowledge base. The documents that you've purchased are still yours to keep. So, I mean, that doesn't necessarily need to be reoccurring for you. 
+
+Matt Q - 35:59 - Okay. 
+
+Matthew Quinlan - 36:00 - Yeah. So, you need to do that knowledge base for a minimum 12 months at 300 per, right? 
+
+Jack O'Connor - 36:09 - I mean, yeah, exactly. Or. 
+
+Matthew Quinlan - 36:11 - Can you drop that at any time? Or do you need to do it for the duration of that one year contract? Right. 
+
+Jack O'Connor - 36:20 - So, yeah. So, it would need to be for at least the duration of the contract. Right. Right. Okay, 
+
+Matt Q - 36:25 - Yeah. And we're not holding you to this at all, Jack, but what do you think that back end is given this particular scenario, one person, one CUI user? I don't know how well or how closely you work with your partners, but is that another 10 grand? Is that another 15 grand? 
+
+Jack O'Connor - 36:45 - Again, I think it depends. I do have certain partners that I know know work with specifically with smaller and medium sized. Businesses. And I've seen it can be anywhere from like 4000 to 10,000. So, I mean, there are folks who are familiar with the PreVeil documentation, who can get it done for you. Again, I think it'll depend on what exactly you want for a timeline and things like that. But it's doesn't necessarily need to be another 15,000. Okay, 
+
+Matt Q - 37:21 - Good. That's great. I think that's good for now. I see that this is being recorded, Jack. Yeah. Yeah, and I know. Obviously we had a couple little breaks in there, but is it possible to maybe we don't have to have another call. Never mind. We'll just set up another call with you, Amy. Is it possible to request? 
+
+Jack O'Connor - 37:45 - I'm I'm happy to send you that recording. But yeah, I'm also happy to set up an additional call for Jamie as well. 
+
+Matt Q - 37:52 - Okay, so I've got your email address. Let me do this. I'm having lunch with Jamie. He's going to join me. He's supposed to be here for this, but he's going to join me for lunch. And I'll find out what his schedule is and then I'll send you an email and give you a couple of times and see if you hopefully have an opening. There. This was very commonsensical. And an it idea sounds a lot less scary than I thought it was before we had the call last week. This was a follow on and more informative, of course, but essentially at the end of the day, the prime ends up paying because it's just a cost to do a business. 
+
+Jack O'Connor - 38:30 - Right, exactly. That. Sounds great. I can send you some follow up as well with a the link to the recording and things like that. Lauren, if you wanted to be included, do you want to give me your email address and I can loop you in as well? 
+
+Matt Q - 38:50 - I'll send you an email address and I'll copy. Lauren. How's that? That. Sounds great. I know how to both of us. And then, yeah I said, you'll see that probably tomorrow for me, Jack. 
+
+Jack O'Connor - 39:02 - Yeah, and then just let me know what works for Jamie and we can go from there. That. 
+
+Matt Q - 39:07 - And, is it a conflict for you to recommend partners or because you have several of them? 
+
+Jack O'Connor - 39:12 - No, definitely not. I'm happy to. 
+
+Matt Q - 39:15 - If you have somebody hearing our story that you might recommend that ideally working out of their house kind of thing, that's 
+
+Matthew Quinlan - 39:22 - Great. Yeah, knowing specifically to me. That's sort of got my situation. If somebody is geared towards a smaller single person person or smaller organizations. That's probably my best avenue, I'd imagine. 
+
+Jack O'Connor - 39:39 - Of course. Yeah, I'd be happy. To. I actually have one in mind that I recommended to someone else the other day, and I know she works very well with smaller businesses, so I'm happy to. 
+
+Matt Q - 39:50 - That's great. I do see a partner on there that I'm surprised you're partnered. With. Would you like to know that or not? 
+
+Jack O'Connor - 39:59 - Sure. 
+
+Matt Q - 40:00 - There's a gentleman I used to work with that is like all over the place. Yeah. He's gotten into this. His name is, and his company is also called, it's called Pat. Cowling, Patrick, Cowling. Oh, yeah, yeah. Yeah. Yeah. 
+
+Jack O'Connor - 40:14 - I'm familiar with the name. Yeah, 
+
+Matt Q - 40:16 - Yeah. Anyway, that's all. That's just a passive comment. Listen, I wanted to really thank you. I may have a great list of people to have such discussions with. 
+
+Jack O'Connor - 40:27 - Gotcha. Gotcha. And? 
+
+Matt Q - 40:29 - Can you tell me what is small to medium? what would you say is the top end of medium as far as CUI users? 
+
+Jack O'Connor - 40:37 - Yeah, I mean, I'd say, in terms of CUI. Users, 30 to 50. I mean, there's really it depends. Just because obviously on the smallest scale we'll we were... Work with a single user, right? So medium. Then I guess becomes a little bit smaller as well. But yeah, whatever you got, we're happy to have the conversation. 
+
+Matt Q - 41:06 - Okay, is it fair to say if I have an IT guy working with me that's struggling for this and he's not aware of PreVeil? you talked about the controls with kind of, if you will, the deluxe plan of Microsoft 365 365 with your endpoint controls. And so on. Let's say you subscribe to that, what you're recommending there in that last piece of documentation you showed us. You subscribe to that. 
+
+Matt Q - 41:34 - And you are also subscribing to PreVeil in parallel. Like I know, one of my clients is changing servers and changing a whole bunch of hardware. Hardware. They maybe have 10 CUI users or 10 people accessing the data. From. What you've been telling me, is that almost obviously overkill or is there times where you have to do that too? 
+
+Jack O'Connor - 42:03 - There are times where you do have to. I. Do think that a lot of other companies and other solutions push overkill. So. I do think that a lot of other companies want YouTube believe that you need to do. Overkill. And they'll push you that $50,000 solution and make you do all of that. Sort of stuff. So, I mean, that could very well be the situation with your client. It could be a situation where PreVeil would be able to fix all of their problems for 5 times less the cost. It could also be that they actually do need to do that sort of thing. Just because of the complexity of their system. 
+
+Matt Q - 42:45 - Yeah, okay. Thanks. That'll be mainly what Jamie wants to talk to you about. So I'm not going to steal his thunder. Again, appreciate your time today. 
+
+Jack O'Connor - 42:53 - Yeah, no, I. Appreciate it as well. I guess, Matt, something to put on your radar is we do have a partner program that's just about referrals. So if you know, essentially what it would be is that you could just refer people to us and you'd kickback if you're interested. Yeah. I'm always 
+
+Matt Q - 43:13 - Interested in the kickbacks. This guy knows that. 
+
+Jack O'Connor - 43:17 - If, you've got a whole list of people who are going down this. Way, it might be worth it for you. 
+
+Matthew Quinlan - 43:24 - Yeah, absolutely. Okay. Thanks. So much. If you want to put somebody on that to explain that to me, we won't do it on this call. If you're one of the subject matter experts on that. But yeah, I'd like to talk to somebody about that because I'm talking maybe 30 companies or something. 
+
+Jack O'Connor - 43:37 - That. Yeah, I'll send you over the agreement and you can look it over if you'd like. 
+
+Matthew Quinlan - 43:42 - Yeah, that'd be great. Thanks, Jack. 
+
+Jack O'Connor - 43:43 - Awesome. Yeah, no worries. Guys, I appreciate the time. Have a great rest of the day. 
+
+Matthew Quinlan - 43:48 - You too. Thanks. Bye now. 
+
+===================================================================================
+
+END OF TRANSCRIPT
