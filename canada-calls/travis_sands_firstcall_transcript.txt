@@ -1,0 +1,301 @@
+Transcript
+Date: May 14, 2026
+Conversation: CPCSC Webinar Planning — Partner Call
+Speakers:
+  - Orlee Berlove | Senior Director of Marketing | PreVeil
+  - Dan Martel | Partner Marketing Manager | PreVeil
+  - Travis Sands | Partner | FirstCall (C3PAO; based in Georgia)
+
+===================================================================================
+
+0:01 - orlee berlove
+that I spoke to back in April, but they are trying to do CMMC in Canada now, not necessarily trying to do CPCSC yet. And I think it's still very new in terms of the companies that are trying to do CPCSC. There are a lot of them, and I don't think any, none of them have turned to prevail, nor should they, because we don't really have Yeah.
+
+0:30 - dan martel
+Sorry, when you thought about that, that could be a good extra section in here to somewhere is like, what are Canadian contractors doing today? I think that's an important. I think that's important to look at. I know I was on one of those calls. You've been on a couple of them. It seems like people are like very much so all over the place. In realizing that they're very separate today and that they're like, a lot of them are backing up and just going the U.S. Route while they wait for this other stuff to figure out. But they know that there's a lot of headaches and things that are coming from it. And as much as we can give that like real time, here's not only what the rules look like now, but here's everything else. I think that'll be valuable. Hey, Travis.
+
+1:21 - orlee berlove
+I mean, we could also maybe have like margarita on here, right? Travis, someone like him.
+
+1:25 - dan martel
+Yeah, absolutely. How's it going, Travis?
+
+1:31 - travis sands
+Pretty good. Pretty good. How about you two? Good.
+
+1:35 - orlee berlove
+I feel like I'm talking to you every day lately.
+
+1:37 - travis sands
+It's good.
+
+1:39 - travis sands
+Let's keep it up.
+
+1:41 - orlee berlove
+You look like you are about 20 feet away. You look awfully small in this picture.
+
+1:49 - travis sands
+I do?
+
+1:52 - travis sands
+Oh gosh, I had a, I've been having some computer issues and have to go house sit today. So might be a little off.
+
+2:05 - orlee berlove
+All right. We can hear you great. Which is, yeah. How are things in the great state of Georgia? That's where you are, right?
+
+2:14 - travis sands
+Yep, yep. Good, good. And then next week I'll be in Tampa for Special Operations Forces week. I'm not sure if anyone from the prevail team is going to be there.
+
+2:25 - dan martel
+No, we looked at that event. But it looked like it was just massive in the amount of spend we would have to put into it to like, be seen there. So I think we like to have a booth anywhere we go, we decided that we didn't think it was going to be worth it. But we've heard a few partners that are going. So as you're kind of there walking around, let us know what you think afterwards. And if you think it was a missed opportunity or something we should consider looking at a little again next year.
+
+2:53 - travis sands
+Yeah, I've been there three or four years in a row now. I never, we never have a booth there. Just walk around, meet with clients, partners, things like that. I know there's a couple different C3PAOs in Tampa, at least one. So yeah, I know Tampa's a good hub.
+
+3:21 - dan martel
+Yeah, I feel like actually, and I think about it, every partner that I've heard from is a C3PAO that has asked me if I'm going to it. So that makes sense.
+
+3:30 - orlee berlove
+That seems to be our best source of what events to go to, ones that we should have gone to the year before, but didn't.
+
+3:41 - orlee berlove
+All right. So Travis, do you mind if I just ask you one or two questions? Because that's going to kind of clarify a couple things about the kind of little slide outline or a little outline for discussion here. So for AWS today, if you're looking to meet CPCSC today, right, your options are pretty much doing it on prem, right, if you want to manage it on your own today, or has anyone been saying, well, let me try for the interim to put it on AWS Canada, which has like their version of FedRAMP on it? Do you know the answer to that?
+
+4:23 - travis sands
+You know, most of the organizations that we work with in Canada, we have not been dealing with AWS for them. We've been helping them with Microsoft. I think I had sent over to you orally a couple of different settings and different things for Microsoft's secure cloud in Canada to help organizations with CPCSC.
+
+4:49 - orlee berlove
+Yes, AWS is pretty much the same thing. They have their own flavor. Just because of who we are, we're big with AWS here in the US. We will probably continue to work with AWS in Canada. So I guess we can use those kind of interchangeably. That the Microsoft Cloud and the AWS Cloud, but you've essentially been telling them if you want to do CPCSC, store it in Microsoft Canada, which seems to be okay for now. They don't necessarily have data residency requirements for that, or what are the requirements for storing data there?
+
+5:30 - travis sands
+For controlled goods data?
+
+5:35 - orlee berlove
+No, for their not control goods. Control goods is essentially ITAR. And I'm thinking of what is essentially their CUI. I think it's like integrated. I forget the initials for it. It's like SI or something like that.
+
+5:50 - travis sands
+Yeah. So what we have been doing is segregating CUI and US ITAR data into Prevail, obviously AWS GovCloud, and then helping them implement Microsoft, the prevail recommended baseline, of course, plus those additional controls for CPCSC, and their Canadian, the Canadian version of CUI. I normally say it as controlled goods, but I think there is another term for it as well.
+
+6:25 - orlee berlove
+Yeah, give me one second. I'll find it. I've been as I told you, geeking out on this stuff, trying to get all my terms. Right, it's called specified information. Right, it's the Canadian government term used in CPCSC for a sensitive unclassified information equivalent to US CUI.
+
+6:46 - travis sands
+Yep, exactly. So yeah, and using the Microsoft commercial plus those extra configurations that I had sent over in order to help make sure that SI and controlled goods stays within the Microsoft Canada Cloud.
+
+7:14 - orlee berlove
+Unfortunately, you can't store CUI in Canada due to FedRAMP is my understanding, correct?
+
+7:21 - travis sands
+I'm sorry, can you repeat that?
+
+7:22 - orlee berlove
+You can't store US CUI in Canada due to FedRAMP. Is that the reason?
+
+7:34 - travis sands
+So ITAR and other information that requires FedRAMP high, I know cannot be stored within Canada. For basic CUI, I would also want to say no, that it's not able to be stored in Canada as well. Just to be safe. And especially if we're doing a webinar on stuff like this, it's a little bit easier to just make that clear distinction.
+
+8:04 - orlee berlove
+Right. But it's due to FedRAMP. I was trying to figure out what specifically says you can't. And I think it was what I got to was FedRAMP. And people say, well, why can't we use GCC High in Canada? The answer is, from what I understand, for GCC High, you have to have SAM codes and other particular codes that are only given to companies with US addresses. Is that your understanding as well? For why you can't use GCC High in Canada?
+
+8:44 - travis sands
+Yeah, so the main reason that we have found is because Canadian organizations, unless you have a US mailing address, you're not able to be approved for GCC or GCC High licensing.
+
+8:59 - orlee berlove
+Right. But I guess the question goes one step further. Why is that so? And so what I was looking at earlier was just trying to find out what the reason was. And it seems like in order to get the CAGE codes and the SAM codes, you need to have a US address. Those are required by GCC High, which are required by GCC High, not necessarily anyone else, but...
+
+9:31 - travis sands
+Yeah, I haven't done that level of research into exactly why Microsoft doesn't approve of that. And when it comes down to cage codes, UEIs, things like that, run into, you know, it's a pretty big hurdle when, you know, you're a Canadian organization, you apply for GCC, GCC High, and you have, you know, US contractors and these US defense contracts, you submit that, but just because they don't have that US mailing address, I think it's more of a Microsoft hurdle from what I understand, but yeah, yeah, it's Microsoft.
+
+10:14 - orlee berlove
+It's not nothing like legitimate or that it is Microsoft's rules. I mean, those are not prevail rules. That is Microsoft's rules in the way they play their game differently.
+
+10:25 - travis sands
+Yep, yeah.
+
+10:27 - orlee berlove
+Alright, so part of the challenge is I don't know if we could. If Randy and Sanjeev, our CEOs would be comfortable like storing data in soft for CPCSC. In terms of the way you've gone so far, and I'm going to have a call with them, a talk with them later on Tuesday about how we should approach CPCSC because I think it is a big opportunity, but we definitely need to re-architect how we're doing some things. I think this webinar is kind of like a great way to start getting out there with our message. And I just built this as kind of like a discussion outline to help think so we can kind of think about what would be a good way to kind of start doing it. So CPCSC, you know, start off by just defining it. And let me even go back one step. Do you have any customers that we don't know about that are Prevail customers using us for CPCSC?
+
+11:40 - travis sands
+So one in particular right now, they are pursuing both CMMC and CPCSC. And so, yeah, but like I've tried to explain in my emails to you orally, you know, Prevail is CUI US ITAR data and Microsoft commercial is for Canadian controlled goods and SI. That's how we are approaching it right now, unless you guys are able to come up with some sort of awesome new solution for CPCSC.
+
+12:19 - orlee berlove
+All right, no, and maybe that's the way we do it just for the short term, but your customers are so they're using Microsoft servers and Prevail. Okay, that's the way it is for today. That kind of might be what we do in the short term until we have something better because a solution is better than, some solution is better than no solution.
+
+12:47 - travis sands
+Sure, sure. And you know, if we, there's a Venn diagram of organizations do work for the Canadian Ministry of Defense, if I remember their term correctly. And the Canadian organizations that do business with the US Department of Defense, there's not going to be a whole lot of organizations that solely do business with the Canadian Ministry of Defense. There's going to be a lot of overlap, they're going to have a lot of contracts with the US Department of Defense as well.
+
+13:31 - orlee berlove
+Yep. No, I got that. I think you told me that earlier. So just thinking about how a webinar could unfold, you would want to start by talking about what is CPCSC and kind of a lot of the stuff that you and I have talked about. And you've schooled me on, you know, it's for Canadian defense suppliers. It was launched according to my notes in — right now we're just launching out level one and it's built on REV3. Enforcement for level two will begin in the middle of the year. Key points to cover is that CPCSC is not recognized as equivalent to US CMMC. Because Canadian, you know, you need to do this extra work because it's on REV3. I think there needs to be a little bit of explanation about the timeline and expectations moving forward. We were thinking of maybe one of our Canadian partners who, you know, has been a little bit more dealing with a lot of Canadian customers to also maybe talk about this because, you know, she can maybe give the pulse of what's going on with our friends to the north. And just talk about, you know, the time and the expectations. One of the things that I think is key, though, in meeting them together is kind of talking about how you deal with all those things that are key to the delta between Rev2 and Rev3, right? A lot of those kind of advanced threat protections, the APT stuff. Obviously, that's not something that Prevail does. What are the solutions that you've been looking at? Because that'll be key to this.
+
+15:47 - travis sands
+Yeah, definitely. So, you know, before we bridge that gap for REV2 versus REV3, I think it could be a good idea for us to maybe talk about, okay, are you a defense contractor that has both CMMC and CPCSC requirements? What are the steps that you should take in order to achieve both certifications. And I think starting out with CMMC and Rev2 is definitely going to be the best order of operations for most organizations. As CMMC, you know, there's a lot more enforcement on CMMC from prime contractors. And of course, the rollout of CMMC is further along than the Canadian version. And also along with that, meeting the REV2 requirements is going to, of course, be super helpful for organizations in meeting the REV3. I know that was a lot for me to kind of throw out there, so apologies.
+
+17:02 - orlee berlove
+No, I got it. I've been trying to get smart on this for the past couple of weeks and my head is finally beginning to absorb a few of these details. But the key part of Rev3 is it's advanced persistent threat stuff, right? So maybe providing an overview of what a Rev3 is and the delta is?
+
+17:37 - travis sands
+Yeah. Yeah, definitely. I think that's a really good idea to get into maybe after, you know, order of operations once you achieve CMMC with Prevail and, you know, what are the next steps from there and go into the differences between Rev2 and Rev3, along with the key different solutions that they are going to need to implement. If I remember correctly, I think pen testing is required in Rev3. I need to pull up the Rev3. It's been a little while since I read through it. But that's definitely something that I can help out with and make sure we have the bullet and slides for that as well.
+
+18:36 - orlee berlove
+Yep. What have you been telling your Canadian customers who are looking to meet this in terms of solutions? Like Sentinel One, I guess, does some of this stuff.
+
+18:51 - travis sands
+Yeah, so definitely try and stick with the Microsoft suite of products, just like in the Prevail recommended baseline. So I think that's a really good starting point. And from there, add on anything additional on top of that, that is needed. So pentesting is something that we've talked about with them. I know they are either gonna be implementing Sentinel-1 or Huntress. We're going through different, some quotes for that, but they're almost done with the CMMC. And that's really when we're going to turn our attention to REV3 and CPCSC afterward.
+
+19:37 - orlee berlove
+And then that kind of, yeah. So if you were to kind of plop in, granted there's obviously internal work that needs to be done, but in terms of the technical requirements, by dropping in a Huntress or a Sentinel-1, are you able to deal with a lot of the pen testing and APT requirements, technical requirements?
+
+20:02 - travis sands
+Yeah, definitely. And what I'll do is I'll get with my team and get you a more concise list. Or at least we can include that in this presentation.
+
+20:17 - orlee berlove
+Yep. I think this is the next big issue. So, yeah, CPCSC at present does not — does it have a jurisdictional control requirement? It doesn't have one that's been put in stone yet, but one can assume there will be — like when you say well it means that it has to be on Canadian soil, right? It cannot be in the US. You can't like just say because we have Prevail we can store CPCSC data in the US. That comes from the controlled goods data and program. So controlled goods though is ITAR essentially, not SI.
+
+21:15 - travis sands
+Correct.
+
+21:16 - orlee berlove
+So there isn't really anything on SI yet. There's stuff on controlled goods as you're noting, but that's one of the things that my understanding is that will be figured out as the Canadian government rolls out their level two. Is that correct?
+
+21:33 - travis sands
+Yeah, so something you're definitely right, Orlee, that there's a good amount that still needs to be figured out and rolled out with CPCSC program that there's just not a whole lot of good answers on. And maybe your Canadian partner could maybe have a little bit more insight into some of these new — I don't know if there's any specific responses in terms of the rollout.
+
+22:01 - dan martel
+I think my biggest curiosity — and again, you're right that we will look like — but a big Prevail USP that I know that you know about like ITAR, if your data, if you're based in other countries, because of our end-to-end encryption, we meet that carve out that eliminated some of that like data sovereignty requirements, because the way we manage end-to-end encryption. I know that works for companies in other countries that are handling ITAR data. But I'm curious if it'll be written similar way where that'll remain true — like for ITAR data in Canada or their version of it — you could, it's kind of similar, or if they're going to make it separate where it's like no it has to be physically on-prem or on a Canadian base server.
+
+23:11 - travis sands
+Yeah so I mean we are not recommending for any of our Canadian clients to put SI or controlled goods data into Prevail. I don't think that's really where Prevail is going to fit into the solution. If there are organizations that only deal with the Canadian Ministry of Defense and only deal with SI and controlled goods, then Prevail isn't going to be a good solution for them. If we can store data in Canada, why — so if you were able to store data within Canada, then it could be. But I'm just talking about today. Presently, obviously, all the data is stored in AWS GovCloud in the US. So really, where I see Prevail fitting into this ecosystem today is for those organizations that have both controlled goods SI data on the Canada side, and then CUI by ITAR US contracts as well.
+
+24:21 - orlee berlove
+Right, so if we have CPCSC contracts and someone comes to us, maybe I'm just misunderstanding you, Travis. Your point was that if a company has CPCSC contracts, Prevail is not a good solution for them, is what you're saying, if I understood you correctly.
+
+24:43 - travis sands
+If they only have CPCSC requirements, then I don't know why an organization would choose to store their Canadian controlled goods or SI data in Prevail versus just within the commercial Microsoft and putting those controls so that it's able to stay within Canada.
+
+25:07 - orlee berlove
+Right, but Prevail doesn't store data. I mean, we use AWS and we currently have — but the servers are in the US. And we also have servers in Canada, Dan, right? We do have some. Do we use them? I think it's a very small number of cases. I heard this from Eric and from Corey that there are a handful of customers who have asked to store their data in Canada. And so we use AWS Canada.
+
+25:36 - travis sands
+Okay. Yeah, that's a different use case I would need to think about and talk about with my team offline, but really what I'm trying to get at here is that Venn diagram like I talked about. Most organizations are going to handle both CPCSC and have CMMC requirements, and that's really where Prevail is the best fit for them.
+
+26:02 - orlee berlove
+Right. I would love to be able to say, you know, Prevail has a fully supported Canadian storage system that you should tell your customers, go use Prevail for both.
+
+26:20 - travis sands
+Use Prevail for both.
+
+26:23 - dan martel
+You have your North Star for your meeting next week, Orlee. Just make sure we have a good answer for it. And maybe it is that because we do have access to Canadian servers and just making it more clearly defined like of what that looks like. And maybe that is something where like if we do make it super clear of how we operationalize that to keep that data in Canada. But as Travis said, like he obviously didn't want to just like jump on something without reviewing it and thinking through it thoroughly. But that could be the initial answer for it. And then once they have their version of the FedRAMP equivalent, when like this stuff actually goes into place, then like that's kind of would be like the next iteration that everybody, not just Prevail, will be figuring out how to align with.
+
+27:12 - orlee berlove
+But what a punchline to give our CEO if we said, look, you know, currently, our friends at FirstCall are saying, yeah, we have to store data in Microsoft, because really Prevail doesn't have a solution for storing data in Canada. When we'd like to be able to — yeah.
+
+27:35 - dan martel
+And Travis, I think this is one, I appreciate you giving us all this insight and talking us through, cause this is very complicated. I know that a lot of the clients that we've talked to based in Canada are trying to figure this out in their own inner circles and like are equally confused. So I think just from an educational standpoint, talking through like just the things that we've already talked through on this of like, what is, what are the acronyms? What does it mean? What are timelines? What do we know today? What are we still waiting to figure out? And then like, what are these companies actually doing today? I think that's really, really valuable information that's going to draw a lot of attention.
+
+28:13 - travis sands
+Yeah, yeah, happy to, happy to be of help and happy to hop on future calls and make sure that, you know, to be involved as much as you all want me to be and, you know, would love to be able to tell our Canadian clients also store all their Canadian data in Prevail. But if that's a future iteration, happy to do that. But I'm just talking about this is what, based on everything, as I understand it working today with Prevail and the different storage of that.
+
+28:50 - orlee berlove
+Yeah. I mean, just two more things kind of on this, right? I would think that what companies are doing today is important. I understand a lot of them not being aware of solutions like Prevail or doing it on-prem, which is extremely expensive, not efficient, a pain in the ass. That's kind of like what you want to try and say, hey, there's an easier way. Here's what Travis is recommending to his customers.
+
+29:22 - travis sands
+Yep.
+
+29:25 - orlee berlove
+The one thing that we need to make clear is that there are no assessments today, and that I guess companies are self-assessing, pretty much is my understanding.
+
+29:41 - travis sands
+Yeah, so I've not heard of any requirements or any assessments for CPCSC. Really, most organizations that I talk to — I have not talked to a single organization to this point that only has CPCSC and does not have CMMC. So CMMC is definitely the focus for today and probably for the rest of the year. But I think as CPCSC gets rolled out into next year, organizations are going to need to have a plan for that as well.
+
+30:15 - orlee berlove
+Based on your conversations, Travis, do you have a sense of how big the marketplace is?
+
+30:30 - travis sands
+Right now, I would be throwing a dart to try and get you a good answer on that.
+
+30:39 - orlee berlove
+All right. Fair enough. One last thing. Do we need to talk about controlled goods at all in this? Because really controlled goods is ITAR — is another, in my mind, another subject, but I didn't know if we needed to kind of like say there's this trifecta, you know, if you meet controlled goods and CMMC and CPCSC, like you've met the trifecta. I don't know if these companies you're talking to are also worried about controlled goods requirements.
+
+31:13 - travis sands
+Yeah, I think talking about it in terms of the overall comparison between CMMC and CPCSC is a good idea. I don't know if we necessarily need to dedicate five, ten minutes, or even its own slide on controlled goods.
+
+31:33 - orlee berlove
+Okay, so I'll just put controlled goods as a point.
+
+31:40 - travis sands
+And very sorry about it. Unfortunately, I have to hop to another call here.
+
+31:44 - orlee berlove
+Yeah, that's fine. Travis, we're looking probably to do something in early July. That's kind of when we're looking at this. So let me also go around with dates and — thank you very much, as always. You've been very, very informative and helpful. Appreciate you.
+
+32:03 - travis sands
+Any time.
+
+32:09 - orlee berlove
+Cool. Bye.
+
+32:10 - dan martel
+Dan, you got one second?
+
+32:13 - dan martel
+Yep. I hit leave, but it didn't go through.
+
+32:15 - orlee berlove
+Good, because I knew I had a question for you.
+
+32:18 - dan martel
+Yeah, what's up?
+
+32:21 - orlee berlove
+So you feeling good about this?
+
+32:24 - dan martel
+I think it's very educational. I think that we should have a stance around how to talk about that use case because obviously we don't want to throw this out there and maybe it's just that like we're putting this stuff together and like it's in the form of like content with like — for now and then once we feel like we have it, maybe we do like maybe that Canada like server thing is the work around today. Just we think it is like we just didn't know about it. None of our partners know about it. And like, so I think that's kind of the first step is figuring like, right now, this is the belief and this is the understanding from one of our biggest partners that is helping Canadian contractors do this is that Prevail doesn't need it because of XYZ. If it is, if you have no solution, then yeah, if it — because of the data residency, it's like — if it is, and we also heard from Cyber Care, they said that because of the — they like they need like — oh does Prevail have plans for an on-prem solution or something to store things in Canada is like what Marguerite was kept kind of hitting at again and again. Um so yeah, one — maybe we do have a solution we just haven't like again outlined that so like that's important and like that's like a win because now we can educate the people on how that works today. And if not then it's a conversation for leadership of how serious are we on wanting to be able to capitalize on that market that's going to be going through it. And as Randy and Sanjeev and Prevail were like the early adopters of CMMC and were here kind of before it took off, they're going to want to do the exact same thing. And I bet it'll successfully light the fire to make sure that we have a strong strategy and plan to be able to do that. So I think this all is going to work really well for us as far as what that's going to look like, from a webinar on how to approach it. I think you'll know more after that meeting. Yeah. But no, this is really helpful information. Again, it's super confusing stuff. And this is the type of thought leadership, even if it's just in blog form for now, and then we do a webinar over the summer sometime when we have a better solution. I think there's a lot of value in that. Yeah.
+
+34:49 - orlee berlove
+I don't know this for sure, but my sense is that we would not want Prevail data in Canada stored on Microsoft.
+
+34:57 - dan martel
+Probably not. Yeah, because everything that we talked about is how unsecure Microsoft servers are so.
+
+35:07 - orlee berlove
+Right, as a solution. I mean, I don't know what to say about their servers per se, like if there's any difference between Canada commercial and AWS commercial if they're just pretty much the similar thing, slightly different switches, don't know enough to make that.
+
+35:24 - dan martel
+That's kind of a little bit beyond my — yeah, but I do know that like Microsoft commercial is like, that's the preferred tech stack for operationalizing Prevail as an enclave. It's like you are already using Outlook and like a lot of the other tools, you can use all the other security requirements that come from it.
+
+35:46 - orlee berlove
+Two separate things. There's Microsoft commercial servers and then there's Microsoft.
+
+35:50 - dan martel
+Totally, but I mean, technically like we're already are doing stuff with Microsoft in a capacity, so it might not be as big of a leap as — I know that we have a good business and working relationship from the server side with AWS. It would make sense to. It probably simpler to maintain things on AWS. I'm not suggesting that I think they would go to Microsoft, but I don't think it would be like if that was the only option, they're like, oh, well, I guess we can't do Canada. I don't think that would be the case either.
+
+36:20 - orlee berlove
+Right. Yeah.
+
+36:25 - orlee berlove
+All right. I'm going to go and study my Canadian slides. Yeah, and see what I can incorporate from this conversation into those slides. I think it's important to note, I guess, my key takeaways from the conversation. One, most of the companies doing CPCSC are also doing CMMC. First step is CMMC. That's what's currently. Two, Prevail doesn't have a solution that our partners can tell CPCSC customers that Prevail can meet. Like there's no Prevail solution for Canada, right? There's no Canada. We talked to one of our big partners today and they said they're telling customers go store your data in Microsoft. Yeah, is that really what we want?
+
+37:28 - dan martel
+Yeah.
+
+37:28 - orlee berlove
+We want to be able to control the process and say here there's Prevail for CMMC and there's Prevail for CPCSC and here's all the things we can do.
+
+37:38 - dan martel
+Yep. No, no, I think it's, uh, I think you've stumbled across a really cool business case, um, that I think is going to be a big, a big opportunity for Prevail. That's going to get Randy and Sanjeev excited.
+
+37:52 - orlee berlove
+I hope so.
+
+37:55 - orlee berlove
+I hope so. All right. Me and my cat are going to go back to do some studying. I'll talk to you later.
+
+37:59 - dan martel
+All right.
+
+===================================================================================
+
+END OF TRANSCRIPT
